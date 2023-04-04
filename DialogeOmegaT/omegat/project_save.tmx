@@ -528,7 +528,7 @@
       <tuv lang="pl">
         <seg>Chwila!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T164729Z" creationid="Микола Сонячний" creationdate="20230111T164254Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T164729Z" creationid="Микола Сонячний" creationdate="20230111T164254Z">
         <seg>Стривай!</seg>
       </tuv>
     </tu>
@@ -536,7 +536,7 @@
       <tuv lang="pl">
         <seg>Co jeśli Holdwig się nie ocknie?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T163114Z" creationid="Микола Сонячний" creationdate="20230109T161912Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T163114Z" creationid="Микола Сонячний" creationdate="20230109T161912Z">
         <seg>А якщо Гольдвіґ не отямиться?</seg>
       </tuv>
     </tu>
@@ -618,6 +618,14 @@
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173247Z" creationid="Микола Сонячний" creationdate="20230111T173247Z">
         <seg>Чи я схожий на... Хоча, якщо подумати... якщо грошенят не пошкодуєш, я тебе вчитиму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czyli dorwał cię już Dennis. Wspominał mi, że Holdwig nie czuje się najlepiej, ale moim zdaniem ta historia z otruciem jest wielką przesadą.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gliban" changedate="20230404T194549Z" creationid="Gliban" creationdate="20230404T192555Z">
+        <seg>Отже, Денніс вже говорив з вами. Він сказав мені, що Холдвіг погано себе почуває, але, на мою думку, ця історія з отруєнням - велике перебільшення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,7 +712,7 @@
       <tuv lang="pl">
         <seg>Dennis</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T170353Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T170353Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Денніс</seg>
       </tuv>
     </tu>
@@ -768,7 +776,7 @@
       <tuv lang="pl">
         <seg>Dobrze, już dobrze. I tak musimy się tego paskudztwa pozbyć.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T165541Z" creationid="Микола Сонячний" creationdate="20230111T171852Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T165541Z" creationid="Микола Сонячний" creationdate="20230111T171852Z">
         <seg>Ну гаразд, все. Нам слід позбутися цієї гидоти.</seg>
       </tuv>
     </tu>
@@ -808,7 +816,7 @@
       <tuv lang="pl">
         <seg>Dziękuję, ale wolelibyśmy bardziej materialny dowód wdzięczności.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T163019Z" creationid="Микола Сонячний" creationdate="20230109T154550Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T163019Z" creationid="Микола Сонячний" creationdate="20230109T154550Z">
         <seg>Дякую, та ми віддали б перевагу більш матеріальному знаку подяки.</seg>
       </tuv>
     </tu>
@@ -1224,7 +1232,7 @@
       <tuv lang="pl">
         <seg>Giń! Śmieciu!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T164324Z" creationid="Микола Сонячний" creationdate="20230111T164718Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T164324Z" creationid="Микола Сонячний" creationdate="20230111T164718Z">
         <seg>Здохни, покидьку!</seg>
       </tuv>
     </tu>
@@ -1440,7 +1448,7 @@
       <tuv lang="pl">
         <seg>Hola, hola, nie ma przejścia dalej.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T165032Z" creationid="Микола Сонячний" creationdate="20230111T165241Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T165032Z" creationid="Микола Сонячний" creationdate="20230111T165241Z">
         <seg>Гей-гей, проходу нема.</seg>
       </tuv>
     </tu>
@@ -1456,8 +1464,16 @@
       <tuv lang="pl">
         <seg>Holdwig ma się już lepiej. Medyk mówił, że zwyczajnie zatruł się jakimś paskudztwem. Nie było żadnego otrucia.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T165708Z" creationid="Микола Сонячний" creationdate="20230111T172050Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T165708Z" creationid="Микола Сонячний" creationdate="20230111T172050Z">
         <seg>Гольдвіґові вже краще. Лікар сказав, що він просто отруївся якоюсь гидотою. Ніхто його не труїв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Holdwig podobno został otruty, wiesz coś o tym?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gliban" changedate="20230404T194554Z" creationid="Gliban" creationdate="20230404T192548Z">
+        <seg>Повідомляють, Холдвіг був отруєний, чи знаєте ви щось про це?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,7 +1512,7 @@
       <tuv lang="pl">
         <seg>I dobrze.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T164352Z" creationid="Микола Сонячний" creationdate="20230111T164734Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T164352Z" creationid="Микола Сонячний" creationdate="20230111T164734Z">
         <seg>Ну й добре.</seg>
       </tuv>
     </tu>
@@ -1592,7 +1608,7 @@
       <tuv lang="pl">
         <seg>Jednak martwię się o panicza. Nie wygląda dobrze. Chciałbym mu jakoś pomóc, ale nie wiem jak.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T164442Z" creationid="Микола Сонячний" creationdate="20230111T165042Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T164442Z" creationid="Микола Сонячний" creationdate="20230111T165042Z">
         <seg>Все ж, я хвилююся за панича. Він виглядає недобре. Я б хотів якось допомогти, та не знаю як.</seg>
       </tuv>
     </tu>
@@ -1632,7 +1648,7 @@
       <tuv lang="pl">
         <seg>Jesteś pewien, że to ten człowiek, o którym mówił Gumbert?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T163943Z" creationid="Микола Сонячний" creationdate="20230111T164214Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T163943Z" creationid="Микола Сонячний" creationdate="20230111T164214Z">
         <seg>Ти впевнений, що це той, про кого казав Гумберт?</seg>
       </tuv>
     </tu>
@@ -1816,7 +1832,7 @@
       <tuv lang="pl">
         <seg>Kto mógł próbować otruć Holdwiga?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T164719Z" creationid="Микола Сонячний" creationdate="20230109T172834Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T164719Z" creationid="Микола Сонячний" creationdate="20230109T172834Z">
         <seg>Хто міг спробувати отруїти Гольдвіґа?</seg>
       </tuv>
     </tu>
@@ -2184,7 +2200,7 @@
       <tuv lang="pl">
         <seg>Marvin</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T160928Z" creationid="Gleban" creationdate="20230110T160928Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T160928Z" creationid="Gliban" creationdate="20230110T160928Z">
         <seg>Марвін</seg>
       </tuv>
     </tu>
@@ -2304,7 +2320,7 @@
       <tuv lang="pl">
         <seg>Może miał dostać złoto po śmierci Holdwiga?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T165248Z" creationid="Микола Сонячний" creationdate="20230109T173746Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T165248Z" creationid="Микола Сонячний" creationdate="20230109T173746Z">
         <seg>Можливо, йому мали заплатити лише після смерті Гольдвіґа?</seg>
       </tuv>
     </tu>
@@ -2312,7 +2328,7 @@
       <tuv lang="pl">
         <seg>Może ty mógłbyś się rozejrzeć po farmie, popytać ludzi.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T164129Z" creationid="Микола Сонячний" creationdate="20230109T163437Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T164129Z" creationid="Микола Сонячний" creationdate="20230109T163437Z">
         <seg>Може, ти міг би роздивитися довкола ферми, розпитати людей.</seg>
       </tuv>
     </tu>
@@ -2344,7 +2360,7 @@
       <tuv lang="pl">
         <seg>Myślałem, że znajdę przy nim jakieś dowody, a on nawet złota nie ma? Skoro przyjął zlecenie na zabójstwo, powinien dostać zapłatę.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T165134Z" creationid="Микола Сонячний" creationdate="20230109T173725Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T165134Z" creationid="Микола Сонячний" creationdate="20230109T173725Z">
         <seg>Я гадав, що знайду у нього якісь докази, а він навіть золота при собі не мав? Якщо він взяв замовлення на вбивство, йому повинні були заплатити.</seg>
       </tuv>
     </tu>
@@ -2360,7 +2376,7 @@
       <tuv lang="pl">
         <seg>Mówiłem ci, że to mi zaszkodziło, a ty mnie oskarżasz o pijaństwo...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T165244Z" creationid="Микола Сонячний" creationdate="20230111T171824Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T165244Z" creationid="Микола Сонячний" creationdate="20230111T171824Z">
         <seg>Я ж казав тобі, мені від цього було зле, а ти звинувачуєш мене у пияцтві...</seg>
       </tuv>
     </tu>
@@ -2472,7 +2488,7 @@
       <tuv lang="pl">
         <seg>Nie! Dopóki sprawa się nie wyjaśni i jego życiu nie będzie zagrażać niebezpieczeństwo. Nikt oprócz mnie nie ma do niego dostępu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T164651Z" creationid="Микола Сонячний" creationdate="20230109T172655Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T164651Z" creationid="Микола Сонячний" creationdate="20230109T172655Z">
         <seg>Ні! Допоки справа не проясниться, і його життю ніщо не загрожуватиме, ніхто, окрім мене, до нього не зайде.</seg>
       </tuv>
     </tu>
@@ -2520,7 +2536,7 @@
       <tuv lang="pl">
         <seg>No to go znalazłeś, ale w złym zdrowiu. Leży w komnacie, nikt nie ma tam wstępu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T170418Z" creationid="Микола Сонячний" creationdate="20230109T154202Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T170418Z" creationid="Микола Сонячний" creationdate="20230109T154202Z">
         <seg>Ну, ти його знайшов, але не в найкращому стані. Він лежить у палаті, туди нікого не пускають.</seg>
       </tuv>
     </tu>
@@ -2552,7 +2568,7 @@
       <tuv lang="pl">
         <seg>Odkąd Andreas i Holdwig zaczęli ze sobą współpracować, atmosfera stała się niezwykle przyjemna. Czasami nawet zapominam, że ciągle trwa wojna!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T170326Z" creationid="Микола Сонячний" creationdate="20230111T174222Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T170326Z" creationid="Микола Сонячний" creationdate="20230111T174222Z">
         <seg>Відколи Андреас і Гольдвіґ почали співпрацювати одне з одним, атмосфера тут значно покращилася. Часом я навіть забуваю, що досі триває війна!</seg>
       </tuv>
     </tu>
@@ -2776,7 +2792,7 @@
       <tuv lang="pl">
         <seg>Podobno udał się w stronę drogi przy wodospadzie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230114T100752Z" creationid="Микола Сонячний" creationdate="20230111T172215Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230114T100752Z" creationid="Микола Сонячний" creationdate="20230111T172215Z">
         <seg>Кажуть, він попрямував в бік дороги, що біля водоспаду.</seg>
       </tuv>
     </tu>
@@ -2808,7 +2824,7 @@
       <tuv lang="pl">
         <seg>Pytać o co?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T164225Z" creationid="Микола Сонячний" creationdate="20230109T163447Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T164225Z" creationid="Микола Сонячний" creationdate="20230109T163447Z">
         <seg>Про що саме розпитати?</seg>
       </tuv>
     </tu>
@@ -3184,7 +3200,7 @@
       <tuv lang="pl">
         <seg>Skasuję gnojka!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T165816Z" creationid="Микола Сонячний" creationdate="20230111T172254Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T165816Z" creationid="Микола Сонячний" creationdate="20230111T172254Z">
         <seg>Порішу сволоту!</seg>
       </tuv>
     </tu>
@@ -3216,7 +3232,7 @@
       <tuv lang="pl">
         <seg>Spokojnie! Zaczekaj!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T164743Z" creationid="Микола Сонячний" creationdate="20230111T170827Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T164743Z" creationid="Микола Сонячний" creationdate="20230111T170827Z">
         <seg>Спокійно! Зачекай!</seg>
       </tuv>
     </tu>
@@ -3336,7 +3352,7 @@
       <tuv lang="pl">
         <seg>Tengral</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T160924Z" creationid="Gleban" creationdate="20230110T160924Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T160924Z" creationid="Gliban" creationdate="20230110T160924Z">
         <seg>Тенграл</seg>
       </tuv>
     </tu>
@@ -3416,7 +3432,7 @@
       <tuv lang="pl">
         <seg>To na pewno on! Drań musiał dorzucić coś do jedzenia Holdwiga. Niech ja tylko go dorwę...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T164744Z" creationid="Микола Сонячний" creationdate="20230109T173210Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T164744Z" creationid="Микола Сонячний" creationdate="20230109T173210Z">
         <seg>Це точно він! Негідник, мабуть, підсипав щось до їжі Гольдвіґа. Нехай лишень я його впіймаю...</seg>
       </tuv>
     </tu>
@@ -3480,7 +3496,7 @@
       <tuv lang="pl">
         <seg>Ty jesteś z zewnątrz, ludzie mogą być wokół ciebie mniej ostrożni. Gdybyś się czegoś dowiedział, daj mi znać.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T163502Z" creationid="Микола Сонячний" creationdate="20230109T163820Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T163502Z" creationid="Микола Сонячний" creationdate="20230109T163820Z">
         <seg>Ти нетутешній, тож люди до тебе можуть бути менш пильними. Довідаєшся щось – повідом мене.</seg>
       </tuv>
     </tu>
@@ -3630,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Widziałeś coś podejrzanego w okolicy?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Gliban" changedate="20230404T194522Z" creationid="Gliban" creationdate="20230404T194431Z">
+        <seg>Чи бачили ви щось підозріле в околиці?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Willem</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -3656,7 +3680,7 @@
       <tuv lang="pl">
         <seg>Wypluj te słowa!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T163544Z" creationid="Микола Сонячний" creationdate="20230109T162051Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T163544Z" creationid="Микола Сонячний" creationdate="20230109T162051Z">
         <seg>Сплюнь!</seg>
       </tuv>
     </tu>
@@ -3664,7 +3688,7 @@
       <tuv lang="pl">
         <seg>Wysłaliśmy już chłopaka po medyka do miasta, bo ten cholerny Bodowin nie raczył ruszyć tyłka ze swojej pracowni. Nie pozostało nic innego jak czekać.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230110T163811Z" creationid="Микола Сонячний" creationdate="20230109T163205Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230110T163811Z" creationid="Микола Сонячний" creationdate="20230109T163205Z">
         <seg>Ми вже вирядили хлопця до міста по лікаря, бо той клятий Бодовін не захотів поворушити сракою і вийти зі своєї майстерні. Залишається лише чекати.</seg>
       </tuv>
     </tu>
@@ -3728,7 +3752,7 @@
       <tuv lang="pl">
         <seg>Zdaje się, że nie nauczę cię niczego więcej.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Gleban" changedate="20230112T170108Z" creationid="Микола Сонячний" creationdate="20230111T173723Z">
+      <tuv lang="uk" changeid="Gliban" changedate="20230112T170108Z" creationid="Микола Сонячний" creationdate="20230111T173723Z">
         <seg>Гадаю, мені більше нічого тебе навчити.</seg>
       </tuv>
     </tu>
