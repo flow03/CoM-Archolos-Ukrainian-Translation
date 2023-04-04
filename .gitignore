@@ -4,7 +4,7 @@ DialogeOmegaT/dictionary/
 DialogeOmegaT/omegat/*.tmx
 DialogeOmegaT/omegat/*.bak
 DialogeOmegaT/omegat/*.txt
-# DialogeOmegaT/source/
+DialogeOmegaT/source/
 DialogeOmegaT/target/
 # DialogeOmegaT/tm/
 DialogeOmegaT/tm/auto/
