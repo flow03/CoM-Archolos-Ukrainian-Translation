@@ -13408,8 +13408,8 @@
       <tuv lang="pl">
         <seg>Nie mam nic, co mógłbym dać ci w ramach nagrody, ale może uda ci się znaleźć jakieś ciekawe skarby w tych zatopionych statkach na plaży, chłopcy często tam coś znajdowali.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20230918T183206Z" creationid="Perlyno" creationdate="20230918T091710Z">
-        <seg>Нені нічого дати тобі у нагороду, але, можливо, ти знайдеш якісь цікаві скарби в тих затонулих кораблях на пляжі, хлопці часто щось там знаходили.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230923T090411Z" creationid="Perlyno" creationdate="20230918T091710Z">
+        <seg>Мені нічого дати тобі у нагороду, але, можливо, ти знайдеш якісь цікаві скарби в тих затонулих кораблях на пляжі, хлопці часто щось там знаходили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13496,8 +13496,8 @@
       <tuv lang="pl">
         <seg>Nie mamy żadnych powodów do walki!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20230918T180428Z" creationid="Perlyno" creationdate="20230918T075407Z">
-        <seg>У нас немає жодних причин для бою!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230923T090042Z" creationid="Perlyno" creationdate="20230918T075407Z">
+        <seg>У нас немає жодних причин битися!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19473,7 +19473,7 @@
         <seg>Sprawdzimy dzisiaj jakie tempo utrzymujecie i jak szybko nogi wejdą wam do tyłków.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230922T113429Z" creationid="Glіban" creationdate="20230922T113429Z">
-        <seg>Сьогодні ми перевіримо, який темп ви здатні витримувати, і наскільки добре ваші ноги ростуть з вашої дупи.</seg>
+        <seg>Сьогодні ми перевіримо, який темп ви здатні витримувати, і як швидко ваші ноги діставатимуть до вашої дупи під час бігу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25057,8 +25057,8 @@
       <tuv lang="pl">
         <seg>Zaniosę światło ku ciemności. Sam idę tam, gdzie nikt żyw nie był.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20230921T112825Z" creationid="Perlyno" creationdate="20230918T105614Z">
-        <seg>Я принесу світло в темряву. Я сам йду туди, де ніхто з живих не був.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230923T090343Z" creationid="Perlyno" creationdate="20230918T105614Z">
+        <seg>Я принесу світло в темряву. Я йду туди, де не бував ніхто з живих.</seg>
       </tuv>
     </tu>
     <tu>
