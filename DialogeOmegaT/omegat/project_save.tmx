@@ -576,8 +576,8 @@
       <tuv lang="pl">
         <seg>A no widzisz, jaki ten świat mały!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T200912Z" creationid="Mykytka" creationdate="20230930T184421Z">
-        <seg>Що ж, бачиш, як тісний світ!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T191818Z" creationid="Glіban" creationdate="20230930T191818Z">
+        <seg>Що ж, бачиш, наскільки тісний світ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1528,16 +1528,16 @@
       <tuv lang="pl">
         <seg>Bermar robi, co może, żeby jego majątek się rozwijał, ale daję głowę, że gubernator wkrótce sięgnie i po jego farmę.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T184832Z" creationid="Mykytka" creationdate="20230930T184832Z">
-        <seg>Бермар робить все можливе, щоб його маєток зростав, але я даю голову на відсіч, що незабаром губернатор потягнеться і до його ферми.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T101550Z" creationid="Glіban" creationdate="20230930T192013Z">
+        <seg>Бермар робить все можливе, щоб його маєток зростав, але я даю голову на відсіч, що незабаром губернатор дотягнеться і до його ферми.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Bermar, właściciel tej farmy, wyłożył na niego spory majątek po tym, gdy ostatnie burze zniszczyły starego koźlaka.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T132730Z" creationid="Mykytka" creationdate="20230930T132730Z">
-        <seg>Бермар, власник цієї ферми, вклав у неї значні кошти після того, як нещодавні шторми зруйнували стару вугільну шахту.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T103512Z" creationid="Mykytka" creationdate="20230930T132730Z">
+        <seg>Бермар, власник цієї ферми, вклав у неї значні кошти після того, як нещодавні грози зруйнували старий курник.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,8 +2728,8 @@
       <tuv lang="pl">
         <seg>Ciebie, z kolei, nigdy tu wcześniej nie widziałem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T180453Z" creationid="Mykytka" creationdate="20230930T180453Z">
-        <seg>Тебе, з іншого боку, я ніколи раніше тут не бачив.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T114653Z" creationid="Mykytka" creationdate="20230930T180453Z">
+        <seg>В свою чергу, я ніколи раніше тебе тут не бачив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2952,8 +2952,8 @@
       <tuv lang="pl">
         <seg>Co możesz mi powiedzieć o Bermarze?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T132804Z" creationid="Mykytka" creationdate="20230930T132804Z">
-        <seg>Що можеш розповісти про Бермара?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T185109Z" creationid="Mykytka" creationdate="20230930T132804Z">
+        <seg>Що ти можеш розповісти про Бермара?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2992,8 +2992,8 @@
       <tuv lang="pl">
         <seg>Co prawda Ulryk mówił, że macie trafić do lochów... ale niestety, byliście na tyle nierozsądni, że zaczęliście uciekać...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T201049Z" creationid="Mykytka" creationdate="20230930T130128Z">
-        <seg>Щоправда, Ульрік казав, що ти мав дістатися до підземель... але, нажаль, ти був настільки дурним, що почав тікати...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T184438Z" creationid="Mykytka" creationdate="20230930T130128Z">
+        <seg>Це правда, що Ульрік сказав відправити тебе до підземель... але ти був настільки дурним, що почав тікати...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,8 +3160,8 @@
       <tuv lang="pl">
         <seg>Co tu robisz?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T200605Z" creationid="Mykytka" creationdate="20230930T183317Z">
-        <seg>Чим ти тут займаєшся?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T183434Z" creationid="Glіban" creationdate="20230930T183434Z">
+        <seg>Що ти тут робиш?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,8 +3536,8 @@
       <tuv lang="pl">
         <seg>Czasem coś zaboli i w kościach strzyknie, ale szefowi się nie odmawia. Zwłaszcza, gdy lubisz dźwięk pobrzękujących monet w sakiewce.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T185324Z" creationid="Mykytka" creationdate="20230930T183229Z">
-        <seg>Іноді щось болітиме, а кістки хрустітимуть, але ти не скажеш керівнику "ні". Особливо, якщо тобі подобається звук дзвінких монет у гаманці.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T115030Z" creationid="Glіban" creationdate="20230930T190832Z">
+        <seg>Іноді щось болить і кістки хрустять, але керівнику не відмовляють. Особливо, якщо тобі подобається дзвін монет у гаманці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3808,8 +3808,8 @@
       <tuv lang="pl">
         <seg>Czy to nie ty zszedłeś do kopalni po Jona?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T195529Z" creationid="Mykytka" creationdate="20230928T180809Z">
-        <seg>Хіба це не ти пішов у шахту по Йона?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T115227Z" creationid="Mykytka" creationdate="20230928T180809Z">
+        <seg>Хіба це не ти спускався до шахти по Йона?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6560,8 +6560,8 @@
       <tuv lang="pl">
         <seg>Gdyby nie on, ta farma już dawno byłaby zapadłą dziurą na granicy cywilizacji.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T190058Z" creationid="Mykytka" creationdate="20230930T133455Z">
-        <seg>Якби не він, ця ферма давно перетворилася б на затонулу діру на краю цивілізації.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T113431Z" creationid="Mykytka" creationdate="20230930T133455Z">
+        <seg>Якби не він, ця ферма давно стала б затонулою дірою на дні цивілізації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8089,8 +8089,8 @@
       <tuv lang="pl">
         <seg>Jak idzie praca?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T183054Z" creationid="Mykytka" creationdate="20230930T183019Z">
-        <seg>Як проходить робота?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T190654Z" creationid="Glіban" creationdate="20230930T190633Z">
+        <seg>Як просувається робота?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9457,8 +9457,8 @@
       <tuv lang="pl">
         <seg>Jeśli nie planujesz niczego ukraść, Willem ani Bermar nie powinni mieć problemu, że tu jesteś.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T202752Z" creationid="Mykytka" creationdate="20230930T182939Z">
-        <seg>Якщо ти не плануєте нічого красти, Віллем і Бермар не будуть проти, що ти тут перебуваєш.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T115401Z" creationid="Mykytka" creationdate="20230930T182939Z">
+        <seg>Якщо ти не плануєш нічого красти, ні Віллем, ні Бермар не будуть проти, що ти тут перебуваєш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13025,8 +13025,8 @@
       <tuv lang="pl">
         <seg>Na imię mi Hod. Kiedyś byłem marynarzem, ale teraz, jak sam widzisz, pracuję na tej farmie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T180346Z" creationid="Mykytka" creationdate="20230930T180346Z">
-        <seg>Мене звуть Ход. Колись я був моряком, але тепер, як сам бачиш, працюю на цій фермі. </seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T190536Z" creationid="Mykytka" creationdate="20230930T180346Z">
+        <seg>Мене звуть Ход. Колись я був моряком, але тепер, як сам бачиш, працюю на цій фермі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13441,8 +13441,8 @@
       <tuv lang="pl">
         <seg>Następnym razem wpadnij na dłużej, to może poczęstuję cię kapką grogu!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T195848Z" creationid="Mykytka" creationdate="20230930T180224Z">
-        <seg>Наступного разу, коли ти завітаєш до нас на довше, я можу пригостити тебе крапелькою грогу!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T113841Z" creationid="Mykytka" creationdate="20230930T180224Z">
+        <seg>Наступного разу, коли ти завітаєш до нас на довше, я можу пригостити тебе краплею грогу!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13593,8 +13593,8 @@
       <tuv lang="pl">
         <seg>Nazywam się Joris i prowadzę ten młyn. Prawda, że imponujący?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T185859Z" creationid="Mykytka" creationdate="20230930T131805Z">
-        <seg>Мене звати Йоріс і я керую цим млином. Вражаючий, чи не так?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T101910Z" creationid="Mykytka" creationdate="20230930T131805Z">
+        <seg>Мене звуть Йоріс і я керую цим млином. Вражає, чи не так?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14625,8 +14625,8 @@
       <tuv lang="pl">
         <seg>Nie przewróci go nawet najbardziej porywiste wietrzysko, a wszystko to dzięki solidnej konstrukcji i kamiennej podstawie, na której się obraca.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T132241Z" creationid="Mykytka" creationdate="20230930T132241Z">
-        <seg>Його не здує навіть найпоривчастіший вітер, і все завдяки міцній конструкції та кам'яній основі, на якій він обертається.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T184859Z" creationid="Mykytka" creationdate="20230930T132241Z">
+        <seg>Його не здують навіть сильні пориви вітру, і все завдяки міцній конструкції та кам'яній основі, на якій він обертається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16121,8 +16121,8 @@
       <tuv lang="pl">
         <seg>Nowy na wyspie? Rzadko odwiedzają nas ludzie z zewnątrz.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T200526Z" creationid="Mykytka" creationdate="20230930T181055Z">
-        <seg>Новий на острові? До нас рідко навідуються ззовні.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T112255Z" creationid="Mykytka" creationdate="20230930T181055Z">
+        <seg>Вперше на острові? До нас рідко навідуються люди ззовні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20417,8 +20417,8 @@
       <tuv lang="pl">
         <seg>Spieszy? Gdzie się człowiek spieszy, tam się Beliar cieszy!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T185135Z" creationid="Mykytka" creationdate="20230930T180152Z">
-        <seg>Поспішаєш? Де людина поспішає, там радіє Беліар.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T185650Z" creationid="Mykytka" creationdate="20230930T180152Z">
+        <seg>Поспішаєш? Там де людина поспішає, там Беліар радіє!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20985,8 +20985,8 @@
       <tuv lang="pl">
         <seg>Szorowałem pokład u jednego kupca z Myrtany, ale nie trwało to długo, bo po tygodniu podróży facet osiadł na Archolos. Z tego, co wiem, jest teraz jakąś grubą szychą w Araxos.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T184116Z" creationid="Mykytka" creationdate="20230930T184116Z">
-        <seg>Я мив палубу у одного купця з Міртани, але це тривало недовго, бо після тижня мандрів хлопець оселився на Архолосі. Наскільки я знаю, зараз він якась велика шишка в Араксосі.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T105112Z" creationid="Glіban" creationdate="20230930T191609Z">
+        <seg>Я драїв палубу у одного купця з Міртани, але це тривало недовго, бо через тиждень мандрів хлопець оселився на Архолосі. Наскільки я знаю, зараз він якась велика шишка в Араксос.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21113,8 +21113,8 @@
       <tuv lang="pl">
         <seg>Słowem, robię wszystko, to, czym w danym momencie trzeba się zająć.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T200644Z" creationid="Mykytka" creationdate="20230930T183609Z">
-        <seg>Одним словом, я роблю все, що потрібно на момент.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T191231Z" creationid="Glіban" creationdate="20230930T191231Z">
+        <seg>Одним словом, я роблю все, що потрібно зробити в даний момент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22545,8 +22545,8 @@
       <tuv lang="pl">
         <seg>To przez ciebie Jon nie żyje. Zamordowałeś go tam z zimną krwią.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T195535Z" creationid="Mykytka" creationdate="20230930T125325Z">
-        <seg>Саме через тебе Йон загинув. Його хладнокровно вбили.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T102944Z" creationid="Mykytka" creationdate="20230930T125325Z">
+        <seg>Саме через тебе Йон загинув. Ти холоднокровно вбив його там.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24689,8 +24689,8 @@
       <tuv lang="pl">
         <seg>Widzę, że też należysz do Gildii. Może go znasz? O ile mnie pamięć nie myli, nazywał się Lorenzo.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T185714Z" creationid="Mykytka" creationdate="20230930T184211Z">
-        <seg>Бачу, ти теж належиш до Гільдії. Можливо, ти знаєш його. Якщо мені не зраджує пам'ять, його звали Лоренцо.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T114147Z" creationid="Glіban" creationdate="20230930T191649Z">
+        <seg>Бачу, ти теж належиш до Гільдії. Можливо, ти його знаєш? Якщо мені не зраджує пам'ять, його звали Лоренцо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25810,8 +25810,8 @@
       <tuv lang="pl">
         <seg>Wyszedł spod rąk najzdolniejszych cieśli Archolos, którzy wykonali go według nowego schematu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T132150Z" creationid="Mykytka" creationdate="20230930T132150Z">
-        <seg>Він вийшов з рук найталановитіших теслярів Архолоса, які виготовили його за новою схемою.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20230930T184736Z" creationid="Mykytka" creationdate="20230930T132150Z">
+        <seg>Він вийшов з рук найталановитіших теслярів Архолосу, які виготовили його за новою схемою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26562,8 +26562,8 @@
       <tuv lang="pl">
         <seg>Zanoszę skrzynie, rąbię drzewo, ścinam zboże. Czasem jakaś klepka od beczki pójdzie, to ją naprawię.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T200640Z" creationid="Mykytka" creationdate="20230930T183548Z">
-        <seg>Ношу ящики, рубаю дрова, кошу жито. Буває, що кілок від бочки відлетить, то я його полагоджу.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T114243Z" creationid="Glіban" creationdate="20230930T191118Z">
+        <seg>Ношу ящики, рубаю дрова, кошу жито. Буває, що кілок від бочки відлетить, то я її полагоджу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27426,8 +27426,8 @@
       <tuv lang="pl">
         <seg>Żarna mielą, jak należy, a ziemia wydaje plony.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20230930T190720Z" creationid="Mykytka" creationdate="20230930T132947Z">
-        <seg>Плуги мелють як треба і земля дає врожай.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231001T103950Z" creationid="Mykytka" creationdate="20230930T132947Z">
+        <seg>Плуги орють, як слід, і земля дає врожай.</seg>
       </tuv>
     </tu>
     <tu>
