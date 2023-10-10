@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>A gdzie ja mam to znaleźć?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T085409Z" creationid="Bohdana" creationdate="20231010T085409Z">
+        <seg>І де мені це знайти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>A gdzie ty niby chcesz iść? Znasz w ogóle tę okolicę? Bo ja nie i nie mam zamiaru kończyć w brzuchu jakiejś leśnej bestii.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T072615Z" creationid="fiercepretzel" creationdate="20230521T072615Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230930T152622Z" creationid="Perlyno" creationdate="20230930T152622Z">
         <seg>А якщо хочеш, то можемо поторгуватися! Швидше вирішуй!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A kto ci dał prawo głosu? Powinienem był udusić cię jeszcze na tym przeklętym statku. To przez ciebie i twojego przemądrzałego brata wylądowaliśmy w morzu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051359Z" creationid="Bohdana" creationdate="20231009T051359Z">
+        <seg>А хто тобі дав право говорити? Я мав задушити тебе ще на тому проклятому кораблі. Це через тебе і твого пихатого брата ми опинилися в морі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ale pod topór trafił inny niewinny. Handlujesz życiem za życie. Brzydzę się takimi jak ty równie mocno, co tymi bogaczami.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T110533Z" creationid="Bohdana" creationdate="20231010T110533Z">
+        <seg>Але ще один невинний пішов під ніж. Ти розмінюєш життя на життя. Я ненавиджу таких, як ти, так само, як і багатих.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ale potem musisz iść z nami, rozumiesz?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T042143Z" creationid="fiercepretzel" creationdate="20230711T042143Z">
@@ -1614,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Bawcie się dobrze. Mam swoje długi do odebrania.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051624Z" creationid="Bohdana" creationdate="20231009T051624Z">
+        <seg>Веселитися. Мені ж треба забрпи борги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Bałaś się, że spróbuję się zemścić, gdy dowiem się, że brałaś udział w porwaniu mojego brata.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231001T060210Z" creationid="Bohdana" creationdate="20231001T060210Z">
@@ -1754,6 +1786,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T030517Z" creationid="fiercepretzel" creationdate="20230711T030517Z">
         <seg>Без цього варива мій друг може не вижити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Bełt utknął w biodrze. Nie możemy go wyciągnąć ani zatamować krwawienia.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084841Z" creationid="Bohdana" creationdate="20231010T084841Z">
+        <seg>Болт застряг у стегні. Ми не можемо його витягти і зупинити кровотечу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ból może być jednak nie do zniesienia, będę potrzebował dla niego jeszcze mikstury siły i zestawu opatrunków.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T085247Z" creationid="Bohdana" creationdate="20231010T085247Z">
+        <seg>Біль може бути нестерпним, мені знадобиться зілля сили і набір бинтів для нього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Będziemy musieli do nich wrócić, gdy już pomożemy Roderichowi. Ruszajmy do Starego Miasta.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230926T172059Z" creationid="Bohdana" creationdate="20230926T172059Z">
@@ -2110,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Caramonie, byłeś wspaniałym towarzyszem...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093428Z" creationid="Bohdana" creationdate="20231009T093339Z">
+        <seg>Карамоне, ти був чудовим товаришем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Carden</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -2122,6 +2178,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Каспар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Cała reszta jest drugorzędna.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T092322Z" creationid="Bohdana" creationdate="20231009T092322Z">
+        <seg>Все інше - другорядне.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Cholera, Lorenzo! Szybko, chodź za mną!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T090056Z" creationid="Bohdana" creationdate="20231009T090056Z">
+        <seg>Чорт забирай, Лоренцо! Швидше за мною!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Cholera, a taką miałem ochotę na wino. Skoro już tu jesteśmy, to może odwiedzimy chatę Kurta.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T040720Z" creationid="fiercepretzel" creationdate="20230409T040720Z">
@@ -2626,6 +2698,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230929T191408Z" creationid="Bohdana" creationdate="20230929T191408Z">
         <seg>Дідько, що тут сталося? Вони навіть магів вбили?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Cholera, daj mi spokój!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T045202Z" creationid="Bohdana" creationdate="20231009T045202Z">
+        <seg>Чорт, дай мені спокій!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Cholera, spadam stąd!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T045114Z" creationid="Bohdana" creationdate="20231009T045114Z">
+        <seg>Чорт, я забираюся геть!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Cholera, zajęty teraz jestem, muszę pilnować kuchni i wydawać jedzenie pracownikom.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T043642Z" creationid="fiercepretzel" creationdate="20230714T043642Z">
@@ -2734,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Cholera... Pieprzony Bradlock... Nie powinienem był go spuszczać z oczu choćby na moment...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T090415Z" creationid="Bohdana" creationdate="20231009T090415Z">
+        <seg>Чорт... Клятий Бредлок... Я не повинен був випускати його з поля зору ні на мить...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Cholera... Zupełnie o tym zapomniałem. Nieważne, wytnę na nie miejsce później, gdy już reszta będzie gotowa.</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231002T093320Z" creationid="Mykytka" creationdate="20231002T093320Z">
@@ -2754,6 +2850,30 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T013828Z" creationid="fiercepretzel" creationdate="20230711T013828Z">
         <seg>Дідько... так собі думаю, не треба було залишати їх там, у печері.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Cholerni zdrajcy! Już my im pokażemy, co znaczy być prawdziwym obywatelem Archolos!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T083858Z" creationid="Bohdana" creationdate="20231010T083858Z">
+        <seg>Кляті зрадники! Ми ще покажемо їм, що означає бути справжнім громадянином Архолоса!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Choć jestem już stary i walczyć nie potrafię, to z uśmiechem na ustach oddam życie za mojego Pana!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T102408Z" creationid="Bohdana" creationdate="20231010T102408Z">
+        <seg>Хоча я старий і не можу воювати, я віддам своє життя за свого Пана з посмішкою на вустах!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Choć raz się nie wtrącaj, a unikniemy rozlewu krwi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T110551Z" creationid="Bohdana" creationdate="20231010T110551Z">
+        <seg>Хоч раз не лізьте не в своє діло, і кровопролиття вдасться уникнути.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,6 +3094,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Chyba obije wam te parszywe mordy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T100128Z" creationid="Bohdana" creationdate="20231009T100128Z">
+        <seg>Думаю, я зараз наб'ю вам пики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Chyba obiję wam te parszywe mordy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T095742Z" creationid="Bohdana" creationdate="20231009T095742Z">
+        <seg>Думаю, я зараз наб'ю вам пики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Chyba postradałeś zmysły, że o własnym kapitanie będę mówił pod pokładem! Życie mi jeszcze miłe!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T043817Z" creationid="fiercepretzel" creationdate="20230711T043817Z">
@@ -2994,6 +3130,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T124647Z" creationid="fiercepretzel" creationdate="20230714T124647Z">
         <seg>Я думаю, що в нього вселився сам Бєліар!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Chyba się z tego nie wyliżę...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T092906Z" creationid="Bohdana" creationdate="20231009T092906Z">
+        <seg>Я не думаю, що у мене вийде вибратися з цього...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,6 +3218,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230925T152030Z" creationid="Bohdana" creationdate="20230925T152030Z">
         <seg>Хлопці, схопіть його!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Chłopcy, zbieramy się. Niech sami walczą o te zgliszcza.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T111354Z" creationid="Bohdana" creationdate="20231010T111354Z">
+        <seg>Хлопці, ходімо. Нехай самі борються за ці руїни.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3210,6 +3362,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T043219Z" creationid="fiercepretzel" creationdate="20230711T043219Z">
         <seg>Я радий, що твій план спрацював. Завдяки тобі, я можу не турбуватися про гроші, принаймні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Cieszę się, że wróciłeś cały i zdrowy. Z tym wszystkim może uda mi się jakoś mu pomóc.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T093341Z" creationid="Bohdana" creationdate="20231010T093341Z">
+        <seg>Я радий, що ти повернувся цілим і неушкодженим. З усім цим я, можливо, зможу йому якось допомогти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4422,6 +4582,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Czy ze swoimi ludźmi był Lichwiarz?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T085519Z" creationid="Bohdana" creationdate="20231009T085519Z">
+        <seg>Чи був Лихвар зі своїми людьми?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Czyli dorwał cię już Dennis. Wspominał mi, że Holdwig nie czuje się najlepiej, ale moim zdaniem ta historia z otruciem jest wielką przesadą.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230712T125136Z" creationid="Gliban" creationdate="20230404T192555Z">
@@ -4498,6 +4666,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T021900Z" creationid="fiercepretzel" creationdate="20230407T021900Z">
         <seg>Чисто теоретично, навіть гоблін може володіти Магією. Це не щось, що приходить саме по собі. Потрібні відповідні знання та зосередження, щоб накласти навіть найслабше заклинання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czyń swoją powinność. W przeciwieństwie do ciebie umrę z godnością.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T102700Z" creationid="Bohdana" creationdate="20231010T102700Z">
+        <seg>Виконай свій обов'язок. На відміну від тебе, я помру з гідністю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4726,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Daj im popalić w moim imieniu...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093318Z" creationid="Bohdana" creationdate="20231009T093318Z">
+        <seg>Нехай горять від мого імені...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Daj im się podłożyć. W innym wypadku jakoś się z tego wybronią. Zaufaj mi.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T160108Z" creationid="fiercepretzel" creationdate="20230714T160108Z">
@@ -4786,6 +4970,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T015434Z" creationid="fiercepretzel" creationdate="20230711T015434Z">
         <seg>Дай знати, коли будеш готовий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dajcie mi ich więcej!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T100219Z" creationid="Bohdana" creationdate="20231009T100219Z">
+        <seg>Дай мені ще!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5350,6 +5542,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Do siedziby też nie dotarł jeszcze żaden z gońców, a to nie może znaczyć nic dobrego.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T085013Z" creationid="Bohdana" creationdate="20231009T085013Z">
+        <seg>Ніхто з гінців ще не прибув до штабу, і це не може означати нічого доброго.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Do stworzenia eliksiru potrzeba pewnej ręki i miarowego dodawania składników. Moje ręce wciąż drżą z powodu tych wszystkich ran...</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T030417Z" creationid="fiercepretzel" creationdate="20230711T030417Z">
@@ -5598,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dobra, znikajcie stąd.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T100034Z" creationid="Bohdana" creationdate="20231009T100034Z">
+        <seg>Гаразд, забирайся звідси.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dobra. Patrz, jak to się robi.</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231002T123050Z" creationid="Mykytka" creationdate="20231002T123050Z">
@@ -5682,6 +5890,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T051559Z" creationid="fiercepretzel" creationdate="20230409T051559Z">
         <seg>Приємно це чути. Я боявся, що ти не впораєшся сам, навіть думав повернутися до тебе...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dobrze wiesz, że nie są niewinni. Beliar zesłał na nich los, na jaki sobie zasłużyli.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051920Z" creationid="Bohdana" creationdate="20231009T051920Z">
+        <seg>Ти добре знаєш, що вони не безневинні. Беліар послав їм долю, на яку вони заслуговують.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5898,6 +6114,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230408T125205Z" creationid="fiercepretzel" creationdate="20230408T125205Z">
         <seg>Добре, що ти прийшов... Памятай, що ми тут лише гості. Поводься добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dobrze, że się tu pojawiłeś! Te dranie wzięły nas z zaskoczenia.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T082000Z" creationid="Bohdana" creationdate="20231009T082000Z">
+        <seg>Добре, що ти тут з'явився! Ці виродки застали нас зненацька.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6294,6 +6518,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dotarliśmy do miasta, wszystko płonie i kogo spotykamy? Znowu Ty!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T045915Z" creationid="Bohdana" creationdate="20231009T045627Z">
+        <seg>Ми дійшли до міста, а там - все горить, і кого ми зустрічаємо? Знову тебе!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dowiedziałem się, czego chciałem.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230728T084126Z" creationid="fiercepretzel" creationdate="20230728T084126Z">
@@ -6434,6 +6666,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230929T184535Z" creationid="Bohdana" creationdate="20230929T184535Z">
         <seg>Дякую, Марвіне, ми б самі не мали жодного шансу....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dzięki mnie wyszedłeś z więzienia.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T110328Z" creationid="Bohdana" creationdate="20231010T110328Z">
+        <seg>Завдяки мені ти вийшов з в'язниці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6634,6 +6874,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T123041Z" creationid="fiercepretzel" creationdate="20230714T123041Z">
         <seg>Дякую. Якби не твоя допомога, виноградник би загинув.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dziękuję za pomoc! Nawet nie chcę myśleć, co ci dranie by mi zrobili gdyby nie ty!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093850Z" creationid="Bohdana" creationdate="20231009T093850Z">
+        <seg>Дякую за допомогу! Я навіть не хочу думати, що ці виродки зробили б зі мною, якби не ти!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7286,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Gadaj, gdzie on jest, a nic ci się nie stanie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100358Z" creationid="Bohdana" creationdate="20231010T100358Z">
+        <seg>Розкажи, де він, і з тобою нічого не станеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gadanie!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T083453Z" creationid="fiercepretzel" creationdate="20230521T083453Z">
@@ -7670,6 +7926,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Gdzie się podziała Esti?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051128Z" creationid="Bohdana" creationdate="20231009T051128Z">
+        <seg>Куди поділася Есті?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gdzie się podziewałaś przez cały ten czas?</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231001T065736Z" creationid="Bohdana" creationdate="20231001T065736Z">
@@ -7698,6 +7962,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230928T140507Z" creationid="Perlyno" creationdate="20230928T140507Z">
         <seg>Де ти бачив того орка?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Gdzie ty się podziewałeś? Te dranie wzięły nas z zaskoczenia i wymordowali połowę naszych w ciągu kilku chwil.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T081849Z" creationid="Bohdana" creationdate="20231009T081849Z">
+        <seg>Де ти був? Ці виродки застали нас зненацька і перебили половину за лічені хвилини.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8591,6 +8863,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>I tak go nie powstrzymasz, nie łudź się. Odejdź, póki jeszcze możesz.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T102446Z" creationid="Bohdana" creationdate="20231010T102446Z">
+        <seg>Ти все одно не зможеш його зупинити, не обманюй себе. Йди, поки ще можеш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>I tak tego nie zrozumiesz. Odejdź i nie przeszkadzaj w świętym rytuale!</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230925T162713Z" creationid="Bohdana" creationdate="20230925T162713Z">
@@ -9183,6 +9463,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jak ostatni tchórz zakradł się i zamordował bezbronnego człowieka.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T090555Z" creationid="Bohdana" creationdate="20231009T090555Z">
+        <seg>Як останній боягуз, він підкрався і вбив беззахисну людину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jak się czujesz po dniu pełnym przygód?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T054549Z" creationid="fiercepretzel" creationdate="20230409T054520Z">
@@ -9323,6 +9611,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230928T174513Z" creationid="Bohdana" creationdate="20230928T111135Z">
         <seg>Як бачите, навіть самі маги монастиря не впевнені в цьому... Втім, зараз не можна гаяти часу, в цю мить йде битва за долю всього Архолосу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jak wygląda sytuacja w pozostałych częściach miasta?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T092348Z" creationid="Bohdana" creationdate="20231009T092348Z">
+        <seg>Яка ситуація в інших частинах міста?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9767,6 +10063,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jest i kat niewinnych. Którego biedaka chcesz tym razem skazać na śmierć?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T110025Z" creationid="Bohdana" creationdate="20231010T110025Z">
+        <seg>Ти кат невинних. Кого з нещасних ти хочеш засудити до смерті цього разу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jest jakaś różnica?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T042321Z" creationid="fiercepretzel" creationdate="20230714T042321Z">
@@ -9899,6 +10203,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T055408Z" creationid="fiercepretzel" creationdate="20230409T055408Z">
         <seg>Я впевнений, що ми повернемося туди одного дня, питання в тому, чи буде до чого повертатися?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jestem pewny, że zrobiłeś wszystko, co było trzeba, by zdobyć te rzeczy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T093852Z" creationid="Bohdana" creationdate="20231010T093852Z">
+        <seg>Я впевнений, що ти зробив все необхідне, щоб отримати ці речі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10067,6 +10379,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T014036Z" creationid="fiercepretzel" creationdate="20230711T014036Z">
         <seg>Ти готовий?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jesteś jednym ze sługusów Lichwiarza, nie zasługujesz na nic innego, niż śmierć.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T102533Z" creationid="Bohdana" creationdate="20231010T102533Z">
+        <seg>Ти один з посіпак Лихваря, ти не заслуговуєш нічого, крім смерті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10399,6 +10719,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jeszcze raz ci dziękuję! Weź proszę chociaż te kilka zwojów w ramach nagrody.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T094102Z" creationid="Bohdana" creationdate="20231009T094102Z">
+        <seg>Ще раз дякую! Будь ласка, візьміть хоча б ці кілька сувоїв як винагороду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jeszcze raz ci dziękuję. Proszę, przyjmij to złoto jako dowód mojej wdzięczności.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T123113Z" creationid="fiercepretzel" creationdate="20230714T123113Z">
@@ -10571,6 +10899,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T013958Z" creationid="fiercepretzel" creationdate="20230711T013958Z">
         <seg>Якщо з ними щось трапилось...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jeśli go dopadniesz, to dopilnuj, by zdychał powoli i boleśnie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T091209Z" creationid="Bohdana" creationdate="20231009T091209Z">
+        <seg>Якщо ти його спіймаєш, переконайся, що він помре повільною і болісною смертю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11007,6 +11343,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Już nas tu nie ma!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T100104Z" creationid="Bohdana" creationdate="20231009T100104Z">
+        <seg>Нас тут більше немає!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Już nie mogę się doczekać, by spróbować naszego nowego wina! Może w końcu tchniemy trochę świeżego smaku w tą tradycyjną winnicę.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T044352Z" creationid="fiercepretzel" creationdate="20230714T044352Z">
@@ -11431,6 +11775,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Kogo moje oczy widzą... to nasz miejski prowokator...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T083407Z" creationid="Bohdana" creationdate="20231010T083407Z">
+        <seg>Кого бачать мої очі... це наш міський провокатор...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Kogo? Kurta?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T070421Z" creationid="fiercepretzel" creationdate="20230409T070421Z">
@@ -11667,6 +12019,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T042030Z" creationid="fiercepretzel" creationdate="20230714T042030Z">
         <seg>Хтось, напевно, з нею возився.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ktoś nie w humorze. Może spędzisz chwilę z nami i dziewczynami. Rozerwiesz się trochę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T050412Z" creationid="Bohdana" creationdate="20231009T050412Z">
+        <seg>Хтось не в гуморі. Чому б тобі не приєднатися до нас з дівчатами на хвилинку. Повеселишся трохи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11975,6 +12335,30 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Lichwiarz odpowiada za śmierć dziesiątek ludzi, a ty chcesz go jeszcze bronić?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T101137Z" creationid="Bohdana" creationdate="20231010T101123Z">
+        <seg>Лихвар відповідальний за смерть десятків людей, ти все ще хочеш його захищати?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lichwiarz odpowiada za śmierć dziesiątek ludzi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T104752Z" creationid="Bohdana" creationdate="20231010T104417Z">
+        <seg>Лихвар відповідальний за загибель десятків людей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lichwiarz zabił mojego brata, zapłaci mi za to.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100500Z" creationid="Bohdana" creationdate="20231010T100500Z">
+        <seg>Лихвар вбив мого брата, він мені за це заплатить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Liczyłem, że jeśli Runar odkryje bezużyteczność relikwii, której tak pożądał, to w końcu przestanie sprawiać problemy.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230412T164357Z" creationid="fiercepretzel" creationdate="20230407T033041Z">
@@ -12059,6 +12443,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231005T091209Z" creationid="Bohdana" creationdate="20231005T091209Z">
         <seg>Лоренцо сам виніс собі смертний вирок. Йому зробили пропозицію, від якої він не повинен був відмовлятися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lorenzo zostanie pomszczony, razem ze wszystkimi ofiarami tego szaleńca, już ja o to zadbam.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T091026Z" creationid="Bohdana" creationdate="20231009T091026Z">
+        <seg>За Лоренцо та усіх жертв цього божевільного, буде відомщено, про це я вже подбаю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12163,6 +12555,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230930T064617Z" creationid="Bohdana" creationdate="20230930T064617Z">
         <seg>Ситуація не з найкращих, люди Лихваря та Ульріка лютують і вбивають городян по всьому місту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ludzie Lichwiarza współpracują z Wilczymi Synami?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T082218Z" creationid="Bohdana" creationdate="20231009T082218Z">
+        <seg>Люди Лихваря співпрацюють з Вовчими Синами?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12395,6 +12795,14 @@
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231002T123139Z" creationid="Mykytka" creationdate="20231002T123139Z">
         <seg>Ти мені набрид. Розбирайся з цим сам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mam cię!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T045134Z" creationid="Bohdana" creationdate="20231009T045134Z">
+        <seg>Попався!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12719,6 +13127,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mam z ludźmi Lichwiarza pewne niedokończone interesy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T094424Z" creationid="Bohdana" creationdate="20231009T094424Z">
+        <seg>У мене є незавершена справа з людьми Лихваря.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mam złe wieści.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T034247Z" creationid="fiercepretzel" creationdate="20230407T034247Z">
@@ -12811,6 +13227,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230925T152356Z" creationid="Bohdana" creationdate="20230925T152356Z">
         <seg>Марвін, чи не так?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Marvin, prawda? Chyba już mieliśmy okazję się poznać...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084023Z" creationid="Bohdana" creationdate="20231010T084023Z">
+        <seg>Марвіне, вірно? Гадаю, ми вже мали нагоду познайомитися ближче...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13039,6 +13463,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Masz rację, muszę zebrać wszystkich ludzi. Może ktoś jeszcze potrzebuje pomocy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T091659Z" creationid="Bohdana" creationdate="20231009T091659Z">
+        <seg>Ти маєш рацію, мені потрібно зібрати всіх людей. Може, комусь ще потрібна допомога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Masz rację, nie możemy zostawić ich na pastwę Wilczych Synów.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230928T175015Z" creationid="Bohdana" creationdate="20230928T112453Z">
@@ -13203,6 +13635,30 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Мія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Miasto jest pogrążone w bitwie, a ty okradasz niewinnych ludzi?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051833Z" creationid="Bohdana" creationdate="20231009T051833Z">
+        <seg>Місто охоплене битвою, а ви грабуєте невинних людей?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Miasto płonie, ludzie giną, ale my mamy swoje rozkazy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T092256Z" creationid="Bohdana" creationdate="20231009T092256Z">
+        <seg>Місто горить, люди гинуть, але у нас є наказ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Miasto płonie, ludzie giną, ale przetrwanie Gildii to najwyższy priorytet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T092042Z" creationid="Bohdana" creationdate="20231009T092042Z">
+        <seg>Місто горить, люди гинуть, але виживання Гільдії є головним пріоритетом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13451,6 +13907,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230919T175904Z" creationid="Perlyno" creationdate="20230919T175904Z">
         <seg>Я можу тобі якось допомогти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mogę cię prosić na chwilę?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084055Z" creationid="Bohdana" creationdate="20231010T084055Z">
+        <seg>Можна тебе на хвилинку?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14079,6 +14543,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Możesz mnie nawet zabić, nie powiem ani słowa przeciwko mojemu Panu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100443Z" creationid="Bohdana" creationdate="20231010T100443Z">
+        <seg>Можеш навіть убити мене, я не скажу жодного слова проти мого Пана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Możesz mnie uzdrowić?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T182209Z" creationid="fiercepretzel" creationdate="20230714T182209Z">
@@ -14415,6 +14887,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Muszę zasklepić ranę, najlepiej będzie czymś bardzo gorącym... może rozgrzany do czerwoności pręt?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T085115Z" creationid="Bohdana" creationdate="20231010T085115Z">
+        <seg>Мені потрібно припекти рану, бажано чимось дуже гарячим... Може розпеченим прутом?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Muszę... muszę...</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T042428Z" creationid="fiercepretzel" creationdate="20230714T042428Z">
@@ -14423,10 +14903,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>My i tak całkiem sporo już znaleźliśmy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T052535Z" creationid="Bohdana" creationdate="20231009T052535Z">
+        <seg>У будь-якому випадку, ми вже знайшли чимало.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>My tu dyskutujemy, a Lichwiarz ucieka.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230928T164435Z" creationid="Glіban" creationdate="20230928T164435Z">
         <seg>Поки ми тут балакаємо, Лихвар тікає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>My tylko odbieramy to, co należy się nam.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051937Z" creationid="Bohdana" creationdate="20231009T051937Z">
+        <seg>Ми лише забираємо те, що нам належить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14563,6 +15059,22 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T160638Z" creationid="fiercepretzel" creationdate="20230714T160638Z">
         <seg>Як ти думаєш, Архолос тепер буде в безпеці?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Myślisz, że ty i twoi koledzy jesteście jakimkolwiek zagrożeniem?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T111652Z" creationid="Bohdana" creationdate="20231010T111652Z">
+        <seg>Ти думаєш, що ти і твої товариші становите якусь загрозу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Myślisz, że ty i twoi koledzy jesteście jakimkolwiek zagrożeniem? Zostaw tych ludzi i się stąd wynoś, nie ma tu miejsca dla takich jak ty.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T111703Z" creationid="Bohdana" creationdate="20231010T111259Z">
+        <seg>Ти думаєш, що ти і твої товариші становите якусь загрозу? Залиште цих людей і забирайтеся геть звідси, тут немає місця для таких, як ви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15072,6 +15584,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Na to wygląda, chłopcze. Nie mam pojęcia, jak w ogóle udało im się dostać do miasta!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T082313Z" creationid="Bohdana" creationdate="20231009T082313Z">
+        <seg>Схоже на те, хлопче. Гадки не маю, як вони взагалі пробралися в місто!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Na twoim trupie wyglądałaby znacznie gorzej.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T034025Z" creationid="fiercepretzel" creationdate="20230711T034025Z">
@@ -15368,6 +15888,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Naprawdę, wolałbym porozmawiać o tym kilka kroków dalej.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084350Z" creationid="Bohdana" creationdate="20231010T084350Z">
+        <seg>Щоправда, я хотів би поговорити про це пізніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nas też dopadną! Wszyscy zginiemy!</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231002T092600Z" creationid="Mykytka" creationdate="20231002T092600Z">
@@ -15484,6 +16012,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T053655Z" creationid="fiercepretzel" creationdate="20230407T053655Z">
         <seg>Навчиш мене чогось з магії?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nawet jeśli jest z tym wszystkim w jakiś sposób powiązany, to musiał mieć do tego powody! W całym mieście nie ma nikogo tak rozsądnego, jak on.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100852Z" creationid="Bohdana" creationdate="20231010T100852Z">
+        <seg>Навіть якщо він якось пов'язаний з усім цим, у нього повинні були бути на це причини! У всьому місті немає більш розсудливішої людини, ніж він.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15944,6 +16480,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie chcę zrobić wam krzywdy!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T105523Z" creationid="Bohdana" creationdate="20231010T105523Z">
+        <seg>Я не хочу заподіяти тобі шкоди!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie chwaląc się, potrafię przyłożyć, a kiedyś ćwiczyłem walkę długą bronią, i coś pewnie jeszcze pamiętam.</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T173525Z" creationid="Микола Сонячний" creationdate="20230111T173525Z">
@@ -15956,6 +16500,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T044919Z" creationid="fiercepretzel" creationdate="20230714T044919Z">
         <seg>Хлопче, я тобі вдячний. Без твоєї допомоги я б, напевно, відмовився від цієї ідеї, і так, у нас буде ще одне чудове вино на Архолосі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie czas teraz na żałobę, miasto płonie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T091337Z" creationid="Bohdana" creationdate="20231009T091337Z">
+        <seg>Зараз не час для скорботи, місто у вогні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16072,6 +16624,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie jestem cyrulikiem ani alchemikiem, ale za młodu miałem okazję pomagać jednemu magowi w leczeniu rannych.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084631Z" creationid="Bohdana" creationdate="20231010T084631Z">
+        <seg>Я не цирульник і не алхімік, але в юності мав нагоду допомагати одному магу лікувати поранених.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie jestem najlepszy w niezobowiązujących rozmowach.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T180943Z" creationid="fiercepretzel" creationdate="20230714T180943Z">
@@ -16160,10 +16720,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie ma go tutaj. Choćbyś próbował mnie zabić, to nic ze mnie nie wyciągniesz!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100336Z" creationid="Bohdana" creationdate="20231010T100336Z">
+        <seg>Його тут немає. Навіть якщо ти спробуєш мене вбити, ти нічого від мене не доб'єшся!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie ma innego sposobu.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T042119Z" creationid="fiercepretzel" creationdate="20230714T042119Z">
         <seg>Іншого шляху немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie ma jej, przepadła, to nieistotne. Ważne, że są tu te piękności.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051306Z" creationid="Bohdana" creationdate="20231009T051306Z">
+        <seg>Її немає, вона зникла, це не має значення. Важливо, що тут є ці красуні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16328,6 +16904,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie mam pojęcia. Ledwo usłyszeliśmy pierwsze odgłosy walki od strony bramy, a już wokół nas byli ludzie Lichwiarza.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T084100Z" creationid="Bohdana" creationdate="20231009T083615Z">
+        <seg>Поняття не маю. Ледве ми почули перші звуки бою з боку брами, як нас оточили люди Лихваря.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie mam pojęcia. Ruszajmy dalej.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230928T104720Z" creationid="Bohdana" creationdate="20230928T104720Z">
@@ -16356,6 +16940,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230928T142806Z" creationid="Perlyno" creationdate="20230928T142806Z">
         <seg>У мене зараз немає часу розмовляти з цивільними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie mam teraz czasu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084401Z" creationid="Bohdana" creationdate="20231010T084401Z">
+        <seg>Я зараз не маю часу...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16488,6 +17080,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie mogę ci pozwolić, byś je skrzywdził.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051331Z" creationid="Bohdana" creationdate="20231009T051331Z">
+        <seg>Я не можу дозволити тобі їх скривдити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie mogę pozwolić mu umrzeć. Czego potrzebujesz?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T085019Z" creationid="Bohdana" creationdate="20231010T085019Z">
+        <seg>Я не можу дозволити йому померти. Що тобі потрібно?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie mogę się doczekać, aż odłożymy trochę złota, zamówimy sobie pokaźny kawał mięsa oraz najlepsze wino z lokalnej winnicy.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T030037Z" creationid="fiercepretzel" creationdate="20230409T030037Z">
@@ -16508,6 +17116,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230406T165617Z" creationid="fiercepretzel" creationdate="20230405T221124Z">
         <seg>Я не можу довести твою провину... поки що.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie mogłem tak cię tutaj zostawić.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T094216Z" creationid="Bohdana" creationdate="20231009T094216Z">
+        <seg>Я не міг просто залишити тебе тут.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16752,6 +17368,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie pozwolimy ci ograbić naszego domu! Zostaw nas w spokoju!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T105453Z" creationid="Bohdana" creationdate="20231010T105453Z">
+        <seg>Ми не дозволимо розграбувати наш будинок! Залиште нас у спокої!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie przesadzasz trochę?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T015734Z" creationid="fiercepretzel" creationdate="20230711T015734Z">
@@ -16952,6 +17576,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie tym razem, Marvin...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093539Z" creationid="Bohdana" creationdate="20231009T093539Z">
+        <seg>Не цього разу, Марвіне...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie tęsknisz za resztą rodziny?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T055554Z" creationid="fiercepretzel" creationdate="20230409T055554Z">
@@ -16964,6 +17596,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T050644Z" creationid="fiercepretzel" creationdate="20230714T050644Z">
         <seg>Не грай дурня, скажи те, що знаєш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie udawaj naiwnego, doskonale wiesz, jakie plany miał Lichwiarz!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100739Z" creationid="Bohdana" creationdate="20231010T100739Z">
+        <seg>Не прикидайся наївним, ти ж чудово знаєш, які плани були у Лихваря!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17044,6 +17684,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T014646Z" creationid="fiercepretzel" creationdate="20230711T014646Z">
         <seg>Чи не траплялося тобі останнім часом бачити щось або когось підозрілого?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie widzisz tego? Wszędzie, gdzie się tylko pojawisz, podąża za tobą śmierć i zniszczenie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T045936Z" creationid="Bohdana" creationdate="20231009T045537Z">
+        <seg>Хіба ти цього не бачиш? Скрізь, куди ти йдеш, за тобою слідують смерть і розруха!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17176,6 +17824,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie wszystko jeszcze stracone, Gildia Kupiecka musi przetrwać.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T091834Z" creationid="Bohdana" creationdate="20231009T091834Z">
+        <seg>Ще не все втрачено, Гільдія Торговців має вижити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie wydajesz się ranny. Proszę, nie zawracaj mi głowy byle problemem.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230728T081622Z" creationid="fiercepretzel" creationdate="20230728T081622Z">
@@ -17268,6 +17924,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T121803Z" creationid="fiercepretzel" creationdate="20230521T121719Z">
         <seg>Не забувай, що твій супротивник не буде стояти як кілочок! Тобі потрібно звикнути до ваги зброї, і тоді ти будеш швидшим і несподіваним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie zasługujesz na nic innego niż śmierć. (Zabij)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T104855Z" creationid="Bohdana" creationdate="20231010T104855Z">
+        <seg>Ти не заслуговуєш нічого, крім смерті. (Вбити)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17432,6 +18096,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie, nie widziałem nigdzie tego drania. Ludźmi dowodził chyba ten jego cieć - Bradlock, ale gdzieś straciłem go z oczu podczas walki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T090009Z" creationid="Bohdana" creationdate="20231009T090009Z">
+        <seg>Ні, я ніде не бачив цього виродка. Я думаю, що людей очолював його приятель - Бредлок, але я втратив його з поля зору десь під час бою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie, ten list nie ma najmniejszego sensu. Ja się tu jeszcze rozejrzę, a wy sprawdźcie resztę jaskini.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T182132Z" creationid="fiercepretzel" creationdate="20230714T182132Z">
@@ -17548,6 +18220,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T090732Z" creationid="Perlyno" creationdate="20230920T090732Z">
         <seg>Немає? Здається, я переплутав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Niech Adanos ci wynagrodzi twoją pomoc.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T093400Z" creationid="Bohdana" creationdate="20231010T093400Z">
+        <seg>Нехай Аданос винагородить тебе за допомогу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17804,6 +18484,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T184153Z" creationid="Perlyno" creationdate="20230920T184153Z">
         <seg>На жаль, роки експериментів призвели до того, що він покинув цей світ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Niestety, nie obyło się bez ofiar.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T093239Z" creationid="Bohdana" creationdate="20231010T093239Z">
+        <seg>На жаль, не обійшлося і без жертв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18320,6 +19008,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>No! Wszystkie te skarby będą tylko moje!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T095236Z" creationid="Bohdana" creationdate="20231009T095236Z">
+        <seg>Ну що ж! Всі ці скарби будуть тільки моїми!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>No, chyba że obleciał cię strach przed starszym bratem.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T031247Z" creationid="fiercepretzel" creationdate="20230409T031247Z">
@@ -18640,6 +19336,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Oby Adanos ci to wynagrodził!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T085405Z" creationid="Bohdana" creationdate="20231010T085405Z">
+        <seg>Нехай Аданос спокутує свою провину!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Oby Beliar zesłał na ciebie wszystkie możliwe kary! Zgiń i przepadnij!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T123628Z" creationid="fiercepretzel" creationdate="20230714T123628Z">
@@ -18869,6 +19573,22 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T091522Z" creationid="fiercepretzel" creationdate="20230521T091522Z">
         <seg>Ти ворогував з моїм братом з самого початку подорожі, що робить тебе головним підозрюваним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Od samego początku traktowali nas tutaj jak kogoś gorszego, jak śmieci. Czas odebrać im to, co nam się należy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T050420Z" creationid="Bohdana" creationdate="20231009T050420Z">
+        <seg>З самого початку до нас тут ставилися як до другосортних, як до сміття. Настав час забрати у них те, на що ми заслуговуємо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Od tylu lat stara się, by każdy miał szansę na nowy, lepszy start. Pożycza pieniądze, daje ludziom pracę i dach nad głową. To więcej, niż Rhobar kiedykolwiek mógłby dla nich zrobić.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T101028Z" creationid="Bohdana" creationdate="20231010T101028Z">
+        <seg>Протягом багатьох років він намагався зробити так, щоб у кожного був шанс на новий і кращий початок. Він позичає гроші, дає людям роботу і дах над головою. Це більше, ніж Робар коли-небудь робив для них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19561,6 +20281,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Patrzcie, kto się pojawił! Postanowiłeś jednak pomóc starym towarzyszom?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T081939Z" creationid="Bohdana" creationdate="20231009T081939Z">
+        <seg>Погляньте, хто до нас прийшов! Вирішив допомогти старим товаришам?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Patrząc na ciebie, trudno mi w to uwierzyć, ale niech będzie.</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T112931Z" creationid="Perlyno" creationdate="20230920T112931Z">
@@ -19893,6 +20621,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231001T074030Z" creationid="Bohdana" creationdate="20231001T074030Z">
         <seg>Після всього, що сталося, чи зможеш ти мені пробачити? Чи не хочеш ти помститися?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Po tym, co widzę, nie sądzę, żeby ten strażnik wytrzymał zbyt długo...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084743Z" creationid="Bohdana" creationdate="20231010T084743Z">
+        <seg>Судячи з того, що я бачу, не думаю, що цей вартовий довго протримається...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20889,6 +21625,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Powodzenia, kumplu. Może jeszcze kiedyś spotkamy się na jakimś okręcie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051700Z" creationid="Bohdana" creationdate="20231009T051700Z">
+        <seg>Щасти тобі, друже. Може, ще колись зустрінемося на якомусь кораблі!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Powodzenia, młody. Żebyś sam niczego nie złapał!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230728T082647Z" creationid="fiercepretzel" creationdate="20230728T082647Z">
@@ -21177,6 +21921,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Proszę, proszę! Kogo to moje oczy widzą!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T050117Z" creationid="Bohdana" creationdate="20231009T050117Z">
+        <seg>Будь ласка, будь ласка! Кого я бачу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Proszę, proszę, kogo moje zmęczone oczy widzą. Ładnie to tak grzebać w czyjejś pracowni?</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T182451Z" creationid="Perlyno" creationdate="20230920T182451Z">
@@ -21349,6 +22101,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T165724Z" creationid="Perlyno" creationdate="20230920T165724Z">
         <seg>Але ж це зілля для мого брата, чому я маю його пити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Przedarłem się przez całe płonące miasto zabijając zarówno Wilczych Synów, jak i ludzi Lichwiarza.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T110652Z" creationid="Bohdana" creationdate="20231010T110652Z">
+        <seg>Я пройшов через усе палаюче місто, вбиваючи як Вовчих Синів, так і людей Лихваря.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21897,6 +22657,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Przyniosłem wszystko, o co prosiłeś.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T093230Z" creationid="Bohdana" creationdate="20231010T093230Z">
+        <seg>Я приніс усе, що ти просив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Przysyła mnie Gildia Araxos.</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T071307Z" creationid="Perlyno" creationdate="20230920T071307Z">
@@ -22017,6 +22785,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Próbujecie zrzucił całe zło świata na tego człowieka, nie oszukasz mnie swoimi kłamstwami!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100550Z" creationid="Bohdana" creationdate="20231010T100550Z">
+        <seg>Ти намагаєшся звалити все зло світу на цю людину, не обдуриш мене своєю брехнею!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Próbuję przemówić ci do rozsądku. Okolica nie jest bezpieczna. Dzikie zwierzęta, wulkan zaraz obok... różne złe rzeczy mogą się stać.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T092933Z" creationid="fiercepretzel" creationdate="20230521T092933Z">
@@ -22037,6 +22813,30 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231005T092307Z" creationid="Bohdana" creationdate="20231005T092307Z">
         <seg>Скоро його голова опиниться на палі під ратушею.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Pręty pewnie będą gdzieś u kowala, reszty możesz poszukać w sklepie u tych sióstr za rogiem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T093056Z" creationid="Bohdana" creationdate="20231010T093056Z">
+        <seg>Прути, мабуть, десь у коваля, а решту можна пошукати в крамниці у тих сестер за рогом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Puszczenie was wolno było błędem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T052555Z" creationid="Bohdana" creationdate="20231009T052555Z">
+        <seg>Відпустити тебе було помилкою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Puszczenie was wolno było błędem. Nie popełnię go po raz drugi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T052006Z" creationid="Bohdana" creationdate="20231009T052006Z">
+        <seg>Відпустити тебе було помилкою. Я не зроблю її вдруге.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22109,6 +22909,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T041713Z" creationid="fiercepretzel" creationdate="20230714T041713Z">
         <seg>Після цього я його тут більше не бачив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Rabusiu? To Volker razem z Ulrykiem napadli na miasto!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100603Z" creationid="Bohdana" creationdate="20231010T100603Z">
+        <seg>Пограбування? Це Волкер разом з Ульріком напали на місто!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22269,6 +23077,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T080420Z" creationid="fiercepretzel" creationdate="20230409T065312Z">
         <seg>Тепер все - в руках богів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Reszta ludzi jest na placu przed budynkiem Gildii, tam powinnaś być bezpieczna.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T094032Z" creationid="Bohdana" creationdate="20231009T094032Z">
+        <seg>Решта людей знаходяться на площі перед будівлею Гільдії, там ти будеш в безпеці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22609,6 +23425,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Rozumiem, miasto płonie, ludzie umierają, czym jest jedno życie w tej sytuacji...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084427Z" creationid="Bohdana" creationdate="20231010T084427Z">
+        <seg>Я розумію, місто горить, люди гинуть, що таке одне життя у цій ситуації...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Rozumiem, że jesteś ekspertem w tej dziedzinie. Mówiłem ci...</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T164056Z" creationid="fiercepretzel" creationdate="20230714T164056Z">
@@ -22841,6 +23665,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Róbcie, co chcecie. To nie moja sprawa.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T052420Z" creationid="Bohdana" creationdate="20231009T052420Z">
+        <seg>Роби, що хочеш. Це не моя справа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Rębacz</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -22893,6 +23725,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T044724Z" creationid="fiercepretzel" creationdate="20230714T044724Z">
         <seg>Я б сам до такого не додумався! Сподіваюся, іншим теж сподобається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Sam chciałem po nie pójść, ale usłyszałem bardzo niepokojące odgłosy... no i... sam rozumiesz...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T093204Z" creationid="Bohdana" creationdate="20231010T093204Z">
+        <seg>Я хотів сам піти за ними, але почув дуже тривожні звуки.... і... ти розумієш...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23473,6 +24313,15 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Spokojnie koczowaliśmy pod Wilczym Leżem, zjawiasz się ty i nagle lecą nam głazy na głowę!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T045851Z" creationid="Bohdana" creationdate="20231009T045851Z">
+        <seg>Ми тихо розбили табір у Вовчому Лігві, а тут з'являєшся ти, і раптом валуни летять нам на голови!
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Spokojnie! Zaczekaj!</seg>
       </tuv>
       <tuv lang="uk" changeid="Gliban" changedate="20230112T164743Z" creationid="Микола Сонячний" creationdate="20230111T170827Z">
@@ -23501,6 +24350,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230929T155039Z" creationid="Bohdana" creationdate="20230929T155039Z">
         <seg>Будьте певні, я на вашому боці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Spokojnie, już się stąd wynoszę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T094908Z" creationid="Bohdana" creationdate="20231009T094908Z">
+        <seg>Заспокойся, я вже йду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23577,6 +24434,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Spokojnie, spokojnie! Ja tylko chciałem kilka drobiazgów, żeby zacząć nowe życie. Pozwól nam odejść, błagam!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T095858Z" creationid="Bohdana" creationdate="20231009T095858Z">
+        <seg>Спокійно, спокійно! Я хотів лише кілька дрібничок, щоб почати нове життя. Відпусти нас, благаю!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Spokojnie, tylko śpi.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230926T170807Z" creationid="Bohdana" creationdate="20230926T170807Z">
@@ -23613,6 +24478,14 @@
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231002T092641Z" creationid="Mykytka" creationdate="20231002T092641Z">
         <seg>Заспокойся. Як тобі вдалося втекти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Spokojnie...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T105507Z" creationid="Bohdana" creationdate="20231010T105507Z">
+        <seg>Спокійно...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23685,6 +24558,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T032909Z" creationid="fiercepretzel" creationdate="20230407T032909Z">
         <seg>Все трохи ускладнилося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Spryciarz! Masz, mogą ci się przydać, gdy już będzie po wszystkim.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T052746Z" creationid="Bohdana" creationdate="20231009T052746Z">
+        <seg>Розумник! Ось, вони можуть стати в нагоді, коли все закінчиться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23925,6 +24806,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230728T153246Z" creationid="fiercepretzel" creationdate="20230728T153246Z">
         <seg>Варта буде рада прийняти до своїх лав нового рекрута, але ми приймаємо лише громадян Архолоса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Strażnicy przy bramie na sam widok obcych powinni zamknąć wszystkie przejścia. Nawet ludzie Ulryka nie sforsowaliby żelaznej bramy w kilka minut.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T084327Z" creationid="Bohdana" creationdate="20231009T082721Z">
+        <seg>Варта біля брами при одному виді чужинців мала перекрити всі проходи. Навіть люди Ульріка не змогли б прорватися крізь неї за кілька хвилин.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24189,6 +25078,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T062052Z" creationid="fiercepretzel" creationdate="20230409T062052Z">
         <seg>Швидше! Йдемо до порту і не озираємося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Szybko, musimy sprawdzić, czy któryś z magów przeżył!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T052834Z" creationid="Bohdana" creationdate="20231009T052834Z">
+        <seg>Швидше, треба перевірити, чи вижив хтось із магів!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25097,6 +25994,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ten łysy mądrala zasłużył sobie na to. Tak jak i całe miasto zasłużyło sobie na tę sytuację.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T050828Z" creationid="Bohdana" creationdate="20231009T050828Z">
+        <seg>Цей лисий мудрець заслужив це, як і весь місто заслужило цю ситуацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Tengral</seg>
       </tuv>
       <tuv lang="uk" changeid="Gliban" changedate="20230110T160924Z" creationid="Gliban" creationdate="20230110T160924Z">
@@ -25173,6 +26078,22 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T015927Z" creationid="fiercepretzel" creationdate="20230711T015927Z">
         <seg>Зараз це вже не має значення. Не забувай, що ти був там не один.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Teraz to ty dostaniesz to, na co zasłużyłeś.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051443Z" creationid="Bohdana" creationdate="20231009T051422Z">
+        <seg>Зараз ти отримаєш по заслузі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Teraz ty i twoi koledzy z miasta zapłacicie za wszystkie szkody wyrządzone zarówno naszej winnicy, jak i naszej rodzinie...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T083837Z" creationid="Bohdana" creationdate="20231010T083837Z">
+        <seg>Тепер ти і твої товариші з міста заплатите за всю шкоду, заподіяну нашому винограднику і нашій сім'ї...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25477,6 +26398,22 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230917T112716Z" creationid="Perlyno" creationdate="20230917T081415Z">
         <seg>То віддавай мені усю рибу, яку маєш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To dlaczego jego wszyscy ludzie wyruszyli?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T104904Z" creationid="Bohdana" creationdate="20231010T104904Z">
+        <seg>Тоді чому всі його люди пішли?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To dlaczego jego wszyscy ludzie wyruszyli? Myślisz, że bronią miasta ze strażnikami?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100721Z" creationid="Bohdana" creationdate="20231010T100708Z">
+        <seg>Тоді чому всі його люди пішли? Ти думаєш, вони захищають місто з вартовими?</seg>
       </tuv>
     </tu>
     <tu>
@@ -26009,6 +26946,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>To ty, Marvin... Te gnojki mocno mnie pokiereszowały...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093402Z" creationid="Bohdana" creationdate="20231009T092717Z">
+        <seg>Це ти, Марвіне. Ці виродки мене добряче поколотили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>To tyle, co chciałem wiedzieć.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T073449Z" creationid="fiercepretzel" creationdate="20230521T073449Z">
@@ -26045,6 +26990,22 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T043944Z" creationid="fiercepretzel" creationdate="20230714T043944Z">
         <seg>Це вино - частково моя власна ідея. Тут всі вважають за краще робити все за старими традиціями і бояться змінювати старі рецепти навіть на одну ложку спецій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To wszystko jest sprawką Lichwiarza.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T092412Z" creationid="Bohdana" creationdate="20231009T092412Z">
+        <seg>Це все справа рук Лихваря.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To wszystko jest sprawką Lichwiarza. Bradlock to jedynie jego sługus.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T090651Z" creationid="Bohdana" creationdate="20231009T090651Z">
+        <seg>Це все робота Лихваря. Бредлок - лише його слуга.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26129,6 +27090,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>To śmierdzące miasto rzeczywiście nie jest miejscem dla mnie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T111314Z" creationid="Bohdana" creationdate="20231010T111314Z">
+        <seg>Це смердюче місто дійсно не для мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>To świetnie. Masz. Powinny wystarczyć do zrobienia całkiem sporego zapasu.</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T083301Z" creationid="Perlyno" creationdate="20230920T083301Z">
@@ -26141,6 +27110,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230408T115626Z" creationid="fiercepretzel" creationdate="20230408T115626Z">
         <seg>Це священні предмети, і вони не повинні лежати і гнити в землі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To, co się stało Holdwigowi, to twoja wina! Gdyby nie ty, już dawno byśmy się jakoś dogadali i razem prowadzili winnicę!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T083557Z" creationid="Bohdana" creationdate="20231010T083452Z">
+        <seg>Те, що сталося з Гольдвіґом - твоя провина! Якби не ти, ми б давно вже якось порозумілися і разом керували виноградником!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26306,6 +27283,15 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Trochę się nie widzieliśmy, Marvin, co? Jak tam braciszek, odnalazł się?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T050146Z" creationid="Bohdana" creationdate="20231009T050146Z">
+        <seg>Давненько ми не бачилися, Марвін, так? Як там молодший братик, його знайшли?
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Trochę żałuję, że ta wasza miejska legenda była dosłownie gówno warta, ale życie widocznie takie jest. Znajdę sobie coś innego.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230406T155536Z" creationid="fiercepretzel" creationdate="20230405T213519Z">
@@ -26434,6 +27420,15 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Trzymaj, miałem... miałem ci to dać już kiedyś... ale jakoś nie było okazji...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093113Z" creationid="Bohdana" creationdate="20231009T093113Z">
+        <seg>Ось, я повинен був... я збирався тобі віддати це раніше... але якось не було можливості...
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Trzymaj, ta jest dla ciebie. Zobaczymy, kto złowi więcej!</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231002T114928Z" creationid="Mykytka" creationdate="20231002T114928Z">
@@ -26526,6 +27521,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230406T172103Z" creationid="fiercepretzel" creationdate="20230405T223943Z">
         <seg>Твої попередні свідчення мені здалися непереконливими. І найголовніше! Всі люди, причетні до цієї справи, загинули від твоєї руки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Twoje zwłoki ograbię z jeszcze większą chęcią niż tych biedaków.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T052313Z" creationid="Bohdana" creationdate="20231009T052313Z">
+        <seg>Твій труп я пограбую з ще більшою насолодою, ніж трупи цих бідняків.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26654,6 +27657,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230929T113811Z" creationid="Bohdana" creationdate="20230929T113811Z">
         <seg>Лихварський пес!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ty również, Marvin, ty również...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093352Z" creationid="Bohdana" creationdate="20231009T093352Z">
+        <seg>Ти теж, Марвіне, ти теж...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26910,6 +27921,22 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T162339Z" creationid="fiercepretzel" creationdate="20230714T162339Z">
         <seg>Цього разу я дам тобі час. Що я казав про сумніви у своїх рішеннях?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tym razem do ścięcia idziesz ty.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T111630Z" creationid="Bohdana" creationdate="20231010T111630Z">
+        <seg>Цього разу тобі відсічуть голову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tym razem do ścięcia idziesz ty. Niepotrzebnie pozwoliłem, byś opuścił więzienie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T111612Z" creationid="Bohdana" creationdate="20231010T111612Z">
+        <seg>Цього разу тобі відсічуть голову. Я не повинен був дозволяти тобі виходити з в'язниці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27354,10 +28381,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Volker nigdy by nie zaatakował niewinnych ludzi!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100615Z" creationid="Bohdana" creationdate="20231010T100615Z">
+        <seg>Волкер ніколи б не напав на невинних людей!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Volker proponował mu spokojną emeryturę w dobrobycie i przejęcie jego stanowiska.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20231005T133058Z" creationid="Bohdana" creationdate="20231005T091418Z">
         <seg>Волкер запропонував йому спокійно піти на відпочинок в достатку і зайняти його місце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Volker to najbardziej uczciwa i honorowa osoba, jaka stąpała po tym mieście! Otoczony jest przez was, sępy. Marzy wam się jego majątek!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T101447Z" creationid="Bohdana" creationdate="20231010T101447Z">
+        <seg>Волкер - найчесніша і найпорядніша людина, яка коли-небудь ступала цим містом! Він оточений вами, стерв'ятниками. Ви мрієте про його багатство!</seg>
       </tuv>
     </tu>
     <tu>
@@ -28434,6 +29477,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Widzę, że tobie również zdążył zajść za skórę. Cholerny drań, ukrywający się za swoimi marionetkami.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T091057Z" creationid="Bohdana" creationdate="20231009T091057Z">
+        <seg>Бачу, він і тебе зачепив за живе. Кривавий виродок, що ховається за своїми маріонетками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Widzę, że umiesz siedzieć cicho.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230408T090333Z" creationid="fiercepretzel" creationdate="20230408T090333Z">
@@ -28594,6 +29645,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wiem, że całe miasto płonie i ludzie umierają, ale jeśli zależy ci na jego życiu, musisz zdobyć dla mnie kilka rzeczy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T084946Z" creationid="Bohdana" creationdate="20231010T084946Z">
+        <seg>Я знаю, що все місто горить і люди гинуть, але якщо тобі не байдуже його життя, ти повинен принести мені деякі речі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wiem, że chcesz to zrobić, Roderich – wykończ mnie. Możesz wydać na mnie wyrok tu i teraz, ale to historia ostatecznie mnie osądzi.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230930T213132Z" creationid="Bohdana" creationdate="20230930T213132Z">
@@ -28694,6 +29753,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T075418Z" creationid="Perlyno" creationdate="20230920T075418Z">
         <seg>Може знаєш, як досягти ефекту іржі?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wiesz może, jak wygląda sytuacja w pozostałych częściach miasta?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T082841Z" creationid="Bohdana" creationdate="20231009T082841Z">
+        <seg>Можливо, ти знаєш, яка ситуація в інших частинах міста?</seg>
       </tuv>
     </tu>
     <tu>
@@ -29114,6 +30181,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wreszcie czuję, że żyję!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T100207Z" creationid="Bohdana" creationdate="20231009T100207Z">
+        <seg>Я нарешті відчуваю себе живим!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wrócę niebawem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T085259Z" creationid="Bohdana" creationdate="20231010T085259Z">
+        <seg>Я скоро повернуся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wrócę niedługo.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230408T090322Z" creationid="fiercepretzel" creationdate="20230408T090322Z">
@@ -29246,6 +30329,22 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T040622Z" creationid="fiercepretzel" creationdate="20230409T040622Z">
         <seg>Усі пляшки вина порожні. Напевно, Бастіан відправляє порожні назад на виноробню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wszystko będzie dobrze, mam przy sobie kilka mikstur leczniczych...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093522Z" creationid="Bohdana" creationdate="20231009T093522Z">
+        <seg>З тобою все буде гаразд, у мене з собою є цілюще зілля...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wszystko będzie dobrze, mam przy sobie mikstury lecznicze...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T093752Z" creationid="Bohdana" creationdate="20231009T093752Z">
+        <seg>Все буде добре, зі мною цілющі зілля…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29607,6 +30706,22 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230925T161837Z" creationid="Bohdana" creationdate="20230925T161638Z">
         <seg>Забирайся звідси, жалюгідний клопе! (Подарувати життя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wynoś się! To moje łupy!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T094806Z" creationid="Bohdana" creationdate="20231009T094806Z">
+        <seg>Геть! Це моя здобич!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wynoś się, przeklęty rabusiu! Nie pozwolę ci splądrować domu mojego Pana!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T100413Z" creationid="Bohdana" creationdate="20231010T094435Z">
+        <seg>Забирайся геть, проклятий розбійник! Я не дозволю тобі грабувати дім мого Пана!</seg>
       </tuv>
     </tu>
     <tu>
@@ -30040,6 +31155,14 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230919T162815Z" creationid="Perlyno" creationdate="20230919T162815Z">
         <seg>Вони точно були б, якби ти не прийшов сюди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Z pewnością ci się jeszcze przydadzą.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T094135Z" creationid="Bohdana" creationdate="20231009T094135Z">
+        <seg>Вони, безумовно, ще стануть тобі в нагоді.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30536,6 +31659,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230928T131934Z" creationid="Bohdana" creationdate="20230928T131934Z">
         <seg>Замовкни! Ти зробив державний переворот заради власної вигоди та амбіцій. Не намагайся це виправдати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zamknij się, Fabio.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T050219Z" creationid="Bohdana" creationdate="20231009T050219Z">
+        <seg>Замовкни, Фабіо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31060,6 +32191,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Zgniotę każdego!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T100230Z" creationid="Bohdana" creationdate="20231009T100230Z">
+        <seg>Я розчавлю будь-кого!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zgodnie z danym słowem - przybyliśmy. Adanos musiał nad nami czuwać, bo widzę, że dotarliśmy tu w ostatniej chwili!</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230929T104339Z" creationid="Bohdana" creationdate="20230929T104339Z">
@@ -31265,6 +32404,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T034303Z" creationid="fiercepretzel" creationdate="20230407T034303Z">
         <seg>Знову? Що Рунар зробив цього разу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Znów się spotykamy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231009T051808Z" creationid="Bohdana" creationdate="20231009T051808Z">
+        <seg>Ми знову зустрілися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31697,6 +32844,22 @@
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171454Z" creationid="Микола Сонячний" creationdate="20230111T171454Z">
         <seg>Хочеш, щоб і я зліг? Ти з глузду з'їхав?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żyj w swojej obłudzie, starcze.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T102421Z" creationid="Bohdana" creationdate="20231010T102421Z">
+        <seg>Живи у своїй брехні, старий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żyj w swojej obłudzie, starcze. (Odejdź)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Bohdana" changedate="20231010T104816Z" creationid="Bohdana" creationdate="20231010T104816Z">
+        <seg>Живи у своїй брехні, старий.</seg>
       </tuv>
     </tu>
     <tu>
