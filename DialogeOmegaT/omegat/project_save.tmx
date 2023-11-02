@@ -5902,6 +5902,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dobrze ci się tu żyje?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231027T121602Z" creationid="Glіban" creationdate="20231027T121602Z">
+        <seg>Тобі тут добре живеться?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dobrze już. Gdzie go znajdę?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T033001Z" creationid="fiercepretzel" creationdate="20230407T032841Z">
@@ -9703,6 +9711,30 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jak pozyskiwać sadło zwierzęce?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T194731Z" creationid="Mykytka" creationdate="20231101T163414Z">
+        <seg>Як добути тваринний жир?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jak pozyskiwać skorupy zwierząt?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Mykytka" changedate="20231101T162756Z" creationid="Mykytka" creationdate="20231101T162756Z">
+        <seg>Як діставати панцирі тварин?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jak pozyskiwać żuwaczki?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Mykytka" changedate="20231101T162014Z" creationid="Mykytka" creationdate="20231101T162014Z">
+        <seg>Як добувати жвала?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jak się czujesz po dniu pełnym przygód?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T054549Z" creationid="fiercepretzel" creationdate="20230409T054520Z">
@@ -9843,6 +9875,22 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230928T174513Z" creationid="Bohdana" creationdate="20230928T111135Z">
         <seg>Як бачите, навіть самі маги монастиря не впевнені в цьому... Втім, зараз не можна гаяти часу, в цю мить йде битва за долю всього Архолосу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jak wyrywać gruczoły jadowe?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T192917Z" creationid="Mykytka" creationdate="20231101T161022Z">
+        <seg>Як діставати отруйні залози?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jak wyrywać skrzydła krwiopijcom?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T193655Z" creationid="Mykytka" creationdate="20231101T162529Z">
+        <seg>Як правильно виривати крила шершням?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10011,6 +10059,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T024938Z" creationid="fiercepretzel" creationdate="20230711T024938Z">
         <seg>Звичайно, Марвіне, ми, біженці, повинні триматися разом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jasne, bierzmy się do roboty.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T192740Z" creationid="Mykytka" creationdate="20231101T160807Z">
+        <seg>Звісно, давай продовжимо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10319,6 +10375,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jest lepiej, niż w mojej wyobraźni. Teraz mogę skupić się na zdobywaniu wiedzy, a nie na marzeniach ojca.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T191535Z" creationid="Mykytka" creationdate="20231101T155243Z">
+        <seg>Це краще, ніж я собі уявляв. Тепер я можу зосередитися на здобутті знань, а не на мріях мого батька.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jest mi już zdecydowanie lepiej, ale nie czuję się jeszcze na siłach, by wstawać. Będziesz musiał sam poszukać Kurta, jego chata była za karczmą, z pewnością trafisz.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T051919Z" creationid="fiercepretzel" creationdate="20230409T051919Z">
@@ -10579,6 +10643,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230405T215253Z" creationid="fiercepretzel" creationdate="20230405T215253Z">
         <seg>Ви Архімаг?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jesteś bardziej pojętnym uczniem niż ja. Nie jestem już w stanie niczego cię nauczyć.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T192752Z" creationid="Mykytka" creationdate="20231101T160952Z">
+        <seg>Ти знаєшся на полюванні краще, ніж я. Мені більше немає чому тебе вчити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12563,6 +12635,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T050703Z" creationid="fiercepretzel" creationdate="20230714T050703Z">
         <seg>Тобі краще забратися звідси і більше не з'являтися на винограднику, бо я не знаю, чи визнає Денніс тебе невинним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lepszy los nie mógł mnie spotkać. Dokonałeś cudu. Adanos mi świadkiem, to był cud.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T191817Z" creationid="Mykytka" creationdate="20231101T155315Z">
+        <seg>Кращої долі для мене не могло бути. Ти здійснив диво. Аданос свідок, що це було диво.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14951,6 +15031,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Musisz być delikatny, bo one też są delikatne. Najlepiej złapać je u nasady i stopniowo wysuwać z ciała, odcinając wszystkie żyły, jakie będą się za nimi ciągnęły.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T194031Z" creationid="Mykytka" creationdate="20231101T162701Z">
+        <seg>Ти повинен бути делікатним, оскільки вони також делікатні. Найкраще хапати їх біля основи і поступово витягувати з тіла, відсікаючи всі жили, які будуть тягнутися за ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Musisz ich zrozumieć, trwa wojna, a my jesteśmy kolejnymi uciekinierami, którzy docierają na tę wyspę.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T024704Z" creationid="fiercepretzel" creationdate="20230409T024704Z">
@@ -15992,6 +16080,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Najlepiej, gdybyś zaczął nabierać wprawy oprawiając zwierzęta o stosunkowo elastycznej skórze, jak na przykład kretoszczury.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T192128Z" creationid="Mykytka" creationdate="20231101T160108Z">
+        <seg>Найкраще почати практиватися на тваринах з відносно еластичною шкірою. На таких як, наприклад, кротощури.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Najpierw pomyślmy o twoim zdrowiu. Musisz dojść do siebie.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T030524Z" creationid="fiercepretzel" creationdate="20230409T030524Z">
@@ -16256,6 +16352,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Naucz mnie podstaw oprawiania zwierząt.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T195908Z" creationid="Mykytka" creationdate="20231101T155641Z">
+        <seg>Навчи мене основам білування тварин.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nauczysz mnie czegoś o magii?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T053655Z" creationid="fiercepretzel" creationdate="20230407T053655Z">
@@ -16404,6 +16508,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Нельсон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nelson? Tutaj?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Mykytka" changedate="20231101T154912Z" creationid="Glіban" creationdate="20231025T153110Z">
+        <seg>Нельсон? Ти тут?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17204,6 +17316,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T014415Z" creationid="fiercepretzel" creationdate="20230711T014415Z">
         <seg>Поняття не маю, я щойно приїхав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie mam pojęcia, jak to zrobiłeś! Do końca życia będę twoim dłużnikiem. Adanos musiał maczać w tym palce.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Mykytka" changedate="20231101T155035Z" creationid="Glіban" creationdate="20231027T121254Z">
+        <seg>Я гадки не маю, як ти це зробив! Я буду винен тобі до кінця свого життя. Аданос, мабуть, приклав до цього руку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19352,6 +19472,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>No to tak... krwiopijce i trutnie mają taki czuły punkt na odwłoku. Musisz go znaleźć i nacisnąć, a żądło się wysunie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T193414Z" creationid="Mykytka" creationdate="20231101T161224Z">
+        <seg>Справа ось у чому... у шершнів і трутнів є чутливе місце на черевці. Треба знайти її і натиснути, і жало вилізе назовні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>No to znaleźliśmy powód zatrucia. Jedna zagadka rozwiązana!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T042424Z" creationid="fiercepretzel" creationdate="20230714T042424Z">
@@ -19724,6 +19852,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230929T105323Z" creationid="Bohdana" creationdate="20230929T105323Z">
         <seg>Ось там.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>O, to całkiem łatwe. W większości przypadków wystarczy złapać mocno żuwaczkę polnej bestii, pełzacza czy co tam upolowałeś, i pokręcić w różnych kierunkach.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T193536Z" creationid="Mykytka" creationdate="20231101T162249Z">
+        <seg>О, це досить легко. Здебільшого, ти просто міцно хапаєш жвало польового хижака, повзуна, чи кого ти там вполював, і крутиш його в різні боки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24217,6 +24353,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Sadło zanieczyszczone futrem czy ścięgnami jest mniej warte, więc musisz uważać, pamiętaj.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T195029Z" creationid="Mykytka" creationdate="20231101T163658Z">
+        <seg>Жир, забруднений хутром або сухожиллями, коштує менше, тому ти повинен бути обережним, пам'ятай це.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Sall</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
@@ -27465,10 +27609,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>To trochę mało, musisz przynieść więcej.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T193422Z" creationid="Mykytka" creationdate="20231101T161939Z">
+        <seg>Цього замало, треба принести більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>To trochę powyżej moich możliwości. Poza tym nie mogę opuścić wyspy. Mój brat zaginął.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T023230Z" creationid="fiercepretzel" creationdate="20230407T023230Z">
         <seg>Це трохи за межами моїх можливостей. Крім того, я не можу покинути острів. Мій брат пропав.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To trochę za mało, przynieś więcej.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T192533Z" creationid="Mykytka" creationdate="20231101T160717Z">
+        <seg>Цього замало, принеси ще.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27533,6 +27693,14 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231001T071146Z" creationid="Bohdana" creationdate="20231001T071146Z">
         <seg>Це ти вбив його людей?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To ty! Jestem twoim dłużnikiem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231025T153147Z" creationid="Glіban" creationdate="20231025T153147Z">
+        <seg>Це ти! Я твій боржник.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29618,6 +29786,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>W tym momencie czeka cię trochę paskudnej roboty, bo musisz włożyć rękę pomiędzy nie, a potem ze wszystkich sił szarpać, aż ci się uda.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T194629Z" creationid="Mykytka" creationdate="20231101T163337Z">
+        <seg>На цьому етапі тобі доведеться виконати трохи неприємну роботу, оскільки ти мусиш просунути руку поміж них, а потім смикати з усієї сили, поки все не вийде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>W tym stanie nic nie zdziałasz, osobiście zajmę się Lichwiarzem.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230929T114430Z" creationid="Bohdana" creationdate="20230929T114430Z">
@@ -29870,6 +30046,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230413T134525Z" creationid="fiercepretzel" creationdate="20230407T043549Z">
         <seg>Візьми і ці сувої Світла. Нехай вони вкажуть тобі шлях крізь твої найтемніші години.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Weź to w nagrodę. Mi się złoto tutaj nie przyda.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Mykytka" changedate="20231101T155107Z" creationid="Glіban" creationdate="20231027T121344Z">
+        <seg>Прийми це в нагороду. Золото мені тут не знадобиться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30970,6 +31154,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wspaniale! Zawsze o tym marzyłem. Dziękuję ci.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Mykytka" changedate="20231101T155150Z" creationid="Glіban" creationdate="20231027T121704Z">
+        <seg>Чудово! Я завжди про це мріяв. Дякую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wspinanie na młyn to była przesada, przyznaję. Może zaczniemy od drzewa?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20231008T112452Z" creationid="Mykytka" creationdate="20231002T121902Z">
@@ -31082,6 +31274,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wszystko dobrze się skończyło, co?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231025T153200Z" creationid="Glіban" creationdate="20231025T153200Z">
+        <seg>Все закінчилося добре, чи не так?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wszystko po staremu. Pracowników trzeba pilnować, a to nie jest łatwe, gdy się jest w tej robocie samemu.</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231024T152751Z" creationid="Mykytka" creationdate="20231024T152751Z">
@@ -31127,6 +31327,14 @@
       <tuv lang="uk" changeid="Perlyno" changedate="20230918T101653Z" creationid="Perlyno" creationdate="20230918T101653Z">
         <seg>Здається, все в порядку.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wtedy je łapiesz i szarpiesz. Nie trzymają się... chyba się nie trzymają... zbyt mocno w odwłoku, więc nie powinieneś mieć problemów.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T193357Z" creationid="Mykytka" creationdate="20231101T161705Z">
+        <seg>Потім хапаєшся за нього і смикаєш. Воно не повинно застрягнути... я не думаю, що воно застрягне... надто велике черевце, тож у тебе повинно бути з цим проблем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31447,6 +31655,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230921T113318Z" creationid="Perlyno" creationdate="20230918T110608Z">
         <seg>Вигнуті снеппери, люди в білих шатах, мерці, що перемагають паладинів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wymaga to sporo siły, bo są bardzo twarde. Żeby się ich pozbyć, musisz najpierw starannie wyciąć lukę pomiędzy skorupą a skórą.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T194213Z" creationid="Mykytka" creationdate="20231101T162904Z">
+        <seg>Для цього потрібно докласти чимало зусиль, оскільки вони дуже тверді. Щоб їх дістати, потрібно спочатку обережно вирізати щілину між панцирем та шкірою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32044,6 +32260,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Za każdą skórę możesz dostać ładnych parę sztuk złota, więc po upolowaniu czegoś nie zapomnij zabrać swojego trofeum!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T192501Z" creationid="Mykytka" creationdate="20231101T160641Z">
+        <seg>За кожну зняту шкіру ти можеш отримати кілька гарних золотих монет, тож після полювання не забудь забрати свій трофей!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Za miejsce na cmentarzu trzeba zapłacić.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T072312Z" creationid="fiercepretzel" creationdate="20230409T072312Z">
@@ -32504,6 +32728,14 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T121631Z" creationid="fiercepretzel" creationdate="20230521T121631Z">
         <seg>Перш ніж вивчати більш складні техніки, слід навчитися правильно тримати зброю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zanim się za to weźmiesz, upewnij się, że widzisz różnicę pomiędzy tłuszczem a mięsem. Wtedy weź ostre narzędzie i zacznij je oddzielać.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T194844Z" creationid="Mykytka" creationdate="20231101T163555Z">
+        <seg>Перш ніж почати, переконайся, що ти бачиш де жир, а де м'ясо. Потім візьми гострий інструмент і почни відокремлювати їх.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33653,10 +33885,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Żeby ściągnąć z nich skórę, natnij ją na brzuchu, poprowadź ostrze wokół nóg, a następnie zacznij delikatnie zdzierać całość.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T192248Z" creationid="Mykytka" creationdate="20231101T160248Z">
+        <seg>Щоб зняти шкіру, зроби надріз на животі, проведи лезом навколо ніг, а потім почни обережно зрізати її повністю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Żebym i ja się pochorował? Zwariowałeś?</seg>
       </tuv>
       <tuv lang="uk" changeid="Микола Сонячний" changedate="20230111T171454Z" creationid="Микола Сонячний" creationdate="20230111T171454Z">
         <seg>Хочеш, щоб і я зліг? Ти з глузду з'їхав?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żuwaczki rzadko kiedy mocno się trzymają, przy odpowiednim wysiłku spokojnie się ich pozbędziesz.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20231102T193646Z" creationid="Mykytka" creationdate="20231101T162435Z">
+        <seg>Жвала рідко тримаються міцно. Приклавши достатньо зусиль, ти з легкістю їх дістанеш.</seg>
       </tuv>
     </tu>
     <tu>
