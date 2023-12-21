@@ -1,0 +1,1117 @@
+Składniki	Складники
+Właściwości	Властивості
+Nie możesz teraz odłożyć pochodni!	Ви не можете погасити смолоскип зараз!
+Trzymasz już coś innego w lewej dłoni!	Ви вже тримаєте щось інше в лівій руці!
+Nie możesz trzymać pochodni podczas walki!	Ви не можете тримати смолоскип під час бою!
+Nie możesz teraz trzymać pochodni!	Ви не можете зараз тримати смолоскип!
+Nie masz pochodni!	У вас немає смолоскипа!
+Nie możesz trzymać pochodni w trakcie rozmowy!	Ви не можете тримати смолоскип під час розмови!
+Archolos	Архолос
+Archolos	Архолос
+Kopalnia	Копальня
+Grobowiec	Гробниця
+Kanały	Каналізація.
+Nowy wpis:	Новий запис:
+Jestem gotowy do walki!	Я готовий до бою!
+Czujesz, jak siła wypełnia twoje ciało!	Ви відчуваєте, як міць наповнює ваше тіло!
+Za mało many...	Недостатньо мани...
+Za daleko do magicznego kręgu...	Занадто далеко від магічного кола...
+Jestem na patrolu,	Я в патрулі,
+nie mogę zdjąć stroju rekruta!	Я не можу зняти форму новобранця!
+Nie powinienem biegać w tym pancerzu	Я не повинен шастати в цих обладунках
+bez pozwolenia Graysona!	без дозволу Грейсона!
+Zróżnicowania dieta	Різноманітне харчування
+poprawia twoje zdrowie +	збільшує здоров'я +
+Dźwięk fletu osłabia bestie!	Звук флейти послаблює звірів!
+Twoja siła wzrasta!	Ваша сила зростає!
+Meble zostały przeniesione do domu!	Меблі були перенесені до будинку!
+Możesz mieć ze sobą maksymalnie 2 towarzyszy!	З вами можуть бути максимум 2 компаньйони!
+Remy oddał ci nadmiar mięsa.	Ремі повернув вам надлишки м'яса.
+Szybko minęło...	Час пролетів швидко...
+Nic nie bierze...	Не клює...
+Nic nie zostało.	Нічого не залишилося.
+Złowiłeś 1 rybę!	Ви cпіймали одну рибину!
+Złowiłeś 2 ryby!	Ви cпіймали 2 рибини!
+Złowiłeś grubą rybę!	Ви cпіймали велику рибину!
+Złowiłeś 3 ryby!	Ви спіймали 3 рибини!
+Złowiłeś 2 grube ryby!	Ви спіймали дві великі рибини!
+Założyłeś broń podczas trwania efektu pierścieni pięściarza!	Ви спорядили зброю, коли ефект боксерських кілець був активним!!
+Jeden z pierścieni pięściarza zsuwa ci się z palca!	Одне з кілець боксера зісковзує з пальця!
+Odzyskałeś 10000 sztuk złota.	Ви отримали 10 000 золотих.
+Oddałeś 10000 sztuk złota.	Ви віддали 10 000 золотих.
+Kawałki drewna zasypują okolicę...	Тріски розлітаються на всі боки...
+Zdobyłeś 1 kawałek drewna!	Видобуто 1 шматок деревини!
+Zdobyłeś 2 kawałki drewna!	Видобуто 2 шматки деревини!
+Zdobyłeś 3 kawałki drewna!	Видобуто 3 шматки деревини!
+Kawałki złota zasypują okolicę...	Шматки золота розлітаються навколо...
+Odpadł 1 samorodek złota!	Видобуто 1 золотий самородок!
+Odpadły 2 samorodki złota!	Видобуто 2 золоті самородки!
+Odpadły 3 samorodki złota!	Видобуто 3 золоті самородки!
+Odpadło 5 samorodków złota!	Видобуто 5 золотих самородків!
+Odpadło 7 samorodków złota!	Видобуто 7 золотих самородків!
+Kawałki srebra zasypują okolicę...	Шматки срібла розлітаються навколо...
+Odpadł 1 samorodek srebra!	Видобуто 1 срібний самородок!
+Odpadły 2 samorodki srebra!	Видобуто 2 срібних самородки!
+Odpadły 3 samorodki srebra!	Видобуто 3 срібних самородки!
+Kawałki żelaza zasypują okolicę...	Шматки заліза розлітаються навколо...
+Odpadł 1 samorodek żelaza!	Видобуто 1 залізний самородок!
+Odpadły 2 samorodki żelaza!	Видобуто 2 залізні самородки!
+Odpadły 3 samorodki żelaza!	Видобуто 3 залізні самородки!
+Kawałki magicznej rudy zasypują okolicę...	Шматки магічної руди розлітаються навколо...
+Odpadła 1 bryłka magicznej rudy!	Видобуто 1 самородок магічної руди!
+Odpadły 2 bryłki magicznej rudy!	Видобуто 2 самородки магічної руди!
+Odpadły 3 bryłki magicznej rudy!	Видобуто 3 самородки магічної руди!
+Lokvar oddał ci nadmiar roślin.	Локвар повернув вам зайві рослини.
+Czujesz się osłabiony i zdezorientowany.	Ви відчуваєте себе ослабленим і дезорієнтованим.
+Schemat	Креслення
+Receptura	Кулінарний рецепт
+Przepis	Кулінарний рецепт
+Składniki:	Інгредієнти:
+Właściwości przedmiotu:	Властивості предмету
+Wymagane Kowalstwo:	Потрібне ковальство:
+Wymagane łuczarstwo:	Потрібна навичка виготовлення луків:
+Wymagane Alchemia:	Потрібна навичка алхімії:
+Stworzono:	Створено:
+Złoże soli	Поклади солі
+Worki Albyna	Мішки Альбіна
+Łóżko Rasco	Ліжко Раско
+Koksownik	Жаровня
+Pokój Recona	Кімната Рікона
+Kufer Recona	Скриня Рікона
+Jabłko	Яблуко
+Skrzynia	Ящик
+Skrzynia na winogrona	Ящик для винограду
+Palma	Пальма
+Kufer Rodrigo	Скриня Родріго
+Kufer Roya	Скриня Роя
+Kufer Svena	Скриня Свена
+Beczka z piwem	Бочка з пивом
+Kufer Arethe	Скриня Арета
+Kufer Jona	Скриня Йона
+Kosz na śmieci	Кошик для сміття
+Sarkofag	Саркофаг
+Arena	Арена
+Skrzynia z pancerzami	Скриня з обладунками
+Przebrany krzak winogron	Обірваний кущ винограду
+Dorodny krzak winogron	Великий кущ винограду
+Tablica ogłoszeń	Дошка оголошень
+Szczurza nora	Щюряча нора
+Beczka	Бочка
+Warsztat	Верстак
+Skrzynia	Дерев'яна скриня
+Kufer Salviego	Скриня Сальві
+Hamak	Гамак
+Skrzynia z rybami	Ящик з рибою
+Obraz	Картина
+Skrzynia ludzi Volkera	Скриня людей Волкера
+Beczka z wodą	Бочка з водою
+Obmyj się	Вмитися
+Skrzynia Dacka	Скриня Дака
+Posąg Adanosa	Вівтар Аданоса
+Stół do pisania	Письмовий стіл
+Wyeksploatowane złoże	Вичерпане родовище
+Obfite złoże	Багате родовище
+Dziennik badań, tom I	Дослідницький журнал. Том I
+Kufer Einara	Скриня Ейнара
+Kufer Davisa	Скриня Девіса
+Kufer Gerstanda	Скриня Герстанда
+Beczka fortuny	Бочка удачі
+Złoże żelaza	Родовище заліза
+Obalone drzewo	Повалене дерево
+Wyeksploatowane drzewo	Виснажене дерево
+Złoże srebra	Родовище срібла
+Złoże magicznej rudy	Родовище магічної руди
+Stara skrzynia	Стара скриня
+Ciosaj Innosy	Тесати Інносів
+Zakop grób	Закопати могилу
+Odkop grób	Розкопати могилу
+Zbierz krew	Зібрати кров
+Schowaj się w beczce	Сховатись у бочці
+Przesuń skrzynie	Перемістити ящики
+Otwórz trumnę	Відкрити труну
+Odbierz rzeczy	Забрати предмети
+Przeszukaj krzaki	Шукати кущі
+Podpal beczkę	Підпалити діжку
+Zniszcz beczkę	Розламати діжку
+Zniszcz skrzynkę	Розламати ящик
+Poszukaj skarbu	Шукати скарб
+Zacznij kopać	Почати копати
+Przybij ogłoszenie	Прибити оголошення
+Włóż miecz	Опустити меч
+Kopnij	Стусан
+Rozpal ognisko	Розпалити багаття
+Zetnij	Зрубати
+Usiądź przy ognisku	Сісти біля багаття
+Przesuń łódkę	Перевернути човен
+Ugaś ogień	Загасити вогонь
+Zacznij pracować	Приступити до роботи
+Podłóż kości	Покласти кістки
+Rozlej krew	Змастити кров'ю
+Zniszcz gniazdo	Знищити гніздо
+Zasadź nasiona	Посадити насіння
+'Dopraw' potrawkę Bertera	'Приправити' страву Бертера
+Popchnij armatę	Штовхати гармату
+Podpal wóz	Підпалити візок
+Przygotuj pułapkę	Підготувати пастку
+Podłóż beczkę	Поставити діжку
+Otwórz drzwi	Відкрити двері
+Podłóż skrzynkę	Покласти скриньку
+Wejdź do beczki	Залізти в бочку
+Zbadaj deski	Оглянути дошки
+Zbadaj linę	Оглянути мотузку
+Zbadaj kamienie	Оглянути каміння
+Zbadaj tarcze	Оглянути щити
+Zbadaj znak	Оглянути знак
+Zbadaj stertę książek	Оглянути стопку книг
+Zbadaj worki	Оглянути мішки
+Zbadaj kocioł	Оглянути котел
+Zbadaj wina	Оглянути вина
+Zbadaj kufer	Оглянути скриню
+Zetnij krzaki	Скосити кущі
+Przygotuj krzaki	Підготувати кущі
+Podpal skrzynię	Підпалити скриньку
+Zatruj zapasy	Отруїти запаси
+Zapal pochodnię	Запалити смолоскип
+Usiądź przy stole	Сісти за стіл
+Schowaj ciało	Сховати тіло
+Urządź dom	Прикрасити будинок
+Zniszcz skrzynię z narzędziami	Знищити скриньку з інструментами
+Wylej wabik na szczury	Вилийте приманку на щурів
+Zabierz wielki kocioł	Взяти великий котел
+Przeszukaj worki	Обшукати мішки
+Napraw palisadę	Полагодити частокіл
+Pchaj wóz	Штовхнути віз
+Przeszukaj ognisko	Оглянути багаття
+Wycinaj skórę niedźwiedzia	Вирізати шкуру ведмедя
+Zniszcz łódkę Svena	Пошкодити човен Свена
+Zniszcz łódkę Harolda	Пошкодити човен Гарольда
+Zarzuć wędkę	Порибалити
+Przesuń słomę dla Kyle'a	Підстелити солому для Кайла
+Ustaw drabinę dla Kyle'a	Встановити сходи для Кайла
+Napraw dach	Відремонтувати дах
+Przewróć książkę	Перекинути книгу
+Napij się mikstury	Випити зілля
+Spróbuj otworzyć drzwi	Спробувати відчинити двері
+Wylej wiadro wody	Вилити відро води
+Odłóż wino	Поставити вино
+Półka z winem	Винна полиця
+Wrzuć perły	Кинути перли
+Spal ciało	Спалити тіло
+Wystrugaj wiosło	Зробити весло
+Przeszukaj	Шукати
+Naciśnij przycisk	Натиснути на кнопку
+Otwórz wrota	Відкрити браму.
+Pociągnij za dźwignię	Потягнути важіль
+Alchemia	Алхімія
+Astronomia	Астрономія
+Historia	Історія
+Literatura piękna	Фікція
+Magia	Магія
+Flora	Флора
+Fauna	Фауна
+Religia	Релігія
+Skórzany mieszek	Шкіряний мішечок
+Mikstura	Зілля
+Zestrzel kamyk	Вистрілити в камінь
+Strzel w głowę niedźwiedzia	Вистрілити в голову ведмедя
+Strzel w cel	Вистрілити в ціль
+Strzel w deski	Вистрілити у дошки
+Strzel w podobiznę	Вистрілити у барельєф
+Zwłoki	Труп
+Szkielet	Скелет
+Zwłoki Finbara	Труп Фінбара
+Zwłoki górnika	Труп рудокопа
+Zbadaj zwłoki	Оглянути труп
+Zwłoki Hoda	Труп Хода
+Zwłoki Normana	Труп Нормана
+Zwłoki Caramona	Труп Карамона
+Zwłoki Lorenzo	Труп Лоренцо
+Zwłoki Ruuda	Труп Рууда
+Zwłoki Vrazki	Труп Вразкі
+Zwłoki Ruperta	Труп Руперта
+Zwłoki Maiwen	Труп Мейвен
+Zwłoki Darryla	Труп Дерріла
+Zwłoki Saula	Труп Сола
+Zwłoki	Труп
+Zwłoki Malena	Труп Малена
+Zwłoki agitatora Gerharda	Труп агітатора Герхарда
+Zwłoki posłańca	Труп коваля
+Truchło brzytwy	Мертвий бритвозуб
+Zwłoki Tilla	Труп Тілля
+Zwłoki Ursa	Труп Урса
+Zwłoki Flory	Труп Флори
+Zwłoki Timo	Труп Тімо
+Zwłoki Lei	Труп Леї
+Zwłoki Rudiego	Труп Руді
+Zwłoki Allana	Труп Аллана
+Zwłoki Sigunda	Труп Сігунда
+Zwłoki Oscara	Труп Оскара
+Zwłoki Vicenta	Труп Вісенте
+Zwłoki Burkharda	Труп Буркхарда
+Zwłoki Dinkiela	Труп Дінкеля
+Zwłoki Roela	Труп Роела
+Zwłoki Hilgera	Труп Хільгера
+Zwłoki Harolda	Труп Харольда
+Zwłoki Bolesa	Труп Болеса
+Zwłoki Feila	Труп Феїла
+Zwłoki Gaura	Труп Гаура
+Zwłoki Bevina	Труп Бевіна
+Zwłoki Arsa	Труп Арса
+Zwłoki łuczarza	Труп лучника
+Zwłoki Kurta	Труп Курта
+Zwłoki Garosa	Труп Гароса
+Zwłoki Oktava	Труп Октава
+Zwłoki Fridy	Труп Фріди
+Zwłoki Davisa	Труп Девіса
+Zwłoki Fulko	Труп Фулко
+Zwłoki Ingora	Труп Інгора
+Zwłoki Odgara	Труп Одгара
+Zwłoki Weigara	Труп Вейгара
+Zwłoki Winstana	Труп Вінстана
+Pod Kretoszczurem - Karczma	У Кротощура – Корчма
+Syreni Lament - Karczma	Плач Сирени – Корчма
+Pęknięta Struna - Karczma	Обірвана Струна – Корчма
+Siostrzany Kociołek - Pracownia zielarska	Сестринський Казан – Майстерня травника
+Krwawy Odwet - Rzeźnia	Кривава Відплата – Бойня
+Złote Wrota - Sklep z różnościami	Золоті Ворота – 1000 Дрібниць
+Na Tropie Bestii - Sklep łuczarski	По Сліду Звіра – Майстерня лучника
+Kryjówka Korsarzy - Hotel	Схованка Корсара – Готель
+Zew Ognia - Piekarnia	Поклик Вогню – Пекарня
+Mroczny Paladyn - Browar	Темний Паладин – Перша приватна броварня
+Trzech Marynarzy - Pracownia pisarska	Три Моряки - Писарська контора
+Czas Decyzji - Urząd	Час Рішень – Офіс
+Kuchnia Urycha - Kantyna	Кухня Уріха – Їдальня
+Odłamek Świata - Zakład alchemiczny	Уламок Світу – Крамниця алхіміка
+Insygnia - Pracownia krawiecka	Вищий Гатунок – Швейна майстерня
+Wielka Wojna - Zakład płatnerski	Велика Війна – Майстерня зброяра
+Czas Zapłaty - Lombard	Час Розплати – Ломбард
+Trzeci Wojownik - Pracownia kowalska	Третій Воїн – Майстерня коваля
+Z Życia Złodzieja - Pracownia ślusarska	З Життя Злодія – Слюсарна майстерня
+Cienie Przeszłości - Muzeum	Тіні Минулого – Музей
+Laguna - Łaźnia	Лагуна – Лазня
+Dolina Złota - Pracownia jubilerska	Золота Долина – Ювелірна майстерня
+Gwiazda Polarna - Pracownia astrologa	Полярна Зоря – Астрологічна майстерня
+Austeria Ernesto - Karczma	Аустерія Ернесто – Готель
+Dolina Świtu - Sklep meblowy	Долина Світанку – Меблевий магазин
+Odyseja - Kartograf	Одіссея – Картограф
+Mroczne Tajemnice - Zamtuz	Темні Секрети – Будинок розпусти
+Zdarzenie Na Morzu - Stocznia	Випадок у Морі – Корабельня
+Ostatnie Starcie - Pracownia kowalska	Останнє Зіткнення – Майстерня коваля
+Podróżnik - Sklep z różnościami	Мандрівник – 1000 Дрібниць
+Na Uchodźstwie - Zakład łuczarski	У Вигнанні – Майстерня лучника
+Wojna Żywiołów - Pracownia cyrulika	Війна Стихій – Перукарня
+Dom Lokvara	Будинок Локвара
+Piekarnia	Пекарня
+Rzeźnik	М'ясник
+Kowal	Коваль
+Warsztat łuczarski	Майстерня лучника
+Do pasieki	До пасіки
+Do miasta	До міста
+Do zamku	До фортеці
+Do winnicy	До виноградників
+Do farmy Bermara	До ферми Бермара
+Do obozu Pszczelarzy	До табору бджолярів
+Do Ustroni Żeglarza	До Притулку Моряка
+Do Bursztynowego Wybrzeża	До Бурштинового Узбережжя
+Do wschodniej bramy miasta	До східних міських воріт
+Do winnicy Valerio	До виноградника Валеріо
+Do wioski Silbach	До села Сільбах
+Do zachodniej bramy miasta	До західних міських воріт
+Do Vardhal	До Вардхалу
+Do kopalni Gildii Kupieckiej	До копальні Гільдії купців
+Do klasztoru Magów Wody	До монастиря магів води
+Do Mglistych Moczar	До Туманних Боліт
+Do Kopalni Królewskiej	До Королівської Шахти
+Do Wilczego Leża	До Вовчого Лігва
+Do obozu drwali	До табору лісорубів
+Do obozu węglarzy	До табору вугільників
+Do winnicy Rity	До виноградника Ріти
+Do wieży sygnałowej	До сигнальної вежі
+Do Wybrzeża Topielców	До берега Луркерів
+Do południowego bagna	До південного болота
+Do bramy zachodniej	До західних воріт
+Do bramy wschodniej	До східних воріт
+Do kantoru Gildii Kupieckiej	До торгового посту Гільдії торговців
+Do kościoła Innosa	До храму Інноса
+Do Dzielnicy Rzemieślników	До Кварталу ремісників
+Do koszar miejskich	До міських казарм
+Do Starego Miasta	До Старого міста
+Koszary miejskie, Stare Miasto	Міські казарми, Старе місто
+Do portu wschodniego	До східної частини порту
+Do portu zachodniego	До західної частини порту
+Do kaplicy Adanosa	До храму Аданоса
+Do stoczni	До корабельні
+Do Targu Rybnego	До рибного ринку
+Stocznia, Targ Rybny	Корабельня, рибний ринок
+Do tawerny 'Syreni Lament'	До корчми 'Плач Сирени'
+Do Mrocznych Tajemnic	До Темних Таємниць
+Tawerna 'Syreni Lament', Mroczne Tajemnice	Корчма 'Плач сирени', Темні Секрети
+Do Targowiska	До ринкової площі
+Do ratusza miejskiego	До Ратуші
+Do biura skryby miejskiego	До міської писарської контори
+Do 'Pękniętej Struny'	До 'Обірваної струни'
+Zejście do kanałów	Вхід в каналізацію
+Wyjście do miasta - Gildia Kupiecka	Вихід до міста – Гільдія Купців
+Wyjście do miasta - Targowisko	Вихід до міста – Ринкова площа
+Wyjście do miasta - Dzielnica Rzemieślników	Вихід до міста – Квартал ремісників
+Wyjście do miasta - Port	Вихід до міста - Гавань
+Północna brama	Північні ворота
+Wschodnia brama	Східні ворота
+Zachodnia brama	Західні ворота
+Południowa brama	Південні ворота
+Uwaga!	Увага!
+Niebezpieczeństwo!	НЕБЕЗПЕКА!
+Sir William, Pan Silbach	Сер Вільям, лорд Зільбаха
+Lady Aldona, Pani Silbach	Леді Альдона, леді Зільбаха
+Hendrik	Хендрік
+Flora	Флора
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Nieznany	Невідомий
+Biedak	Бідняк
+Żebrak	Жебрак
+Biedaczka	Біднячка
+Pijak	П'яниця
+Pijaczka	П'яниця
+Żona Albyna	Дружина Альбіна
+Łaziebnik	Завідувач лазні
+Ochroniarz	Охоронець
+Alchemik	Алхімік
+Szmugler	Койот
+Przemytnik	Контрабандист
+Starzec	Старець
+Agitator	Агітатор
+Astrolog	Астролог
+Buntowniczy obywatel	Бунтар
+Nierozgarnięty obywatel	Похмурий громадянин
+Wściekły obywatel	Сердитий громадянин
+Wściekła obywatelka	Сердита громадянка
+Ogrodnik	Садівник
+Wściekły rybak	Сердитий рибалка
+Wściekły farmer	Сердитий фермер
+Pracownik dźwigu	Кранівник
+Człowiek Volkera	Людина Волкера
+Zbir	Головоріз
+Osiłek	Здоровань
+Bandzior	Бандит
+Włóczęga	Волоцюга
+Bezdomny	Безхатько
+Oślepiony	Сліпий
+Podejrzany typ	Підозрілий чоловік
+Podejrzany obywatel	Підозрілий громадянин
+Tajemniczy osobnik	Загадковий чоловік
+Nieznajomy	Незнайомець
+Handlarz	Торговець
+Kupiec	Торговець
+Tajemniczy kupiec	Загадковий торговець
+Wędrowny kupiec	Мандрівний торговець
+Wędrowna handlarka	Мандрівна торговка
+Podejrzana handlarka	Підозріла торговка
+Zagadkowy wędrowiec	Загадковий мандрівник
+Wędrowiec	Мандрівник
+Podróżnik	Подорожній
+Kurier	Кур'єр
+Kopidół	Гробар
+Pięściarz	Боксер
+Nałogowy palacz	Завзятий курець
+Hiena cmentarna	Розкрадач могил
+Przywódca hien cmentarnych	Ватажок розкрадачів могил
+Człowiek Ramseya	Людина Рамзі
+Wilczy Syn	Вовчий Син
+Pijany Wilczy Syn	П'яний Вовчий Син
+Szalony Wilczy Syn	Скажений Вовчий Син
+Zmartwiona obywatelka	Стурбована громадянка
+Rozgniewana obywatelka	Сердита громадянка
+Adorator	Шанувальник
+Goniec Araxos	Перевізник Араксос
+Przewoźnik	Перевізник
+Przewodnik	Провідник
+Strażnik Starego Miasta	Вартовий Старого Міста
+Muzykant	Музикант
+Rekrut	Рекрут
+Złodziej	Злодій
+Złodziej-partacz	Злодій-новачок
+Uchodźca	Біженець
+Uchodźczyni	Біженка
+Pijany marynarz	П'яний моряк
+Marynarz	Моряк
+Domokrążca	Бродячий торговець
+Poborca podatkowy	Колектор
+Rybak	Рибалка
+Kurtyzana	Куртизанка
+Gwardzista	Гвардієць
+Opiekun slumsów	Здоровань з гетто
+Południowiec	Житель півдня
+Nordmarczyk	Нордмарець
+Łysy facet	Лисий чоловік
+Recepcjonista	Адміністратор
+Mag Ognia	Маг Вогню
+Mag Wody	Маг Води
+Szanowany obywatel	Шанований громадянин
+Ambitny nowicjusz	Амбітний послушник
+Aktywny nowicjusz	Активний послушник
+Dziwny nowicjusz	Дивний послушник
+Mistrz gry	Майстер гри
+Lichwiarz	Лихвар
+Szaleniec	Божевільний
+Krawiec	Кравець
+Instruktor	Інструктор
+Szczurołap	Щуролов
+Pobity farmer	Побитий фермер
+Pobita farmerka	Побита фермерка
+Handlarz różności	Продавець всякої всячини
+Połykacz ognia	Пожирач вогню
+Błazen	Блазень
+Stary rybak	Старий рибалка
+Pijany rybak	П'яний рибалка
+Podpity rybak	Нетверезий рибалка
+Sprzedawca ryb	Торговець рибою
+Rybny kupiec	Торговець рибою
+Gorliwy wyznawca	Ревний віруючий
+Grabarz	Гробар
+Kopacz	Рудокоп
+Stary dziwak	Старий дивак
+Kronikarz	Літописець
+Tajemniczy Leonzo	Загадковий Леонцо
+Kat	Кат
+Handlarz jabłek	Торговець яблуками
+Wdowa	Вдова
+Zaginiony rybak	Зниклий рибалка
+Węglarz	Вугляр
+Drwal	Лісоруб
+Podróżny	Подорожній
+Pasterz	Вівчар
+Łowca	Мисливець
+Myśliwy	Загонич
+Łotr	Лиходій
+Wartownik	Вартовий
+Nerwowy mężczyzna	Нервовий чоловік
+Wyjątkowo podejrzany mężczyzna	Вкрай підозрілий чоловік
+Duży Ben	Біг Бен
+Lutniarz	Лютняр
+Pszczelarz	Пасічник
+Stary Liam	Старий Ліам
+Renegat	Відступник
+Herszt	Ватажок
+Zbieg	Втікач
+Pogromca Polnych Bestii	Приборкувач Польових Хижаків
+Przeor Regen	Настоятель Реген
+Strapiony mężczyzna	Стурбований чоловік
+Hałaśliwy farmer	Галасливий фермер
+Garnek	Горщик
+Rozbitek	Робінзон
+Mówca	Оповісник
+Słuchacz	Слухач
+Płatnerz	Зброяр
+Stolarz	Столяр
+Łowca nagród	Мисливець за головами
+Pies gończy	Мисливський пес
+Lider grupy	Лідер групи
+Asystent Fulko	Помічник Фулько
+Więzień	Ув'язнений
+Desperat	Зневірений
+Ranny strażnik	Поранений вартовий
+Podejrzany uchodźca	Підозрілий біженець
+Uwięziona dziewczyna	Ув'язнена дівчина
+Wystraszona dziewczyna	Налякана дівчина
+Manekin	Манекен
+Stary pies	Старий пес
+Kowal	Коваль
+Kowal piratów	Коваль піратів
+Kusznik	Арбалетник
+Szermierz	Мечник
+Strażnik skrzyń	Охоронець ящиків
+Ranny uchodźca	Поранений біженець
+Ranna uchodźczyni	Поранена біженка
+Dziwny facet	Дивний чоловік
+Miłośnik gier	Любитель ігор
+Stary farmer	Старий фермер
+Uciekinier	Втікач
+Podejrzana obywatelka	Підозріла громадянка
+Człowiek z blizną	Людина зі шрамом
+Osobliwy obywatel	Незвичайний громадянин
+Dziwny kucharz	Дивний кухар
+Pijany bezdomny	П'яний безхатько
+Biedna wdowa	Бідна вдова
+Siepacz	Сіпач
+Duch	Дух
+Zjawa	Примара
+Sprzątaczka	Покоївка
+Piekarz	Пекар
+Herold	Вісник
+Człowiek Holdwiga	Людина Гольдвіга
+Człowiek Andreasa	Людина Андреаса
+Widz	Глядач
+Zmartwiony obywatel	Стурбований громадянин
+Zaniepokojony obywatel	Занепокоєний громадянин
+Śliskoręki	Слизькорук
+Mokry	Мокриня
+Siekiernik	Сокирник
+Mytnik	Колектор
+Kanalarze	Каналізаційники
+Kanalarz	Каналізаційник
+Zbuntowany nowicjusz	Бунтівний послушник
+Zimny	Мороз
+Hiena	Гієна
+Wdowa	Вдова
+Puma	Пума
+Prorok	Пророк
+Wierny proroka	Послідовник пророка
+Wściekły dzik	Скажений кабан
+Przerośnięty ścierwojad	Падальник-переросток
+Tłuścioch	Товстун
+Twardziel	Міцний хлопець
+Krwiożerca	Кровосос
+Lodowy wilk	Крижаний вовк
+Lodowe wilki	Крижані вовки
+Niedźwiedź albinos	Ведмідь-альбінос
+Śpiący cieniostwór	Сплячий мракорис
+Chore szczury	Хворі щурі
+Chory szczur	Хворий щур
+Kryształowy golem	Кришталевий голем
+Trolle górskie	Гірські тролі
+Troll górski	Гірський троль
+Smoki	Дракони
+Smok	Дракон
+Niepokojąca bestia	Тривожний звір
+Szabrownik	Мародер
+Łowca trolli	Мисливець на тролів
+Urzędnik	Клерк
+Kucharz	Кухар
+Sprzedawca	Продавець
+Dziewczyna	Дівчина
+Zdezorientowany farmer	Розгублений фермер
+Biedny farmer	Бідний фермер
+Osadniczka	Поселенка
+Ork-kusznik	Орк-арбалетник
+Ork-elita	Елітний орк
+Ork-herszt	Вождь орків
+Ork-zwiadowca	Орк-розвідник
+Ork-szaman	Орк-шаман
+Ork-wojownik	Орк-воїн
+Ork	Орк
+Niedźwiedź	Ведмідь
+Czarny niedźwiedź	Чорний ведмідь
+Niedźwiedź Baesa	Ведмідь Байса
+Biały niedźwiedź	Білий ведмідь
+Oślizgły jaszczur	Слизький ящір
+Owca	Вівця
+Jagnię	Ягня
+Baran	Баран
+Jaszczur	Ящір
+Bagienny jaszczur	Болотний ящір
+Wielki nietoperz	Гігантський кажан
+Krwiopijca	Шершень
+Mały krwiopijca	Молодий шершень
+Bagienny krwiopijca	Болотний шершень
+Rzeczny krwiopijca	Річковий шершень
+Błotniak	Болотна черепаха
+Cieniostwór	Мракорис
+Młody cieniostwór	Молодий мракорис
+Olbrzymi szczur	Гігантський щур
+Młody olbrzymi szczur	Молодий гігантський щур
+Czarny szczur	Чорний щур
+Młody czarny szczur	Молодий чорний щур
+Topielec	Луркер
+Stary topielec	Старий луркер
+Wygłodniały topielec	Голодний луркер
+Topielec morski	Морський луркер
+Krab	Краб
+Harpia	Гарпія
+Harpia Alice	Гарпія Аліси
+Czarna harpia	Чорна гарпія
+Pełzacz	Повзун
+Pełzacz-truteń	Повзун-трутень
+Pełzacz-wojownik	Повзун-воїн
+Pełzacz-żołnierz	Повзун-солдат
+Pełzacz królewski	Королівський повзун
+Zębacz	Снеппер
+Przerośnięty zębacz	Снеппер-переросток
+Szkielet-wojownik	Скелет-воїн
+Szkielet	Скелет
+Szkielet-skrytobójca	Скелет-вбивця
+Pomniejszy szkielet	Малий скелет
+Szkielet-łucznik	Скелет-лучник
+Szkielet-kusznik	Скелет-арбалетник
+Przyzwany szkielet	Викликаний скелет
+Pomniejszy szkielet	Малий скелет
+Szkielet-zwiadowca	Скелет-розвідник
+Szkielet-goblin	Скелет-гоблін
+Przeklęty szkielet-goblin	Проклятий скелет-гоблін
+Przyzwany zębacz	Викликаний снеппер
+Przeklęty zębacz	Проклятий снеппер
+Przyzwany niedźwiedź	Викликаний ведмідь
+Przyzwany szkielet-goblin	Викликаний скелет-гоблін
+Polna bestia	Польовий хижак
+Młoda polna bestia	Молодий польовий хижак
+Leśna bestia	Лісовий хижак
+Czarna leśna bestia	Чорний лісовий хижак
+Ścierwojad	Падальник
+Młody ścierwojad	Молодий падальник
+Chory ścierwojad	Хворий падальник
+Wycieńczony ścierwojad	Виснажений падальник
+Szczur	Щур
+Ogonek	Хвостик
+Upadły Paladyn	Полеглий паладин
+Szkielet-paladyn	Скелет-паладин
+Wąż morski	Хвилежер
+Młody wąż morski	Молодий хвилежер
+Wąż błotny	Болотожер
+Arcydemon	Архідемон
+Demon	Демон
+Martwy demon	Мертвий демон
+Przyzwany demon	Викликаний демон
+Kamienny golem	Кам'яний голем
+Przyzwany golem	Викликаний голем
+Przebudzony golem	Пробуджений голем
+Brzytwiak	Бритвозуб
+Opancerzony brzytwiak	Броньований бритвозуб
+Chrząszcz	М'ясний жук
+Wilk	Вовк
+Młody wilk	Молодий вовк
+Ranny wilk	Поранений вовк
+Głodny wilk	Голодний вовк
+Głodny czarny wilk	Голодний чорний вовк
+Młody głodny wilk	Молодий голодний вовк
+Przywódca stada	Ватажок зграї
+Przyzwany wilk	Викликаний вовк
+Szkielet Wilczego Syna	Скелет Вовчого Сина
+Strażnik grobowca	Страж склепу
+Szkielet-mag	Скелет-маг
+Nieumarły mag bitewny	Бойовий маг-нечисть
+Nieumarły władca	Лорд нечисть
+Dzik	Кабан
+Młody dzik	Молодий кабан
+Bagienny truteń	Болотний трутень
+Ściekowy truteń	Каналізаційний трутень
+Zombie	Зомбі
+Bagienne zombie	Болотний зомбі
+Kretoszczur	Кротощур
+Młody kretoszczur	Молодий кротощур
+Lodowy golem	Крижаний голем
+Cmentarny golem	Могильний голем
+Przebudzony golem	Пробуджений голем
+Przeklęty golem	Проклятий голем
+Magiczny golem	Магічний голем
+Troll	Троль
+Przeklęty troll	Проклятий троль
+Młody troll	Молодий троль
+Młody troll jaskiniowy	Молодий печерний троль
+Troll jaskiniowy	Печерний троль
+Troll bagienny	Болотний троль
+Snopek siana	Копиця сіна
+Czarny goblin	Чорний гоблін
+Gobliński wojownik	Гоблін-воїн
+Goblin	Гоблін
+Gargulec	Гаргулья
+Ognik	Примарний вогник
+Orkowy pies	Орчий гончак
+Polny pełzacz	Богомол
+Polny pełzacz-wojownik	Богомол-воїн
+Warg	Варг
+Czarny wilk	Чорний вовк
+Przeklęty wilk	Проклятий вовк
+Bagienny golem	Болотний голем
+Bagienny szczur	Болотний щур
+Smoczy zębacz	Драконячий снеппер
+Ognisty jaszczur	Вогняний ящір
+Szkielet-cieniostwór	Скелет мракориса
+Królowa pełzaczy	Королева повзунів
+Larwa pełzacza	Личинка повзуна
+Młody pełzacz	Молодий повзун
+Aligator	Алігатор
+Stary szkielet-mag	Старий скелет-маг
+Żaboludź	Жаболюд
+Larwa	Личинка
+Glizda	Черв'як
+Kolczasty aligator	Колючий алігатор
+Kamienny strażnik	Кам'яний страж
+Tomczak - 'Who's laughing now?'	Tomczak – 'Ну і хто теперь сміється?'
+Pawłoch - 'Mówiłem od razu, że znam Willema!'	Pawloch – 'Я ж казав, що знаю Віллема!'
+Szmyk - 'Hello World!'	Szmyk – 'Hello World!'
+Rychu - Czujesz bryłę?	Rychu – 'Відчуваєш грудку?'
+Komuch - ten świat wymaga poprawek, normalnie	Komuch – 'Цей світ потрібно допрацьовувати, насправді'
+Skóra błotniaka	Шкіра болотної черепахи
+Skóra niedźwiedzia	Шкура ведмедя
+Skóra żarłocznego niedźwiedzia	Шкура ненажерливого ведмедя
+Skóra czarnego niedźwiedzia	Шкура чорного ведмедя
+Skóra niedźwiedzia albinosa	Шкура ведмедя-альбіноса
+Barania skóra	Овеча шкура
+Skóra jagnięcia	Шкура ягняти
+Skóra młodego dzika	Шкура молодого кабана
+Skóra bagiennego trolla	Шкура болотного троля
+Skóra jaskiniowego trolla	Шкура печерного троля
+Skóra szczura	Шкура щура
+Skóra czarnego szczura	Шкура чорного щура
+Skóra kretoszczura	Шкіра кротощура
+Skóra młodego kretoszczura	Шкіра молодого кротощура
+Skóra bagiennego szczura	Шкура болотного щура
+Skóra przywódcy stada	Шкура ватажка зграї
+Skóra lodowego wilka	Шкура крижаного вовка
+Skóra pustynnego wilka	Шкура пустельного вовка
+Skóra orkowego psa	Шкура орчого гончака
+Skóra czarnego wilka	Шкура чорного вовка
+Skóra psa	Шкура собаки
+Kły morskiego węża	Зуби хвилежера
+Pazur morskiego topielca	Кігті морського луркера
+Łój kretoszczura	Жир кротощура
+Sadło bagiennego szczura	Жир болотного щура
+Niedźwiedzie sadło	Жир ведмедя
+Żuwaczki leśnej bestii	Жвала лісового хижака
+Stary róg cieniostwora	Старий ріг мракориса
+Jajo ścierwojada	Яйце падальника
+Jajo pełzacza	Яйце повзуна
+Skorupa błotniaka	Панцир болотної черепахи
+Skorupa kraba	Панцир краба
+Kość Fane'a	Кістка Фейна
+Trucizna bagiennego trutnia	Отрута болотного трутня
+Skrzydła bagiennego trutnia	Крила болотного трутня
+Skrzydło bagiennego krwiopijcy	Крила болотного шершня
+Serce bagiennego golema	Серце болотного голема
+Serce cmentarnego golema	Серце могильного голема
+Serce kamiennego golema	Серце кам'яного голема
+Serce ognistego golema	Серце вогняного голема
+Serce lodowego golema	Серце крижаного голема
+Serce magicznego golema	Серце магічного голема
+Serce przeklętego golema	Серце проклятого голема
+Serce gargulca	Серце гаргульї
+Kieł dzika	Ікло кабана
+Język jaszczura	Язик ящера
+Głowa polnego pełzacza	Голова богомола
+Owcza skóra	Овеча шкура
+Skóra wilka	Шкура вовка
+Żuwaczki polnej bestii	Жвала польового хижака
+Pazury	Кігті
+Pazur topielca	Кігті луркера
+Kły	Ікла
+Żuwaczki pełzacza	Жвала повзуна
+Skrzydła krwiopijcy	Крила шершня
+Żądło	Жало
+Skóra topielca	Шкіра луркера
+Skóra warga	Шкура варга
+Skóra dzika	Шкура кабана
+Róg smoczego zębacza	Ріг драконячого снеппера
+Płyty pancerza pełzacza	Пластини панциря повзуна
+Skóra cieniostwora	Шкура мракориса
+Skóra błotnego węża	Шкіра болотожера
+Skóra trolla	Шкура троля
+Skóra czarnego trolla	Шкура чорного троля
+Język ognistego jaszczura	Язик вогняного ящера
+Róg cieniostwora	Ріг мракориса
+Kieł trolla	Ікло троля
+Kieł błotnego węża	Зуби болотожера
+Kość goblina	Кістка гобліна
+Kość szkieletu	Кістка скелета
+Serce demona	Серце демона
+Skóra wściekłego dzika	Шкура скаженого кабана
+Skóra Tłuściocha	Шкура Товстуна
+Skóra śpiącego cieniostwora	Шкура сплячого мракориса
+Skóra chorego szczura	Шкура хворого щура
+Skóra górskiego trolla	Шкура гірського троля
+Skóra smoka	Шкіра дракона
+Można je otworzyć w celu	Їх можна відкрити для того, щоб
+wypicia zawartej w nich wydzieliny,	випити рідину, яка в них міститься,
+która pozwala zregenerować manę.	яка може регенерувати ману.
+Efekt z czasem przemija.	Эфект з часом зникає.
+Zawiera	Містить
+trującą wydzielinę.	отруйну речовину.
+bardzo trującą wydzielinę.	дуже отруйну речовину.
+Mięso o dziwnej konsystencji,	М'ясо з дивною текстурою,
+nie wygląda na pożywne.	не виглядає їстівним.
+Skorupka przyjemnie chrupie.	Скоринка приємно хрустить.
+Bryłka złota	Золотий самородок
+Perła	Перлина
+Czaszka	Череп
+Smyczek wiolonczeli	Смичок для віолончелі
+Bęben	Барабан
+Trąba	Труба
+Pałeczka	Барабанна паличка
+Niebieskie dudy	Синя волинка
+Żółte dudy	Жовта волинка
+Wiolonczela	Віолончель
+Harfa	Арфа
+Lutnia	Лютня
+Rozdrabniacz	Товкач
+Pusta runa	Пуста руна
+Szczypce	Кліщі
+Menzurka	Мензурка
+Młotek	Молоток
+Łyżka	Ложка
+Patelnia	Сковорода
+Piła	Пила
+Surowa stal	Необроблена сталь
+Gorąca stal	Розпечена сталь
+Gorące ostrze	Розпечений клинок
+Ostrze	Клинок
+Miotła	Мітла
+Szczotka	Щітка
+Skręt bagiennego ziela	Самокрутка з болотної трави
+Róg	Ріг
+Bryłka rudy	Рудний самородок
+Złoto	Золото
+Stara moneta	Стара монета
+Złoty świecznik	Золотий підсвічник
+Srebrny świecznik	Срібний підсвічник
+Złoty naszyjnik	Золоте намисто
+Srebrny naszyjnik	Срібне намисто
+Srebrny pierścień	Срібний перстень
+Srebrny puchar	Срібний кубок
+Złoty puchar	Золотий кубок
+Srebrny talerz	Срібна тарілка
+Złoty talerz	Золота тарілка
+Złoty pierścień	Золотий перстень
+Srebrne naczynie	Срібний келих
+Złote naczynie	Золотий келих
+Szkatułka z klejnotami	Скринька з коштовностями
+Skrzyneczka	Скринька
+Posążek Innosa	Статуетка Інноса
+Sekstans	Секстант
+Kompas	Компас
+Siarka	Сірка
+Kwarc	Кварц
+Smoła	Смола
+Skała krystaliczna	Кристалічна порода
+Akwamaryn	Аквамарин
+Woda święcona	Святая вода
+Węgiel	Вугілля
+Czarna perła	Чорна перлина
+Motyka	Сапа
+W środku podzwania kilka monet.	Всередині дзвенять кілька монет.
+Drewniana skrzyneczka	Дерев'яна скринька
+Zniszczona drewniana skrzyneczka	Поломана дерев'яна скринька
+Jabłko	Яблуко
+Ser	Сир
+Szynka	Шинка
+Chleb	Хліб
+Ryba	Риба
+Smażone mięso	Смажене м'ясо
+Gulasz	Гуляш
+Piwo	Пиво
+Ciemne piwo	Темне пиво
+Zupa rybna	Рибний суп
+Kiełbasa	Ковбаса
+Miód	Мед
+Woda	Вода
+Gin	Джин
+Wino	Вино
+Mleko	Молоко
+Butelka czystego spirytusu	Пляшка чистого спирту
+Lokalny bimber	Місцевий самогон
+Ognik	Вогник
+Dola Marynarza	Доля моряка
+Piwo butelkowe	Пляшка пива
+Mocne piwo	Міцне пиво
+Wieloletnie wino Araxos	Багаторічне вино Араксос
+Wieloletnie wino	Багаторічне вино
+Wino z Północnych Krain	Нордмарське вино
+Piwo Wyspiarskie	Острівне Пиво
+Wino Arrazola	Вино Арразоля
+Dziedzictwo Arrazola	Спадщина Арразоля
+Zbożowa starka	Зерновий туманник
+Mroczny Paladyn	Темне паладинске
+Rum	Ром
+Grog	Грог
+Wytrawne wino Ernesto	Сухе вино Ернесто
+Delikatne wino Ernesto	Делікатне вино Ернесто
+Dojrzałe wino Ernesto	Зріле вино Ернесто
+Opus magnum Ernesto	Магнум Опус Ернесто
+Świeże i soczyste!	Свіже і соковите!
+Specjalne piwo od Gerstanda.	Особливе пиво Герстанда.
+Ochrona przed bronią +	Захист від зброї +
+Ochrona przed magią i ogniem +	Захист від магії і вогню +
+Eliksir magicznego potencjału	Еліксир магічного потенціалу
+Esencja many	Есенція мани
+Ulepszona esencja many	Покращена есенція мани
+Ekstrakt many	Екстракт мани
+Ulepszony ekstrakt many	Покращений екстракт мани
+Eliksir many	Еліксир мани
+Ulepszony eliksir many	Покращений еліксир мани
+Pełnia many	Чиста мана
+Ulepszona pełnia many	Покращена чиста мана
+Esencja lecznicza	Цілюща есенція
+Ulepszona esencja lecznicza	Покращена цілюща есенція
+Ekstrakt leczniczy	Цілющий екстракт
+Ulepszony ekstrakt leczniczy	Покращений цілющий екстракт
+Eliksir leczniczy	Цілющий еліксир
+Ulepszony eliksir leczniczy	Покращений цілющий еліксир
+Pełnia życia	Чисте здоров'я
+Ulepszona pełnia życia	Покращене чисте здоров'я
+Eliksir siły	Еліксир сили
+Ulepszony eliksir siły	Покращений еліксир сили
+Eliksir zręczności	Еліксир спритності
+Eliksir ochrony przed magią	Еліксир захисту від магії
+Eliksir życia	Еліксир життя
+Eliksir ducha	Еліксир духу
+Mikstura szybkości	Зілля швидкості
+Długotrwała mikstura szybkości	Довготривале зілля швидкості
+Wywar z niebieskiego bzu	Відвар з синьої бузини
+Ulepszony wywar z niebieskiego bzu	Покращений відвар з синьої бузини
+Eliksir wzmocnienia życia	Еліксир покращення здоров'я
+Eliksir wzmocnienia ducha	Еліксир покращення мани
+Eliksir wzmocnienia siły	Еліксир покращення сили
+Esencja tymczasowej siły	Есенція тимчасової сили
+Eliksir wzmocnienia zręczności	Еліксир покращення спритності
+Eliksir wzmocnienia skóry	Еліксир покращення захисту
+Długotrwały eliksir wzmocnienia życia	Довготривалий еліксир покращення здоров'я
+Długotrwały eliksir wzmocnienia ducha	Довготривалий еліксир покращення мани
+Długotrwały eliksir wzmocnienia siły	Довготривалий еліксир покращення сили
+Długotrwały eliksir wzmocnienia zręczności	Довготривалий еліксир покращення спритності
+Długotrwały eliksir wzmocnienia skóry	Довготривалий еліксир покращення захисту
+Mikstura oddychania pod wodą	Зілля підводного дихання
+Mikstura kamiennej skóry	Зілля кам'яної шкіри
+Mikstura odnowy życia	Зілля відновлення здоров'я
+Mikstura odnowy many	Зілля відновлення мани
+Długotrwała mikstura odnowy życia	Довготривале зілля відновлення здоров'я
+Długotrwała mikstura odnowy many	Довготривале зілля відновлення мани
+Mikstura swobodnego spadania	Зілля вільного падіння
+Lekarstwo dla Jorna	Ліки для Йорна
+Szept Beliara	Шепіт Беліара
+Czysty wywar ze szczawiu królewskiego	Чистий відвар з царського щавлю
+Gildii Kupieckiej Araxos.	Гільдії торговців Араксос.
+Amulet Wilczego Syna	Амулет Вовчого Сина
+Amulet z Archolos	Амулет Архолосу
+Amulet Południowca	Амулет жителя півдня
+Amulet Maga Wody	Амулет мага Води
+Amulet Wodnego Kręgu	Амулет Кільця Води
+Amulet Nordmarczyka	Нордмарскій амулет
+Amulet ognistej skóry	Амулет вогняної шкіри
+Amulet skały	Амулет скелі
+Amulet mocnych kości	Амулет міцних кісток
+Amulet żelaznych kości	Амулет залізних кісток
+Amulet kamiennej skóry	Амулет кам'яної шкіри
+Amulet magicznego pancerza	Амулет магічної броні
+Amulet obrońcy	Амулет захисника
+Amulet ostatniego bastionu	Амулет останнього бастіону
+Amulet zręczności	Амулет спритності
+Amulet akrobaty	Амулет акробата
+Amulet siły	Амулет сили
+Amulet berserkera	Амулет берсерка
+Amulet życia	Амулет життя
+Amulet długowieczności	Амулет довголіття
+Amulet many	Амулет мани
+Amulet magicznej mocy	Амулет магічної сили
+Zapłata od Holdwiga	Плата від Гольдвіга
+Wytrzymała sieć	Міцна рибальська сітка
+Pękata ryba	Велика риба
+Przemoczona wiadomość	Промокле повідомлення
+Dojrzewające wino	Багаторічне вино
+Dziedzictwo Gumberta	Спадщина Гумберта
+Wiadomość od gońca	Повідомлення від гінця
+Butelka podejrzanego wina	Пляшка підозрілого вина
+Mech z kopalni złota	Мох з золотої копальні
+Moje rzeczy	Мої речі
+Chrust	Хмиз
+Glejt Veita	Перепустка Вейта
+Skrzynia pełna ryb	Повна скриня риби
+Skrzynia pełna ryb	Повна скриня риби
+Owcze łajno	Овечий гній
+'Ciasto' z łajna	'Пиріг' з гною
+Kamyk	Камінь
+Kamyk	Камінь
+Lista pracodawców	Перелік роботодавців
+Lista mięs	Перелік м'яса
+Zaświadczenie Slagera	Сертифікат Слагера
+Sakiewka	Гаманець
+Mapa wyspy Archolos	Карта острова Архолос
+Paczka	Пакет
+Głowa	Голова
+Mikstura	Зілля
+Piwo	Пиво
+Piwo	Пиво
+Woda	Вода
+Sieć	Рибальська сітка
+Kufel	Кружка
+'Ciasto' z łajna	'Пиріг' з гною
+Malutka rzepa do animacji	Крихітна ріпа для анімації
+Figurka Ścierwojada	Фігурка падальника
+Jabłko	Яблуко
+Miecz Strażnika	Меч вартового
+Miecz	Меч
+Miecz	Меч
+Miecz	Меч
+Miecz	Меч
+Gorąca stal	Розпечена сталь
+Miecz Wilczego Syna	Меч Вовчого Сина
+Krzyk Wojownika	Крик Воїна
+Piwo	Пиво
+Piwo	Пиво
+Lekarstwo Jorna	Ліки Йорна
+Wino	Вино
+Nalewka dla Guido - Rahma	Настоянка для Гвідо – Рамха
+Nalewka dla Guido - Hershlik	Настоянка для Гвідо – Гершлік
+Posążek Innosa	Статуетка Інноса
+Posążek Innosa	Статуетка Інноса
+Posążek Innosa	Статуетка Інноса
+Piwo	Пиво
+Kosa do pracy	Робоча коса
+Skręt tytoniu	Самокрутка з табаком
+Dziwny pierścień	Дивний перстень
+Skręt mocnego tytoniu	Самокрутка з міцним табаком
+Dziwna moneta	Дивна монета
+Zwój	Сувій
+Złota moneta	Золота монета
+Złota moneta	Золота монета
+Sakiewka	Гаманець
+Zestaw młotków	Набір молотків
+Grudka żelaza	Шматок заліза
+Wino Lutza	Вино для Люца
+Antidotum	Протиотрута
+Sakiewka	Гаманець
+Bełt	Болт
+Zębate ziele	Снеппер трава
+Pióro	Перо
+Narzędzie pracy pisarzy i urzędników.	Інструмент письменників і писарів.
+Można nim również przepisać zwoje.	Ним також можна переписувати сувої.
+Bełt	Болт
+Kusza	Арбалет
+Potion	Настоянка
+Potion	Настоянка
+Menzurka z krwią	Мензурка з кров'ю
+Poduszka	Подушка
+Skóra wilka	Шкура вовка
+Skóra wilka	Шкура вовка
+Skóra wilka	Шкура вовка
+Skóra wilka	Шкура вовка
+Skóra wilka	Шкура вовка
+Skóra wilka	Шкура вовка
+Skóra wilka	Шкура вовка
+Mikstura dla Marvina	Зілля для Марвіна
+Wielki miecz strażnika	Великий меч вартового
+Rozjemca	Миротворець
+Rozjemca	Миротворець
+Beczka do Animacji	Бочка для анімації
+Papier do Animacji	Папір для анімації
+Duża kusza	Великий арбалет
+Rozjemca	Миротворець
+Skalny korzeń	Кам'яний Корінь
+'Zardzewiały' Pancerz straży	'Заіржавілий' обладунок вартового
+Woda	Вода
+Ryba	Риба
+Odrutka	Протиотрута
+Eliksir przemiany L	Еліксир перетворення L
+Eliksir przemiany M	Еліксир перетворення M
+Eliksir przemiany H	Еліксир перетворення H
+Życie tier 2	Цілюща рослина
+Wino	Вино
+Wino	Вино
+Czaszka	Череп
+Perła	Перлина
+Gówno rzut	Гній
+Klucz do domu	Ключ від будинку
+Magiczny flet	Чарівна флейта
+Goblinie jagody	Ягоди гобліна
+Smoczy korzeń	Драконячий корінь
+Butelka wody	Пляшка води
+Sztaba stali	Сталева заготовка
+Patyk	Палка
