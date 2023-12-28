@@ -3399,6 +3399,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Cała ta sprawa z tytoniem wygląda mi na przekręt...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T132616Z" creationid="Aedan" creationdate="20231228T132616Z">
+        <seg>Вся ця історія з табаком схожа на аферу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Całe miasto pogrążone jest w bitwie. Wygląda na to, że Ulryk i Lichwiarz połączyli siły.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231005T093137Z" creationid="Bohdana" creationdate="20231005T093137Z">
@@ -11760,6 +11768,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Gdy później spotkałem Murka, poczułem od niego zapach tego tytoniu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T133015Z" creationid="Aedan" creationdate="20231228T133015Z">
+        <seg>Після зустрічі з Мурком я відчув від нього запах цього табаку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gdy skończysz, wróć do mnie.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T124408Z" creationid="fiercepretzel" creationdate="20230714T124408Z">
@@ -14505,6 +14521,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jak tak dalej pójdzie, to Araxos zostanie z pustą dziurą w ziemi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T133053Z" creationid="Aedan" creationdate="20231228T133053Z">
+        <seg>Якщо так піде і далі, Араксос залишиться з порожньою дірою в землі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jak tam chcesz, panie tajemniczy.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231023T141310Z" creationid="Bohdana" creationdate="20231023T141310Z">
@@ -16515,8 +16539,8 @@
       <tuv lang="pl">
         <seg>Jeśli aż tak chcesz się podlizać strażnikom i kupcom, to czemu po prostu nie zaczniesz szorować im butów, a nam dasz spokój, co?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20231227T145838Z" creationid="Aedan" creationdate="20231227T145838Z">
-        <seg>Якщо ти так хочеш підлизатися до вартових і торговців, чому б тобі не почати чистити їх чоботи і дати нам спокій, а?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20231228T152734Z" creationid="Aedan" creationdate="20231227T145838Z">
+        <seg>Якщо ти так хочеш підлизатися до вартових і торговців, чому б тобі не почати чистити їх чоботи і нарешті дати нам спокій, га?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18223,6 +18247,14 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231220T193749Z" creationid="Aedan" creationdate="20231220T193749Z">
         <seg>Монастирський комплекс є одним з найстаріших на острові. Його будівництво почалося ще за часів Вольфзака, хоча спочатку це мала бути лише невелика капличка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Komuś bardzo zależało, żeby was w to wrobić.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T132811Z" creationid="Aedan" creationdate="20231228T132811Z">
+        <seg>Комусь дуже хотілося тебе підставити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23015,8 +23047,8 @@
       <tuv lang="pl">
         <seg>Myśleliśmy, żeby po prostu wziąć kilofy w dłonie i ruszyć szturmem na dom Igora. Niech wreszcie pokaże się nam na oczy i coś zrobi!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20231226T184056Z" creationid="Aedan" creationdate="20231226T184056Z">
-        <seg>Ми думали просто взяти в руки кирки і піти штурмом дім Ігоря. Нехай він нарешті покажеться нам на очі і зробить щось!</seg>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T132159Z" creationid="Aedan" creationdate="20231226T184056Z">
+        <seg>Ми думали просто взяти в руки кирки і піти штурмом на дім Ігоря. Нехай він нарешті покажеться нам на очі і зробить щось!</seg>
       </tuv>
     </tu>
     <tu>
@@ -27344,8 +27376,8 @@
       <tuv lang="pl">
         <seg>Nie uczę górnictwa za darmo, jeśli nie masz samorodków, to nie marnuj mojego czasu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20231226T180451Z" creationid="Aedan" creationdate="20231226T180451Z">
-        <seg>Я не навчаю видобутку безкоштовно, якщо у вас немає самородків, то не марнуй мій час.</seg>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T130654Z" creationid="Aedan" creationdate="20231226T180451Z">
+        <seg>Я не навчаю видобутку безкоштовно, якщо не маєш самородків, то не марнуй мій час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28264,7 +28296,7 @@
       <tuv lang="pl">
         <seg>Nie. Wracaliśmy z farmy, kiedy nagle z lasu wypadło mnóstwo zwierząt... mówię ci, nigdy czegoś takiego nie widziałem. Dziki, wilki, ścierwojady, wszystkie obok siebie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20231008T173620Z" creationid="Mykytka" creationdate="20231008T003925Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20231228T152227Z" creationid="Mykytka" creationdate="20231008T003925Z">
         <seg>Ні. Ми поверталися з ферми, коли раптом з лісу вибігло багато звірів... кажу тобі, я ніколи не бачив нічого подібного. Кабани, вовки, падальники, всі разом.</seg>
       </tuv>
     </tu>
@@ -30248,8 +30280,8 @@
       <tuv lang="pl">
         <seg>Oczywiście mamy tu pewne problemy i niedogodności, ale póki trzymamy się z chłopakami razem, to da się to jakoś przeżyć.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20231226T180924Z" creationid="Aedan" creationdate="20231226T180924Z">
-        <seg>Звісно, є певні проблеми та незручності, але поки ми з хлопцями тримаємося разом, то якось переживемо.</seg>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T130808Z" creationid="Aedan" creationdate="20231226T180924Z">
+        <seg>Звісно, є певні проблеми та незручності, але поки ми з хлопцями тримаємось разом, то якось переживемо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32360,8 +32392,8 @@
       <tuv lang="pl">
         <seg>Początkowo myśleliśmy, że obejdzie się bez użycia siły. Liczyliśmy, że jeśli w końcu Igor nas wysłucha, to uda nam się dojść do jakiegoś porozumienia.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20231226T182417Z" creationid="Aedan" creationdate="20231226T182417Z">
-        <seg>Спочатку ми думали, що обійдемось без застосування сили. Сподівалися, що якщо Ігор нарешті нас почує, то нам вдасться досягти якихось домовленостей.</seg>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T131130Z" creationid="Aedan" creationdate="20231226T182417Z">
+        <seg>Спочатку ми думали, що обійдемось без застосування сили. Сподівалися, що якщо Ігор нарешті нас почує, і нам вдасться досягти якихось домовленостей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38577,6 +38609,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Strażnicy nie mieli powodu by tracić potencjalne źródło informacji...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T132252Z" creationid="Aedan" creationdate="20231228T132252Z">
+        <seg>Вартові не мали жодного сенсу втрачати потенційне джерело інформації...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Strażnicy przy bramie na sam widok obcych powinni zamknąć wszystkie przejścia. Nawet ludzie Ulryka nie sforsowaliby żelaznej bramy w kilka minut.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231009T084327Z" creationid="Bohdana" creationdate="20231009T082721Z">
@@ -42624,6 +42664,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
         <seg>Толлек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tollek wspominał, że sytuacja pogarsza się od jakiegoś pół roku.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Aedan" changedate="20231228T132438Z" creationid="Aedan" creationdate="20231228T132438Z">
+        <seg>Толлек згадував, що ситуація погіршувалася вже десь пів року.</seg>
       </tuv>
     </tu>
     <tu>
