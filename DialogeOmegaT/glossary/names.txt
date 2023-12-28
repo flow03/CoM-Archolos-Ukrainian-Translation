@@ -140,8 +140,7 @@ Patracjan	Патраціан
 Rahela	Рахела
 Sofia	Софія
 Vlada	Влада
-Dr.	Др.
-Pymonte	Паймонт
+Dr.Pymonte	Др.Паймонт
 Thomas the forger	Томас Вигадник
 The Flail	Флейл
 Unicorn	Юнікорн

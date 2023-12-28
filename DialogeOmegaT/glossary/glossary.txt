@@ -1,21 +1,29 @@
+Topielec	Луркер
 topielce	луркери
-topielce	луркер
 Potęga Równowagi	Сила балансу
 Almanach miar alchemicznych	Альманах алхімічних вимірювань
 Przeor	Настоятель
 Nowicjusz	Послушник
+Wodny Krąg	Кільце Води
 Wodnego Kręgu	Кільця Води
+Krąg Ognia	Коло Вогню
 Wysłannik Królewski	Королівський посол
-Gildia Kupiecka	Гільдія Торговців
 kaplicy	храму
-kręgów magicznych	колам магії
 Wprowadź mnie	Введи мене
+krąg magii	коло магії
 kręgu magii	кола магії
+kręgów magicznych	колам магії
 powstrzymać	зупинити
 ciągle	досі
 nieumarł	нечисть
 kapliczka	вівтар
-kapliczka	вівтар
 górnik	рудокоп
 tyton	табак
 kłamstw	брехні
+krwiopijce	шершні
+Volfzacke	Вольфзак
+Gildia Kupiecka	Торгова Гільдія
+Gildii Kupieckiej	Торгової Гільдії
+Dzielnicy Biedoty	Бідний Квартал
+zębacze	снеппери
+ścierwojady	падальники

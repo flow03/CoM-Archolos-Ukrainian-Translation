@@ -318,7 +318,7 @@ Do winnicy Valerio	До виноградника Валеріо
 Do wioski Silbach	До села Сільбах
 Do zachodniej bramy miasta	До західних міських воріт
 Do Vardhal	До Вардхалу
-Do kopalni Gildii Kupieckiej	До копальні Гільдії купців
+Do kopalni Gildii Kupieckiej	До копальні Торгової Гільдії
 Do klasztoru Magów Wody	До монастиря магів води
 Do Mglistych Moczar	До Туманних Боліт
 Do Kopalni Królewskiej	До Королівської Шахти
@@ -331,9 +331,9 @@ Do Wybrzeża Topielców	До берега Луркерів
 Do południowego bagna	До південного болота
 Do bramy zachodniej	До західних воріт
 Do bramy wschodniej	До східних воріт
-Do kantoru Gildii Kupieckiej	До торгового посту Гільдії торговців
+Do kantoru Gildii Kupieckiej	До торгового посту Торгової Гільдії
 Do kościoła Innosa	До храму Інноса
-Do Dzielnicy Rzemieślników	До Кварталу ремісників
+Do Dzielnicy Rzemieślników	До Ремісничого кварталу
 Do koszar miejskich	До міських казарм
 Do Starego Miasta	До Старого міста
 Koszary miejskie, Stare Miasto	Міські казарми, Старе місто
@@ -353,7 +353,7 @@ Do 'Pękniętej Struny'	До 'Обірваної струни'
 Zejście do kanałów	Вхід в каналізацію
 Wyjście do miasta - Gildia Kupiecka	Вихід до міста – Гільдія Купців
 Wyjście do miasta - Targowisko	Вихід до міста – Ринкова площа
-Wyjście do miasta - Dzielnica Rzemieślników	Вихід до міста – Квартал ремісників
+Wyjście do miasta - Dzielnica Rzemieślników	Вихід до міста – Ремісничий квартал
 Wyjście do miasta - Port	Вихід до міста - Гавань
 Północna brama	Північні ворота
 Wschodnia brama	Східні ворота
@@ -978,7 +978,7 @@ Mikstura swobodnego spadania	Зілля вільного падіння
 Lekarstwo dla Jorna	Ліки для Йорна
 Szept Beliara	Шепіт Беліара
 Czysty wywar ze szczawiu królewskiego	Чистий відвар з царського щавлю
-Gildii Kupieckiej Araxos.	Гільдії торговців Араксос.
+Gildii Kupieckiej Araxos.	Торгової Гільдії Араксос.
 Amulet Wilczego Syna	Амулет Вовчого Сина
 Amulet z Archolos	Амулет Архолосу
 Amulet Południowca	Амулет жителя півдня
