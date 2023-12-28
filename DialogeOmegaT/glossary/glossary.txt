@@ -6,3 +6,16 @@ Przeor	Настоятель
 Nowicjusz	Послушник
 Wodnego Kręgu	Кільця Води
 Wysłannik Królewski	Королівський посол
+Gildia Kupiecka	Гільдія Торговців
+kaplicy	храму
+kręgów magicznych	колам магії
+Wprowadź mnie	Введи мене
+kręgu magii	кола магії
+powstrzymać	зупинити
+ciągle	досі
+nieumarł	нечисть
+kapliczka	вівтар
+kapliczka	вівтар
+górnik	рудокоп
+tyton	табак
+kłamstw	брехні

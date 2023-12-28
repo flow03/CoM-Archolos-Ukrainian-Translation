@@ -1,0 +1,246 @@
+Skrzynia	Ящик
+Kufer	Скриня
+Łóżko	Ліжко
+Drzwi	Двері
+Kowadło	Ковадло
+Wiadro wody	Відро води
+Ogień w kuźni	Ковальський горн
+Osełka	Точильний камінь
+Kołowrót	Лебідка
+Stół alchemiczny	Алхімічний стіл
+Pulpit na książki	Книжковий стенд
+Regał na książki	Книжковий стенд
+Kocioł	Котел
+Patelnia	Сковорідка
+Fajka wodna	Кальян
+Przełącznik	Перемикач
+Bryłka rudy	Шматок руди
+Kuchnia	Плита
+Posąg Innosa	Вівтар Інноса
+Stół runiczny	Рунний стіл
+Drewno do piłowania	Пиляти деревину
+Fotel	Крісло
+Lampa	Лампа
+Biblioteka	Бібліотека
+Samorodek złota	Золотий самородок
+Posąg Beliara	Вівтар Беліара
+Brak przyn.	Без гільдії
+Strażnik	Вартовий
+Obywatel	Горожанин
+Najemnik	Найманець
+Święty płomień	Святе світло
+Pomniejsze uleczenie	Мале зцілення
+Święta strzała	Свята стріла
+Średnie uleczenie	Середнє зцілення
+Szkodzenie złu	Вигнання зла
+Większe uleczenie	Сильне зцілення
+Zniszczenie zła	Знищення зла
+Teleportacja	Телепорт
+Światło	Світло
+Ognista strzała	Вогняна стріла
+Lodowa strzała	Крижана стріла
+Leczenie lekkich ran	Лікування легких поранень
+Tworzenie szkieletu-goblina	Створення скелета-гобліна
+Kula ognia	Вогняна куля
+Porażenie	Мала блискавка
+Przyzwanie wilka	Виклик вовка
+Pięść wichru	Кулак вітру
+Sen	Сон
+Leczenie średnich ran	Лікування середніх поранень
+Mała burza ognista	Мала вогняна буря
+Tworzenie szkieletu	Створення скелета
+Strach	Страх
+Bryła lodu	Крижана брила
+Piorun kulisty	Кульова блискавка
+Błyskawica	Блискавка
+Obudzenie golema	Пробудження голема
+Zniszczenie ożywieńca	Знищення Нечисті
+Duża kula ognia	Велика Вогняна Куля
+Duża burza ognista	Велика Вогняна Буря
+Lodowa fala	Крижана Хвиля
+Przyzwanie demona	Виклик Демона
+Leczenie ciężkich ran	Лікування Важких Поранень
+Deszcz ognia	Вогняний Дощ
+Tchnienie śmierci	Подих Смерті
+Śmiertelna fala	Хвиля Смерті
+Armia ciemności	Армія Темряви
+Zmniejszenie potwora	Зменшення Монстра
+Przemiana w owcę	Перетворення у Вівцю
+Przemiana w ścierwojada	Перетворення в Падальника
+Przemiana w olbrzymiego szczura	Перетворення в Гігантського щура
+Przemiana w polną bestię	Перетворення в Польового хижака
+Przemiana w wilka	Перетворення у Вовка
+Przemiana w jaszczura	Перетворення в Ящера
+Przemiana w zębacza	Перетворення в Снеппера
+Przemiana w warga	Перетворення у Варга
+Przemiana w ognistego jaszczura	Перетворення у Вогняного ящера
+Przemiana w topielca	Перетворення в Луркера
+Przemiana w cieniostwora	Перетворення в Мракориса
+Przemiana w smoczego zębacza	Перетворення в Драконячого снеппера
+Przemiana w chrząszcza	Перетворення в М'ясного жука
+Święty pocisk	Святий Удар
+Powiększenie potwora	Збільшення Монстра
+Fala ognia	Вогняна Хвиля
+Grom	Буря
+Wir	Смерч
+Wodna pięść	Кулак Води
+Lodowa lanca	Крижаний Спис
+Spuchnięcie	Обман
+Gejzer	Гейзер
+Wodna różdżka	Стіна Води
+Plaga owadów	Комашина Чума
+Rój owadów	Комашиний Рій
+Korzeń	Коріння
+Trzęsienie ziemi	Землетрус
+Stworzenie Strażnika	Створення Стража
+Szał Beliara	Гнів Беліара
+Kradzież energii	Викрадення Енергії
+Święty wstrząs	Свята Хвиля
+Stworzenie zombie	Створення Зомбі
+Przyzwanie błotniaka	Виклик Болотної Черепахи
+Spowolnienie	Уповільнення
+Telekineza	Телекінез
+Otwieranie zamków	Зламування замків
+Kwas	Кислота
+Przyzwanie zębacza	Виклик Снеппера
+Przyzwanie niedźwiedzia	Виклик Ведмедя
+Br. 1-ręczna	Одноручне
+Br. 2-ręczna	Дворучне
+Łuki	Луки
+Kusze	Арбалети
+Włamywanie się	Зламування замків
+Pozyskiwanie zasobów	Видобуток ресурсів
+Skradanie się	Підкрадання
+Akrobatyka	Акробатика
+Kradzież kiesz.	Обкрадання
+Kowalstwo	Ковальство
+Tworzenie run	Створення рун
+Alchemia	Алхімія
+Zbieranie trofeów	Збір трофеїв
+Łuczarstwo	Виготовлення луків
+Pisanie zwojów	Переписування сувоїв
+Broń	Зброя
+Pancerz	Обладунок
+Magia	Магія
+Artefakty	Артефакти
+Żywność	Їжа
+Napoje	Зілля
+Pisma	Документи
+Pozostałe	Різне
+Strażnik miejski	Міський вартовий
+Robotnik	Робітник
+Strażnik	Вартовий
+Obywatel	Горожанин
+Obywatelka	Горожанка
+Nowicjusz	Послушник
+Najemnik	Найманець
+Farmer	Фермер
+Farmerka	Фермерка
+Bandyta	Бандит
+Herszt orków	Воєначальник орків
+Pirat	Пірат
+Leśny ścierwojad	Лісовий падальник
+Przywołany zombie	Викликаний зомбі
+Pierścień	Перстень
+Amulet	Амулет
+Mikstura	Зілля
+Runa	Руна
+Zwój	Сувій
+Klucz	Ключ
+Pas	Пояс
+Szarfa	Кушак
+Złoto	Золото
+Wartość	Ціна
+Krąg	Коло
+Wydatek many	Затрати мани
+Min. wydatek many:	Мін. затрати мани:
+Maks. wydatek many:	Макс. затрати мани:
+Mana/sek.	Мани в секунду
+Czas trwania	Тривалість
+Zaklęcie odnawialne	Посилююче закляття
+Zaklęcie stałe	Довготривале закляття
+Obr. broń	Шкода від зброї
+Obr. pociski	Шкода від стріл
+Obr. ogień	Шкода від вогню
+Obr. magia	Шкода від магії
+Obr. wiatr	Шкода від вітру
+Obrażenia	Шкода
+Maksymalne obrażenia	Максимальна шкода
+Sztylet	Кинджал
+Miecz jednoręczny	Одноручний меч
+Topór jednoręczny	Одноручна сокира
+Miecz dwuręczny	Дворучний меч
+Topór dwuręczny	Дворучна сокира
+Tarcza	Щит
+Łuk	Лук
+Kusza	Арбалет
+Własnoręcznie wytworzona broń.	Саморобна зброя.
+Posiada widoczne ślady użytkowania.	Має видимі сліди використання.
+Obrażenia sieczne	Ріжуча шкода
+Obrażenia obuchowe	Тупа шкода
+Obrażenia pocisków	Шкода від стріл
+Obrażenia ogniste	Шкода від вогню
+Obrażenia magiczne	Шкода від магії
+Obrażenia nieznane	Невідома шкода
+Penetracja pancerza:	Бронебійність:
+Premia do walki kuszą:	Бонус до володіння арбалетом:
+Premia do walki łukiem:	Бонус до володіння луком:
+Kara do walki kuszą:	Штраф до володіння арбалетом:
+Kara do walki łukiem:	Штраф до володіння луком:
+Obrona przed ostrzami:	Захист від ріжучого:
+Obrona przed obuchami:	Захист від тупого:
+Obrona przed strzałami:	Захист від стріл:
+Obrona przed ogniem:	Захист від вогню:
+Obrona przed magią:	Захист від магії:
+Obrona przed wszystkim:	ЗАХИСТ
+Obrona przed obuchem i strzałami:	Захист від тупого і стріл:
+Obrona przed wszystkimi broniami:	Захист від зброї:
+Ochrona przed magią i ogniem:	Захист від магії і вогню:
+Odnowa punktów trafień:	Відновлення здоров'я:
+Odnowa many:	Відновлення мани:
+Broń jednoręczna	Одноручна зброя
+Broń dwuręczna	Дворучна зброя
+Uleczenie:	Зцілення:
+Premia za nostalgię:	Бонус ностальгії:
+Potrzebuje całej many.	Витрачає всю ману:
+Słowa nie zabijają	Закляття не може вбити
+Minimalne obrażenia:	Мінімальна шкода:
+Módl się.	Помолитись.
+Miecz	Меч
+Długi miecz magiczny	Довгий магічний меч
+Magiczny miecz dwuręczny	Дворучний магічний меч
+Magiczne ostrze z czystej rudy	Магічний меч з чистої руди
+Ciężki magiczny miecz dwuręczny	Важкий магічний дворучний меч
+Miecz półtoraręczny pokryty rudą	Вкритий рудою полуторний меч
+Ciężkie magiczne ostrze bojowe	Важкий магічний бойовий клинок
+Magiczne ostrze na smoki	Магічний клинок 'Вбивця драконів'
+Antyczne Ostrze na Prastare Bestie	Стародавній клинок 'Вбивця древніх чудовиськ'
+Dobry miecz	Хороший меч
+Dobry długi miecz	Хороший довгий меч
+Rubinowe Ostrze	Рубіновий клинок
+El Bastardo	Ель Бастардо
+Koszt	Вартість
+PN	Оч. навчання
+Pozyskiwanie skorup oraz płytek pełzaczy	Вилучення панцирів і пластин повзунів
+Pozyskiwanie żuwaczek	Вилучення мандибул
+Wyrywanie kłów	Видалення зубів
+Wyrywanie pazurów	Видалення кігтів
+Języki jaszczurów	Вилучення язиків ящерів
+Skóry gadów	Зняття шкіри рептилій
+Rogi cieniostworów	Вилучення рогів мракорисів
+Wyrywanie gruczołów jadowych	Вилучення отруйних залоз
+Pozyskiwanie sadła	Збір жиру
+Wyrywanie skrzydeł krwiopijców	Видалення крил шершнів
+Serca magicznych istot	Вилучення сердець магічних істот
+Za mało Punktów Nauki!	Недостатньо очків навчання!
+Zwój	Сувій
+Doświadczenie	Досвід
+Kolejny poziom!	Подвищення рівня!
+Za daleko	Задалеко
+Przyjmij	Прийняти
+Odrzuć	Відхилити
+(Poznany)	(Вивчено)
+Bryłka złota	Золотий самородок
+Bryłki złota	Золотих самородків
+Wytworzono	Виготовлено
+Nauka: nasiona roślin z zwierząt	Вивчено: вилучення насіння у тварин
