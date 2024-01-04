@@ -27,3 +27,5 @@ Gildii Kupieckiej	Торгової Гільдії
 Dzielnicy Biedoty	Бідний Квартал
 zębacze	снеппери
 ścierwojady	падальники
+tyton	тютюн
+Wysłannik	посол
