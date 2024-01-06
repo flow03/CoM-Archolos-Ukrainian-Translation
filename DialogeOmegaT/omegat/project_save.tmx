@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>(Oddaj znalezioną rudę)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Aedan" changedate="20240106T183526Z" creationid="Aedan" creationdate="20240106T183526Z">
+        <seg>(Віддати знайдену руду)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>(Odwróć uwagę i uśpij)</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230925T164953Z" creationid="Bohdana" creationdate="20230925T164953Z">
@@ -1734,14 +1742,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Ablo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Абло</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Absolutnie nie! Potrzebuję go do przygotowania zupy!</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231214T102007Z" creationid="Aedan" creationdate="20231214T102007Z">
@@ -1830,34 +1830,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Adelard</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Аделард</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Adi</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Аді</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Admirał Anskar... były admirał.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230728T085129Z" creationid="fiercepretzel" creationdate="20230728T085129Z">
         <seg>Адмірал Анскар ... Колишній адмірал.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Adrien</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Едрієн</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,14 +1894,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Albyn</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Альбін</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Albyn chce, żebyś najpierw popracował trochę w karczmie.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T074159Z" creationid="fiercepretzel" creationdate="20230409T074159Z">
@@ -1938,22 +1906,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T042309Z" creationid="fiercepretzel" creationdate="20230711T042309Z">
         <seg>Альбіну, сільському голові, потрібні люди для ручної роботи. Як думаєш, ти зможеш з цим впоратися?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Alcas</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Алькас</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Alder</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Альдер</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,14 +2262,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Alena</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Олена</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Aleś domyślny. Masz coś jeszcze do gadania? Nie? No to spadaj.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T112703Z" creationid="fiercepretzel" creationdate="20230521T112703Z">
@@ -2334,62 +2278,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Alfred</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Альфред</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Alice</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Аліса</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Allan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Аллан</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ambrosia</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Амброзія</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Amir</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Амір</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Amjak</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Амджак</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ana</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ана</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ana, znowu potrzebuję twojej pomocy.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T030215Z" creationid="fiercepretzel" creationdate="20230711T030215Z">
@@ -2402,22 +2290,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T023004Z" creationid="fiercepretzel" creationdate="20230711T023004Z">
         <seg>Ана?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Anais</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Анаіс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Andreas</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Андреас</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,22 +2354,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231214T204825Z" creationid="Aedan" creationdate="20231214T204825Z">
         <seg>Ні зло, ні добро не можуть остаточно перемогти. Вони перебувають у постійній боротьбі, бо така їхня природа.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Anskar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Анскар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Antonio</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Антоніо</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,30 +2430,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Arethe</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Арет</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Armar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Армар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Arnold</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Арнольд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Arogancki Kessel! Jak on śmiał w ogóle liczyć na to, że zwykły śmiertelnik będzie w stanie dzierżyć artefakt Adanosa!</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231217T170845Z" creationid="Aedan" creationdate="20231217T170845Z">
@@ -2606,58 +2438,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Ars</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Арс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Arthur</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Артур</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Artur</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Артур</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Arwid</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Арвід</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Arwid, jesteś cały?</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230929T113254Z" creationid="Bohdana" creationdate="20230929T113254Z">
         <seg>Арвід, ти в порядку?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Aske</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Аске</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Astol</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Астол</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,26 +2462,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Badulf</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бадульф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Badulfie, czy może chciałbyś coś dodać?</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231221T111716Z" creationid="Aedan" creationdate="20231221T111716Z">
         <seg>Бадульфе, чи може хочеш щось додати?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Baes</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Байс</seg>
       </tuv>
     </tu>
     <tu>
@@ -2714,22 +2482,6 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T115826Z" creationid="Perlyno" creationdate="20230920T115826Z">
         <seg>Болотний шершень.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Balni</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Балні</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Baluen</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бейлен</seg>
       </tuv>
     </tu>
     <tu>
@@ -2815,34 +2567,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Barnaba</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Барнаба</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Barry</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Баррі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Barwa jest jakby ciemniejsza. No i jest jakby bardziej mętne.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T042035Z" creationid="fiercepretzel" creationdate="20230714T042020Z">
         <seg>Колір трохи темніший. І більш каламутний.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Bastian</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бастіан</seg>
       </tuv>
     </tu>
     <tu>
@@ -2867,30 +2595,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T162431Z" creationid="fiercepretzel" creationdate="20230714T162431Z">
         <seg>Я боявся, що ти не прийдеш.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Beckett</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Беккет</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Beinard</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бейнард</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Bermar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бермар</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,30 +2631,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Bernand</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бернанд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Berter</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бертер</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Berto</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Берто</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Berto, ty zdrajco, zaniosę twoją głowę Salviemu!</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T155707Z" creationid="Bohdana" creationdate="20231213T155707Z">
@@ -2963,14 +2643,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230728T083413Z" creationid="fiercepretzel" creationdate="20230728T083413Z">
         <seg>Звірі? Я думаю, що орки так само визначають нас, людей.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Bevin</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бевін</seg>
       </tuv>
     </tu>
     <tu>
@@ -3135,22 +2807,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Blake</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Блейк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Bloodwyn</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бладвін</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Bloodwyn jest ich szefem?</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240103T192805Z" creationid="Aedan" creationdate="20240103T192805Z">
@@ -3279,14 +2935,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Bodowin</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бодовін</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Bogowie, jak to śmierdziało! Do teraz czuję ten zapach. Jak ty tam wytrzymałeś, w tych oparach?</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231024T141820Z" creationid="Mykytka" creationdate="20231024T141820Z">
@@ -3311,38 +2959,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Boles</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Болес</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Borr</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Борр</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Brad</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бред</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Bradlock</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бредлок</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Brakuje nam ludzi do pomocy ubogim, ale z łaską Adanosa trafimy do wszystkich, którzy jej najbardziej potrzebują.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230408T120226Z" creationid="fiercepretzel" creationdate="20230408T120226Z">
@@ -3363,30 +2979,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231013T135329Z" creationid="Bohdana" creationdate="20231013T135329Z">
         <seg>Брат? Якого ще брата?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Broddy</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бродді</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Bruce</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Брюс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Bruno</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Бруно</seg>
       </tuv>
     </tu>
     <tu>
@@ -3855,30 +3447,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Cabi</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кабі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Candac</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кандак</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Caramon</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Карамон</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Caramonie, byłeś wspaniałym towarzyszem...</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231009T093428Z" creationid="Bohdana" creationdate="20231009T093339Z">
@@ -3887,26 +3455,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Carden</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Карден</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Carden się ucieszy, przynajmniej będzie mógł odpocząć trochę dłużej w naszym klasztorze.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231220T165524Z" creationid="Aedan" creationdate="20231219T205640Z">
         <seg>Карден буде радий, принаймні він зможе трохи довше відпочити у нашому монастирі.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Caspar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Каспар</seg>
       </tuv>
     </tu>
     <tu>
@@ -7151,14 +6703,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Coen</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Коен</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Cokolwiek robisz, trzymaj się z dala od tej dwójki.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T174852Z" creationid="fiercepretzel" creationdate="20230714T174852Z">
@@ -7179,22 +6723,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T132425Z" creationid="Bohdana" creationdate="20231213T132425Z">
         <seg>Що б ми не робили, пограбуємо купця чи здійснимо набіг на транспорт зі сріблом, Родерік і його чудова міська варта все одно відповідатимуть за все.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Cortez</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кортес</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Corum</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Корум</seg>
       </tuv>
     </tu>
     <tu>
@@ -7327,22 +6855,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Crednar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Креднар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Crisen</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Крісен</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Cuchnie i to konkretnie. To musi być to, czego szukaliśmy.</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230928T142624Z" creationid="Perlyno" creationdate="20230928T142624Z">
@@ -7363,30 +6875,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231223T202627Z" creationid="Aedan" creationdate="20231223T202627Z">
         <seg>Ви дивом уникли смерті, і повинні радіти цьому, але вам потрібен час, особливо Кесселю.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Culus</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кулус</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Curtis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кертіс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Custo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кусто</seg>
       </tuv>
     </tu>
     <tu>
@@ -8839,14 +8327,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Dack</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дак</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Dack sam chodził do Morrisa z prośbą o pomoc, bo nie rozumie kto i w jaki sposób opóźnia pracę. Straż, jak to straż, pokręciła się, popytała i nic nie ustaliła.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T174811Z" creationid="fiercepretzel" creationdate="20230714T174811Z">
@@ -9103,14 +8583,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Dalmon</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Далмон</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Dam ci radę. Gdy zaczniesz grać, przestań zwracać uwagę na wszystkich wokół. Spróbuj poczuć rytm, harmonię. Nie pozwól by cokolwiek cię rozpraszało.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231015T084811Z" creationid="Bohdana" creationdate="20231015T084811Z">
@@ -9159,30 +8631,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Dan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ден</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Daniel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Даніель</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Danis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Даніс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Darowałem mu życie i kazałem opuścić wyspę.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231219T204548Z" creationid="Aedan" creationdate="20231219T204548Z">
@@ -9195,14 +8643,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231219T204457Z" creationid="Aedan" creationdate="20231219T203541Z">
         <seg>Я подарував йому життя і сказав, щоб він припинив ці небезпечні дослідження.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Darryl</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Деріл</seg>
       </tuv>
     </tu>
     <tu>
@@ -9231,14 +8671,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Darthe</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дарт</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Darujmy sobie te brednie. Albo handlujemy w przyjacielskiej atmosferze, albo nie handlujemy wcale.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231214T172045Z" creationid="Aedan" creationdate="20231213T202131Z">
@@ -9251,14 +8683,6 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T184704Z" creationid="Perlyno" creationdate="20230920T184704Z">
         <seg>Я збережу тобі життя, але ти повинен припинити ці експерименти.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Davis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Девіс</seg>
       </tuv>
     </tu>
     <tu>
@@ -9283,14 +8707,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231001T072400Z" creationid="Bohdana" creationdate="20231001T072400Z">
         <seg>Давай, покажи мені, що ти сильніший за свого брата!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Dawid</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Давид</seg>
       </tuv>
     </tu>
     <tu>
@@ -9367,82 +8783,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Degory</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дегорі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Dennis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Gliban" changedate="20230112T170353Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Денніс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Dennis tak powiedział?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T121125Z" creationid="fiercepretzel" creationdate="20230714T121125Z">
         <seg>Денніс так сказав?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Detlow</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Детлоу</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Devir</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Девір</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Dietrich</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дітріх</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Dima</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Діма</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Dinkel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дінкель</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Dirk</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дірк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Dismas</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дісмас</seg>
       </tuv>
     </tu>
     <tu>
@@ -10976,14 +10320,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Docan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Докан</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Doceniam twoje dobre intencje, ale dobra nie można osiągać złymi metodami. Ty zaś wybrałeś drogę kłamstwa.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230412T164548Z" creationid="fiercepretzel" creationdate="20230407T034150Z">
@@ -11376,14 +10712,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Dorran</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дорран</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Dorwij ją w moim imieniu, przyjacielu.</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230919T180042Z" creationid="Perlyno" creationdate="20230919T180042Z">
@@ -11716,22 +11044,6 @@
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231013T144955Z" creationid="Mykytka" creationdate="20231013T144955Z">
         <seg>Дух! Ось Тонан. Він прийшов сюди на твоє прохання.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Duncan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дункан</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Duster</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Дастер</seg>
       </tuv>
     </tu>
     <tu>
@@ -12424,22 +11736,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Edgar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Едгар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Edmund</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Едмунд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ee... Ma za mało słońca?</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231024T140619Z" creationid="Mykytka" creationdate="20231024T140619Z">
@@ -12496,22 +11792,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Eileen</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ейлін</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Einar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ейнар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ekhem... cóż...</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240104T204444Z" creationid="Aedan" creationdate="20240104T204444Z">
@@ -12536,70 +11816,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Elco</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Елько</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Elfeg</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ельфег</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Elias</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Еліас</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Elid</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Елід</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Elvart</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ельварт</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Eniu</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ен'ю</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ergo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ерго</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ernesto</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ернесто</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ernesto prosił mnie, bym przekazał ci gar zupy.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230408T095349Z" creationid="fiercepretzel" creationdate="20230408T095349Z">
@@ -12616,66 +11832,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Ervalt</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ервальт</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Esti</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Есті</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Esti stwierdziła, że praca przy bagiennym zielu będzie dla nas lepsza niż siedzenie tutaj.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T113508Z" creationid="fiercepretzel" creationdate="20230521T113508Z">
         <seg>Есті дійшов висновку, що працювати в болотяній траві для нас буде краще, ніж сидіти тут.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Euric</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ейріх</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Eva</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Єва</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ewald</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Евальд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ezekiel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Єзекіїль</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Fabio</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фабіо</seg>
       </tuv>
     </tu>
     <tu>
@@ -12752,14 +11912,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Fadha</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фадха</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Fajne kobiety tu macie, więc nieźle. Idziemy w końcu do tych kanałów?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230406T155157Z" creationid="fiercepretzel" creationdate="20230405T213149Z">
@@ -12800,14 +11952,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Fane</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фейн</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Fascynujące. Pracownie kartograficzne to wielce ciekawe miejsca.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231014T131322Z" creationid="Bohdana" creationdate="20231014T131322Z">
@@ -12832,38 +11976,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Feil</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фейл</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Felix</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фелікс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Feller</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Феллер</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Figaro</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фігаро</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Filozof się znalazł. Skoro potrzebujący im zawadzają, to co z nich za wyznawcy Adanosa? Powinni się wstydzić!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T092708Z" creationid="fiercepretzel" creationdate="20230521T092708Z">
@@ -12876,22 +11988,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231225T183455Z" creationid="Aedan" creationdate="20231225T183455Z">
         <seg>Остаточні умови угоди, яку я можу тобі запропонувати, наступні:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Finja</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фін'я</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Flex</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Флекс</seg>
       </tuv>
     </tu>
     <tu>
@@ -12920,14 +12016,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Flora</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Флора</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Flotę zgubiła moja pycha i niedocenienie przeciwnika. Teraz płacę za to wysoką cenę.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230728T152428Z" creationid="fiercepretzel" creationdate="20230728T152428Z">
@@ -12936,82 +12024,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Folkard</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фолкард</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Foral</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Форал</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Foral natomiast woli siedzieć z ludźmi Ulryka. Nie jest możliwe, by to on za tym stał - zwyczajnie zabrakłoby mu na to czasu.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T174842Z" creationid="fiercepretzel" creationdate="20230714T174842Z">
         <seg>Форал, з іншого боку, вважає за краще сидіти з людьми Ульріка. Він не може стояти позаду - йому просто не вистачило б часу.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Fox</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фокс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Fred</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фред</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Frida</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фріда</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Fulko</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фулько</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Fureg</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фюрег</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Fynn</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Фінн</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gabrien</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Габріен</seg>
       </tuv>
     </tu>
     <tu>
@@ -13104,34 +12120,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Galbo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гальбо</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Galbo wspominał, że to całkiem dobry pomysł.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T113318Z" creationid="fiercepretzel" creationdate="20230521T113318Z">
         <seg>Гальбо зазначив, що це досить гарна ідея.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gamal</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гамаль</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gard</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гард</seg>
       </tuv>
     </tu>
     <tu>
@@ -13141,30 +12133,6 @@
       <tuv lang="uk" changeid="Bohdana" changedate="20231013T140306Z" creationid="Bohdana" creationdate="20231013T140306Z">
         <seg>Я зневажаю всіх жирдяїв при владі, які полюють на простих жителів цього міста.
 </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Garos</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гарос</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Garrus</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гаррус</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gaston</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гастон</seg>
       </tuv>
     </tu>
     <tu>
@@ -13841,22 +12809,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Gerd</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Герд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gerhard</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Герхард</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Gerhard nie będzie już stanowił zagrożenia.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T122312Z" creationid="fiercepretzel" creationdate="20230714T122312Z">
@@ -13873,14 +12825,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Gerke</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Герке</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Gerke, co się stało?</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230919T175741Z" creationid="Perlyno" creationdate="20230919T175650Z">
@@ -13889,26 +12833,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Gerstand</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Герстанд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Gerwina.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231130T131344Z" creationid="Bohdana" creationdate="20231130T131227Z">
         <seg>Гервіна.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Getoryk</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Геторик</seg>
       </tuv>
     </tu>
     <tu>
@@ -13937,26 +12865,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Giles</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Джайлз</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Giń! Śmieciu!</seg>
       </tuv>
       <tuv lang="uk" changeid="Gliban" changedate="20230112T164324Z" creationid="Микола Сонячний" creationdate="20230111T164718Z">
         <seg>Здохни, покидьку!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gonzalo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гонзало</seg>
       </tuv>
     </tu>
     <tu>
@@ -14001,14 +12913,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Grayson</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Грейсон</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Grayson mówił, że jesteś człowiekiem od trudnych przypadków.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T161628Z" creationid="fiercepretzel" creationdate="20230714T161628Z">
@@ -14041,54 +12945,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Gregor</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Грегор</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gretel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гретель</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Grif</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гриф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Griz</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гріз</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Groen</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гроен</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gron</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Грон</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Grunt to trzymać się razem, wtedy żadne bestie nie są nam groźne!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230408T123438Z" creationid="fiercepretzel" creationdate="20230408T123438Z">
@@ -14117,22 +12973,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231216T213302Z" creationid="Aedan" creationdate="20231216T213302Z">
         <seg>Твої гріхи відпущені.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Guido</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гвідо</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Gumbert</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гумберт</seg>
       </tuv>
     </tu>
     <tu>
@@ -14281,22 +13121,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Hargar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Харгар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Harold</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гарольд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Harold z tej strony.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231018T110154Z" creationid="Bohdana" creationdate="20231018T110154Z">
@@ -14305,50 +13129,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Harri</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Харрі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Harry</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гаррі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Harujesz jak wół, a dostajesz tyle, co kretoszczur wykopał.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T110913Z" creationid="Bohdana" creationdate="20231213T110913Z">
         <seg>Ти працюєш, як віл, а отримуєш стільки, ніби викопав кротову гірку.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Hasmeth</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гасмет</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Havard</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гавард</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Havdan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Хевден</seg>
       </tuv>
     </tu>
     <tu>
@@ -14373,14 +13157,6 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230917T112738Z" creationid="Perlyno" creationdate="20230917T084324Z">
         <seg>Хе-хе, бувай!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Heisner</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гайснер</seg>
       </tuv>
     </tu>
     <tu>
@@ -14461,54 +13237,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T123805Z" creationid="fiercepretzel" creationdate="20230714T123805Z">
         <seg>Агов, ти, чого ти тут тиняєшся?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Helga</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Хельга</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Helmud</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Хельмуд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Henk</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Хенк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Herdis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гердіс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Hershlik</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гершлік</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Hierro</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гієрро</seg>
       </tuv>
     </tu>
     <tu>
@@ -14673,14 +13401,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Hod</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Год</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Hod słynął z gadania bzdur po alkoholu, ale nie sądziłem, że tak szybko znajdzie godnego siebie następcę!</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231017T024930Z" creationid="Mykytka" creationdate="20231017T024930Z">
@@ -14709,14 +13429,6 @@
       </tuv>
       <tuv lang="uk" changeid="Gliban" changedate="20230112T165032Z" creationid="Микола Сонячний" creationdate="20230111T165241Z">
         <seg>Гей-гей, проходу нема.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Holdwig</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гольдвіг</seg>
       </tuv>
     </tu>
     <tu>
@@ -14761,14 +13473,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Homer</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Гомер</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Huug oszukiwał ludzi, sam widziałeś.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230406T173319Z" creationid="fiercepretzel" creationdate="20230405T225156Z">
@@ -14781,14 +13485,6 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230406T172946Z" creationid="fiercepretzel" creationdate="20230405T224602Z">
         <seg>Хууг обманював людей. Він... винен у богохульстві. Ви бачили на власні очі, що було в його хатині. Я помстився за його смерть. Цей факт сам по собі доводить мою невинність.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Huxlay</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Хакслі</seg>
       </tuv>
     </tu>
     <tu>
@@ -15362,26 +14058,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Ignis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ігнис</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ignis bierze pięćset, ja trzysta, a wy po stówce!</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230918T104108Z" creationid="Perlyno" creationdate="20230918T104038Z">
         <seg>Ігніс бере п'ятсот, я беру триста, і ви берете по сотні!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Igor</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ігор</seg>
       </tuv>
     </tu>
     <tu>
@@ -15490,14 +14170,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Ilse</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ільза</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ilu ludzi zginęło samego dzisiejszego dnia przez twoją szaleńczą próbę zdobycia władzy dla siebie?</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231013T134423Z" creationid="Bohdana" creationdate="20231013T134423Z">
@@ -15554,26 +14226,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Ingolf</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Інгольф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ingolfie, wytłumaczysz nam wreszcie o co tutaj chodzi?</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231217T190851Z" creationid="Aedan" creationdate="20231217T190851Z">
         <seg>Інгольфе, ти нарешті поясниш нам, що все це означає?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ingor</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Інгор</seg>
       </tuv>
     </tu>
     <tu>
@@ -15686,22 +14342,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231222T160131Z" creationid="Aedan" creationdate="20231222T160131Z">
         <seg>Суть будь-якої магії - це воля. Магія і магічна енергія знаходяться серед нас. У силах природи, в людях, тваринах і навіть у рослинах.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ivan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Іван</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ivy</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Айві</seg>
       </tuv>
     </tu>
     <tu>
@@ -17042,14 +15682,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Javad</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Джавад</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Jeden darmozjad w drużynie to sporo, a dwóch to zdecydowanie za dużo.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T133812Z" creationid="Bohdana" creationdate="20231213T133812Z">
@@ -17354,14 +15986,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Jef</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Джеф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Jego osąd może być jednak zaburzony przez utratę bliskiej osoby.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231221T112034Z" creationid="Aedan" creationdate="20231221T112034Z">
@@ -17406,14 +16030,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231018T111456Z" creationid="Bohdana" creationdate="20231018T111456Z">
         <seg>Його уламки, напевно, вже давно лежать на дні моря.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Jens</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Єнс</seg>
       </tuv>
     </tu>
     <tu>
@@ -19554,38 +18170,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Jil</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Джил</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Joe</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Джо</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Johan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Йохан</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Jon</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Йон</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Jon musiał podejrzewać, że zacznie się obława, więc uciekł do Leża i wykorzystał aferę z pełzaczami, by ukryć się w kopalni, a co działo się dalej - wiesz lepiej ode mnie.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240101T121643Z" creationid="Aedan" creationdate="20240101T121643Z">
@@ -19606,22 +18190,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240105T181120Z" creationid="Aedan" creationdate="20240101T105236Z">
         <seg>Йон був важко ранений під час битви з королевою повзунів. Я хотів розпитати його про замах в місті та намагався вивести його звідти.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Joris</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Йоріс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Jorn</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Йорн</seg>
       </tuv>
     </tu>
     <tu>
@@ -19914,22 +18482,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Kaf</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Каф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Kaleb</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Калеб</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Kapuję.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240102T180750Z" creationid="Aedan" creationdate="20240102T180750Z">
@@ -19942,30 +18494,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T074533Z" creationid="fiercepretzel" creationdate="20230409T074533Z">
         <seg>У корчмі відчувається значний дефіцит припасів.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Karin</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Карін</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Kathia</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Катя</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Katrina</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Катріна</seg>
       </tuv>
     </tu>
     <tu>
@@ -19986,14 +18514,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Kazeem</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Казім</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Kazeem też gdzieś jak kamień w wodę przepadł. Chyba szukał pracy w porcie, czy coś takiego. A co z pozostałymi, to sam nie wiem.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T021154Z" creationid="fiercepretzel" creationdate="20230711T021154Z">
@@ -20001,24 +18521,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>Це твоя заслуга. Такий голос здатен розчулити навіть серце Марти!
-&lt;сегмент 0658 ¶&gt;.
-
-- ¶ ---------------------
-
-У кожної жінки є якась ніжна струна.
-
-- ¶ ---------------------
-
-Куди ти підеш далі?
-
-- ¶ ---------------------
-
-До моїх милих рибалок. Знаєш... Я якось з ними зріднився. Вони добре до мене ставляться, а головне - не жаліють монет.
-
-- ¶ ---------------------
-
-Дякую. Побачимося.</note>
       <tuv lang="pl">
         <seg>Każda kobieta ma jakąś czułą strunę.</seg>
       </tuv>
@@ -20096,14 +18598,6 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T191248Z" creationid="Perlyno" creationdate="20230920T191243Z">
         <seg>Прочитай кожен рецепт кілька разів, перш ніж приступити до справи, а краще запам'ятай його напам'ять. Слідкуй за якістю інгредієнтів і намагайся не поспішати з приготуванням.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Kessel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кессель</seg>
       </tuv>
     </tu>
     <tu>
@@ -20308,14 +18802,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Kiep</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кіп</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Kiepsko sypiam. Cały czas zastanawia mnie, jakie aspekty magii czekają na odkrycie...</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230414T112444Z" creationid="fiercepretzel" creationdate="20230408T094600Z">
@@ -20460,14 +18946,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Kipper</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кіпер</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Klasztor jest siedzibą magów wody oraz nowicjuszy od niepamiętnych lat. Służy nam za miejsce modlitw, pracy oraz kontemplacji.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231219T142541Z" creationid="Aedan" creationdate="20231219T142541Z">
@@ -20484,22 +18962,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Klaus</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Клаус</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Knut</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кнут</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Knut to szef drwali. Pracują przy Wilczym Leżu. To surowy i wymagający człowiek. Nada się idealnie.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T175732Z" creationid="fiercepretzel" creationdate="20230714T175732Z">
@@ -20512,14 +18974,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231015T082603Z" creationid="Bohdana" creationdate="20231015T082532Z">
         <seg>Чи складніше жінкам у цій професії?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Kobus</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кобус</seg>
       </tuv>
     </tu>
     <tu>
@@ -20680,14 +19134,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231229T152700Z" creationid="Aedan" creationdate="20231229T152700Z">
         <seg>Ще одна річ, без якої ми не можемо навіть думати про спуск - це, звичайно, їжа.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Kolg</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Колг</seg>
       </tuv>
     </tu>
     <tu>
@@ -21108,26 +19554,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Kuno</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Куно</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Kup, znajdź, ukradnij, zabij kogoś, nie wiem... Masz przynieść mi osiem sztuk. Gdzie je znajdziesz, nie bardzo mnie to obchodzi.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230414T111433Z" creationid="fiercepretzel" creationdate="20230408T085155Z">
         <seg>Купи, знайди, вкради, вбий когось, я не знаю... Ти маєш принести мені вісім штук. Де ти їх знайдеш, мене не хвилює.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Kurt</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Курт</seg>
       </tuv>
     </tu>
     <tu>
@@ -21172,22 +19602,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Kyle</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кайл</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Kylid</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Кайлід</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Kłamie!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T050605Z" creationid="fiercepretzel" creationdate="20230714T050605Z">
@@ -21196,74 +19610,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Larry</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ларрі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Lata życia w obawie przed wykryciem nie były łaskawe dla jego nerwów, a ostatnie wydarzenia z pewnością nie pomogły. Mam nadzieję, że chociaż po śmierci zazna spokoju.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240101T105555Z" creationid="Aedan" creationdate="20240101T105555Z">
         <seg>Роки життя зі страхом викриття не дуже добре вплинули на його нерви, а останні події точно не допомогли. Надіюсь, хоч після смерті він знайде спокій.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lathi</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Латі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Laudus</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лаудус</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Laurentis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лаврентіс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Laurin</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лорін</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lazar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лазар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lea</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лея</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lean</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ліан</seg>
       </tuv>
     </tu>
     <tu>
@@ -21280,54 +19630,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T070409Z" creationid="fiercepretzel" creationdate="20230409T070009Z">
         <seg>Ти ледве вискочив з материнської утроби, а вже намагаєшся навчити мене смиренності, малюче? МЕНЕ?!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Legrif</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Легріф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lena</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Єлена</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lennart</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Леннарт</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Leon</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Леон</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Leonardo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Леонардо</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Leonel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Леонель</seg>
       </tuv>
     </tu>
     <tu>
@@ -21420,26 +19722,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Leve</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лів</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Lewe?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230921T111547Z" creationid="Perlyno" creationdate="20230918T103440Z">
         <seg>Каламутним?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lewko</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Левко</seg>
       </tuv>
     </tu>
     <tu>
@@ -21572,50 +19858,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Limak</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лімак</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Liman</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лиман</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Loafs</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лоаф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Loafs? Poznałem go kiedyś podczas jednej misji, wielu tutejszych twierdzi, że to najlepszy górnik na całej wyspie.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231230T202817Z" creationid="Aedan" creationdate="20231227T202349Z">
         <seg>Лоаф? Зустрічав я його колись під час однієї місії, багато місцевих жителів кажуть, що він найкращий шахтар на всьому острові.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Logar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Логар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lokvar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Локвар</seg>
       </tuv>
     </tu>
     <tu>
@@ -21632,14 +19878,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231222T200555Z" creationid="Aedan" creationdate="20231222T200555Z">
         <seg>Локвар мало не прокинувся, але знову заснув.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lorenzo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лоренцо</seg>
       </tuv>
     </tu>
     <tu>
@@ -21716,26 +19954,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Loria</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лорія</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Los się do nas uśmiechnął, zarobiliśmy ostatnio sporo złota.</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230918T103312Z" creationid="Perlyno" creationdate="20230918T103312Z">
         <seg>Доля посміхнулася нам, останнім часом ми заробили багато золота.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lowell</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лоувел</seg>
       </tuv>
     </tu>
     <tu>
@@ -21760,38 +19982,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T043026Z" creationid="fiercepretzel" creationdate="20230714T043026Z">
         <seg>Мені подобається. Зрештою, я ж кухар, я маю перевірити, чи смачно те, що я приготував. А потім ще переконатися.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lucas</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лукас</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lucy</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Люсі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ludlof</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Людлоф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ludwig</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Людвіг</seg>
       </tuv>
     </tu>
     <tu>
@@ -21892,30 +20082,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Luna</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Луна</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lutter</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Лютер</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Lutz</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Люц</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ma bardzo dziwną nazwę - Ulu-Mulu. Wydaje mi się, że to jakiś symbol wielkiego wojownika.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230728T083636Z" creationid="fiercepretzel" creationdate="20230728T083636Z">
@@ -21952,14 +20118,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231018T083915Z" creationid="Bohdana" creationdate="20231018T083915Z">
         <seg>У вас тут є якісь проблеми?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Madog</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Мадог</seg>
       </tuv>
     </tu>
     <tu>
@@ -22076,30 +20234,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Maik</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Майк</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Mailor</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Мейлор</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Maiwen</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Мейвен</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Mają naprawdę dobrych dostawców. Ostatnio zauważyłem u nich bardzo piękny miecz i od razu pomyślałem o tobie.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T075134Z" creationid="fiercepretzel" creationdate="20230409T075134Z">
@@ -22121,22 +20255,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231224T151021Z" creationid="Aedan" creationdate="20231224T151021Z">
         <seg>З огляду на це, я дійшов висновку, що потрібно починати діяти якнайшвидше.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Makot</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Макот</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Malen</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Мален</seg>
       </tuv>
     </tu>
     <tu>
@@ -22925,30 +21043,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Marco</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Марко</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Markus</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Маркус</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Martha</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Марта</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Martha jest zbyt dumna, by poprosić o pomoc, a Bastian obawia się gniewu Albyna, więc siedzą cicho.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T074620Z" creationid="fiercepretzel" creationdate="20230409T074620Z">
@@ -23662,14 +21756,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Matey</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Матей</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Małże mogę upiec na ognisku, a za jedną perłę jestem w stanie przeżyć pełny tydzień.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231018T111006Z" creationid="Bohdana" creationdate="20231018T111006Z">
@@ -23706,14 +21792,6 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20231009T102244Z" creationid="Perlyno" creationdate="20231009T102244Z">
         <seg>Я теж, хлопче. Приходь пізніше.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Mia</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Мія</seg>
       </tuv>
     </tu>
     <tu>
@@ -23998,22 +22076,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Miki</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Мікі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Mikkel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Міккель</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Mikstura lecząca wszystkie rany? Przecież to niedorzeczne!</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231219T202406Z" creationid="Aedan" creationdate="20231219T202406Z">
@@ -24022,34 +22084,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Millie</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Міллі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Mimo że coś już tam umiesz, to stale ucz się poprzez obserwację. Sprawdź te bardziej skomplikowane mikstury i na podstawie receptur spróbuj je odtworzyć.</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230920T190006Z" creationid="Perlyno" creationdate="20230920T190006Z">
         <seg>Хоча ти вже дещо знаєш, ти постійно вчишся через спостереження. Подивись на ці більш складні рецепти і спробуй відтворити їх, спираючись на рецепти.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Miroh</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Міро</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Miron</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Мирон</seg>
       </tuv>
     </tu>
     <tu>
@@ -24494,22 +22532,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Moritz</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Моріц</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Morris</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Морріс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Morris może oferować mi całe wozy złota, ale póki jestem żywy, nie położy swoich łap na mojej ziemi.</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231007T063327Z" creationid="Mykytka" creationdate="20231007T063238Z">
@@ -24522,14 +22544,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230925T160237Z" creationid="Bohdana" creationdate="20230925T160237Z">
         <seg>Морріс, Лоренцо і Родеріх - купка егоцентричних невдах. Вони думають про свій статус, а не про благо острова.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Morty</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Морті</seg>
       </tuv>
     </tu>
     <tu>
@@ -25330,22 +23344,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240105T193349Z" creationid="Aedan" creationdate="20231227T202425Z">
         <seg>Можна сказати, що вони у мене в боргу.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Mures</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Муреш</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Murk</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Мурк</seg>
       </tuv>
     </tu>
     <tu>
@@ -27199,14 +25197,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Naars</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Наарс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Nabiegałeś się dzisiaj trochę, powinieneś teraz trochę pospać. Eliksir z pewnością lepiej zadziała na wypoczęty organizm.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231224T154106Z" creationid="Aedan" creationdate="20231224T154106Z">
@@ -27227,14 +25217,6 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230922T121125Z" creationid="Perlyno" creationdate="20230919T145512Z">
         <seg>Ще на підході!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Nadine</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Надін</seg>
       </tuv>
     </tu>
     <tu>
@@ -27767,14 +25749,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Nathaniel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Натаніель</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Natomiast jeśli chodzi o obiecaną nagrodę za pomoc...</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231226T104741Z" creationid="Aedan" creationdate="20231226T104741Z">
@@ -28007,14 +25981,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Nayla</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Найла</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Nazywa się Marvin. Jakiś czas temu przybył na Archolos ze swoim bratem. Niestety, ten został porwany, torturowany i ostatecznie zabity przez Lichwiarza.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231221T202234Z" creationid="Aedan" creationdate="20231221T110359Z">
@@ -28127,50 +26093,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Neir</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Нейр</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Nek</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Нек</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Nelson</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Нельсон</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Nelson? Tutaj?</seg>
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231101T154912Z" creationid="Glіban" creationdate="20231025T153110Z">
         <seg>Нельсон? Ти тут?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Neral</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Нірал</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Nevil</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Невіл</seg>
       </tuv>
     </tu>
     <tu>
@@ -32976,14 +30902,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Nikolt</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Нікольт</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Nikomu nie będę usługiwał.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T090258Z" creationid="fiercepretzel" creationdate="20230521T090258Z">
@@ -33068,22 +30986,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T162021Z" creationid="fiercepretzel" creationdate="20230714T162021Z">
         <seg>Перш ніж ми почнемо, дозволь мені дещо прояснити. Я знаю, що ти не можеш дозволити собі провалити це завдання.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Nirka</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Нірка</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Nivel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Нівел</seg>
       </tuv>
     </tu>
     <tu>
@@ -33724,22 +31626,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231215T210154Z" creationid="Aedan" creationdate="20231215T210154Z">
         <seg>Зазвичай я б подумав, що це просто пожежа... але ті Вовчі Сини на сигнальній вежі? Це не може бути збігом.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Norman</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Норман</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Notger</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Нотгер</seg>
       </tuv>
     </tu>
     <tu>
@@ -34824,14 +32710,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Odgar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Одгар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Odkryłeś naszą kryjówkę. Lubię ryzyko, ale wszystko ma swoje granice.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T131527Z" creationid="Bohdana" creationdate="20231213T131527Z">
@@ -35064,26 +32942,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Oktav</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Октав</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Oktava.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T114622Z" creationid="Bohdana" creationdate="20231213T114622Z">
         <seg>Октава.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Oliver</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Олівер</seg>
       </tuv>
     </tu>
     <tu>
@@ -35304,22 +33166,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Oscar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Оскар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Osip</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Осіп</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Osiągnąłem sporo, ale cały czas czuję się wykorzystywany...</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231225T182056Z" creationid="Aedan" creationdate="20231225T182056Z">
@@ -35488,14 +33334,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Osvald</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Освальд</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Oswojony ork? Tych bestii nie da się oswoić!</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231014T133926Z" creationid="Bohdana" creationdate="20231014T133926Z">
@@ -35524,38 +33362,6 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230919T175417Z" creationid="Perlyno" creationdate="20230919T175417Z">
         <seg>Бережи сили, ти важко поранений.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Othekar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Отекар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Otho</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Отто</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Otis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Отіс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Otmar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Отмар</seg>
       </tuv>
     </tu>
     <tu>
@@ -35748,14 +33554,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T113640Z" creationid="Bohdana" creationdate="20231213T113640Z">
         <seg>Дозволю собі з тобою не погодитися.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Pablo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Пабло</seg>
       </tuv>
     </tu>
     <tu>
@@ -36008,14 +33806,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Paola</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Паола</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Papier, papier... gdzieś go tutaj miałem...</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231215T092825Z" creationid="Bohdana" creationdate="20231215T092825Z">
@@ -36060,22 +33850,6 @@
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20230930T200127Z" creationid="Mykytka" creationdate="20230930T181140Z">
         <seg>Тобі личить ця форма, хлопче. Міській варті не завадить свіжа кров.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Pat</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Пат</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Patracjan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Патраціан</seg>
       </tuv>
     </tu>
     <tu>
@@ -36132,30 +33906,6 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230919T163606Z" creationid="Perlyno" creationdate="20230919T163606Z">
         <seg>Судячи із слідів, їх було троє. Якби не вони і не ти, я був би на волосину від того, щоб вистежити ціль.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Paulus</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Паулюс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Pete</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Піт</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Petra</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Петра</seg>
       </tuv>
     </tu>
     <tu>
@@ -36428,22 +34178,6 @@
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231024T150600Z" creationid="Mykytka" creationdate="20231024T150600Z">
         <seg>Це перший раз, коли я побачив його на власні очі, і, якщо чесно, сподіваюся, що востаннє. Він виглядає так, ніби може розрізати людину навпіл.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Pies</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Пес</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Pieter</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Пітер</seg>
       </tuv>
     </tu>
     <tu>
@@ -38824,14 +36558,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Prawus</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Правус</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Precz!</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20231012T141237Z" creationid="Perlyno" creationdate="20231012T141237Z">
@@ -39180,14 +36906,6 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20231228T113531Z" creationid="Mykytka" creationdate="20231017T025536Z">
         <seg>Будь ласка. Це вся риба, яку мені вдалося зібрати.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Proximo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Проксімо</seg>
       </tuv>
     </tu>
     <tu>
@@ -40784,14 +38502,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Racius</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Раціус</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Raczej nie planowałem z nim dłuższej znajomości, jeśli wiesz, co mam na myśli...</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231013T141317Z" creationid="Bohdana" creationdate="20231013T141317Z">
@@ -40824,50 +38534,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Rahela</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рахела</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ramha</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рамха</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ramona</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рамона</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ramsey</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рамзі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ramsey nie pozostawił mi wyboru.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230928T173502Z" creationid="Bohdana" creationdate="20230928T102804Z">
         <seg>Рамзі не залишив мені вибору.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Randhal</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рендал</seg>
       </tuv>
     </tu>
     <tu>
@@ -40892,14 +38562,6 @@
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231017T024715Z" creationid="Mykytka" creationdate="20231017T024715Z">
         <seg>Рани на його тілі були дуже глибокі. Я сумніваюся, що за його смертю стоять лише падальники.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Rasco</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Раско</seg>
       </tuv>
     </tu>
     <tu>
@@ -40952,30 +38614,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Recon</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рікон</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Refir</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рефір</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Reg</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рег</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Regen ma już swoje lata, ale mimo to zachował bystrość umysłu. Przynajmniej według mnie, bo nie wszyscy w klasztorze zgadzają się z jego decyzjami w ostatnim czasie.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231220T202110Z" creationid="Aedan" creationdate="20231220T195740Z">
@@ -41008,22 +38646,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Remuz</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ремуз</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Remy</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ремі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Reszta leży w rękach bogów.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T080420Z" creationid="fiercepretzel" creationdate="20230409T065312Z">
@@ -41036,22 +38658,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231009T094032Z" creationid="Bohdana" creationdate="20231009T094032Z">
         <seg>Решта людей знаходяться на площі перед будівлею Гільдії, там ти будеш в безпеці.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Retogh</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ретог</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Richard</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Річард</seg>
       </tuv>
     </tu>
     <tu>
@@ -41072,14 +38678,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Rierol</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ріерол</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Rierol chyba obawia się, że receptura ostatecznie okaże się nic niewarta, i poświęcił większość swojego życia na mrzonkę...</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231224T141400Z" creationid="Aedan" creationdate="20231224T141400Z">
@@ -41096,26 +38694,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Rik</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рік</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Rik już nie będzie sprawiał ci problemów.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230711T035225Z" creationid="fiercepretzel" creationdate="20230711T035225Z">
         <seg>Рік більше не завдасть тобі проблем.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Riordian</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ріордіан</seg>
       </tuv>
     </tu>
     <tu>
@@ -41176,14 +38758,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Rita</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рита</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Robimy wszystko co możemy by uleczyć jego ciało, ale niektóre rzeczy po prostu wymagają czasu. Jestem pewny, że za kilka tygodni Kessel będzie już mógł z nami rozmawiać.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231227T171429Z" creationid="Aedan" creationdate="20231222T151427Z">
@@ -41212,14 +38786,6 @@
       </tuv>
       <tuv lang="uk" changeid="Mykytka" changedate="20231024T140431Z" creationid="Mykytka" creationdate="20231024T140431Z">
         <seg>Підробітку, кажеш? Хочеш заробити грошей, розумію...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Roderich</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Родеріх</seg>
       </tuv>
     </tu>
     <tu>
@@ -41316,62 +38882,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T122716Z" creationid="Bohdana" creationdate="20231213T122716Z">
         <seg>Родеріка.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Rodrigo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Родріго</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Roel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Роел</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Rof</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Роф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Rolf</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рольф</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ronja</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ронія</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Rosita</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Розіта</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Roy</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рой</seg>
       </tuv>
     </tu>
     <tu>
@@ -41745,22 +39255,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Rudi</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Руді</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Runar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рунар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Runar lubi ćwiczyć walkę przed naszą plebanią. Na pewno go poznasz.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230412T164034Z" creationid="fiercepretzel" creationdate="20230407T032401Z">
@@ -41789,14 +39283,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230405T220809Z" creationid="fiercepretzel" creationdate="20230405T220809Z">
         <seg>Рунар загинув через власну дурість. Крім того, я намагався його врятувати.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Rupert</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Руперт</seg>
       </tuv>
     </tu>
     <tu>
@@ -41869,14 +39355,6 @@
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230407T055541Z" creationid="fiercepretzel" creationdate="20230407T055408Z">
         <seg>Я переїжджаю до руїн Вардхалу, чи не міг би ти мені якось допомогти?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Ruud</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Рууд</seg>
       </tuv>
     </tu>
     <tu>
@@ -42017,22 +39495,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Rębacz</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Здобувач</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Sachs</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сакс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Sadło zanieczyszczone futrem czy ścięgnami jest mniej warte, więc musisz uważać, pamiętaj.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20231102T195029Z" creationid="Mykytka" creationdate="20231101T163658Z">
@@ -42041,34 +39503,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Sall</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Салл</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Salvi</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сальві</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Salvi wciąż mi ufa, więc mamy nad nim przewagę. Niech Roderich wie, że w tym oddziale nie wszyscy zdezerterowali.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240103T182635Z" creationid="Aedan" creationdate="20240103T182635Z">
         <seg>Сальві все ще мені довіряє, тож ми маємо перевагу над ним. Передай Родеріху, що не всі з нашого підрозділу дезертирували.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Salzer</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Зальцер</seg>
       </tuv>
     </tu>
     <tu>
@@ -42313,14 +39751,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Sambor</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Самбор</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Sambor, to ja Marvin! Odłóż to cholerstwo!</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230930T064504Z" creationid="Bohdana" creationdate="20230930T064504Z">
@@ -42353,38 +39783,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Saradoc</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сарадок</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Saul</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сол</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Severin</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Северін</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Sharec</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Шарець</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Sierżant z pewnością będzie chciał z tobą pogadać.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T103424Z" creationid="Bohdana" creationdate="20231213T103424Z">
@@ -42393,34 +39791,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Sigmun</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сигмун</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Sigmun uznaje to za niezłą myśl.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230521T113417Z" creationid="fiercepretzel" creationdate="20230521T113417Z">
         <seg>Сигмун визнає, що це досить цікава думка.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Sigrid</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сігрід</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Sigund</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сігунд</seg>
       </tuv>
     </tu>
     <tu>
@@ -42437,14 +39811,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231215T210114Z" creationid="Aedan" creationdate="20231215T210114Z">
         <seg>Зільбах виглядає недоторканим... Не можу розгледіти місто з цього місця.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Simon</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Саймон</seg>
       </tuv>
     </tu>
     <tu>
@@ -42866,14 +40232,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Slager</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Слагер</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Slumsy są w innym kierunku, chłopcze. Nie zamierzam kręcić się z tobą po całym mieście.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230405T222320Z" creationid="fiercepretzel" creationdate="20230405T222320Z">
@@ -42886,22 +40244,6 @@
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230918T110722Z" creationid="Perlyno" creationdate="20230918T110722Z">
         <seg>Сни - це жах!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Sofia</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Софія</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Solis</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Соліс</seg>
       </tuv>
     </tu>
     <tu>
@@ -43692,14 +41034,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Stefan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Стефан</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Sto sztuk złota będzie łatwiejsze do podziału!</seg>
       </tuv>
       <tuv lang="uk" changeid="Perlyno" changedate="20230918T104142Z" creationid="Perlyno" creationdate="20230918T104142Z">
@@ -43736,14 +41070,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231023T174502Z" creationid="Bohdana" creationdate="20231023T174502Z">
         <seg>Сто разів дякую, хлопче! Я знав, що ти розумний!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Stone</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Стоун</seg>
       </tuv>
     </tu>
     <tu>
@@ -43936,30 +41262,6 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20231009T172328Z" creationid="Perlyno" creationdate="20231009T092801Z">
         <seg>Трясця, абсолютно непридатна для використання. Доведеться витратити чимало грошей, щоб її відремонтувати...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Sunder</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сандер</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Susanne</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Сюзанна</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Sven</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Свен</seg>
       </tuv>
     </tu>
     <tu>
@@ -45812,14 +43114,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Tara</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Тара</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Te bagna sprawiają, że czuję się jakoś nieswojo...</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231023T142154Z" creationid="Bohdana" creationdate="20231023T142154Z">
@@ -46324,22 +43618,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Terry</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Террі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Tespi</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Теспі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Testowałem działanie mikstury szybkości, ale nawet z jej pomocą się zmęczyłem.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231213T105631Z" creationid="Aedan" creationdate="20231212T180052Z">
@@ -46388,46 +43666,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>The Flail</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ціп</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Thiago</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Тьяго</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Thomas the forger</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Томас Коваль</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Thorsten</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Торстен</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Thulsa</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Тульса</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Tia.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231023T172017Z" creationid="Bohdana" creationdate="20231023T172017Z">
@@ -46436,26 +43674,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Till</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Тілль</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Till mówił, że ostatniej nocy trochę napęczniał, więc topielce raczej go już nie tkną, ale ścierwojady...</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231213T151710Z" creationid="Bohdana" creationdate="20231213T112226Z">
         <seg>Тілл сказав, що вчора ввечері він трохи роздувся, тож луркери навряд чи знову його чіпатимуть, але падальники...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Timo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Тімо</seg>
       </tuv>
     </tu>
     <tu>
@@ -47707,24 +44929,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>Це твоя заслуга. Такий голос здатен розчулити навіть серце Марти!
-&lt;сегмент 0658 ¶&gt;.
-
-- ¶ ---------------------
-
-У кожної жінки є якась ніжна струна.
-
-- ¶ ---------------------
-
-Куди ти підеш далі?
-
-- ¶ ---------------------
-
-До моїх милих рибалок. Знаєш... Я якось з ними зріднився. Вони добре до мене ставляться, а головне - не жаліють монет.
-
-- ¶ ---------------------
-
-Дякую. Побачимося.</note>
       <tuv lang="pl">
         <seg>To twoja zasługa. Taki głos jest w stanie poruszyć nawet serce Marthy!</seg>
       </tuv>
@@ -48231,50 +45435,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Tohar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Тохар</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Tollek</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Толлек</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Tollek wspominał, że sytuacja pogarsza się od jakiegoś pół roku.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231228T132438Z" creationid="Aedan" creationdate="20231228T132438Z">
         <seg>Толлек згадував, що ситуація погіршувалася вже десь пів року.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Tom</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Том</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Tomas</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Томас</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Tonan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Тонан</seg>
       </tuv>
     </tu>
     <tu>
@@ -48315,14 +45479,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231222T151420Z" creationid="Aedan" creationdate="20231222T151420Z">
         <seg>У нього влучило кілька болтів, а падіння з висоти тільки погіршило його стан.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Trimegisto</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Трімегісто</seg>
       </tuv>
     </tu>
     <tu>
@@ -49906,14 +47062,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Ulryk</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Ульрік</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Ulryk i Volker współpracują? Jest jeszcze gorzej, niż sądziłem...</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20230928T072610Z" creationid="Bohdana" creationdate="20230928T072610Z">
@@ -49986,14 +47134,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Unicorn</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Єдиноріг</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Uparty z ciebie typ. Trzeba ci to przyznać.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231001T055621Z" creationid="Bohdana" creationdate="20231001T055621Z">
@@ -50030,22 +47170,6 @@
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231015T090340Z" creationid="Bohdana" creationdate="20231015T090340Z">
         <seg>Чудово. Сподіваюся, ми ще побачимося!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Urs</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Урс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Urych</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Уріх</seg>
       </tuv>
     </tu>
     <tu>
@@ -50130,14 +47254,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Uwe</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Уве</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Uwierz mi, dla mnie to też była trudna decyzja.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231001T055801Z" creationid="Bohdana" creationdate="20231001T055801Z">
@@ -50178,58 +47294,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Varin</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Варін</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Veigo</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Вейго</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Veit</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Вейт</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Veit mógłby odsprzedać ci kontakty do swoich dostawców.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T073710Z" creationid="fiercepretzel" creationdate="20230409T073710Z">
         <seg>Вейт може перепродати контакти своїх постачальників.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Venzel</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Венцель</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Vicente</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Вінсенте</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Viktor</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Віктор</seg>
       </tuv>
     </tu>
     <tu>
@@ -50242,26 +47310,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Vlada</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Влада</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Volfzack wiedział co robił, wyrażając zgodę na budowę tego miejsca. Bez klasztoru Archolos nie byłoby takie same!</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231219T143100Z" creationid="Aedan" creationdate="20231219T143100Z">
         <seg>Вольфзак знав, що робив, коли давав згоду на зведення цього місця. Без монастиря Архолос не був би таким, як зараз!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Volker</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Волкер</seg>
       </tuv>
     </tu>
     <tu>
@@ -50310,14 +47362,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231215T205804Z" creationid="Aedan" creationdate="20231214T204110Z">
         <seg>Волкера? Ага, тому що він такий страшний, небезпечний старець, який не має чим зайнятися, крім переслідування молодих шукачів пригод з надмірними амбіціями.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Vrazka</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Вразка</seg>
       </tuv>
     </tu>
     <tu>
@@ -51596,14 +48640,6 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Walter</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Волтер</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Wam? Źle mnie zrozumiałeś. Ty młody możesz odejść. Powiedzmy, że nie należymy do zwolenników władzy królewskiej, a w szczególności jej rycerskich reprezentantów.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230917T135134Z" creationid="Perlyno" creationdate="20230917T124234Z">
@@ -51792,14 +48828,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231229T135045Z" creationid="Aedan" creationdate="20231229T135045Z">
         <seg>Згідно з багатьма історичними переказами, у фортеці зберігався древній артефакт Аданоса - Миротворець. Цей клинок, за легендами, є символом порядку і рівноваги.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Weigar</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Вейгар</seg>
       </tuv>
     </tu>
     <tu>
@@ -53048,22 +50076,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231219T130901Z" creationid="Aedan" creationdate="20231219T130901Z">
         <seg>Вовчі Сини? Що вони тут роблять?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Willem</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Віллем</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Winstan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Вінстан</seg>
       </tuv>
     </tu>
     <tu>
@@ -55328,26 +52340,10 @@
     </tu>
     <tu>
       <tuv lang="pl">
-        <seg>Yannick</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Янник</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
         <seg>Yannick mówił, że macie problem ze strażnikami.</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231023T164358Z" creationid="Bohdana" creationdate="20231023T164358Z">
         <seg>Яннік сказав, що у тебе проблеми з вартовими.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Yezegan</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Язеган</seg>
       </tuv>
     </tu>
     <tu>
@@ -55916,22 +52912,6 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231226T184647Z" creationid="Aedan" creationdate="20231226T184647Z">
         <seg>Вбивство Роела теж не має ніякого значення.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Zachary</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Захарій</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pl">
-        <seg>Zacky</seg>
-      </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230109T180251Z" creationid="OmegaT Aligner" creationdate="20230109T180251Z">
-        <seg>Закі</seg>
       </tuv>
     </tu>
     <tu>
