@@ -34,3 +34,7 @@ Biedną Dzielnicę	Бідний квартал
 Kopalni Soli	Соляна шахта
 Londram	Лондрам
 Wschodniego Archipelagu	Східного Архіпелагу
+Wschodni Archipelag	Східний Архіпелаг
+Południowiec	житель півдня
+Południowców	жителів півдня
+Nordmarczyk	нордмарець
