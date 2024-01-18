@@ -38,3 +38,9 @@ Wschodni Archipelag	Східний Архіпелаг
 Południowiec	житель півдня
 Południowców	жителів півдня
 Nordmarczyk	нордмарець
+Wilczy Syn	Вовчий Син
+Wilczych Synów	Вовчих Синів
+Wilcze Leże	Вовче Лігво
+Górniczą Dolinę	Гірнича Долина
+Górniczej Doliny	Гірничої Долини
+Kolonii Górniczej	Гірничої Колонії
