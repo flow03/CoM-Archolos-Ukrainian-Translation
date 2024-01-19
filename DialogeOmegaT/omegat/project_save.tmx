@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>A co mi pozostało?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240118T221114Z" creationid="Glіban" creationdate="20240118T221114Z">
+        <seg>А що мені залишається?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>A co mnie to? Strażnik nie strażnik, każdy płaci tyle samo.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20231215T132141Z" creationid="Bohdana" creationdate="20231215T092436Z">
@@ -8551,6 +8559,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Cześć, przystojniaku. Potrzebujesz czegoś?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T131856Z" creationid="Glіban" creationdate="20240119T131856Z">
+        <seg>Привіт, красеню. Чогось бажаєш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Czujesz ciepło? Nie chciałbyś chyba, by ten pręt spotkał się z twoją skórą, czyż nie?</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T164024Z" creationid="fiercepretzel" creationdate="20230714T164024Z">
@@ -13624,6 +13640,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ech, nie umiesz się bawić. Jestem Ambrosia i jak nietrudno zauważyć, pracuję w burdelu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T131704Z" creationid="Glіban" creationdate="20240118T215857Z">
+        <seg>Ех, не вмієш ти розважатись. Я Амброзія і, як неважко здогадатись, я працюю в борделі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ech, oczywiście, tak jak w przypadku większości legend, zero pokrycia w rzeczywistości.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230406T154800Z" creationid="fiercepretzel" creationdate="20230405T212506Z">
@@ -15132,6 +15156,14 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240108T195926Z" creationid="Aedan" creationdate="20240108T195926Z">
         <seg>Губернатор всередині?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Gwarantuję, że dużo potrafię.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T131917Z" creationid="Glіban" creationdate="20240119T131917Z">
+        <seg>Я гарантую, що можу багато чого зробити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23529,6 +23561,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Lubisz tę pracę?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T131723Z" creationid="Glіban" creationdate="20240118T220638Z">
+        <seg>Тобі подобається ця робота?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Lubię lekkie i wygodne bronie.</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230409T035153Z" creationid="fiercepretzel" creationdate="20230409T034640Z">
@@ -26361,6 +26401,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mogę ci to wytłumaczyć na wiele sposobów, mój drogi...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T132459Z" creationid="Glіban" creationdate="20240118T215721Z">
+        <seg>Я можу пояснити тобі це багатьма способами, мій любий...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mogę cię prosić na chwilę?</seg>
       </tuv>
       <tuv lang="uk" changeid="Bohdana" changedate="20231010T084055Z" creationid="Bohdana" creationdate="20231010T084055Z">
@@ -26477,6 +26525,14 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240111T153345Z" creationid="Aedan" creationdate="20240111T153345Z">
         <seg>Можу організувати вам зустріч десь за межами Зільбаха.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mogłam zgnić we wsi, a tak, przynajmniej nie chodzę głodna. Ciężko dziś o dobrą robotę w mieście, a ta... przynajmniej jest prosta!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T132641Z" creationid="Glіban" creationdate="20240118T221346Z">
+        <seg>Я могла б згнити в селі, а так, принаймні, не голодую. У місті зараз важко знайти хорошу роботу, а ця... принаймні проста!</seg>
       </tuv>
     </tu>
     <tu>
@@ -30018,6 +30074,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Najwyraźniej, nie są takimi świętoszkami, za jakich się uważają.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T131024Z" creationid="Glіban" creationdate="20240118T220608Z">
+        <seg>Очевидно, що вони не такі святі, якими себе вважають.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Należy ci się nauczka!</seg>
       </tuv>
       <tuv lang="uk" changeid="fiercepretzel" changedate="20230714T050203Z" creationid="fiercepretzel" creationdate="20230714T050203Z">
@@ -33494,6 +33558,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20230930T184859Z" creationid="Mykytka" creationdate="20230930T132241Z">
         <seg>Його не здують навіть сильні пориви вітру, і все завдяки міцній конструкції та кам'яній основі, на якій він обертається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie przypominam sobie jednak by ktoś z taką fryzurą pojawił się tu w tym tygodniu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T131737Z" creationid="Glіban" creationdate="20240118T215406Z">
+        <seg>Однак, я не пригадую, щоб хтось з такою зачіскою з'являвся тут цього тижня.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38546,6 +38618,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Odkąd tu pracuję, widziałam wielu mężczyzn.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T131816Z" creationid="Glіban" creationdate="20240119T131816Z">
+        <seg>Я бачила багато чоловіків, поки працювала тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Odkąd tu przybyłeś, mieliśmy cię na oku. Miałem przeczucie co do tego, że możesz być zwyczajnym szpiegiem i nie myliłem się.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231226T183254Z" creationid="Aedan" creationdate="20231226T183254Z">
@@ -39086,6 +39166,14 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20240114T171853Z" creationid="Aedan" creationdate="20240114T171853Z">
         <seg>Останнім часом у мене з'являється все більше і більше обов'язків, але це плата за мої амбіції у службі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ostatnio mamy coraz więcej gości z Bogatej Dzielnicy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240118T220536Z" creationid="Glіban" creationdate="20240118T220536Z">
+        <seg>Останнім часом у нас все більше відвідувачів з Багатого кварталу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45330,6 +45418,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Póki co, proponuję ten najprostszy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T155215Z" creationid="Glіban" creationdate="20240118T215807Z">
+        <seg>Поки що, я пропоную обрати найпростіший спосіб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Póki co, wstrzymajcie się z buntem, wydostanę się stąd i przekażę wszystko, co tu zobaczyłem, Lorenzo.</seg>
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231228T191643Z" creationid="Aedan" creationdate="20231228T191643Z">
@@ -48902,6 +48998,14 @@
       </tuv>
       <tuv lang="uk" changeid="Aedan" changedate="20231219T122545Z" creationid="Aedan" creationdate="20231219T122545Z">
         <seg>Я шукаю брата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Szukam faceta noszącego kucyk. Może spotkałaś go tutaj?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240119T132000Z" creationid="Glіban" creationdate="20240118T214837Z">
+        <seg>Я шукаю хлопця, який носить хвіст. Може, ти зустрічала його тут?</seg>
       </tuv>
     </tu>
     <tu>

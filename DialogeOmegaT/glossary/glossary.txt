@@ -24,13 +24,14 @@ krwiopijce	шершні
 Volfzacke	Вольфзак
 Gildia Kupiecka	Торгова Гільдія
 Gildii Kupieckiej	Торгової Гільдії
-Dzielnicy Biedoty	Бідний Квартал
+Dzielnicy Biedoty	Бідний квартал
+Biedną Dzielnicę	Бідний квартал
+Bogatej Dzielnicy	Багатий квартал
 zębacze	снеппери
 ścierwojady	падальники
 ścierwojada	падальника
 tyton	тютюн
 Wysłannik	посол
-Biedną Dzielnicę	Бідний квартал
 Kopalni Soli	Соляна шахта
 Londram	Лондрам
 Wschodniego Archipelagu	Східного Архіпелагу
