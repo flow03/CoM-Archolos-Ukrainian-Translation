@@ -439,7 +439,7 @@ Przewoźnik	Перевізник
 Przewodnik	Провідник
 Strażnik Starego Miasta	Вартовий Старого Міста
 Muzykant	Музикант
-Rekrut	Рекрут
+Rekrut	Новобранець
 Złodziej	Злодій
 Złodziej-partacz	Злодій-новачок
 Uchodźca	Біженець
@@ -919,7 +919,7 @@ Piwo Wyspiarskie	Острівне Пиво
 Wino Arrazola	Вино Арразоля
 Dziedzictwo Arrazola	Спадщина Арразоля
 Zbożowa starka	Зерновий туманник
-Mroczny Paladyn	Темне паладинске
+Mroczny Paladyn	Темний Паладин
 Rum	Ром
 Grog	Грог
 Wytrawne wino Ernesto	Сухе вино Ернесто

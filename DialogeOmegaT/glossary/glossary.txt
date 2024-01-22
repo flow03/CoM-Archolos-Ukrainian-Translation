@@ -45,3 +45,4 @@ Wilcze Leże	Вовче Лігво
 Górniczą Dolinę	Гірнича Долина
 Górniczej Doliny	Гірничої Долини
 Kolonii Górniczej	Гірничої Колонії
+straż	вартовий
