@@ -16,6 +16,7 @@ kręgu magii	кола магії
 kręgów magicznych	колам магії
 nieumarł	нечисть
 górnik	гірник
+kopacz	рудокоп
 tyton	тютюн
 krwiopijce	шершні
 Volfzacke	Вольфзак

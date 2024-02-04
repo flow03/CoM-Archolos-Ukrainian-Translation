@@ -7,7 +7,6 @@ Nie możesz teraz trzymać pochodni!	Ви не можете зараз трим�
 Nie masz pochodni!	У вас немає смолоскипа!
 Nie możesz trzymać pochodni w trakcie rozmowy!	Ви не можете тримати смолоскип під час розмови!
 Archolos	Архолос
-Archolos	Архолос
 Kopalnia	Копальня
 Grobowiec	Гробниця
 Kanały	Каналізація.
