@@ -351,7 +351,7 @@ Do ratusza miejskiego	До Ратуші
 Do biura skryby miejskiego	До міської писарської контори
 Do 'Pękniętej Struny'	До 'Обірваної струни'
 Zejście do kanałów	Вхід в каналізацію
-Wyjście do miasta - Gildia Kupiecka	Вихід до міста – Гільдія Купців
+Wyjście do miasta - Gildia Kupiecka	Вихід до міста – Торгова Гільдія
 Wyjście do miasta - Targowisko	Вихід до міста – Ринкова площа
 Wyjście do miasta - Dzielnica Rzemieślników	Вихід до міста – Ремісничий квартал
 Wyjście do miasta - Port	Вихід до міста - Гавань
