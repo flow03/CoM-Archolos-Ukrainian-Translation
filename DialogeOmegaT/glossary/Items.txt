@@ -662,7 +662,7 @@ Młody ścierwojad	Молодий падальник
 Chory ścierwojad	Хворий падальник
 Wycieńczony ścierwojad	Виснажений падальник
 Szczur	Щур
-Ogonek	Хвостик
+Ogonek	Вогник
 Upadły Paladyn	Полеглий паладин
 Szkielet-paladyn	Скелет-паладин
 Wąż morski	Хвилежер

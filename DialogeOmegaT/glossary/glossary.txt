@@ -44,3 +44,6 @@ Wilcze Leże	Вовче Лігво
 Górniczą Dolinę	Гірнича Долина
 Górniczej Doliny	Гірничої Долини
 Kolonii Górniczej	Гірничої Колонії
+Khorinis	Хорініс
+Z Khorinis	З Хорінісу
+Z Londram	З Лондраму
