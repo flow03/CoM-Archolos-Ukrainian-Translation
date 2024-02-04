@@ -9,22 +9,20 @@ Wodnego Kręgu	Кільця Води
 Krąg Ognia	Коло Вогню
 Wysłannik Królewski	Королівський посол
 kaplicy	храму
-Wprowadź mnie	Введи мене
+kapliczka	святилище
+Wprowadź mnie do kręgu magii	Введи мене до кола магії
 krąg magii	коло магії
 kręgu magii	кола магії
 kręgów magicznych	колам магії
-powstrzymać	зупинити
-ciągle	досі
 nieumarł	нечисть
-kapliczka	вівтар
-górnik	рудокоп
-tyton	табак
-kłamstw	брехні
+górnik	гірник
+tyton	тютюн
 krwiopijce	шершні
 Volfzacke	Вольфзак
 Gildia Kupiecka	Торгова Гільдія
 Gildii Kupieckiej	Торгової Гільдії
 Dzielnicy Biedoty	Бідний Квартал
+zębacz	снеппер
 zębacze	снеппери
 ścierwojady	падальники
 ścierwojada	падальника
