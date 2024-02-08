@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="paragraph" srclang="pl"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="paragraph" srclang="pl"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -624,8 +624,8 @@
       <tuv lang="pl">
         <seg>Czekaj tylko, parszywy złodzieju!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
-        <seg>Ну почекай, брудний злодюжко!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240208T160713Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
+        <seg>Ну зачекай, брудний злодюжко!</seg>
       </tuv>
     </tu>
     <tu>

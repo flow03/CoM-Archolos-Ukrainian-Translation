@@ -19,6 +19,8 @@
         <glossary_dir>__DEFAULT__</glossary_dir>
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
+        <export_tm_dir>__DEFAULT__</export_tm_dir>
+        <export_tm_levels>omegat level1 level2</export_tm_levels>
         <source_lang>pl</source_lang>
         <target_lang>uk</target_lang>
         <source_tok>org.omegat.tokenizer.LucenePolishTokenizer</source_tok>
