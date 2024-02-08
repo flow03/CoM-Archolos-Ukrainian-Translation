@@ -53,3 +53,4 @@ Khorinis	Хорініс
 Z Khorinis	З Хорінісу
 Z Londram	З Лондраму
 straż	вартовий
+Księga rachunkowa	Бухгалтерська книга
