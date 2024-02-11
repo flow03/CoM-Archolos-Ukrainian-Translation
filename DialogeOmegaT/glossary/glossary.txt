@@ -53,3 +53,5 @@ Khorinis	Хорініс
 Z Khorinis	З Хорінісу
 Z Londram	З Лондраму
 straż	вартовий
+Mrocznych Tajemnicach	Темних секретах
+Żarliwe Słońce	Палаюче Сонце
