@@ -16,14 +16,14 @@ Fajka wodna	Кальян
 Przełącznik	Перемикач
 Bryłka rudy	Шматок руди
 Kuchnia	Плита
-Posąg Innosa	Вівтар Інноса
+Posąg Innosa	Статуя Інноса
 Stół runiczny	Рунний стіл
 Drewno do piłowania	Пиляти деревину
 Fotel	Крісло
 Lampa	Лампа
 Biblioteka	Бібліотека
 Samorodek złota	Золотий самородок
-Posąg Beliara	Вівтар Беліара
+Posąg Beliara	Статуя Беліара
 Brak przyn.	Без гільдії
 Strażnik	Вартовий
 Obywatel	Горожанин
