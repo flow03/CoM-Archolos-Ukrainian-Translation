@@ -380,3 +380,4 @@ Sharec	Шарець
 Kiep	Кіп
 Valerio	Валеріо
 Mandes	Мандес
+Burkhard	Буркгард
