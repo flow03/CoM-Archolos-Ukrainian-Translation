@@ -208,24 +208,24 @@
       <tuv lang="pl">
         <seg>(Dolne lewe pole)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Нижня ліва плита)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175006Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Нижня ліва поле)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>(Dolne pole)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Нижня плита)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175006Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Нижня поле)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>(Dolne prawe pole)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Нижня права плита)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175006Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Нижня права поле)</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,24 +264,24 @@
       <tuv lang="pl">
         <seg>(Górne lewe pole)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Верхня ліва плита)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175006Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Верхня ліва поле)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>(Górne pole)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Верхня плита)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175006Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Верхня поле)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>(Górne prawe pole)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Верхня права плита)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175006Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Верхня права поле)</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="pl">
         <seg>(Lewe pole)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Ліва плита)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175006Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Ліва поле)</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="pl">
         <seg>(Prawe pole)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Права плита)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175006Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Права поле)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2872,8 +2872,16 @@
       <tuv lang="pl">
         <seg>A Innos dał człowiekowi światło, by ten mógł rozproszyć mrok.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>І дав Іннос людині світло, щоб розвіяти темряву.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181442Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>І дав Іннос людині світло, щоб вона могла розвіяти темряву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A co jeśli ochrona mienia lub stanie na straży nie jest waszym powołaniem? Każda umiejętność jest mile widziana!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T141450Z" creationid="Glіban" creationdate="20240219T141450Z">
+        <seg>Що робити, якщо охороняти майно чи стояти на варті – не ваше покликання? Будь-які навички вітаються!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,8 +3056,8 @@
       <tuv lang="pl">
         <seg>Adanos strzec nas będzie od złej przygody!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Аданос убереже нас від лиходійства!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181116Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Аданос вбереже нас від небезпек!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3208,7 +3216,7 @@
       <tuv lang="pl">
         <seg>Albowiem to Adanos przyniósł ludziom pomysłowość i mądrość, której tak bardzo potrzebowali.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175834Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Адже саме Аданос приніс людям винахідливість і мудрість, яких вони так відчайдушно потребували.</seg>
       </tuv>
     </tu>
@@ -3984,8 +3992,8 @@
       <tuv lang="pl">
         <seg>Archolos, jako wspaniała i dumna część naszego potężnego królestwa z radością wita wszystkich rodaków, którzy szukają u nas bezpieczeństwa oraz spokoju.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Архолос, як славна і горда частина нашого могутнього королівства, з радістю вітає всіх співвітчизників, які шукають у нас безпеки та спокою.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T134326Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Архолос, як мальовнича і горда частина нашого могутнього королівства, з радістю вітає всіх співвітчизників, які шукають у нас безпеки та спокою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5672,8 +5680,8 @@
       <tuv lang="pl">
         <seg>By nie obciążać dodatkowo rodaków swoją bezczynnością w więzieniu, skazańcy przeniesieni zostaną do kopalni królewskiej rudy na wyspie Khorinis.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Щоб ще більше не обтяжувати співвітчизників своєю бездіяльністю у в'язниці, засуджених переведуть на королівську копальню на острові Хорініс.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T140709Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Щоб ще більше не обтяжувати співвітчизників своєю бездіяльністю у в'язниці, засуджених переведуть до королівських рудних копалень на острові Хорініс.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5984,8 +5992,8 @@
       <tuv lang="pl">
         <seg>Celem tej wizyty jest coroczne zebranie podatków, przekazanie najnowszych rozporządzeń królewskich oraz kontrola aktualnego stanu wyspy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Мета цього візиту – збирання щорічних податків, передача останніх королівських указів та огляд поточного стану острова.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T134641Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Метою цього візиту є щорічний збір податків, передача останніх королівських указів та перевірка поточного стану острова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6312,16 +6320,16 @@
       <tuv lang="pl">
         <seg>Chwała niech będzie strażnikowi niebiańskiej i ziemskiej harmonii.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Хвала хранителю небесної та земної гармонії.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181409Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Славімо хранителя небесної та земної гармонії.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Chwała wszechpotężnego władcy Światła i Ognia, niech będzie z nami na wieki.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Слава всемогутньому Володарю світла і вогню, і нехай прибуде з нами навіки.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T182802Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Слава всемогутньому Володарю Світла і Вогню, нехай прибуде з нами навіки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6536,8 +6544,8 @@
       <tuv lang="pl">
         <seg>Cieszmy się i radujmy ze wszystkiego, co z jego woli powstało, a swą miłością darujmy jednakowo wszystkie rzeczy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Радітимемо і веселимось усьому, що виникло за Його волею, і з Його любов'ю віддаватимемо всім порівну.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T180542Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Радіймо і тішмося усьому, що було створено за Його волею, і з Його любов'ю віддаваймо всім однаково.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7472,8 +7480,8 @@
       <tuv lang="pl">
         <seg>Czy prawdę poznamy - przyszłości swej ślad, czy tylko odpowie nam wiatr?</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Чи правду дізнаємось – долі нашої слід, чи вітер нам скаже услід?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T184133Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Чи дізнаємось ми правду – слід нашої долі, чи лише вітер прошепоче поволі?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7992,8 +8000,8 @@
       <tuv lang="pl">
         <seg>Dla każdego znajdzie się miejsce w naszej wielkiej rodzinie, bo każdy współpracownik dba o resztę jak o swoich braci i siostry!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>У нашій великій сім'ї знайдеться місце для будь-кого, тому що кожен товариш по службі піклується про інших, як про своїх братів і сестер!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T141901Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>У нашій великій сім'ї знайдеться місце для кожного, тому що кожен колега піклується про інших, як про своїх братів і сестер!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8024,8 +8032,8 @@
       <tuv lang="pl">
         <seg>Dlatego zgodnie z wolą Innosa każdy członek jego społeczności musi wypełniać swoje obowiązki.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Тому, згідно з волею Інноса, кожен член його громади має виконувати свої обов'язки.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181703Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Тому, згідно з волею Інноса, кожен член його общини має виконувати свої обов'язки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8416,8 +8424,8 @@
       <tuv lang="pl">
         <seg>Do serca modlitwy śle kapłanki głos, gdy rosa opada na wrzos.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>І там, де на верес впала роса, лише жриці молитва чутна.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T185450Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Молитвою в серці лунають жриць голоси, як ніжний на вересі дотик роси.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8680,8 +8688,8 @@
       <tuv lang="pl">
         <seg>Dodatkowo przypominamy, że wszyscy skazańcy z wyrokami dłuższymi niż pięć lat w celi, mogą liczyć na skrócenie wyroku i odbycie go pracując jako kopacz!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Крім того, нагадуємо, що всі засуджені, які відбувають покарання у в'язницях понад п'ять років, можуть розраховувати на скорочення терміну та відбувати його, працюючи в шахті!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T135914Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Крім того, нагадуємо, що всі засуджені, які відбувають покарання у в'язницях понад п'ять років, можуть розраховувати на скорочення терміну та відбувати його, працюючи у копальні!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8848,24 +8856,24 @@
       <tuv lang="pl">
         <seg>Dolne lewe pole.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Нижня ліва плита.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175303Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Нижнє ліве поле.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Dolne pole.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Нижня плита.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175236Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Нижнє поле.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Dolne prawe pole.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Нижня права плита.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175228Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Нижнє праве поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9050,6 +9058,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Будь-які овочі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dołącz do nas! Dołącz do ludzi pana Volkera już dziś i odmień swój los!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T142120Z" creationid="Glіban" creationdate="20240219T142120Z">
+        <seg>Приєднуйтесь до нас! Приєднуйтесь до людей пана Волкера сьогодні та змініть свою долю!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11312,16 +11328,16 @@
       <tuv lang="pl">
         <seg>Gdy do nas dołączycie na pewno nie będziecie się nudzić!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>З нами вам точно не доведеться нудьгувати!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T141932Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Приєднавшись до нас, вам точно не доведеться нудьгувати!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Gdy tylko śledztwo zostanie zakończone, na placu Starego Miasta odbędzie się publiczna egzekucja wszystkich winnych.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Як тільки слідство буде завершено, на площі у Старому місті відбудеться публічна кара всіх винних.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T133817Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Як тільки розслідування буде завершено, на площі у Старому місті відбудеться публічна страта всіх винних.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11888,8 +11904,8 @@
       <tuv lang="pl">
         <seg>Gubernator Morris wraz z Wysłannikiem Królewskim Graysonem oficjalnie zaprzeczają wszelkim pogłoskom o pojawieniu się orków na wyspie Archolos.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Губернатор Морріс разом із королівським посланником Грейсоном офіційно спростовують усі чутки про появу орків на острові Архолос.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T140437Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Губернатор Морріс разом із королівським посланцем Грейсоном офіційно спростовують усі чутки про появу орків на острові Архолос.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11992,24 +12008,24 @@
       <tuv lang="pl">
         <seg>Górne lewe pole.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Верхня ліва плита.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175253Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Верхнє лівє поле.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Górne pole.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Верхня плита.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175230Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Верхнє поле.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Górne prawe pole.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Верхня права плита.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175300Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Верхнє праве поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12048,8 +12064,8 @@
       <tuv lang="pl">
         <seg>Głos harfy nadaje jej czcigodny ton, donośny jak kościelny dzwon.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>І спів арфи так дзвінко звучить, як дзвін храму дзвенить.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T183603Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Голос арфи створює трепетні тони, гучні, як церковні дзвони.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12608,8 +12624,8 @@
       <tuv lang="pl">
         <seg>I spadnie Święty Młot na głowę Bestii i zmiażdży jej czaszkę, tak że powróci ona do królestwa Beliara.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>І впаде святий молот на голову звіра, і зруйнує його череп, так, що він повернеться в царство Беліара..</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T182636Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>І впаде Святий Молот на голову звіра, і розтрощить його череп, так, що він повернеться в царство Беліара.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12624,8 +12640,8 @@
       <tuv lang="pl">
         <seg>I wtedy rzekł Adanos do swych wyznawców: 'Żyjcie i pracujcie, albowiem dzień stworzono po to, by mąż mógł żyć i pracować.'</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>І тоді Аданос сказав своїм послідовникам: Живіть і працюйте, бо день створений для того, щоб чоловік жив і працював..</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175607Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>І тоді Аданос сказав своїм послідовникам: 'Живіть і працюйте, бо день створений для того, щоб людина жила і працювала'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12832,8 +12848,8 @@
       <tuv lang="pl">
         <seg>Innos obroni swego sługę od krzywdy i złej przygody na mrocznych ścieżkach, którymi przyszło mu kroczyć.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Іннос захищатиме свого слугу від бід і лиходійства на темних шляхах, якими йому довелося йти.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181601Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Іннос захищатиме свого слугу від лиха і незпек на темних шляхах, якими йому доведеться йти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13064,8 +13080,8 @@
       <tuv lang="pl">
         <seg>Jak wielu z was już mogło zauważyć, na naszej wyspie pojawiają się kolejne fale uciekających przed wojną mieszkańców Myrtany.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Як багато хто з вас, можливо, вже чув, на наш острів хлине нова хвиля біженців з Міртани, які рятуються від війни.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T134050Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Як багато хто з вас, можливо, вже помітив, на наш острів прибувають нові хвилі біженців з Міртани, які рятуються від війни.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13312,8 +13328,8 @@
       <tuv lang="pl">
         <seg>Jednocześnie prosimy mieszkańców miasta o wyrozumiałość dla wszystkich potrzebujących, niech miłosierdzie Adanosa nie będzie wam obce w tych niespokojnych czasach!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>У той же час ми просимо жителів міста проявити розуміння до всіх нужденних, нехай буде милосердя Аданоса не чуже вам у ці неспокійні часи!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T134414Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Водночас просимо мешканців міста з розумінням ставитися до всіх нужденних, нехай милосердя Аданоса не буде чужим для вас у ці неспокійні часи!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13352,8 +13368,8 @@
       <tuv lang="pl">
         <seg>Jej moc wszechobecna wciąż otacza nas, gdy Słońca przyświeca nam blask.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>І Сонце, і магія – все одна суть, вони світло нам несуть.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T183718Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Його всеосяжна сила оточує нас, коли Сонце світить в наш час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14032,32 +14048,32 @@
       <tuv lang="pl">
         <seg>Każdego poranka, gdy Słońce znów lśni, to magia uderza do drzwi.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>О, Сонце, ти щоранку встаєш і магію людям несеш.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T132000Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Щоранку, коли Сонце знову встає, це магія стукає у віконце моє.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Każdego wieczora możecie liczyć na kufel piwa i ciepły posiłek, a także na spędzenie czasu w doborowym towarzystwie!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Щовечора ви можете розраховувати на пінту пива та гарячу їжу, а також зможете провести час у хорошій компанії!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T141647Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Щовечора ви можете розраховувати на кухоль пива та гарячу їжу, а також на приємно проведений час у хорошій компанії!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Każdy kto może udzielić jakichkolwiek informacji na temat tego zdarzenia, proszony jest o kontakt z przedstawicielami straży miejskiej.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Усіх, хто може надати будь-яку інформацію про цей інцидент, просять зв'язатися з представниками міської варти.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T133945Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Усіх, хто може надати будь-яку інформацію про цей інцидент, просять звертатися до представників міської варти.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Każdy mężczyzna zdolny do walki, który otrzyma kartę powołania do armii królewskiej, zobowiązany jest stawić się w koszarach w ciągu dwóch dni.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Кожен чоловік здатний тримати меч і отримав повістку про призначення у королівську армію - повинен з'явитися до казарм протягом двох днів.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T134802Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Кожен чоловік, що здатен тримати меч і отримав повістку про призначення у королівську армію, зобов'язаний з'явитися до казарм протягом двох днів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16472,7 +16488,7 @@
       <tuv lang="pl">
         <seg>Kuchnia</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175030Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Плита</seg>
       </tuv>
     </tu>
@@ -17744,8 +17760,8 @@
       <tuv lang="pl">
         <seg>Lewe pole.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ліва плита.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175239Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ліве поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21096,8 +21112,8 @@
       <tuv lang="pl">
         <seg>Módlcie się, bo jego koniec jest bliski...</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Моліться, бо кінець близький...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T132827Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Моліться, бо кінець вже близько...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21544,8 +21560,8 @@
       <tuv lang="pl">
         <seg>Nadszedł czas rozwiązania...</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Настав час рішучості...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T133019Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Настав вирішальний час...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21736,8 +21752,8 @@
       <tuv lang="pl">
         <seg>Należy czcić wszechmocnego Pana Ognia datkami i modlitwą, by przebaczył nieposłusznym ich występki.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Необхідно поважати всемогутнього Володаря вогню пожертвуваннями та молитвами про те, щоб Він вибачив непокірних за їхні провини.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181828Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Необхідно вшановувати всемогутнього Володаря Вогню пожертвуваннями та молитвами, щоб він простив непокірних за їхні гріхи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22374,6 +22390,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie czujecie się zbyt pewnie z mieczem? Bez obawy! Każdy nowy przejdzie trening bojowy i to kompletnie za darmo!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T141405Z" creationid="Glіban" creationdate="20240219T141405Z">
+        <seg>Не надто впевнено володієте мечем? Не хвилюйтесь! Усі новачки отримають бойову підготовку абсолютно безкоштовно!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie da się z niej nic odczytać.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -22418,6 +22442,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Не всі добре відреагують,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie każdy obrońca Myrtany musi nosić miecz! Wspomóżcie obronę naszego królestwa zaopatrując naszych chłopców w najlepszy sprzęt!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T140026Z" creationid="Glіban" creationdate="20240219T140026Z">
+        <seg>Не кожен захисник Міртани має носити меч! Допоможіть захистити наше королівство, забезпечивши наших бійців найкращим спорядженням!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22678,6 +22710,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie wiecie w czym jesteście dobrzy? Wspólnie odkryjemy wasze ukryte talenty!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T141503Z" creationid="Glіban" creationdate="20240219T141503Z">
+        <seg>Не знаєте, що у вас добре виходить? Разом ми розкриємо ваші приховані таланти!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie wiedziałem, że potrzebuję do tego glejtu.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -22880,7 +22920,7 @@
       <tuv lang="pl">
         <seg>Niech nasza wiedza i nasze czyny teraz i na wieki stanowią jedność ze Świętą Wodą.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175907Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Нехай наші знання та наші дії відтепер і назавжди будуть єдині зі Святою водою.</seg>
       </tuv>
     </tu>
@@ -22888,32 +22928,32 @@
       <tuv lang="pl">
         <seg>Niech obdarzy nas mądrością, byśmy roztropnie używali otrzymanych od niego darów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Нехай Він наділить нас мудрістю, щоб розумно використовувати дари, які ми отримали від Нього.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T180724Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Нехай Він наділить нас мудрістю, щоб розумно використовувати отримані від Нього дари.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Niech oświeca ścieżkę, po której przyszło nam stąpać i abyśmy oparli się wszystkim zagrożeniom.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Нехай висвітлить Він шлях, яким нам належить йти, і нехай ми встоїмо перед усіма небезпеками.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181016Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Нехай він освітлює шлях, яким ми маємо йти, і нехай ми встоїмо перед усіма загрозами.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Niech pobłogosławi nasze ciała, uwolni je od ran i tchnie w nie nowe życie!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Нехай Він благословить наші тіла, звільнить їх від ран і вдихне в них нове життя!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181159Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Нехай Він благословить наші тіла, зцілить їх від ран і вдихне в них нове життя!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Niech zmiłuje się nad nami i ma nas w swej opiece.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Нехай Він буде милостивий до нас і зберігає нас у Своїй турботі.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181237Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Нехай Він змилується над нами і береже нас під своїм захистом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23130,6 +23170,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Грубий лист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nieważne skąd pochodzicie. Nieważne czy jesteście starzy czy młodzi!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T141658Z" creationid="Glіban" creationdate="20240219T141658Z">
+        <seg>Неважливо, звідки ви родом. Неважливо, старі ви чи молоді!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25062,6 +25110,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>On jest mieczem, siłą i tarczą! A kto w niego wierzy, zła się nie ulęknie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181512Z" creationid="Glіban" creationdate="20240217T181512Z">
+        <seg>Він є меч, сила та щит. І кожен, хто вірує в Нього, не побоїться зла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Oni są ziemskimi wysłannikami Pana Ognia i Światła! Im należy się posłuch, ofiara i poddanie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T182100Z" creationid="Glіban" creationdate="20240217T182100Z">
+        <seg>Вони – земні посланці Володаря Вогню та Світла! Їм належить слухняність, жертовність і покора!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Oni zrobią sobie krzywdę...</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
@@ -25368,8 +25432,8 @@
       <tuv lang="pl">
         <seg>Ostateczne starcie z odwiecznym wrogiem zakończy się zwycięstwem, a miłosierdzie Innosa będzie naszym zbawieniem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Остання битва з вічним ворогом закінчиться перемогою, і милосердя Інноса стане нашим порятунком..</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T182708Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Остання битва з одвічним ворогом закінчиться перемогою, і милосердя Інноса стане нашим спасінням.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28112,8 +28176,8 @@
       <tuv lang="pl">
         <seg>Po zmroku do duchów zwracamy się, co mogą powiedzieć, któż wie?</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>У темряві шукаємо ми духів одних – хто знає, що скажуть вони?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T183917Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>З настанням темряви до духів ми звертаємось, що вони можуть нам сказати, зрозуміти намагаємось.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28830,6 +28894,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Pomocy! Pomocy!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175413Z" creationid="Glіban" creationdate="20240217T175413Z">
+        <seg>Допоможіть! Допоможіть!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Pomocy, niech mi ktoś pomoże!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
@@ -29018,6 +29090,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Шукач пригод</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Poszukujecie pracy? Brakuje wam grosza? A może jakiś inny problem spędza wam sen z powiek?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T141348Z" creationid="Glіban" creationdate="20240219T141348Z">
+        <seg>Ви шукаєте роботу? Вам не вистачає грошей? Або, можливо, якась інша проблема не дає вам спати ночами?</seg>
       </tuv>
     </tu>
     <tu>
@@ -29872,8 +29952,8 @@
       <tuv lang="pl">
         <seg>Prawe pole.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Права плита.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175247Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Праве поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31432,8 +31512,8 @@
       <tuv lang="pl">
         <seg>Przez mgły widzę wyspę jak z dziecinnych snów, jakże chciałbym zobaczyć ją znów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>У тумані я бачу острів із дитячих снів, з ним мрію побачитися знову.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T185320Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Крізь туман я бачу острів, наче з дитячих мрій, от би знову побачити обрій твій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31608,8 +31688,8 @@
       <tuv lang="pl">
         <seg>Przyjmiemy wszystkich, ale zapłatę otrzymają tylko nieliczni...</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ми приймемо всіх, але заплатимо лише деяким...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T142243Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ми приймаємо усіх, але платимо лише деяким...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37456,8 +37536,8 @@
       <tuv lang="pl">
         <seg>Strzeżcie się, bo człek głupi i leniwy zostanie wygnany do krainy wiecznej ciemności.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Бережіться, бо дурна і лінива людина буде вигнана в землі вічної темряви.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175748Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Стережіться, бо нерозумні та ліниві будуть вигнані в царство вічної темряви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38016,8 +38096,8 @@
       <tuv lang="pl">
         <seg>Szanujmy stworzenia Pana naszego i ziemię, po której stąpał, albowiem jest ona święta.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Давайте шанувати творіння нашого Господа і землю, якою Він ходив, бо вона свята.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T180633Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Давайте шанувати творіння нашого Господа і землю, по якій Він ходив, бо вона свята.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38640,8 +38720,8 @@
       <tuv lang="pl">
         <seg>Szukajcie wiedzy, byście mogli przekazać ją synom swoim, gdyż taka jest wola moja.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Шукайте знання, щоб передати їх своїм синам, бо така моя воля.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T175618Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Шукайте знання, щоб передати їх синам своїм, бо така моя воля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38778,6 +38858,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Слухач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Słuchajcie, słuchajcie, mieszkańcy Archolos! Na rozkaz wielmożnego gubernatora Morrisa, ogłasza się, co następuje!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T132546Z" creationid="Glіban" creationdate="20240219T132546Z">
+        <seg>Слухайте, слухайте, мешканці Архолосу! За прямим наказом високоповажного губернатора Морріса, оголошується наступне!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39296,8 +39384,8 @@
       <tuv lang="pl">
         <seg>Te wieże strzeliste wśród chmur nikną gdzieś, skąd boska dochodzi mnie pieśń.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ці вежі, серед хмар, наче підносяться, до мене від них Божественні пісні доносяться.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T190751Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ці вежі серед хмар кудись зникають, до мене їх божественні пісні долинають.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39704,8 +39792,8 @@
       <tuv lang="pl">
         <seg>To się dzieje, gdy ktoś próbuje powiedzieć prawdę...</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ось що відбувається, коли хтось намагається говорити правду...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T174402Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ось що буває, коли хтось намагається розповісти правду...</seg>
       </tuv>
     </tu>
     <tu>
@@ -40776,8 +40864,8 @@
       <tuv lang="pl">
         <seg>Tylko jego ogień może nas oczyścić z win...</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Тільки Його вогонь може очистити нас – грішників...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T132838Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Тільки Його вогонь може очистити нас від наших гріхів...</seg>
       </tuv>
     </tu>
     <tu>
@@ -40808,16 +40896,16 @@
       <tuv lang="pl">
         <seg>Tylko potęga Innosa może raz na zawsze uporać się z nadchodzącym niebezpieczeństwem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Тільки сила Інноса допоможе впоратися з небезпекою, що насувається, раз і назавжди.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T182202Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Тільки сила Інноса може раз і назавжди подолати небезпеку, що насувається.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Tylko przez miłosierdzie Boga Światła ciało i dusza dostąpi spoczynku w jego świętym domu, gdy zgaśnie płomień ludzkiego życia.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Тільки з милості Бога світла, тіло і душа отримають спокій у Його святому домі, коли згасне полум'я людського життя.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181933Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Тільки з милості Бога Світла, тіло і душа отримають спокій у Його святому домі, коли згасне полум'я людського життя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41880,8 +41968,8 @@
       <tuv lang="pl">
         <seg>Volker pluje na popychadła straży i Gildii Kupieckiej, tutaj nie będziecie się musieli nimi martwić!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Волкер плював на простаків із Варти та Гільдії, у нас вам буде не до них!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T142148Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Волкер плював на простаків із Варти та Торгової Гільдії, у нас вам буде не до них!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41906,6 +41994,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>В головному меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W naszym mieście doszło do straszliwego zdarzenia! Szanowany i ceniony obywatel Volker został zaatakowany podczas spaceru przez miasto!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T133650Z" creationid="Glіban" creationdate="20240219T133650Z">
+        <seg>У нашому місті стався жахливий інцидент! На шановного та впливового громадянина сера Волкера було скоєно напад під час прогулянки містом!</seg>
       </tuv>
     </tu>
     <tu>
@@ -42000,8 +42096,8 @@
       <tuv lang="pl">
         <seg>W związku z rosnącym zapotrzebowaniem na broń i pancerze dla armii królewskiej, na wyspie Khorinis otwierane są kolejne kopalnie magicznej rudy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Через зростання попиту на зброю і обладунки для королівської армії, на острові Хорініс відкриваються нові шахти з видобутку магічної руди.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T135227Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Через зростання попиту на зброю і обладунки для королівської армії, на острові Хорініс відкриваються нові копальні з видобутку магічної руди.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43144,8 +43240,8 @@
       <tuv lang="pl">
         <seg>Wojska Myrtany przygotowują się aktualnie na zadanie ostatecznego ciosu przeciwnikowi, a dowódcy jasno informują, że wszystko idzie zgodnie z planem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>В даний час війська Міртани готуються завдати вирішального удару по ворогові, і командири дають зрозуміти, що все йде згідно з планом.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T133351Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Наразі війська Міртани готуються завдати вирішального удару по ворогу, і командири чітко дали зрозуміти, що все йде згідно з планом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43400,16 +43496,16 @@
       <tuv lang="pl">
         <seg>Wszelkie przestępstwa muszą być ukarane, albowiem takie jest prawo Innosa.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>За кожний злочин має бути покарання, бо такий закон Інноса.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T181859Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>За кожен злочин має бути покарання, бо такий закон Інноса.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Wszyscy musimy podążać za znakami Innosa i kroczyć wyznaczoną przez niego ścieżką.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ми всі повинні слідувати знакам Інноса і йти наміченим ним шляхом.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T182008Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ми всі повинні слідувати знакам Інноса і йти вказаним ним шляхом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43440,8 +43536,8 @@
       <tuv lang="pl">
         <seg>Wszystkie środki transportu morskiego muszą być zarejestrowane, by w razie konieczności mogły zostać skonfiskowane w celu poprawienia obronności wyspy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Усі судноплавства мають бути зареєстровані, щоб у разі потреби їх можна було вилучити з метою покращення обороноздатності острова.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T140351Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Всі судноплавні засоби мають бути зареєстровані, щоб у разі потреби їх можна було вилучити з метою покращення обороноздатності острова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43744,8 +43840,8 @@
       <tuv lang="pl">
         <seg>Wygląda na to, że nie są tak święci, jak lubią o tym mówić...</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Схоже, вони не такі добряки, як люблять говорити...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T174331Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Схоже, вони не такі святі, як люблять говорити...</seg>
       </tuv>
     </tu>
     <tu>
@@ -43914,6 +44010,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Ви впевнені?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wykonując nasze zadania podróżujemy po całej wyspie! A kto wie? Może niebawem będziemy mogli zwiedzić resztę świata?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T142003Z" creationid="Glіban" creationdate="20240219T142003Z">
+        <seg>Виконуючи завдання, ми подорожуємо по всьому острову! І хто знає? Можливо, незабаром ми зможемо відвідати решту світу?</seg>
       </tuv>
     </tu>
     <tu>
@@ -45064,8 +45168,8 @@
       <tuv lang="pl">
         <seg>Właśnie to się dzieje, gdy ktoś próbuje powiedzieć Lichwiarzowi niewygodną prawdę!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ось що відбувається, коли хтось намагається повідати Лихварю незручну правду!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T174824Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ось що буває, коли хтось намагається розповісти Лихварю неприємну правду!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45696,8 +45800,8 @@
       <tuv lang="pl">
         <seg>Za każdą zarekwirowaną łódź zostanie wypłacone godne odszkodowanie, a po zakończeniu jej wykorzystywania, wróci ona w ręce prawowitego właściciela.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>За кожний вилучений човен виплачуватиметься гідна компенсація, а після закінчення його використання він буде повернений законному власнику.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T140401Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>За кожен вилучений човен виплачуватиметься гідна компенсація, а після закінчення його використання він буде повернений законному власнику.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45848,16 +45952,16 @@
       <tuv lang="pl">
         <seg>Zachęcamy wszystkich górników z Archolos, a także każdego kto nie boi się pracy fizycznej, aby dołączyli do powstającej kompanii górniczej.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ми закликаємо усіх гірників Архолосу і всіх, хто не боїться ручної праці, приєднатися до новосформованої гірничодобувної компанії.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T135904Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ми закликаємо усіх гірників Архолосу і всіх, хто не боїться фізичної праці, приєднатися до новосформованої гірничодобувної компанії.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Zachęcamy wszystkich nowoprzybyłych do starania się o obywatelstwo, podjęcie pracy oraz pomoc w budowaniu potęgi naszego pięknego miasta.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ми закликаємо всіх новоприбулих подавати заяви на отримання громадянства, влаштовуватися на роботу та допомагати зміцнювати наше прекрасне місто.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T134248Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ми закликаємо всіх новоприбулих подавати заяву на отримання громадянства, влаштовуватися на роботу та допомагати розвивати наше прекрасне місто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46400,8 +46504,8 @@
       <tuv lang="pl">
         <seg>Zapewniamy jednak, że nie ma żadnych powodów do paniki, wszyscy mieszkańcy wyspy zostali z niej uprzednio ewakuowani.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Однак ми можемо запевнити вас, що причин для паніки немає, всі мешканці острова були заздалегідь вивезені з острова.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T133140Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Однак, ми можемо запевнити вас, що причин для паніки немає, всі мешканці острова були заздалегідь вивезені з острова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46712,8 +46816,8 @@
       <tuv lang="pl">
         <seg>Zatem idźmy i szerzmy jego wolę, a Adanos niech nas prowadzi.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Тож давайте йти і поширювати Його волю, і нехай Аданос веде нас.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T180853Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Тож ходімо і поширюймо Його волю, і нехай Аданос веде нас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53494,6 +53598,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Świetnie! Po prostu świetnie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240219T143255Z" creationid="Glіban" creationdate="20240219T143255Z">
+        <seg>Чудово! Просто чудово!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Świetnie. Dziękuję za informację.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T161808Z" creationid="Glіban" creationdate="20240215T161808Z">
@@ -53544,8 +53656,8 @@
       <tuv lang="pl">
         <seg>Święty Płomień spadnie na niewiernych i zaleje ziemię, a tylko prawdziwi wyznawcy będą ocaleni!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Святе полум'я обрушиться на невіруючих і затопить землю, і тільки істинно віруючі будуть врятовані!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240217T182530Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Святе Полум'я впаде на невірних і затопить землю, і тільки істинно віруючі будуть врятовані!</seg>
       </tuv>
     </tu>
     <tu>
