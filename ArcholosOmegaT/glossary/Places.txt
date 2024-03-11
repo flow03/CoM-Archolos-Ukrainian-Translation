@@ -1,0 +1,55 @@
+Zgoda!	Домовилися!
+Dawna bitwa.	Давня битва.
+Myrtany Brzask.	Світанок Міртани.
+Przez mgły widzę wyspę.	Я бачу острів крізь туман.
+Kapliczka Innosa w mieście.	Вівтар Інноса у місті.
+Kapliczka Adanosa w mieście.	Храм Аданоса в місті.
+Dom na Starym Mieście.	Будинок у Старому місті.
+Opuszczona jaskinia przy mieście.	Занедбана печера біля міста.
+Bursztynowe Wybrzeże.	Бурштинове узбережжя.
+Twierdza Vardhal.	Фортеця Вардхал.
+Silbach.	Зільбах.
+Przeklęte Bagna.	Кляте болото.
+Przystań Łotrów.	Притулок негідників.
+Wybrzeże Topielców.	Узбережжя Луркерів.
+Opuszczona jaskinia przy winnicy Rity.	Занедбана печера біля виноградника Рити.
+Wilcze Leże.	Вовче Лігво.
+Klasztor Magów Wody.	Монастир магів Води.
+Krypta przy twierdzy Vardhal.	Склеп біля фортеці Вардхал.
+Ustronie Żeglarza.	Притулок моряка.
+Na bagna.	До болота.
+Do portu.	До порту.
+Do stoczni.	До корабельні.
+Do klasztoru.	До монастиря.
+Do Kopalni Królewskiej.	До Королівських копалень.
+Do latarni morskiej.	До маяка.
+Do Bursztynowego Wybrzeża.	До Бурштинового узбережжя.
+Do lasu w Silbach.	До лісу коло Зільбаха.
+Na Ustronie Żeglarza.	До Притулку моряка.
+Do farmy Bermara.	До ферми Бермара.
+Brama wschodnia.	Східні ворота.
+Brama zachodnia.	Західні ворота.
+Świątynia Innosa.	Храм Інноса.
+Kaplica Adanosa.	Храм Аданоса.
+Willa Volkera.	Маєток Волкера.
+Stocznia.	Корабельня.
+Slumsy.	Гетто.
+Plac rybny.	Рибний ринок.
+Plac Targowy.	Ринкова площа.
+Dzielnica Rzemieślników.	Ремісничий квартал.
+Koszary.	Казарми.
+Gildia Kupiecka.	Торгова Гільдія.
+Pęknięta Struna (Karczma Gerstanda).	Обірвана струна (корчма Герстанда).
+Syreni Lament (Karczma Helgi).	Плач сирени (корчма Хельги).
+Kopalnia Gildii Kupieckiej.	Копальня Торгової Гільдії.
+Obóz węglarzy.	Табір вуглярів.
+Farma Bermara.	Ферма Бермара.
+Winnica Rity.	Виноградник Рити.
+Winnica Valerio.	Виноградник Валеріо.
+Miasto Archolos.	Місто Архолос.
+Wioska Silbach.	Село Зільбах.
+Kopalnia królewska.	Королівська копальня.
+Pod Gildię Kupiecką.	До Торгової Гільдії.
+Pod łaźnię.	До бані.
+Do portu.	До порту.
+Pod dom.	До мого будинку.

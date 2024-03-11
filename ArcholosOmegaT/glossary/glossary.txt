@@ -1,0 +1,59 @@
+topielec	луркер
+topielce	луркери
+Potęga Równowagi	Сила балансу
+Almanach miar alchemicznych	Альманах алхімічних вимірювань
+Przeor	Настоятель
+Nowicjusz	Послушник
+Wodny Krąg	Кільце Води
+Wodnego Kręgu	Кільця Води
+Krąg Ognia	Коло Вогню
+Wysłannik Królewski	Королівський посол
+kaplicy	храму
+kapliczka	святилище
+Wprowadź mnie do kręgu magii	Введи мене до кола магії
+krąg magii	коло магії
+kręgu magii	кола магії
+kręgów magicznych	колам магії
+nieumarł	нечисть
+górnik	гірник
+kopacz	рудокоп
+tyton	тютюн
+krwiopijce	шершні
+Volfzacke	Вольфзак
+Gildia Kupiecka	Торгова Гільдія
+Gildii Kupieckiej	Торгової Гільдії
+Dzielnicy Biedoty	Бідний квартал
+Biedną Dzielnicę	Бідний квартал
+Bogatej Dzielnicy	Багатий квартал
+zębacz	снеппер
+zębacze	снеппери
+ścierwojady	падальники
+ścierwojada	падальника
+tyton	тютюн
+Wysłannik	посол
+Kopalni Soli	Соляна шахта
+Londram	Лондрам
+Wschodniego Archipelagu	Східного Архіпелагу
+Wschodni Archipelag	Східний Архіпелаг
+Południowiec	південець
+Południowców	південців
+Nordmarczyk	нордмарець
+Wilczy Syn	Вовчий Син
+Wilczych Synów	Вовчих Синів
+Wilcze Leże	Вовче Лігво
+Górniczą Dolinę	Гірнича Долина
+Górniczej Doliny	Гірничої Долини
+Kolonii Górniczej	Гірничої Колонії
+Myrtana	Міртана
+gońcem	посланцем
+SZ	золотих
+tropiciele z Araxos	слідопити з Араксос
+rekrut	новобранець
+Khorinis	Хорініс
+Z Khorinis	З Хорінісу
+Z Londram	З Лондраму
+straż	вартовий
+Wygodne podróżowanie	Швидка поїздка
+Czeladnik	учень
+Rady Miasta	міської ради
+stragan	прилавок

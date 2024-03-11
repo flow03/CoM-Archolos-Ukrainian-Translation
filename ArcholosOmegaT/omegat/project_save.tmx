@@ -3278,10 +3278,18 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Alchemiku, dosyć tych gier. Wyruszam i potrzebuję twoich najsilniejszych eliksirów.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T093709Z" creationid="Glіban" creationdate="20240308T093709Z">
+        <seg>Алхіміку, досить цих ігор. Я вирушаю в дорогу, і мені потрібні твої найсильніші еліксири.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Alchemiku, mówię ci, że wyruszam i chcę tylko twoich najsilniejszych eliksirów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Алхіміку, я кажу тобі, що я вирушаю в дорогу, і мені потрібні лише твої найсильніші зілля.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T093614Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Алхіміку, я ж сказав тобі, що я вирушаю в дорогу, і мені потрібні лише твої найсильніші еліксири.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,6 +3810,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Ана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ana została w mieście i po wszystkim, czego doświadczyła, zdecydowała się poświęcić resztę swoich dni opiece nad chorymi oraz potrzebującymi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T175442Z" creationid="Glіban" creationdate="20240311T175442Z">
+        <seg>Анна залишилася в місті, і після всього пережитого вирішила присвятити решту днів догляду за хворими і нужденними.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4520,8 +4536,8 @@
       <tuv lang="pl">
         <seg>Beczka wypełniona po brzegi czarnym prochem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Бочка, доверху заповнена чорним порохом.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T195141Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Бочка, доверху наповнена чорним порохом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,6 +4610,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Звір знову атакує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Bestiariusz</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T103433Z" creationid="Glіban" creationdate="20240308T103433Z">
+        <seg>Бестіарій</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Bez swoich hersztów orkowie nie byli w stanie przypuścić ataku na miasto w dogodnym dla siebie momencie. Zaciekły opór, którego doświadczyli na Archolos, ostatecznie zmusił ich do odwrotu i przeniesienia swoich sił na inne wyspy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T175042Z" creationid="Glіban" creationdate="20240311T175042Z">
+        <seg>Без своїх вождів орки не змогли розпочати атаку на місто у підходящий для них момент. Запеклий опір, з яким вони зіткнулися на Архолосі, врешті-решт змусив їх відступити і перекинути свої сили на інші острови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Bez śladu</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -4974,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Biegnijcie do koszar, droga jest bezpieczna. W środku powinnyście znaleźć strażników, zaopiekują się wami.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095140Z" creationid="Glіban" creationdate="20240308T095140Z">
+        <seg>Біжіть до казарм, шлях безпечний. Всередині ви знайдете вартових, вони подбають про вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Bierz tę piłę.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -5018,6 +5058,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Війна у Варанті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Bitwa o miasto została wygrana, a Ulryk i Volker powstrzymani.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T164441Z" creationid="Glіban" creationdate="20240311T164441Z">
+        <seg>Битва за місто була виграна, а Ульрік і Волькер зупинені.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5282,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
         <seg>Західні ворота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Brat Caramona dotarł na Archolos kilka tygodni po bitwie, po czym rodzeństwo wspólnie opuściło wyspę, by szukać kolejnych przygód.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T172342Z" creationid="Glіban" creationdate="20240311T172342Z">
+        <seg>Брат Карамона прибув на Архолос через кілька тижнів після битви, після чого брати разом покинули острів у пошуках нових пригод.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5686,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>By stworzyć dobrej jakości broń, nie powinienem bać się eksperymentowania z różnymi dodatkowymi składnikami. Muszę jednak uważać, by nie przesadzić - zbędne kły czy pazury będą tylko przeszkadzać podczas walki. Na wszelki wypadek lepiej się trzymać instrukcji ze znalezionych schematów.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T104930Z" creationid="Glіban" creationdate="20240308T104656Z">
+        <seg>Щоб створити зброю високої якості, я не повинен боятися експериментувати з різними додатковими інгредієнтами. Однак, я маю бути обережним, щоб не перестаратися – зайві ікла чи кігті тільки заважатимуть під час бою. Про всяк випадок, краще дотримуватися інструкцій зі знайдених мною креслень.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Bóg Ciemności zostanie pokonany i jego noga już nigdy tutaj nie postanie.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -5930,6 +5994,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Карамон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Caramonowi nie było pisane spotkać się ze swoim bratem. Gwardzista wrócił na kontynent po krótkiej modlitwie nad grobem Caramona, którą odmówił trzymając w dłoni jednego z drewnianych ścierwojadów, należących kiedyś do jego brata.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T172241Z" creationid="Glіban" creationdate="20240311T172241Z">
+        <seg>Карамону не судилося зустрітися з братом. Гвардієць повернувся на материк після короткої молитви над могилою Карамона, яку він прочитав, тримаючи в руці одного з дерев'яних падальників, що колись належали його братові.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6368,8 +6440,8 @@
       <tuv lang="pl">
         <seg>Chyba zapomniałeś wziąć ze sobą...</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Схоже, ти забув принести...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095647Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Здається, ти забув принести...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7210,6 +7282,46 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T115634Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Ну зажди, брудний злодію!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czeladnik Alchemika</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102123Z" creationid="Glіban" creationdate="20240308T102123Z">
+        <seg>Учень алхіміка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czeladnik Kowala</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102118Z" creationid="Glіban" creationdate="20240308T102118Z">
+        <seg>Учень коваля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czeladnik Rzeźnika</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102143Z" creationid="Glіban" creationdate="20240308T102143Z">
+        <seg>Учень різника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czeladnik Łuczarza</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102114Z" creationid="Glіban" creationdate="20240308T102114Z">
+        <seg>Учень лучника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czeladnik Ślusarza</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102105Z" creationid="Glіban" creationdate="20240308T102105Z">
+        <seg>Учень слюсаря</seg>
       </tuv>
     </tu>
     <tu>
@@ -8670,6 +8782,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dobrze. Nie jesteś tutaj mile widziany! Moje eliksiry są tylko dla najsilniejszych, a ty najwyraźniej jesteś najsłabszy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T094155Z" creationid="Glіban" creationdate="20240308T094155Z">
+        <seg>Добре. Тобі тут не раді! Мої еліксири лише для найсильніших, а ти вочевидь найслабший.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Docan</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -10038,6 +10158,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dzięki jego umiejętnemu zarządzaniu, pozwalającemu na wykorzystanie farm i zapasów należących do wioski, w okresie ogromnego zapotrzebowania na jedzenie w odbudowującym się mieście, Silbach wkroczyło w erę wielkiego dobrobytu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T173438Z" creationid="Glіban" creationdate="20240311T173336Z">
+        <seg>Завдяки його вмілому управлінню, що дозволило використовувати ферми і худобу, які належали селу, у період великого попиту на продовольство в місті, Зільбах вступив в епоху великого процвітання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dzięki niej doprowadzisz podłogę do czystości.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -10798,10 +10926,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ezekiel stał się najważniejszym handlarzem w całym Silbach i okolicy. Jego stragan każdego dnia odwiedzają tłumy ludzi, kupujących najróżniejsze towary.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T175749Z" creationid="Glіban" creationdate="20240311T175605Z">
+        <seg>Єзекіїль став найвідомішим торговцем у всьому Зільбаху та околицях. Його прилавок щодня відвідують натовпи людей, купуючи найрізноманітніші товари.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Fabio</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Фабіо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Fabio dostał to, na co od samego początku zasługiwał.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T175505Z" creationid="Glіban" creationdate="20240311T175505Z">
+        <seg>Фабіо отримав те, на що від самого початку заслуговував.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11334,6 +11478,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Gdy tylko mieszkańcy Przystani Łotrów dowiedzieli się o ataku na miasto, opuścili wyspę, niczym szczury uciekające z tonącego okrętu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T174652Z" creationid="Glіban" creationdate="20240311T174652Z">
+        <seg>Як тільки мешканці Притулку негідників дізналися про напад на місто, вони покинули острів, як щури тікають з потопаючого корабля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gdy tylko śledztwo zostanie zakończone, na placu Starego Miasta odbędzie się publiczna egzekucja wszystkich winnych.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240219T133817Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -11686,6 +11838,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Gotowanie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T101806Z" creationid="Glіban" creationdate="20240308T101806Z">
+        <seg>Кулінарія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gra</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
@@ -11794,6 +11954,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Громовиця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Gromadzona latami fortuna Lichwiarza rozpłynęła się w chaosie, który nastąpił po bitwie o miasto. Mnie również wpadła w ręce część tych bogactw. Zabrałem jego miecz, by nigdy nie zapomnieć o krzywdach, jakie wyrządził mnie i miastu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T171154Z" creationid="Glіban" creationdate="20240311T171154Z">
+        <seg>Накопичені роками статки Лихваря розчинилися в хаосі, що настав після битви за місто. Частина цього багатства потрапила і до моїх рук. Я взяв його меч, щоб ніколи не забувати про шкоду, яку він заподіяв мені і місту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12222,10 +12390,66 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Handel - Gildia Kupiecka</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095902Z" creationid="Glіban" creationdate="20240308T095850Z">
+        <seg>Торгівля – Торгова Гільдія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Handel - Klasztor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095932Z" creationid="Glіban" creationdate="20240308T095932Z">
+        <seg>Торгівля – Монастир</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Handel - Miasto</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095901Z" creationid="Glіban" creationdate="20240308T095834Z">
+        <seg>Торгівля – Місто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Handel - Pozostałe lokacje</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100022Z" creationid="Glіban" creationdate="20240308T100022Z">
+        <seg>Торгівля – Інші місця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Handel - Przystań Łotrów</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095918Z" creationid="Glіban" creationdate="20240308T095918Z">
+        <seg>Торгівля – Притулок негідників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Handel - Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240210T111037Z" creationid="Glіban" creationdate="20240210T111037Z">
-        <seg>Торгівля - Зільбах</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095859Z" creationid="Glіban" creationdate="20240210T111037Z">
+        <seg>Торгівля – Зільбах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Handel - Straż Miejska</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095907Z" creationid="Glіban" creationdate="20240308T095907Z">
+        <seg>Торгівля – Міська варта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Handel - Wilcze Leże</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095924Z" creationid="Glіban" creationdate="20240308T095924Z">
+        <seg>Торгівля – Вовче Лігво</seg>
       </tuv>
     </tu>
     <tu>
@@ -13502,10 +13726,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jesteś draniem, jesteś łotrem, który nie ma szacunku dla czegokolwiek... Oprócz swoich eliksirów!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T094540Z" creationid="Glіban" creationdate="20240308T094335Z">
+        <seg>Ти покидьок, ти негідник, який не поважає воїнів! Який не поважає нічого, окрім своїх еліксирів!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jesteś pewien?</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Ви впевнені?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jesteś pewny? No dobrze... Zaufamy ci...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095142Z" creationid="Glіban" creationdate="20240308T095142Z">
+        <seg>Ти впевнений? Добре... Ми довіримося тобі...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13610,6 +13850,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Йорн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Już nigdy więcej nie zobaczyłem Volkera. Część osób mówi, że wsiadł na pierwszy lepszy statek i uciekł na kontynent. Inni twierdzą, że krąży po morzach i oceanach, bojąc się postawić stopę na stałym lądzie. Wątpię, bym miał kiedyś poznać prawdę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T171115Z" creationid="Glіban" creationdate="20240311T171115Z">
+        <seg>Більше Волкера ніхто не бачив. Дехто каже, що він сів на перший-ліпший корабель і втік на континент. Інші кажуть, що він блукає морями та океанами, боячись ступити на материк. Я сумніваюся, що коли-небудь дізнаюся правду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14242,6 +14490,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Гілка кропиви</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Kilka dni po bitwie udało mi się zorganizować symboliczny pochówek. Ceremonia odbyła się w kościele Magów Ognia, a sam nagrobek umieściłem w dodatkowej, zewnętrznej części cmentarza, przeznaczonej dla wszystkich poległych podczas walki o miasto.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170215Z" creationid="Glіban" creationdate="20240311T170215Z">
+        <seg>Через кілька днів після битви мені вдалося організувати символічне поховання. Церемонія відбулася в храмі магів Вогню, а сам надгробок я розмістив у додатковій, зовнішній частині кладовища, призначеній для всіх полеглих під час битви за місто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14966,6 +15222,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Kopalnia złota Araxos</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T103417Z" creationid="Glіban" creationdate="20240308T103417Z">
+        <seg>Золота копальня Араксос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Kopia grubej księgi o technikach kowalskich</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -15442,6 +15706,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Кількість крові.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Krew! Powinienem podążyć za śladami...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T094943Z" creationid="Glіban" creationdate="20240308T094943Z">
+        <seg>Кров! Я повинен йти по сліду...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16632,8 +16904,8 @@
       <tuv lang="pl">
         <seg>Kuferek wypełniony eliksirami.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Скриня, наповнена зіллями.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T194819Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Скриня, заповнена зіллями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17750,6 +18022,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Lepsza broń strzelecka powstaje dzięki umiejętnemu łączeniu materiałów pochodzenia zwierzęcego oraz drewna. Schematy na broń dobrej jakości udzielą mi wskazówek, z czym konkretnie powinienem zacząć eksperymentować.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T105503Z" creationid="Glіban" creationdate="20240308T105503Z">
+        <seg>Найкращу стрілецьку зброю можна зробити, вміло поєднуючи матеріали тваринного походження та деревину. Креслення якісної зброї дадуть мені підказки, з чим саме варто почати експериментувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Leve</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -18366,6 +18646,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Listy gończe</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102320Z" creationid="Glіban" creationdate="20240308T102320Z">
+        <seg>Оголошення про розшук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Literatura piękna</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -18602,6 +18890,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Лоренцо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lorenzo nie przyjął oferty Volkera i do końca był wierny miastu. Niestety, zapłacił za to własnym życiem. Po jego śmierci Gildia zaczęła bardzo szybko tracić na znaczeniu, a wewnętrzne konflikty doprowadziły do jej podzielenia na mniejsze organizacje handlowe.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T171406Z" creationid="Glіban" creationdate="20240311T171406Z">
+        <seg>Лоренцо не прийняв пропозицію Волкера і залишився вірним місту до кінця. На жаль, він заплатив за це власним життям. Після його смерті Гільдія почала дуже швидко втрачати свій вплив, а внутрішні конфлікти призвели до її поділу на менші торгові організації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lorenzo udowodnił swoją wierność miastu, nie przyjmując oferty Volkera nawet w chwili zagrożenia życia. Wraz z Roderichem postanowili odrzucić dawne niesnaski i rozpocząć wspólną pracę w celu odbudowania Archolos.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T174236Z" creationid="Glіban" creationdate="20240311T171558Z">
+        <seg>Лоренцо довів свою відданість місту, не прийнявши пропозицію Волкера, навіть під загрозою смерті. Разом з Родеріхом вони вирішили відкласти старі незгоди і почати працювати разом над відбудовою Архолосу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19758,10 +20062,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Miasto w końcu było bezpieczne, a jego mieszkańcy mogli się skupić na leczeniu ran i odbudowywaniu wszystkiego, co zostało zniszczone.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T164909Z" creationid="Glіban" creationdate="20240311T164909Z">
+        <seg>Місто нарешті було в безпеці, і його мешканці могли зосередитися на загоєнні ран та відбудові всього, що було зруйновано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Miał go jeden z bandytów.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Він був у одного з бандитів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Miałem już dość walki. Odkąd tylko przybyłem na tę przeklętą wyspę, walczyłem o wszystko. O przetrwanie, o szacunek, o godne życie, i przede wszystkim, o odnalezienie mojego brata...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T171327Z" creationid="Glіban" creationdate="20240311T165907Z">
+        <seg>Мені набридло боротися. Відколи я прибув на цей проклятий острів, я боровся за все. За виживання, за повагу, за гідне життя, і перш за все - за те, щоб знайти свого брата...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20146,6 +20466,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Гаманець з виграшем Стена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mieszkańcy Silbach w końcu mogą spać spokojnie, a historia o Bestii bardzo szybko stała się jedynie lokalną legendą.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T173741Z" creationid="Glіban" creationdate="20240311T173714Z">
+        <seg>Мешканці Зільбаху нарешті можуть спати спокійно, а історія про Звіра дуже швидко стала звичайною місцевою легендою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20632,8 +20960,16 @@
       <tuv lang="pl">
         <seg>Moje eliksiry są dla ciebie za mocne, podróżniku.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Мої зілля занадто сильні для тебе, мандрівник.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T093554Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Мої еліксири занадто сильні для тебе, подорожній.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Moje najsilniejsze mikstury zabiłyby cię, podróżniku. Lepiej udaj się do sprzedawcy, który sprzedaje słabsze mikstury.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T093817Z" creationid="Glіban" creationdate="20240308T093817Z">
+        <seg>Мої найсильніші мікстури можуть вбити тебе, подорожній. Краще звернись до продавця, який продає слабші мікстури.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20642,6 +20978,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Мої речі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Moje własne wino</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102227Z" creationid="Glіban" creationdate="20240308T102227Z">
+        <seg>Моє власне вино</seg>
       </tuv>
     </tu>
     <tu>
@@ -20728,8 +21072,8 @@
       <tuv lang="pl">
         <seg>Może naprawić problemy ze stabilnością gry.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
-        <seg>Це може допомогти при збоях.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T115819Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
+        <seg>Це може виправити проблеми зі стабільністю гри.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21494,6 +21838,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Na tym poziomie rzemieślniczym muszę pamiętać, że każda niedoskonałość broni może zadecydować o życiu albo śmierci jej posiadacza. Jeśli mój oręż będzie miał jakąkolwiek skazę, pod żadnym pozorem nie mogę jej oddać do użytku. Zdaje się, że czeka mnie sporo godzin przy kowadle...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T105017Z" creationid="Glіban" creationdate="20240308T104927Z">
+        <seg>На цьому рівні майстерності я повинен пам'ятати, що будь-яка недосконалість зброї – це питання життя або смерті для її власника. Якщо моя зброя має якийсь недолік, я за жодних обставин не можу віддати її на використання. Схоже, що на мене чекає чимало годин біля ковадла...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Naars</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -21856,8 +22208,8 @@
       <tuv lang="pl">
         <seg>Narzędzie pracy stolarzy, drwali i cieśli.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Інструмент для столярів, лісорубів та теслярів.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T123536Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Інструмент для столярів, лісорубів та слюсарів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21874,6 +22226,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T151837Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Наші хлопці гинуть десятками на чужій землі, і я питаю: ЗА ЩО?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nasiona</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102012Z" creationid="Glіban" creationdate="20240308T102012Z">
+        <seg>Насіння</seg>
       </tuv>
     </tu>
     <tu>
@@ -22002,6 +22362,78 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Ви вивчили: Бойове мистецтво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Gildia Kupiecka</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100337Z" creationid="Glіban" creationdate="20240308T100337Z">
+        <seg>Навчання – Торгова Гільдія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Klasztor</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100406Z" creationid="Glіban" creationdate="20240308T100406Z">
+        <seg>Навчання – Монастир</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Miasto</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100316Z" creationid="Glіban" creationdate="20240308T100136Z">
+        <seg>Навчання – Місто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Pozostałe lokacje</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100319Z" creationid="Glіban" creationdate="20240308T100128Z">
+        <seg>Навчання – Інші місця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Przystań Łotrów</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100353Z" creationid="Glіban" creationdate="20240308T100353Z">
+        <seg>Навчання – Притулок негідників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Silbach</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100343Z" creationid="Glіban" creationdate="20240308T100343Z">
+        <seg>Навчання – Зільбах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Straż Miejska</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100331Z" creationid="Glіban" creationdate="20240308T100147Z">
+        <seg>Навчання – Міська варта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Vardhal</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100402Z" creationid="Glіban" creationdate="20240308T100402Z">
+        <seg>Навчання – Вардхал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nauka - Wilcze Leże</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100350Z" creationid="Glіban" creationdate="20240308T100350Z">
+        <seg>Навчання – Вовче Лігво</seg>
       </tuv>
     </tu>
     <tu>
@@ -22278,6 +22710,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nawet bez mojej pomocy Roderich oraz Magowie Wody odparli atak, który, jak się później okazało, był wspólnym podstępem Ulryka i Volkera.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170016Z" creationid="Glіban" creationdate="20240311T170016Z">
+        <seg>Навіть без моєї допомоги Родеріх і маги Води відбили напад, який, як згодом з'ясувалося, був спільною змовою Ульріка і Волкера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nayla</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -22350,6 +22790,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nic jednak nie mogło przywrócić życia mojemu bratu. Już zawsze będzie tylko jedną z setek ofiar szaleńczych knowań Volkera...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170105Z" creationid="Glіban" creationdate="20240311T170105Z">
+        <seg>Однак, ніщо не могло повернути мого брата до життя. Він назавжди залишиться лише однією з сотень жертв божевільних інтриг Волкера...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nic nie bierze...</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -22386,6 +22834,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Ні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie było łatwo, ale jakoś dotarłem do tego poziomu. Teraz umiem odczytywać nawet mistrzowskie schematy na broń strzelecką, a stąd już tylko prosta droga przez praktykę do mistrzostwa.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T110013Z" creationid="Glіban" creationdate="20240308T105957Z">
+        <seg>Це було нелегко, але якось я досяг цього рівня. Зараз я навіть можу читати схеми майстрів з виготовлення стрілецької зброї. А звідси – прямий шлях до майстерності через практику.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22614,6 +23070,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie poradzisz sobie z moimi eliksirami. Są dla ciebie za mocne.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T093700Z" creationid="Glіban" creationdate="20240308T093700Z">
+        <seg>Ти не впораєшся з моїми еліксирами. Вони занадто сильні для тебе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie powinienem biegać w tym pancerzu</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -22656,8 +23120,8 @@
       <tuv lang="pl">
         <seg>Nie ruszam się stąd dopóki nie załatwię sprawy z Benem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Я не піду звідси, доки не залагоджу справи з Беном.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T094931Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Я не піду звідси, доки не владнаю справи з Беном.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23138,6 +23602,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>На жаль, кінцівка відсутня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Niestety, coraz więcej raportów donosi, że zielonoskórych na wyspie przybywa i najprawdopodobniej dopiero przygotowują się do ostatecznego uderzenia.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T175353Z" creationid="Glіban" creationdate="20240311T175304Z">
+        <seg>На жаль, надходить все більше повідомлень про те, що зеленошкірих на острові прибуває все більше і, швидше за все, вони просто готуються до останнього удару.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Niestety, los miał wobec mnie zupełnie inne plany. W pobliżu brzegów Myrtany dostrzegli nas paladyni. Po kilkudziesięciu minutach z naszego statku pozostały jedynie drzazgi, a ja i reszta załogi skapitulowaliśmy...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T165649Z" creationid="Glіban" creationdate="20240311T165649Z">
+        <seg>На жаль, доля мала на мене зовсім інші плани. Біля берегів Міртани нас помітили паладини. Через кілька десятків хвилин від нашого корабля залишилися лише уламки, і я з рештою екіпажу був змушений здатися...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26328,8 +26808,8 @@
       <tuv lang="pl">
         <seg>Pakunek wypełniony trofeami.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Пакунок, наповнений трофеями.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T194824Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Пакунок, заповнений трофеями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28136,8 +28616,16 @@
       <tuv lang="pl">
         <seg>Po co szanować wojowników skoro moje eliksiry mogą zrobić wszystko to, co oni.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Навіщо поважати воїнів, якщо мої зілля можуть зробити все, що можуть вони.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T094543Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Навіщо поважати воїнів, якщо мої еліксири можуть зробити все, що можуть вони?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Po dziś dzień można usłyszeć wieści o mordercach i złodziejach podających się za strażników, noszących w trakcie napadów archoloskie mundury.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T172450Z" creationid="Glіban" creationdate="20240311T172450Z">
+        <seg>Досі можна почути новини про вбивць і злодіїв, які видають себе за вартових, одягаючи під час пограбувань їхню уніформу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28174,10 +28662,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Po wyprawie do Vardhal Arwid miał już dość walki. Za zdobyte złoto kupił kawałek ziemi w Silbach i postawił własną chatę, zamierzając spokojnie doczekać tam starości.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T172054Z" creationid="Glіban" creationdate="20240311T172054Z">
+        <seg>Після експедиції до Вардхалу Арвіду набридло воювати. На здобуте золото він купив шматок землі в Зільбаху і збудував власну хатину, маючи намір зустріти там свою старість у спокої.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Po zmroku do duchów zwracamy się, co mogą powiedzieć, któż wie?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240217T183917Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>З настанням темряви до духів ми звертаємось, що вони можуть нам сказати, зрозуміти намагаємось.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Po śmierci Oktava w bitwie o miasto Arwid przejął jego stanowisko i odpowiada teraz za młodych strażników. Zapatrzony w Rodericha i zainspirowany jego bohaterską obroną Archolos, robi wszystko, by straży nie brakowało nowych rekrutów.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T171900Z" creationid="Glіban" creationdate="20240311T171900Z">
+        <seg>Після загибелі Октава в битві за місто, Арвід зайняв його місце і тепер керує молодими гвардійцями. Захоплений Родеріхом і натхненний його героїчним захистом Архолосу, він робить все можливе, щоб варта не відчувала нестачі в новобранцях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28272,8 +28776,8 @@
       <tuv lang="pl">
         <seg>Pod pokładem</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240210T104327Z" creationid="Glіban" creationdate="20240210T104327Z">
-        <seg>Posąg Innosa</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T110132Z" creationid="Glіban" creationdate="20240210T104327Z">
+        <seg>Під палубою</seg>
       </tuv>
     </tu>
     <tu>
@@ -28378,6 +28882,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Крилоріз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Podczas gdy my tkwiliśmy w Vardhal, Graysonowi udało się na tyle zdezorganizować działania orków, by nie byli oni w stanie wykorzystywać bitwy o miasto dla swoich korzyści.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T175154Z" creationid="Glіban" creationdate="20240311T175154Z">
+        <seg>Поки ми застрягли у Вардхалі, Грейсону вдалося розладнати дії орків настільки, що вони не змогли використати битву за місто на свою користь.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29534,6 +30046,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Poznawanie Magii Runicznej</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T101957Z" creationid="Glіban" creationdate="20240308T101921Z">
+        <seg>Вивчення рунної магії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Pozostawił go po sobie duch maga.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -30198,6 +30718,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Preparowanie zwierząt</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T101746Z" creationid="Glіban" creationdate="20240308T101746Z">
+        <seg>Мисливська справа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Proca</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -30722,6 +31250,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Настоятель Реген</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Przeor Regen zmarł tej samej nocy, gdy trwała bitwa o miasto. Na jego miejsce wybrano Notgera, okrzykniętego przez wszystkich wybawicielem miasta.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T174752Z" creationid="Glіban" creationdate="20240311T174752Z">
+        <seg>Настоятель Реген помер тієї ж ночі, коли тривала битва за місто. На його місце обрали Нотгера, якого всі вітали як рятівника міста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31598,6 +32134,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Przydatne informacje o świecie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T103401Z" creationid="Glіban" creationdate="20240308T103401Z">
+        <seg>Корисна інформація про світ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Przygotowany przez Bastiana.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -31786,6 +32330,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Гавань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Przystań Łotrów nie została ponownie zasiedlona i powoli zarasta, wchłaniana przez otaczające ją bagno.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T174609Z" creationid="Glіban" creationdate="20240311T174119Z">
+        <seg>Притулок негідників не було заселено заново, і він повільно заростає, поглинаючись болотом, що його оточує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Przystań Łotrów została pochłonięta przez bagno, podczas gdy jej dawni mieszkańcy trafili do Górniczej Doliny.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T174125Z" creationid="Glіban" creationdate="20240311T174052Z">
+        <seg>Притулок негідників поглинуло болото, а її колишні мешканці опинилися в Гірничій Долині.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32216,8 +32776,8 @@
       <tuv lang="pl">
         <seg>Pójdę gdzie indziej po eliksiry i już nigdy nie wrócę!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Я піду в інше місце за своїми зіллями і ніколи не повернуся!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T094820Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Я піду в інше місце по еліксири і ніколи не повернуся!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32434,6 +32994,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Рамзі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ramsey uciekł z miasta i szukał schronienia w Silbach. Został jednak przegnany przez mieszkańców wioski, którzy dowiedzieli się o jego zdradzie. Po dziś dzień można spotkać go podkradającego ze stodoły resztki paszy dla owiec.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T173121Z" creationid="Glіban" creationdate="20240311T172910Z">
+        <seg>Рамзі втік з міста і знайшов притулок у Зільбаху. Однак, його прогнали жителі села, які дізналися про його зраду. Досі можна побачити, як він потайки краде залишки корму для овець з сараю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33058,6 +33626,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Ріордіану для підготовки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Riordiana wysłano do Vengardu. Miał tam pracować jako jeden z nadwornych alchemików i wspomagać pracę innych magów przy jakimś tajemniczym projekcie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T174912Z" creationid="Glіban" creationdate="20240311T174912Z">
+        <seg>Ріордіан був відправлений до Венгарду. Там він мав працювати одним із придворних алхіміків і допомагати іншим магам у роботі над якимось таємним проєктом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33718,10 +34294,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Runy teleportacyjne</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102223Z" creationid="Glіban" creationdate="20240308T102223Z">
+        <seg>Руни телепортації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Rupert</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Руперт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ruszyliśmy pomóc w obronie bramy głównej, gdy Ramsey wyskoczył ze swoimi ludźmi i nas całkowicie odciął. Gdyby nie wy, byłoby już po nas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095322Z" creationid="Glіban" creationdate="20240308T095322Z">
+        <seg>Ми вирушили обороняти головні ворота, коли Рамзі вискочив зі своїми людьми і повністю відрізав нас. Якби не ти, нас би вже не було.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35614,6 +36206,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Skupowanie przedmiotów</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100424Z" creationid="Glіban" creationdate="20240308T100424Z">
+        <seg>Скуповування предметів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Skupowanie trofeów - Frida</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -36554,6 +37154,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240213T124921Z" creationid="Glіban" creationdate="20240213T124921Z">
         <seg>Розслабся, все буде добре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Spokój w Silbach nie trwał długo. Kilka miesięcy po upolowaniu Bestii, w tajemniczych okolicznościach zaczęły ginąć kolejne osoby...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T173655Z" creationid="Glіban" creationdate="20240311T173655Z">
+        <seg>Спокій у Зільбаху тривав недовго. Через кілька місяців після того, як вполювали Звіра, ще більше людей почали гинути за загадкових обставин...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39112,8 +39720,8 @@
       <tuv lang="pl">
         <seg>Tak lepiej zrób.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Так тобі краще і зробити.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T094039Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Так краще і зроби.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39702,6 +40310,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>To chyba wszystko. Nigdy więcej!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095459Z" creationid="Glіban" creationdate="20240308T095459Z">
+        <seg>Я думаю, що з мене достатньо. Ніколи більше!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>To cud, że większość słów</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -39784,8 +40400,8 @@
       <tuv lang="pl">
         <seg>To powinno trochę zreperować budżet karczmy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Це має трохи покращити фінансовий стан таверни.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095615Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Це має трохи відновити фінансовий стан корчми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40454,6 +41070,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Trwało to wiele tygodni, ale wkrótce Archolos zaczęło wracać do swej dawnej chwały.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T165109Z" creationid="Glіban" creationdate="20240311T165024Z">
+        <seg>Це зайняло багато тижнів, але незабаром Архолос почав відроджувати свою колишню велич.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Trzaskający kościany łuk</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -40830,6 +41454,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Tworząc broń strzelecką, muszę pamiętać, by korzystać z dobrej jakości drewna, czyli takiego, które będzie i mocne i giętkie. Pracę najlepiej zacząć od sprawdzenia odpowiedniego schematu - ich autorzy mają większą wiedzę w tej dziedzinie ode mnie, więc będę podążał za ich instrukcjami.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T105325Z" creationid="Glіban" creationdate="20240308T105259Z">
+        <seg>Виготовляючи стрілецьку зброю, я повинен пам'ятати, що потрібно використовувати деревину хорошої якості, тобто міцну та гнучку. Найкраще починати роботу з пошуку відповідного креслення – їхні автори більш обізнані в цій сфері, ніж я, тому краще дотримуватись їхніх інструкцій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Twój problem może zniknąć za... 500 sztuk złota.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -41174,6 +41806,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Udało ci się przynieść wszystko czego nam było trzeba. Dzięki wielkie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095507Z" creationid="Glіban" creationdate="20240308T095507Z">
+        <seg>Тобі вдалось зібрати все, що нам було потрібно. Дуже дякую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ugaś ogień</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -41202,6 +41842,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Зцілення:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ulepszanie pancerzy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102259Z" creationid="Glіban" creationdate="20240308T102259Z">
+        <seg>Покращення обладунків</seg>
       </tuv>
     </tu>
     <tu>
@@ -41514,6 +42162,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Ульрік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ulryka, wraz z nielicznymi pozostałymi przy życiu Wilczymi Synami, zakuto w kajdany i zesłano do Górniczej Doliny, gdzie mają spędzić resztę swoich dni, wydobywając rudę dla króla.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170339Z" creationid="Glіban" creationdate="20240311T170339Z">
+        <seg>Ульріка, разом з кількома вцілілими Вовчими Синами, закували в кайдани і заслали в Гірничу Долину, де вони повинні були провести решту своїх днів, видобуваючи руду для короля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41966,10 +42622,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Volker nie żyje. Nie znalazł się nikt, kto zechciałby zejść do kanałów po jego zwłoki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170756Z" creationid="Glіban" creationdate="20240311T170756Z">
+        <seg>Волкер загинув. Не знайшлося нікого, хто був би готовий спуститися в каналізацію, щоб забрати його тіло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Volker pluje na popychadła straży i Gildii Kupieckiej, tutaj nie będziecie się musieli nimi martwić!</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240219T142148Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Волкер плював на простаків із Варти та Торгової Гільдії, у нас вам буде не до них!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Volker przez wiele dni czekał na swój proces. Gdy prowadzono go do ratusza, gdzie miał usłyszeć wyrok, tłum przedarł się przez strażników i zadźgał go na placu Starego Miasta.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170942Z" creationid="Glіban" creationdate="20240311T170942Z">
+        <seg>Волкер багато днів провів в очікуванні суду. Коли його вели до ратуші, де мали оголосити вирок, натовп прорвався крізь охорону і зарізав його на площі Старого міста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41998,6 +42670,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>W mieście brakowało wszystkiego: od żywności, przez opatrunki, aż po wywary lecznicze. Z tej okazji na łatwy zarobek chętnie korzystali przemytnicy, doprowadzając do bankructwa wielu obywateli miasta.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T172624Z" creationid="Glіban" creationdate="20240311T172624Z">
+        <seg>У місті бракувало всього: від їжі до бинтів і лікарських засобів. Контрабандисти охоче користувалися цією можливістю для легкої наживи, розоряючи чимало мешканців міста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>W naszym mieście doszło do straszliwego zdarzenia! Szanowany i ceniony obywatel Volker został zaatakowany podczas spaceru przez miasto!</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240219T133650Z" creationid="Glіban" creationdate="20240219T133650Z">
@@ -42010,6 +42690,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Повністю офіційна версія заповіту Валеріо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W pobliżu Silbach wciąż znikają kolejne osoby. Mimo iż władze zaprzeczają istnieniu jakiejkolwiek Bestii, mieszkańcy wioski wiedzą swoje...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T173724Z" creationid="Glіban" creationdate="20240311T173626Z">
+        <seg>Поблизу Зільбаху продовжують зникати люди. Хоча влада заперечує існування Звіра, жителі села знають своє...</seg>
       </tuv>
     </tu>
     <tu>
@@ -42038,6 +42726,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>W ramach nagrody za wieloletnią służbę, Silbach zostało przekazane Albynowi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T173147Z" creationid="Glіban" creationdate="20240311T173147Z">
+        <seg>У нагороду за багаторічну службу Зільбах передали Альбіну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W ramach podziękowania za pomoc w uratowaniu miasta i w celu ochrony tego starożytnego artefaktu, Rozjemca został przekazany Magom Wody, którzy ukryli go w najgłębszych podziemiach klasztoru.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170544Z" creationid="Glіban" creationdate="20240311T170544Z">
+        <seg>На знак подяки за допомогу в порятунку міста, і для того, щоб захистити цей древній артефакт, Миротворець був переданий магам Води, які сховали його в найглибших підземеллях монастиря.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>W rogu widać mały symbol Araxos.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -42050,6 +42754,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>В такому разі, доведеться викинути тебе звідси!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W takim razie to wszystko, alchemiku. Pójdę gdzie indziej po swoje eliksiry.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T094024Z" creationid="Glіban" creationdate="20240308T094024Z">
+        <seg>У такому разі все, алхіміку. Я піду в інше місце по свої еліксири.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42822,6 +43534,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wilcze Leże zostało zdobyte przez wojska królewskie, a następnie urządzono w nim siedzibę Zakonu Paladynów. Od tej pory szkoli się tam młodych wojowników Innosa przed ich wyruszeniem na front wojny z orkami.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170646Z" creationid="Glіban" creationdate="20240311T170646Z">
+        <seg>Вовче Лігво було захоплене королівською армією, а потім перетворилося на штаб-квартиру Ордену Паладинів. Відтоді молоді воїни Інноса проходили там підготовку перед тим, як вирушити на передову війни з орками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wilcze Leże zostało zdobyte przez wojska królewskie, a następnie zrównane z ziemią przez rozwścieczony tłum, pragnący zemsty za zniszczenie miasta.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170820Z" creationid="Glіban" creationdate="20240311T170820Z">
+        <seg>Вовче Лігво було захоплене королівською армією, а потім зрівняне з землею розлюченим натовпом, який прагнув помститися за знищення міста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wilcze Leże.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
@@ -42882,6 +43610,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Виноградник Валеріо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Winnica Valerio, sprawnie zarządzana przez dwóch braci, zapewnia miastu spore dostawy żywności i jednocześnie dalej prowadzi produkcję legendarnych archoloskich win.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T173853Z" creationid="Glіban" creationdate="20240311T173853Z">
+        <seg>Виноградник Валеріо, яким вміло керують двоє братів, забезпечує місто достатніми запасами продуктів харчування і водночас продовжує виробляти легендарні вина Архолосу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43024,8 +43760,8 @@
       <tuv lang="pl">
         <seg>Witaj, alchemiku, ruszam w drogę i chcę twoich najsilniejszych eliksirów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Вітаю, алхіміку, я рушаю в дорогу, і мені потрібні твої найсильніші зілля.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240307T160605Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Вітаю, алхіміку, я рушаю в дорогу, і мені потрібні твої найсильніші еліксири.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43074,6 +43810,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Більшість місцевих мореплавців знають її напам'ять.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Większość najemników Lichwiarza rozpierzchła się po różnych częściach wyspy, a osamotnieni Wilczy Synowie ruszyli ostatnim, szaleńczym szturmem na ratusz, by odbić swojego przywódcę. Ich atak został jednak odparty przez Magów Wody.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T164817Z" creationid="Glіban" creationdate="20240311T164817Z">
+        <seg>Більшість найманців Лихваря розбіглися по різних частинах острова, а Вовчі Сини, що залишились, почали останній, шалений штурм ратуші, щоб повернути свого ватажка. Однак, їхній напад відбили маги Води.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43382,6 +44126,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wraz z wymordowaniem Rady Miasta przez Ulryka, Roderich został jedyną osobą na Archolos z władzą nadaną bezpośrednio przez Króla, a tym samym - najważniejszym człowiekiem na całej wyspie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T171307Z" creationid="Glіban" creationdate="20240311T171307Z">
+        <seg>Після вбивства Ульріком міської ради, Родеріх став єдиною людиною на Архолосі, що мала владу, надану безпосередньо королем, а отже - найважливішою людиною на всьому острові.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wreszcie coś się dzieje...</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
@@ -43552,8 +44304,8 @@
       <tuv lang="pl">
         <seg>Wszystko pochodzi z magazynu w Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Все це зі складу Зільбаху.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T194304Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Все це зі складу в Зільбаху.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43682,6 +44434,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Затрати мани:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wydobywanie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T101809Z" creationid="Glіban" creationdate="20240308T101809Z">
+        <seg>Видобуток ресурсів</seg>
       </tuv>
     </tu>
     <tu>
@@ -43926,6 +44686,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wygodne podróżowanie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T103310Z" creationid="Glіban" creationdate="20240308T103216Z">
+        <seg>Швидкі поїздки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wygrałem</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -44014,6 +44782,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wykonane listy gończe</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T102520Z" creationid="Glіban" creationdate="20240308T102520Z">
+        <seg>Виконані оголошення про розшук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wykonując nasze zadania podróżujemy po całej wyspie! A kto wie? Może niebawem będziemy mogli zwiedzić resztę świata?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240219T142003Z" creationid="Glіban" creationdate="20240219T142003Z">
@@ -44050,6 +44826,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Використовувати керування боєм з Gothic I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wykorzystując kontakty w Przystani Łotrów, udało mi się dostać na okręt, którym Cortez wraz z resztą piratów zamierzali opuścić Archolos. Gdy statek odbijał od brzegów wyspy, w końcu poczułem, że jestem wolny i zostawiam za sobą tę niekończącą się walkę...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T165346Z" creationid="Glіban" creationdate="20240311T165346Z">
+        <seg>Скориставшись зв'язками у Притулку негідників, мені вдалося потрапити на корабель, на якому Кортес і решта піратів мали намір залишити Архолос. Коли корабель відчалив від берегів острова, я нарешті відчув себе вільним, нарешті я залишив цю нескінченну боротьбу позаду...</seg>
       </tuv>
     </tu>
     <tu>
@@ -44400,8 +45184,8 @@
       <tuv lang="pl">
         <seg>Wypełniona po brzegi paczka z żywnością.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Пакунок, вщерть заповнений продуктами.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T195303Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Вщерть заповнений пакунок з продуктами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44642,6 +45426,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Міцне волокно, що використовується для виготовлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wytwarzanie zwojów</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T101901Z" creationid="Glіban" creationdate="20240308T101901Z">
+        <seg>Виготовлення сувоїв</seg>
       </tuv>
     </tu>
     <tu>
@@ -45150,6 +45942,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Własny dom</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T103124Z" creationid="Glіban" creationdate="20240308T103124Z">
+        <seg>Мій дім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Właściwości</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -45650,6 +46450,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>У зв'язку з надзвичайним становищем у місті, всі кола телепортації були заблоковані нашими магами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Z powodu śmierci ostatniego dziedzica, winnica należąca do Valerio została przejęta przez miasto. Uprawy winogron zniszczono, a na ich miejscu zasadzono zboże, by pomóc wyżywić wygłodniałe Archolos.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T174020Z" creationid="Glіban" creationdate="20240311T174020Z">
+        <seg>Через смерть останнього спадкоємця, виноградник, що належав Валеріо, перейшов у власність міста. Урожай винограду знищили, а на його місці посіяли пшеницю, щоб прогодувати голодний Архолос.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46330,6 +47138,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Видимість об'єкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zanim w ogóle podejdę do kowadła, powinienem zapoznać się z odpowiednim schematem broni. Kiedy będę miał to za sobą, będę musiał zdobyć składniki potrzebne do jej wykonania - najpowszechniejsze to oczywiście żelazo oraz skóry, ale w przypadku niektórych rodzajów oręża przydadzą się też różne dodatkowe składniki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T104942Z" creationid="Glіban" creationdate="20240308T103837Z">
+        <seg>Перед тим, як підійти до ковадла, я маю ознайомитися з відповідним кресленням зброї. Після цього мені потрібно буде дістати інгредієнти, необхідні для її виготовлення. Найпоширеніші з них – це, звісно, залізо та шкури, але для деяких видів зброї можуть знадобитись інші додаткові інгредієнти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47128,8 +47944,8 @@
       <tuv lang="pl">
         <seg>Zbroja z Vardhal</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Обладунок з Вардхалу</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T100039Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Обладунки з Вардхалу</seg>
       </tuv>
     </tu>
     <tu>
@@ -47960,8 +48776,8 @@
       <tuv lang="pl">
         <seg>Zmiany uaktywnią się po ponownym uruchomieniu! Może naprawić problemy ze stabilnością gry.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240210T103320Z" creationid="Glіban" creationdate="20240210T103320Z">
-        <seg>Потрібно перезапустити гру! Це може допомогти при збоях.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T115815Z" creationid="Glіban" creationdate="20240210T103320Z">
+        <seg>Потрібно перезапустити гру! Це може виправити проблеми зі стабільністю гри.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48696,8 +49512,8 @@
       <tuv lang="pl">
         <seg>Zwykła skrzynia pełna ryb.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Звичайний ящик, наповнений рибою.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T195009Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Звичайний ящик, повен риби.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49290,6 +50106,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Снеппер-трава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Złagodził on wcześniejsze postanowienia Regena, dotyczące ingerencji magów w sprawy wyspy, ale jednocześnie obiecał polityczną neutralność.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T174845Z" creationid="Glіban" creationdate="20240311T174845Z">
+        <seg>Він пом'якшив попередні умови Регена щодо втручання магів у справи острова, але водночас пообіцяв політичний нейтралітет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52584,24 +53408,24 @@
       <tuv lang="pl">
         <seg>wypełniona prochem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>напхана порохом.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T195159Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>наповнена порохом.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>wypełniona wytrychami.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>наповнений відмичками.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T194812Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>повен відмичок.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>wypełniony magicznymi zwojami.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>наповнений магічними сувоями.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T194840Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>заповнений магічними сувоями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52728,8 +53552,8 @@
       <tuv lang="pl">
         <seg>z butelkami wina w środku.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>наповнений пляшками вина.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240309T195029Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>заповнений пляшками вина.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53606,6 +54430,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Świetnie. Dobra robota. Tutejsi farmerzy będą zadowoleni.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240308T095700Z" creationid="Glіban" creationdate="20240308T095700Z">
+        <seg>Чудово. Хороша работа. Тутешні фермери будуть задоволені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Świetnie. Dziękuję za informację.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T161808Z" creationid="Glіban" creationdate="20240215T161808Z">
@@ -53834,6 +54666,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Їжа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żyłem na uboczu przez wiele tygodni i obserwowałem, jak mieszkańcy Archolos powoli odbudowują to, co zniszczył ogień bitwy. Część z nich zupełnie o mnie zapomniała, ale wielu twierdziło, że to dzięki mnie magowie zdążyli przybyć na czas...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240311T170046Z" creationid="Glіban" creationdate="20240311T170046Z">
+        <seg>Багато тижнів я жив осторонь і спостерігав, як жителі Архолосу повільно відбудовували те, що було знищено вогнем битви. Деякі з них зовсім забули про мене, але багато хто стверджував, що саме завдяки мені маги прибули вчасно...</seg>
       </tuv>
     </tu>
     <tu>
