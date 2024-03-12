@@ -2894,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>A co ze mną? Po bitwie o miasto mieszkałem na Archolos jeszcze przez kilka miesięcy...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T105959Z" creationid="Glіban" creationdate="20240312T105951Z">
+        <seg>А щодо мене? Після битви за місто я жив на Архолосі ще кілька місяців...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>A czego TY tam szukałeś, hę?!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
@@ -3842,6 +3850,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T160623Z" creationid="Glіban" creationdate="20240215T160623Z">
         <seg>Більше ні кроку. У нас тут місце злочину. Будь ласка, не чіпай тіло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ani się obejrzałem, a stałem w ratuszu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T110403Z" creationid="Glіban" creationdate="20240312T110146Z">
+        <seg>Не встиг я озирнутися, як опинився в ратуші.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5122,6 +5138,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Бодовін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Bodowin opuścił Archolos, ale jestem pewny, że nawet teraz przesiaduje w jakiejś piwnicy nad menzurkami i czeka na swoje kolejne przełomowe odkrycie...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T103642Z" creationid="Glіban" creationdate="20240312T103557Z">
+        <seg>Бодовін покинув Архолос, але я впевнений, що він і зараз сидить в якомусь підвалі над мензурками в очікуванні свого наступного революційне відкриття...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7014,6 +7038,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Coś jednak nie pozwalało jej zapomnieć o miejscu, z którego pochodziła, coraz częściej wydawała się dziwnie nieobecna... aż pewnego dnia zostawiła dla mnie list i po prostu zniknęła. Mam nadzieję, że w końcu uda jej się odnaleźć spokój.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T102721Z" creationid="Glіban" creationdate="20240312T102721Z">
+        <seg>Однак, щось не дозволяло їй забути місце, звідки вона родом. Дедалі частіше здавалося, що вона подумки десь далеко... Аж поки одного разу вона залишила мені листа і просто зникла. Сподіваюся, їй врешті-решт вдасться знайти спокій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Coś ty za jeden? Nie znam cię, daj mi spokój!</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T132104Z" creationid="Gleban" creationdate="20230122T132104Z">
@@ -8528,8 +8560,8 @@
       <tuv lang="pl">
         <seg>Do ratusza miejskiego</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>До Ратуші</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T110323Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>До міської ратуші</seg>
       </tuv>
     </tu>
     <tu>
@@ -10158,6 +10190,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dzięki elementowi zaskoczenia udało im się błyskawicznie zająć całą twierdzę i odbić przetrzymywanych tam członków wyprawy do Vardhal.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104532Z" creationid="Glіban" creationdate="20240312T104532Z">
+        <seg>Завдяки елементу несподіванки їм вдалося миттєво захопити всю фортецю і визволити ув'язнених там членів експедиції до Вардхалу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dzięki jego umiejętnemu zarządzaniu, pozwalającemu na wykorzystanie farm i zapasów należących do wioski, w okresie ogromnego zapotrzebowania na jedzenie w odbudowującym się mieście, Silbach wkroczyło w erę wielkiego dobrobytu.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T173438Z" creationid="Glіban" creationdate="20240311T173336Z">
@@ -11478,6 +11518,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Gdy my tkwiliśmy pod ziemią, Grayson opuścił wyspę wraz ze swoimi gwardzistami, zabierając ze sobą także zgromadzone podatki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T105557Z" creationid="Glіban" creationdate="20240312T105557Z">
+        <seg>Поки ми застрягли під землею, Грейсон покинув острів зі своїми охоронцями, також забравши з собою зібрані податки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gdy tylko mieszkańcy Przystani Łotrów dowiedzieli się o ataku na miasto, opuścili wyspę, niczym szczury uciekające z tonącego okrętu.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T174652Z" creationid="Glіban" creationdate="20240311T174652Z">
@@ -12558,6 +12606,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Havard zapieczętował twierdzę tak, by już nikt nigdy nie wszedł do środka. Te przeklęte korytarze nie przyniosłyby nikomu niczego poza cierpieniem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T105119Z" creationid="Glіban" creationdate="20240312T105119Z">
+        <seg>Гавард запечатав фортецю, щоб ніхто і ніколи більше не зміг увійти до неї. Ці прокляті коридори не принесуть нікому нічого, окрім страждань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Havdan</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -12858,6 +12914,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240213T124858Z" creationid="Glіban" creationdate="20240213T124858Z">
         <seg>Ось так я тут і опинився.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>I tak właśnie trafiłem tutaj...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T111606Z" creationid="Glіban" creationdate="20240312T111606Z">
+        <seg>Ось так я тут і опинився...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13206,6 +13270,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ivy w końcu była wolna. Bez Volkera nad głową mogła robić wszystko, na co tylko miała ochotę. To, co oboje przeszliśmy przez tego człowieka, zbliżyło nas do siebie. Często chodziliśmy razem na polowania, opowiadaliśmy sobie o swoich przygodach...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T102359Z" creationid="Glіban" creationdate="20240312T102359Z">
+        <seg>Айві нарешті була вільною. Без Волкера над головою вона могла робити все, що заманеться. Те, що ми обоє пережили через цю людину, ще більше зблизило нас. Ми часто ходили разом на полювання, розповідали один одному про свої пригоди...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ivy... Czy Volker wielokrotnie nią manipulował, tak jak mną podczas śledztwa? A może faktycznie była zła i rozkazy Lichwiarza stanowiły tylko usprawiedliwienie? Chyba już nigdy się tego nie dowiem. Mam tylko nadzieję, że nasze drogi już nigdy się nie skrzyżują.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T103058Z" creationid="Glіban" creationdate="20240312T102813Z">
+        <seg>Айві... Можливо, Волкер неодноразово маніпулював нею, так само, як і мною під час розслідування? Чи вона дійсно була злою, а накази Лихваря були лише приводом? Напевно, я вже ніколи не дізнаюся. Сподіваюся, що наші шляхи більше ніколи не перетнуться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Iyama</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240208T171325Z" creationid="Glіban" creationdate="20240208T171325Z">
@@ -13314,6 +13394,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Без сумніву, якийсь рибалка сумує за нею.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jakkolwiek bezpodstawne były te oskarżenia, nowe przepisy mówiły wyraźnie: każdy współpracownik Wilczych Synów i Lichwiarza, który sam nie wydał się w ręce władz, ma zostać skazany.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T110705Z" creationid="Glіban" creationdate="20240312T110637Z">
+        <seg>Якими б безпідставними не були ці звинувачення, нове законодавство чітко давало зрозуміти: будь-який поплічник Вовчих Синів та Лихваря, який добровільно не здався владі, мав бути засуджений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jako okoliczność łagodzącą uznano jedynie moje wcześniejsze zasługi dla Archolos, co pozwoliło zamienić karę ze ścięcia na zesłanie do Górniczej Doliny.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T111404Z" creationid="Glіban" creationdate="20240312T111404Z">
+        <seg>Мої колишні заслуги перед Архолосом визнали як пом'якшуючу обставину, що дозволило замінити покарання з відрубанням голови на заслання в Гірничу Долину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14294,6 +14390,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Kazeem miał sporo szczęścia, gdyż udało mu się uciec z wyspy jeszcze przed bitwą o miasto.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T101501Z" creationid="Glіban" creationdate="20240312T101501Z">
+        <seg>Казіму пощастило, адже йому вдалося втекти з острова ще перед битвою за місто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Każdego poranka, gdy Słońce znów lśni, to magia uderza do drzwi.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240219T132000Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -14338,6 +14442,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Кессель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Kessel nigdy nie opuścił podziemi Vardhal.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T105254Z" creationid="Glіban" creationdate="20240312T105130Z">
+        <seg>Кессель назавжди залишився в підземеллях Вардхалу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18974,6 +19086,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ludzie Volkera nie zdołali całkowicie zniszczyć mojego domu i po kilku tygodniach mogłem znowu cieszyć się życiem w swoich własnych pięknych czterech ścianach.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T103718Z" creationid="Glіban" creationdate="20240312T103718Z">
+        <seg>Людям Волкера не вдалося повністю зруйнувати мій будинок, і через кілька тижнів я зміг знову насолоджуватися життям у своїх прекрасних чотирьох стінах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ludzka kość.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -20622,6 +20742,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mimo iż Kurt po części przyczynił się do zaginięcia Jorna, to zawsze miał dobre intencje i starał się mi pomóc jak tylko mógł. Lichwiarz go zmanipulował, tak samo jak mnie. Urządziłem więc wujowi pogrzeb w Silbach, tam, gdzie przeżył większość swojego życia.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T102114Z" creationid="Glіban" creationdate="20240312T102114Z">
+        <seg>Хоча Курт був частково причетним до зникнення Йорна, він завжди мав добрі наміри і намагався допомагати мені, як тільки міг. Лихвар маніпулював ним так само, як і мною. Тому я домовився, щоб дядька поховали в Зільбаху, де він прожив більшу частину свого життя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mimo opłakanego stanu,</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -21062,6 +21190,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Może i Bodowin jest ekscentrykiem, ale w przeciwieństwie do większości mieszkańców tej wyspy, dotrzymał swojej części umowy i dał mi to, po co do niego przyszedłem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T103245Z" creationid="Glіban" creationdate="20240312T103245Z">
+        <seg>Бодовін, можливо, і дивак, але, на відміну від більшості людей на цьому острові, він виконав свою частину угоди і дав мені те, за чим я до нього прийшов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Może lepiej tego nie próbować...</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -21470,6 +21606,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mój pies bronił domu do ostatniej kropli krwi. Mimo iż przyszło nam się znać bardzo krótko, to cieszę się, że mogłem mieć takiego wiernego przyjaciela.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104303Z" creationid="Glіban" creationdate="20240312T104303Z">
+        <seg>Мій пес захищав будинок до останньої краплі крові. Хоча ми були знайомі недовго, я радий, що я мав такого вірного друга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mówca</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -21702,6 +21846,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Na Archolos udało mi się dorobić pokaźnej fortuny. Nie musiałem już przejmować się wydatkami i żyłem na bardzo wysokim poziomie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104011Z" creationid="Glіban" creationdate="20240312T104011Z">
+        <seg>Мені вдалося заробити на Архолосі чималий статок. Мені більше не потрібно було турбуватися про витрати і я жив на дуже високому рівні фінансового добробуту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Na Innosa, pomocy!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -21834,6 +21986,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>На печатці цього листа зображено символ Міртани.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Na razie dalej przesiaduje całymi dniami w swojej pracowni, ale może w końcu uda mu się dokonać jakiegoś przełomowego odkrycia.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T103431Z" creationid="Glіban" creationdate="20240312T103431Z">
+        <seg>Наразі він продовжує цілими днями сидіти у своїй майстерні, але, можливо, врешті-решт він зробить якесь революційне відкриття.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21978,6 +22138,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Найманець Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Najgorzej zniósł to Stone, mimo iż początkowo nie dawał tego po sobie poznać. Popadł w alkoholizm i któregoś razu po prostu roztrzaskał młotem kowalskim czyjąś czaszkę w karczmie, wykrzykując przy tym, że ten człowiek to przeklęty szkielet.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104802Z" creationid="Glіban" creationdate="20240312T104802Z">
+        <seg>Найбільше постраждав Стоун, хоча спочатку він цього не показував. Він став пиячити, а одного разу просто розтрощив комусь череп кувалдою в корчмі, вигукуючи при цьому, що це проклятий скелет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22878,6 +23046,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie dość, że porwała mojego brata i nasłała na mnie morderców, to jeszcze myślała, że to jej się należy zemsta na Lichwiarzu? Ivy nie była nikim więcej niż egoistyczną morderczynią i oszustką. Na szczęście nie wyrządzi już więcej zła.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T103202Z" creationid="Glіban" creationdate="20240312T103139Z">
+        <seg>Мало того, що вона викрала мого брата і нацькувала на мене вбивць, так вона ще й вважала, що саме вона заслуговує на помсту Лихвареві? Айві була ніким іншим, як егоїстичною вбивцею і шахрайкою. На щастя, вона більше нікому не заподіє зла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie godzimy się na to! Nie pójdziemy na rzeź jak zwierzęta!</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T125357Z" creationid="Glіban" creationdate="20240215T125357Z">
@@ -23606,6 +23782,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Niestety, coraz więcej osób widziało we mnie zagrożenie dla swoich planów umocnienia własnej władzy na Archolos.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T110101Z" creationid="Glіban" creationdate="20240312T110101Z">
+        <seg>На жаль, все більше і більше людей бачили в мені загрозу своїм планам зміцнити власну владу на Архолосі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Niestety, coraz więcej raportów donosi, że zielonoskórych na wyspie przybywa i najprawdopodobniej dopiero przygotowują się do ostatecznego uderzenia.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T175353Z" creationid="Glіban" creationdate="20240311T175304Z">
@@ -23618,6 +23802,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T165649Z" creationid="Glіban" creationdate="20240311T165649Z">
         <seg>На жаль, доля мала на мене зовсім інші плани. Біля берегів Міртани нас помітили паладини. Через кілька десятків хвилин від нашого корабля залишилися лише уламки, і я з рештою екіпажу був змушений здатися...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Niestety, nie udało mi się ustalić, co się stało z pozostałymi towarzyszami z okrętu, który nas tu sprowadził...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T101928Z" creationid="Glіban" creationdate="20240312T101928Z">
+        <seg>На жаль, мені не вдалося з'ясувати, що сталося з іншими товаришами з корабля, який привіз нас сюди...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23818,6 +24010,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T120335Z" creationid="Gleban" creationdate="20230122T120335Z">
         <seg>Непогано... Зовсім непогано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nigdy nie odnalazłem Kurta. Nikt w porcie nie widział, żeby opuszczał wyspę, ale jestem pewien, że ten oszust po prostu wyczuł kłopoty i postanowił się ulotnić.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T102235Z" creationid="Glіban" creationdate="20240312T102235Z">
+        <seg>Курта я так і не знайшов. Ніхто в гавані не бачив, як він покидав острів, але я впевнений, що шахрай просто відчув неприємності і вирішив втекти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28990,6 +29190,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Podjąłem dobrą decyzję, by oddać psa Viktorowi. Bardzo się zaprzyjaźnili i nie miałem serca, by zabierać zwierzę z Silbach. Teraz pomaga doglądać tamtejszych owiec.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104130Z" creationid="Glіban" creationdate="20240312T104130Z">
+        <seg>Я прийняв правильне рішення віддати свого пса Віктору. Вони дуже подружилися, і мені не вистачило духу забрати тварину з Зільбаху. Зараз він допомагає доглядати за тамтешніми вівцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Podmokłe pismo</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -29010,6 +29218,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Вважається, що вони входять до складу різних отрут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Podobno jeszcze przed wyruszeniem na kontynent próbował mnie odnaleźć, by zgodnie z obietnicą, zabrać mnie ze sobą.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T105857Z" creationid="Glіban" creationdate="20240312T105857Z">
+        <seg>Мабуть, ще до відплиття на континент він намагався знайти мене, щоб забрати з собою, як і обіцяв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29370,6 +29586,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Помаранчево-зелене вбрання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Pomimo tego, jak wiele zrobiłem dla mieszkańców Archolos, nie miałem do kogo udać się po pomoc. Stałem sam naprzeciwko rozwścieczonych mieszkańców miasta, którzy potrzebowali kolejnego kozła ofiarnego.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T111055Z" creationid="Glіban" creationdate="20240312T111055Z">
+        <seg>Незважаючи на те, як багато я зробив для народу Архолосу, мені не було до кого звернутися за допомогою. Я залишився один перед розлюченими мешканцями міста, яким потрібен був черговий цап-відбувайло.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29746,6 +29970,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Страва, від якої помер Стен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Potrawy Ruperta zrobiły taką furorę, że otworzył w końcu swoją wymarzoną własną karczmę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104822Z" creationid="Glіban" creationdate="20240312T101601Z">
+        <seg>Страви Руперта викликали такий ажіотаж, що він нарешті відкрив власну корчму своєї мрії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30418,6 +30650,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Пожирач вогню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Pożegnał się ze swoim stanowiskiem zaraz po dotarciu do Vengardu. Król i szlachta uznali go za winnego uchybień, przez które nie wykryto planowanego buntu na Archolos.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T105820Z" creationid="Glіban" creationdate="20240312T105645Z">
+        <seg>Він попрощався зі своєю посадою, як тільки дістався Венгарду. Король і вельможі визнали його винним у неналежному виконанні обов'язків, через що заплановане повстання на Архолосі не було виявлено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33622,6 +33862,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Riordian był w Vengardzie, zajęty jakimś przedsięwzięciem razem z innymi magami, Notger miał związane ręce przez swoją obietnicę ograniczenia ingerencji w politykę, a Grayson, po utracie stanowiska, nic już nie znaczył.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T110952Z" creationid="Glіban" creationdate="20240312T110952Z">
+        <seg>Ріордіан був у Венгарді, зайнятий якоюсь авантюрою з іншими магами, руки Нотгера були зв'язані його обіцянкою обмежити своє втручання в політику, а Грейсон, втративши посаду, більше не мав ніякого впливу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Riordian potrzebuje do przygotowania</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -33678,10 +33926,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Roderich i Riordian postanowili wykorzystać zamieszanie wśród Wilczych Synów i natychmiast ruszyć szturmem na Wilcze Leże.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104402Z" creationid="Glіban" creationdate="20240312T104402Z">
+        <seg>Родеріх і Ріордіан вирішили скористатися розгубленістю Вовчих Синів і негайно вирушили на штурм Вовчого лігва.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Roderich kazał mi załatwić sobie miecz. Jakieś pomysły?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T153934Z" creationid="Glіban" creationdate="20240215T153934Z">
         <seg>Родеріх сказав, щоб я дістав собі меч. Маєш якісь ідеї?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Roderich nie miał wyboru - będąc pod presją rosnących w siłę miejskich decydentów, mając przed sobą zmanipulowany motłoch z portu i chcąc zachować porządek w mieście - uznał mnie za winnego.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T110853Z" creationid="Glіban" creationdate="20240312T110818Z">
+        <seg>У Родеріха не було вибору - під тиском дедалі впливовіших міських можновладців, перед обличчям підконтрольного їм натовпу з порту, і бажаючи зберегти порядок у місті - він визнав мене винним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40270,6 +40534,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Timo nie wytrzymał widoku rzezi na ulicach i uciekł. Nie mogąc znaleźć dla siebie miejsca na wyspie, ostatecznie zajął się tym, o co go wszyscy, początkowo niesprawiedliwie, posądzali - kradzieżami kieszonkowymi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T101912Z" creationid="Glіban" creationdate="20240312T101912Z">
+        <seg>Тімо не витримав кривавої бійні на вулицях і втік. Не знайшовши собі місця на острові, він врешті-решт зайнявся тим, у чому його спочатку несправедливо звинувачували - кишеньковими крадіжками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Tkanina do ozdobienia podłogi.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -44126,10 +44398,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wraz z Riordianem postawiliśmy w pobliżu mostu do twierdzy symboliczną mogiłę, upamiętniającą wszystkich, którzy polegli w środku.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104953Z" creationid="Glіban" creationdate="20240312T104948Z">
+        <seg>Ми з Ріордіаном спорудили символічну могилу біля мосту до фортеці, вшановуючи пам'ять усіх, хто поліг у ній.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wraz z wymordowaniem Rady Miasta przez Ulryka, Roderich został jedyną osobą na Archolos z władzą nadaną bezpośrednio przez Króla, a tym samym - najważniejszym człowiekiem na całej wyspie.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T171307Z" creationid="Glіban" creationdate="20240311T171307Z">
         <seg>Після вбивства Ульріком міської ради, Родеріх став єдиною людиною на Архолосі, що мала владу, надану безпосередньо королем, а отже - найважливішою людиною на всьому острові.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wraz ze śmiercią Bodowina skończyły się szaleńcze eksperymenty na florze, faunie, a także mieszkańcach Archolos.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T103601Z" creationid="Glіban" creationdate="20240312T103454Z">
+        <seg>Зі смертю Бодовіна закінчилися його шалені експерименти над флорою, фауною, а також мешканцями Архолосу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47094,6 +47382,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Zamknięcie w przeklętej twierdzy odmieniło życie wszystkich członków ekspedycji. Ci, którzy wyszli z Vardhal, nie byli już sobą.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T104621Z" creationid="Glіban" creationdate="20240312T104621Z">
+        <seg>Ув'язнення в проклятій фортеці змінило життя всіх членів експедиції. Ті, хто вийшов з Вардхалу, вже не були самими собою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zamknięta paczka o osobliwym i znajomym zapachu.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -48494,6 +48790,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Zgodnie ze starym zwyczajem, Roderich, w geście osobistego szacunku, pozwolił mi zachować ostrze, które odebrałem Lichwiarzowi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T111736Z" creationid="Glіban" creationdate="20240312T111503Z">
+        <seg>За давнім звичаєм, Родеріх, на знак особистої поваги, дозволив мені залишити клинок, який я відібрав у Лихваря.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zguba Arniego</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -49102,6 +49406,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Znalezione w środku złoto oraz kosztowności wystarczyły, by zapewnić godziwe wynagrodzenie tym, którzy przeżyli, a także zadośćuczynić rodzinom tych, którym się to nie udało.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T105046Z" creationid="Glіban" creationdate="20240312T105046Z">
+        <seg>Золота та коштовностей, знайдених всередині, вистачило, щоб забезпечити належну платню тим, хто вижив, і виплатити компенсацію сім'ям тих, хто не вижив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Znam już tę księgę!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
@@ -49122,6 +49434,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Нетерплячий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zniknięcie Kessela sprawiło, że pozostałem jedynym żyjącym człowiekiem Wodnego Kręgu na wyspie. Mając w głowie wszystko to, do czego doszło w ciągu ostatnich miesięcy, postanowiłem porzucić tę drogę. Niech teraz inni walczą o ład na wyspie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T105334Z" creationid="Glіban" creationdate="20240312T105334Z">
+        <seg>Зі зникненням Кесселя я залишився єдиним вцілілим членом Кільця Води на острові. Обміркувавши все, що сталося за останні місяці, я вирішив відмовитися від цього шляху. Нехай тепер інші борються за порядок на острові.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49258,6 +49578,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Підписаний Петрою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zostałem oskarżony o kolaborację z Ulrykiem i Volkerem - w końcu pracowałem dla nich przed atakiem na miasto.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240312T110426Z" creationid="Glіban" creationdate="20240312T110426Z">
+        <seg>Мене звинуватили у співпраці з Ульріком і Волкером - адже я працював на них до нападу на місто.</seg>
       </tuv>
     </tu>
     <tu>

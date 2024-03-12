@@ -57,3 +57,4 @@ Wygodne podróżowanie	Швидка поїздка
 Czeladnik	учень
 Rady Miasta	міської ради
 stragan	прилавок
+w porcie	в гавані
