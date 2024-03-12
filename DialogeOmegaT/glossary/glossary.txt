@@ -53,3 +53,12 @@ Khorinis	Хорініс
 Z Khorinis	З Хорінісу
 Z Londram	З Лондраму
 straż	вартовий
+Wygodne podróżowanie	Швидка поїздка
+Czeladnik	учень
+Rady Miasta	міської ради
+stragan	прилавок
+do slumsów	в нетрі
+w Pękniętej Strunie	в Обірваній струні
+w Syrenim Lamencie	у Плачі сирени
+rekruta	новобранця
+Gońca	підручний

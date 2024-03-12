@@ -136,7 +136,7 @@ Garrus	Гаррус
 Sigund	Сігунд
 Ambrosia	Амброзія
 Kathia	Катя
-Patracjan	Патраціан
+Patracjan	Патриціан
 Rahela	Рахела
 Sofia	Софія
 Vlada	Влада
