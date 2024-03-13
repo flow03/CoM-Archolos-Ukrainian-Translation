@@ -63,3 +63,4 @@ w Pękniętej Strunie	в Обірваній струні
 w Syrenim Lamencie	у Плачі сирени
 rekruta	новобранця
 Gońca	підручний
+Zbroja	броня
