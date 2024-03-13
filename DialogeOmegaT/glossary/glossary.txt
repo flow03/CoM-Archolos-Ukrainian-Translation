@@ -57,5 +57,9 @@ Wygodne podróżowanie	Швидка поїздка
 Czeladnik	учень
 Rady Miasta	міської ради
 stragan	прилавок
-w porcie	в гавані
 do slumsów	в нетрі
+w porcie	в гавані
+w Pękniętej Strunie	в Обірваній струні
+w Syrenim Lamencie	у Плачі сирени
+rekruta	новобранця
+Gońca	підручний
