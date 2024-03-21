@@ -53,7 +53,8 @@ Khorinis	Хорініс
 Z Khorinis	З Хорінісу
 Z Londram	З Лондраму
 straż	вартовий
-Mrocznych Tajemnicach	Темних секретах
-Żarliwe Słońce	Палаюче Сонце
-Klasztor Magów Wody	монастир магів Води
-Klasztorze Magów Wody	монастирі магів Води
+Wygodne podróżowanie	Швидка поїздка
+Czeladnik	учень
+Rady Miasta	міської ради
+stragan	прилавок
+w porcie	в гавані

@@ -136,7 +136,7 @@ Garrus	Гаррус
 Sigund	Сігунд
 Ambrosia	Амброзія
 Kathia	Катя
-Patracjan	Патраціан
+Patracjan	Патриціан
 Rahela	Рахела
 Sofia	Софія
 Vlada	Влада
@@ -379,5 +379,3 @@ Miki	Мікі
 Sharec	Шарець
 Kiep	Кіп
 Valerio	Валеріо
-Mandes	Мандес
-Burkhard	Буркгард
