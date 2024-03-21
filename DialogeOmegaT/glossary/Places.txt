@@ -33,7 +33,7 @@ Brama zachodnia.	Західні ворота.
 Kaplica Adanosa.	Храм Аданоса.
 Willa Volkera.	Маєток Волкера.
 Stocznia.	Корабельня.
-Slumsy.	Гетто.
+Slumsy.	Нетрі.
 Plac rybny.	Рибний ринок.
 Plac Targowy.	Ринкова площа.
 Dzielnica Rzemieślników.	Ремісничий квартал.
