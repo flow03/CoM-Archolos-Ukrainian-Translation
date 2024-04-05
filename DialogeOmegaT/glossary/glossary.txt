@@ -5084,7 +5084,7 @@ Cabi	Кабі
 Leve	Лів
 Neir	Нейр
 Terry	Террі
-Lena	Єлена
+Lena	Олена
 Antonio	Антоніо
 Gonzalo	Гонсало
 Alcas	Алькас
@@ -5181,7 +5181,7 @@ Mures	Муреш
 Mia	Мія
 Nathaniel	Натаніель
 Walter	Волтер
-Alena	Олена
+Alena	Альона
 Lazar	Лазар
 Mailor	Мейлор
 Remuz	Ремуз
@@ -5756,3 +5756,6 @@ rekruta	новобранця
 Gońca	підручний
 Zbroja	броня
 pomiotów	породжень
+Varrant	Варант
+czas nagli	час підганяє
+Przystan	Притулок
