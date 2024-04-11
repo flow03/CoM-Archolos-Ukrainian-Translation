@@ -2472,7 +2472,7 @@ Amulet magii	Амулет магії
 Amulet mocy	Амулет могутності
 Amulet oświecenia	Амулет просвітлення
 Trofeum interesujące jedynie	Трофей, цікавий лише
-kolekcjonerów.	коллекционерам.
+kolekcjonerów.	колекціонерам.
 Żuwaczki bez szczególnych	Нижні щелепи без особливих
 właściwości alchemicznych.	алхімічних властивостей.
 Zawierają silną wydzielinę.	Вони містять сильну секрецію.

@@ -2966,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>A oto potężni i mądrzy Magowie Ognia! Ci, którzy swą cnotliwością i wiedzą mają nas zawstydzać!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102952Z" creationid="Glіban" creationdate="20240411T102952Z">
+        <seg>І тут з'являються могутні і мудрі Маги Вогню! Ті, хто своєю доброчесністю і знаннями мали б нас присоромити!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>A skąd mam o tym do cholery wiedzieć?</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
@@ -2978,6 +2986,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>А тепер змийся звідси!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A teraz! Bawmy się! Raz, dwa, trzy...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103354Z" creationid="Glіban" creationdate="20240411T103354Z">
+        <seg>А тепер! Починаймо грати! Один, два, три...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3018,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T160845Z" creationid="Glіban" creationdate="20240215T160845Z">
         <seg>То ти лікар, так? Звичайно, оглянь тіло, хоча я певен, що вже пізно йому допомагати...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>A wyjaśniaj sobie sam. Albo znajdziesz nam nowe lokum, albo szukaj sobie nowych pracowników.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102309Z" creationid="Glіban" creationdate="20240411T102217Z">
+        <seg>Собі це пояснюй. Або знайди нам нове приміщення, або шукай нових працівників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,6 +4214,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Arwid! Gdybym wiedział, że z ciebie taka ponętna kobitka, już dawno bym się tobą zainteresował!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101328Z" creationid="Glіban" creationdate="20240411T101126Z">
+        <seg>Арвід! Якби я знав, що ти така спокуслива жінка, я б давно тобою зацікавився!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Arwid, wrócimy do tej rozmowy później. Odmaszerować.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102059Z" creationid="Glіban" creationdate="20240411T101922Z">
+        <seg>Арвід, ми ще повернемося до цієї розмови пізніше. Ти вільний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Arystokrata</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -4438,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Baranek</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105549Z" creationid="Glіban" creationdate="20240408T105549Z">
+        <seg>Баранець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Barania skóra</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -4674,6 +4722,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240407T151812Z" creationid="Glіban" creationdate="20240407T151812Z">
         <seg>Звір, мабуть, був тут...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Bestia z Archolos</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113005Z" creationid="Glіban" creationdate="20240408T113005Z">
+        <seg>Звір з Архолосу</seg>
       </tuv>
     </tu>
     <tu>
@@ -4922,6 +4978,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T175042Z" creationid="Glіban" creationdate="20240311T175042Z">
         <seg>Без своїх вождів орки не змогли розпочати атаку на місто у підходящий для них момент. Запеклий опір, з яким вони зіткнулися на Архолосі, врешті-решт змусив їх відступити і перекинути свої сили на інші острови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Bez zamiatania pod dywan</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105720Z" creationid="Glіban" creationdate="20240408T105720Z">
+        <seg>Не замітай під килим</seg>
       </tuv>
     </tu>
     <tu>
@@ -5342,6 +5406,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Braki w żywności</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104827Z" creationid="Glіban" creationdate="20240408T104827Z">
+        <seg>Нестача їжі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Brakuje ci złota na zakup tego przedmiotu.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
@@ -5554,6 +5626,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Крижана брила</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Bryłek kilka</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104831Z" creationid="Glіban" creationdate="20240408T104831Z">
+        <seg>Кілька самородків</seg>
       </tuv>
     </tu>
     <tu>
@@ -5838,10 +5918,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>By przeżyć, ukradł jedzenie od tych, którzy swoim dobrobytem nie chcą się dzielić z potrzebującymi!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103020Z" creationid="Glіban" creationdate="20240411T102926Z">
+        <seg>Щоб вижити, йому довелося красти їжу у тих, хто не хоче ділитися своїм достатком з нужденними!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>By stworzyć dobrej jakości broń, nie powinienem bać się eksperymentowania z różnymi dodatkowymi składnikami. Muszę jednak uważać, by nie przesadzić - zbędne kły czy pazury będą tylko przeszkadzać podczas walki. Na wszelki wypadek lepiej się trzymać instrukcji ze znalezionych schematów.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240308T104930Z" creationid="Glіban" creationdate="20240308T104656Z">
         <seg>Щоб створити зброю високої якості, я не повинен боятися експериментувати з різними додатковими інгредієнтами. Однак, я маю бути обережним, щоб не перестаратися – зайві ікла чи кігті тільки заважатимуть під час бою. Про всяк випадок, краще дотримуватися інструкцій зі знайдених мною креслень.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>By was wszystkich cholera wzięła.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102347Z" creationid="Glіban" creationdate="20240411T102227Z">
+        <seg>Щоб вас всіх холера побрала.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6370,6 +6466,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Йдемо звідси, не варто витрачати час на брехню Волкера!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Cholera jedna! Większość zdarł z biednych i uczciwych obywateli...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094127Z" creationid="Glіban" creationdate="20240411T094127Z">
+        <seg>Та нехай йому грець! Він обікрав більшість бідних і чесних громадян...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7062,6 +7166,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Co Cortez nie zobaczy, to go nie zaboli. Poza tym jesteśmy na naszych bagnach, nikt tutaj nie zagląda.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100114Z" creationid="Glіban" creationdate="20240411T100027Z">
+        <seg>Що Кортез не бачить, те йому й не шкодить. До того ж, ми в своєму болоті, сюди ніхто не заглядає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Co by tu z tobą zrobić...</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240407T152554Z" creationid="Glіban" creationdate="20240407T152554Z">
@@ -7206,6 +7318,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Cortez przestał być zadowolony z waszych usług.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094841Z" creationid="Glіban" creationdate="20240411T094841Z">
+        <seg>Кортез більше не задоволений вашими послугами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Corum</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -7250,6 +7370,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T132104Z" creationid="Gleban" creationdate="20230122T132104Z">
         <seg>Хто ти? Я тебе не знаю, дай мені спокій!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Coś wymyślę. Na razie nie rzucaj się w oczy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101007Z" creationid="Glіban" creationdate="20240411T101007Z">
+        <seg>Я щось придумаю. А ти поки не потрапляй нікому на очі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7450,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Заклинання паладина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czarna godzina</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104428Z" creationid="Glіban" creationdate="20240408T104425Z">
+        <seg>Темні часи</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7558,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Czas decyzji</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112934Z" creationid="Glіban" creationdate="20240408T112934Z">
+        <seg>Час рішень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Czas gry:</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
@@ -7514,6 +7658,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T115634Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Ну зажди, брудний злодію!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czekaj, ktoś idzie...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101020Z" creationid="Glіban" creationdate="20240411T101020Z">
+        <seg>Зачекай, хтось іде...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7822,6 +7974,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Czy pozwolicie na to, mieszkańcy Archolos?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T104636Z" creationid="Glіban" creationdate="20240411T104057Z">
+        <seg>Ви не проти, жителі Архолосу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Czy prawdę poznamy - przyszłości swej ślad, czy tylko odpowie nam wiatr?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240217T184133Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -7834,6 +7994,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Чиста версія мапи, без жодних позначок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Czyste ulice</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111616Z" creationid="Glіban" creationdate="20240408T111616Z">
+        <seg>Чисті вулиці</seg>
       </tuv>
     </tu>
     <tu>
@@ -8342,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dla dobra publicznego</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113356Z" creationid="Glіban" creationdate="20240408T113356Z">
+        <seg>Заради загального блага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dla jednych śmierdzące, a dla innych aromatyczne.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -8354,6 +8530,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240219T141901Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>У нашій великій сім'ї знайдеться місце для кожного, тому що кожен колега піклується про інших, як про своїх братів і сестер!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dla koneserów</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111908Z" creationid="Glіban" creationdate="20240408T111908Z">
+        <seg>Для поціновувачів</seg>
       </tuv>
     </tu>
     <tu>
@@ -9254,6 +9438,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dom nie do poznania</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112804Z" creationid="Glіban" creationdate="20240408T112759Z">
+        <seg>Екстремальний ремонт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Domokrążca</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -9346,6 +9538,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Дорран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dostawa materiałów</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111411Z" creationid="Glіban" creationdate="20240408T111411Z">
+        <seg>Доставка матеріалів</seg>
       </tuv>
     </tu>
     <tu>
@@ -9622,6 +9822,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Drobna przysługa</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110927Z" creationid="Glіban" creationdate="20240408T110927Z">
+        <seg>Невеличка послуга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Drugi krąg magii</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -9714,6 +9922,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Дух</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Duchy Wilczych Synów chcą krwi!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102130Z" creationid="Glіban" creationdate="20240411T102130Z">
+        <seg>Духи Вовчих Синів жадають крові!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10042,6 +10258,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Спадщина Гумберта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dzielnica Pięści</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111821Z" creationid="Glіban" creationdate="20240408T111821Z">
+        <seg>Бійцівський клуб</seg>
       </tuv>
     </tu>
     <tu>
@@ -10502,6 +10726,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dziś sprawimy, że długo nie zapomnicie tego wieczoru!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102645Z" creationid="Glіban" creationdate="20240411T102645Z">
+        <seg>Сьогодні ми влаштуємо вечір, який ви не забудете надовго!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dębczak</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -10530,6 +10762,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Рука стиснута і все ще щось тримає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dług powiadasz, co?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094233Z" creationid="Glіban" creationdate="20240411T094233Z">
+        <seg>Борг, кажеш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Długa droga do domu</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113940Z" creationid="Glіban" creationdate="20240408T113940Z">
+        <seg>Довгий шлях додому</seg>
       </tuv>
     </tu>
     <tu>
@@ -11174,6 +11422,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Euric! Teraz!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103415Z" creationid="Glіban" creationdate="20240411T103415Z">
+        <seg>Ейріх! Зараз! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Eva</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -11218,6 +11474,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T175505Z" creationid="Glіban" creationdate="20240311T175505Z">
         <seg>Фабіо отримав те, на що від самого початку заслуговував.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Facet naprawdę myślał, że jeśli zapłaci, to ot tak Cortez pozwoli mu odejść?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T095039Z" creationid="Glіban" creationdate="20240411T095039Z">
+        <seg>Він справді думав, що якщо заплатить, то Кортез його відпустить?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11462,6 +11726,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Folwark chłopięcy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111615Z" creationid="Glіban" creationdate="20240408T111615Z">
+        <seg>Хлопчача ферма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Foral</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -11654,6 +11926,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Gambit Królewski</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111853Z" creationid="Glіban" creationdate="20240408T111853Z">
+        <seg>Королівський гамбіт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gamma</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
@@ -11842,6 +12122,22 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T121323Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Якби не всі ці історії про відправку в Долину Рудників, то тут вже нікого  б не було.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Gdzie drwa rąbią</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110821Z" creationid="Glіban" creationdate="20240408T110821Z">
+        <seg>Там, де рубають дрова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Gdzie słów dużo</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112345Z" creationid="Glіban" creationdate="20240408T112345Z">
+        <seg>Де забагато слів</seg>
       </tuv>
     </tu>
     <tu>
@@ -12126,10 +12422,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Gorące piaski</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110559Z" creationid="Glіban" creationdate="20240408T110559Z">
+        <seg>Гарячі піски</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Gorące półkole</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Розпечене півколо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Gorączka złota</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110221Z" creationid="Glіban" creationdate="20240408T110221Z">
+        <seg>Золота лихоманка</seg>
       </tuv>
     </tu>
     <tu>
@@ -12238,6 +12550,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Grochem o ścianę</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112242Z" creationid="Glіban" creationdate="20240408T112242Z">
+        <seg>Горохом об стіну</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Groen</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -12274,6 +12594,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Грон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Grosz do grosza</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112245Z" creationid="Glіban" creationdate="20240408T112245Z">
+        <seg>Копійка до копійки</seg>
       </tuv>
     </tu>
     <tu>
@@ -13126,6 +13454,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Honor robotnika</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111914Z" creationid="Glіban" creationdate="20240408T111914Z">
+        <seg>Честь робітника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Huug</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -13174,6 +13510,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>I tak o to skazują biednego Hermana na dożywotnią karę w Kolonii Górniczej w Khorinis!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103209Z" creationid="Glіban" creationdate="20240411T103209Z">
+        <seg>І ось вони засуджують бідолашного Германа до довічного ув'язнення в Гірничій Колонії на Хорінісі!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>I tak właśnie trafiłem tutaj.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240213T124858Z" creationid="Glіban" creationdate="20240213T124858Z">
@@ -13210,6 +13554,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240407T152308Z" creationid="Glіban" creationdate="20240407T152308Z">
         <seg>І знову назад...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>I zdejmij tę szmatę z twarzy, bo nie wiem, z kim gadam!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094732Z" creationid="Glіban" creationdate="20240411T094732Z">
+        <seg>І прибери цю ганчірку з обличчя, бо я не бачу, з ким розмовляю!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13582,6 +13934,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ja i Marvin...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101855Z" creationid="Glіban" creationdate="20240411T101855Z">
+        <seg>Я і Марвін...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ja i moi przyjaciele jesteśmy bardzo zawiedzeni twoją decyzją.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -13662,6 +14022,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jak kulą w płot</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112729Z" creationid="Glіban" creationdate="20240408T112729Z">
+        <seg>Як куля крізь паркан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jak okłamuje nas władca? Czy orkowie stoją u naszych bram?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T125626Z" creationid="Glіban" creationdate="20240215T125626Z">
@@ -13682,6 +14050,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240219T134050Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Як багато хто з вас, можливо, вже помітив, на наш острів прибувають нові хвилі біженців з Міртани, які рятуються від війни.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jak za starych czasów</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104915Z" creationid="Glіban" creationdate="20240408T104915Z">
+        <seg>Як у старі добрі часи</seg>
       </tuv>
     </tu>
     <tu>
@@ -14958,6 +15334,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Kim wy... Kim wy jesteście...?!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094856Z" creationid="Glіban" creationdate="20240411T094820Z">
+        <seg>Хто ви... Хто ви такі...?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Kintarou</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240208T171509Z" creationid="Glіban" creationdate="20240208T171509Z">
@@ -15526,6 +15910,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Kolekcjoner</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113531Z" creationid="Glіban" creationdate="20240408T113531Z">
+        <seg>Колекціонер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Kolg</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -15602,6 +15994,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Контракт Муреша</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Kontraktorka</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104823Z" creationid="Glіban" creationdate="20240408T104823Z">
+        <seg>Виконавець</seg>
       </tuv>
     </tu>
     <tu>
@@ -16126,10 +16526,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Krew myśliwego</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112409Z" creationid="Glіban" creationdate="20240408T112409Z">
+        <seg>Кров мисливця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Krew na rękach</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Кров на руках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Krew o wino</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104908Z" creationid="Glіban" creationdate="20240408T104908Z">
+        <seg>Кров і вино</seg>
       </tuv>
     </tu>
     <tu>
@@ -16326,6 +16742,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Król bez korony</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113835Z" creationid="Glіban" creationdate="20240408T113835Z">
+        <seg>Король без корони</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Królestwa Myrtany.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -16362,6 +16786,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Вбивця королів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Królowa cierni</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112733Z" creationid="Glіban" creationdate="20240408T112733Z">
+        <seg>Тернова королева</seg>
       </tuv>
     </tu>
     <tu>
@@ -17158,6 +17590,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Kto jest kim</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105238Z" creationid="Glіban" creationdate="20240408T105238Z">
+        <seg>Хто є хто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Kto nosi tę zbroję, należy do bandytów.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
@@ -17466,6 +17906,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Торговець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Kupiec Ezekiel</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111634Z" creationid="Glіban" creationdate="20240408T111634Z">
+        <seg>Торговець Єзекіїль</seg>
       </tuv>
     </tu>
     <tu>
@@ -18026,6 +18474,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Ліан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Lecz nim to nastąpi, chcemy wam coś zaprezentować!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102714Z" creationid="Glіban" creationdate="20240411T102656Z">
+        <seg>Але перш ніж це станеться, ми хочемо вам дещо показати!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19446,6 +19902,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ludzie zdychają na lewo i prawo. Jeden w tę, czy w tę nie zrobi nikomu żadnej różnicy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100736Z" creationid="Glіban" creationdate="20240411T100454Z">
+        <seg>Люди вмирають направо і наліво. Одним більше зараз, чи пізніше – яка різниця.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ludzka kość.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -20326,6 +20790,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mały Upominek</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112915Z" creationid="Glіban" creationdate="20240408T112915Z">
+        <seg>Маленький подарунок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mały grzyb,</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -20546,6 +21018,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T164909Z" creationid="Glіban" creationdate="20240311T164909Z">
         <seg>Місто нарешті було в безпеці, і його мешканці могли зосередитися на загоєнні ран та відбудові всього, що було зруйновано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Miasto w ogniu</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104436Z" creationid="Glіban" creationdate="20240408T104436Z">
+        <seg>Місто у вогні</seg>
       </tuv>
     </tu>
     <tu>
@@ -20950,6 +21430,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mieszkańcy Archolos! Miło was widzieć ponownie. I to tak licznie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102631Z" creationid="Glіban" creationdate="20240411T102631Z">
+        <seg>Громадяни Архолосу! Приємно бачити вас знову. Та ще й у такій кількості.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mieszkańcy Silbach w końcu mogą spać spokojnie, a historia o Bestii bardzo szybko stała się jedynie lokalną legendą.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T173741Z" creationid="Glіban" creationdate="20240311T173714Z">
@@ -21130,6 +21618,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Мінімальна шкода:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Miodowe Lata</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111534Z" creationid="Glіban" creationdate="20240408T111534Z">
+        <seg>Медові роки</seg>
       </tuv>
     </tu>
     <tu>
@@ -21446,6 +21942,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Moja noga więcej tu nie postanie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102147Z" creationid="Glіban" creationdate="20240411T102121Z">
+        <seg>Ноги моєї тут не буде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Moje eliksiry są dla ciebie za mocne, podróżniku.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240308T093554Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -21514,6 +22018,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Морріс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Morskie opowieści</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110603Z" creationid="Glіban" creationdate="20240408T110603Z">
+        <seg>Морські історії</seg>
       </tuv>
     </tu>
     <tu>
@@ -21942,6 +22454,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Myśli, że jest taki wspaniały, bo wszyscy w mieście się go boją, bo taką wielką willę ma!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T093918Z" creationid="Glіban" creationdate="20240411T093918Z">
+        <seg>Він думає, що він такий крутий, бо всі в місті його бояться, бо в нього така велика вілла!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Myślisz, że przepuszczę byle kogo? W żadnym wypadku, kolego.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T160243Z" creationid="Glіban" creationdate="20240215T160154Z">
@@ -21950,10 +22470,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Myślisz, że rozwalona łajba na końcu świata i garstka zbirów robią z ciebie króla?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T095831Z" creationid="Glіban" creationdate="20240411T095831Z">
+        <seg>Думаєш, розбитий човен на краю світу і жменька головорізів роблять тебе королем?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Myśliwy</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Загонич</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Myślę, że niepotrzebnie zostawiamy za sobą tyle śladów. To do nas niepodobne.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100001Z" creationid="Glіban" creationdate="20240411T100001Z">
+        <seg>Я думаю, що ми залишаємо за собою забагато лишніх слідів. Це на нас не схоже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21982,6 +22518,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mój nowy dom</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111321Z" creationid="Glіban" creationdate="20240408T111321Z">
+        <seg>Мій новий дім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mój pies bronił domu do ostatniej kropli krwi. Mimo iż przyszło nam się znać bardzo krótko, to cieszę się, że mogłem mieć takiego wiernego przyjaciela.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240312T104303Z" creationid="Glіban" creationdate="20240312T104303Z">
@@ -21998,10 +22542,42 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mówcie, co chcecie, ale Cortez by tego nie pochwalał.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T095742Z" creationid="Glіban" creationdate="20240411T095742Z">
+        <seg>Кажи, що хочеш, але Кортез не схвалив би цього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mówisz?</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Серйозно?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mówię ci, podpieprzył komuś łódkę, wziął skrzynię pod pachę i tyle go widzieli!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100828Z" creationid="Glіban" creationdate="20240411T100817Z">
+        <seg>Кажу тобі, він заліз на чийсь човен, взяв ящик під руку, і тільки його бачили!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mówię ci, zapłaci mi za to! Ja nie spłacam długów?! Ja?! Zawsze oddaję w terminie! Zawsze! Nie dam mu się więcej oszukiwać!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T093814Z" creationid="Glіban" creationdate="20240411T093814Z">
+        <seg>Кажу тобі, він мені за це заплатить! Це я не плачу борги! Я завжди плачу вчасно! Завжди! Я більше не дозволю йому себе дурити!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Mówiłem wam, że to zwykła banda wieśniaków, którzy bawili się w porwania i szmuglowanie towarów z okolicznych farm.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T095150Z" creationid="Glіban" creationdate="20240411T095150Z">
+        <seg>Я ж казав, що це просто купка селян, які гралися у викрадення та контрабанду товарів з навколишніх ферм.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22390,6 +22966,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Na szczęście została jeszcze jedna...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100841Z" creationid="Glіban" creationdate="20240411T100841Z">
+        <seg>На щастя, залишився ще один...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Na tym poziomie rzemieślniczym muszę pamiętać, że każda niedoskonałość broni może zadecydować o życiu albo śmierci jej posiadacza. Jeśli mój oręż będzie miał jakąkolwiek skazę, pod żadnym pozorem nie mogę jej oddać do użytku. Zdaje się, że czeka mnie sporo godzin przy kowadle...</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240308T105017Z" creationid="Glіban" creationdate="20240308T104927Z">
@@ -22446,10 +23030,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nadchodzący Sztorm</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104103Z" creationid="Glіban" creationdate="20240408T104103Z">
+        <seg>Наближення бурі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nadine</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Надін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nadmorskie znalezisko</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111049Z" creationid="Glіban" creationdate="20240408T111049Z">
+        <seg>Морська знахідка</seg>
       </tuv>
     </tu>
     <tu>
@@ -22594,6 +23194,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Найшвидший спосіб приготувати устриці - це спеціальність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Najwięksi będą najmniejszymi</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T114014Z" creationid="Glіban" creationdate="20240408T114014Z">
+        <seg>Найбільший буде найменшим</seg>
       </tuv>
     </tu>
     <tu>
@@ -22902,10 +23510,34 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nasza muzyka porwie was do tańca. Niech ogień zapłonie w waszych sercach!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102651Z" creationid="Glіban" creationdate="20240411T102651Z">
+        <seg>Наша музика змусить вас танцювати. Нехай вогонь запалає у ваших серцях!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nasza współpraca zakończyła się dość... nerwowo, ale chciałbym poprawić nasze relacje.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094524Z" creationid="Glіban" creationdate="20240411T094456Z">
+        <seg>Наша співпраця закінчилася досить... напружено, але я хотів би налагодити наші взаємини.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nathaniel</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Натаніель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Naturalne metody</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112044Z" creationid="Glіban" creationdate="20240408T111926Z">
+        <seg>Натуральні методи</seg>
       </tuv>
     </tu>
     <tu>
@@ -23294,6 +23926,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nażrą się trupami zwierząt, które ubiłeś po drodze z Przystani.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T095556Z" creationid="Glіban" creationdate="20240411T095556Z">
+        <seg>Вони зайняті трупами звірів, яких ви вбили по дорозі з Притулку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Negocjator</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -23434,6 +24074,22 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T125457Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Не дайте себе обдурити цим промовистим бандитам!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie dla psa kiełbasa</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111837Z" creationid="Glіban" creationdate="20240408T111837Z">
+        <seg>Не для пса ковбаса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie do podźwignięcia</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112637Z" creationid="Glіban" creationdate="20240408T112637Z">
+        <seg>Непідйомний тягар</seg>
       </tuv>
     </tu>
     <tu>
@@ -23630,6 +24286,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie odchodźcie! Nie bójcie się.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T104153Z" creationid="Glіban" creationdate="20240411T104153Z">
+        <seg>Не розходьтеся! Вам нічого боятись.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie oddalaj się od Kessela!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -23642,6 +24306,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Не відходьте від вартового!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie odpowiadajcie! Każdy z was sam musi sobie odpowiedzieć na to pytanie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103332Z" creationid="Glіban" creationdate="20240411T103332Z">
+        <seg>Не відповідайте мені! Кожен з вас повинен відповісти на це питання для себе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23750,6 +24422,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie przejdą</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105119Z" creationid="Glіban" creationdate="20240408T105119Z">
+        <seg>Ти не пройдеш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie rozmawiam z takimi opryszkami jak ty!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
@@ -23798,6 +24478,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie tym razem, drodzy przyjaciele. Magowie na rozkaz Króla często pełnią rolę sędziów!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103053Z" creationid="Glіban" creationdate="20240411T103045Z">
+        <seg>Але не цього разу, дорогі друзі. Маги за наказом короля часто виступають у ролі суддів!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie wchodząc cicho do tej dobrej nocy.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240406T164304Z" creationid="Glіban" creationdate="20240406T162852Z">
@@ -23834,6 +24522,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T120854Z" creationid="Gleban" creationdate="20230122T120854Z">
         <seg>Ти не бачиш, що я зайнятий? Залиш мене в спокої.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie widzę nikogo z naszej starej ekipy?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094713Z" creationid="Glіban" creationdate="20240411T094713Z">
+        <seg>Я не бачу нікого з нашої старої команди?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23886,6 +24582,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nie zaznasz spokoju</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112919Z" creationid="Glіban" creationdate="20240408T112919Z">
+        <seg>Ніякого спокою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nie, wracam do menu.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
@@ -23898,6 +24602,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nie? Podjudzanie do buntu. Profanacja szat Magów Ognia. To dla was nic?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103937Z" creationid="Glіban" creationdate="20240411T103803Z">
+        <seg>Невже? Підбурення до повстання. Паплюження мантій Магів Вогню. Для вас це нічого?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24086,6 +24798,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Niech stanie się światłość</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111007Z" creationid="Glіban" creationdate="20240408T111007Z">
+        <seg>Нехай буде світло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Niech to szlag...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T104346Z" creationid="Glіban" creationdate="20240411T104343Z">
+        <seg>Хай йому грець...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Niech zmiłuje się nad nami i ma nas w swej opiece.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240217T181237Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -24158,6 +24886,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Niedźwiedzia przysługa</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110156Z" creationid="Glіban" creationdate="20240408T110156Z">
+        <seg>Ведмежа послуга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Niedźwiedzie sadło</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -24210,6 +24946,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Недбало написана записка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nieostrożny zakład</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105822Z" creationid="Glіban" creationdate="20240408T105822Z">
+        <seg>Нерозважливе парі</seg>
       </tuv>
     </tu>
     <tu>
@@ -24322,6 +25066,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240407T155820Z" creationid="Glіban" creationdate="20240407T155735Z">
         <seg>Неперетравлений експеримент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nieszczęśliwy mąż</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113229Z" creationid="Glіban" creationdate="20240408T113229Z">
+        <seg>Нещасний чоловік</seg>
       </tuv>
     </tu>
     <tu>
@@ -24606,6 +25358,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nikt nie zostaje z tyłu</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105531Z" creationid="Glіban" creationdate="20240408T105531Z">
+        <seg>Ніхто не залишиться позаду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nirka</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -24682,6 +25442,30 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Ну, тепер ти отримаєш, виродку!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>No... dług za to, że mnie wtedy uwolniliście!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094253Z" creationid="Glіban" creationdate="20240411T094253Z">
+        <seg>Ну... Борг за те, що ти визволив мене тоді!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nocne wycie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110841Z" creationid="Glіban" creationdate="20240408T110841Z">
+        <seg>Нічні завивання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nocny Wartownik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113151Z" creationid="Glіban" creationdate="20240408T113033Z">
+        <seg>Нічна варта</seg>
       </tuv>
     </tu>
     <tu>
@@ -24934,10 +25718,42 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Nowe techniki</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104848Z" creationid="Glіban" creationdate="20240408T104848Z">
+        <seg>Нові методи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nowe trunki</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112700Z" creationid="Glіban" creationdate="20240408T112700Z">
+        <seg>Нові напої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nowe wytyczne</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105225Z" creationid="Glіban" creationdate="20240408T105225Z">
+        <seg>Нові вказівки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Nowicjusz</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Послушник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Nowy na Archolos?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112037Z" creationid="Glіban" creationdate="20240408T112013Z">
+        <seg>Нещодавно на Архолосі?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25066,6 +25882,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Про великого мага Міхтара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>O wilku mowa!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101907Z" creationid="Glіban" creationdate="20240411T101907Z">
+        <seg>Про вовка промовка!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25606,6 +26430,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Oczyścić brzeg</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110143Z" creationid="Glіban" creationdate="20240408T105944Z">
+        <seg>Очищення берега</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Od tej pory będziesz nam płacił od czasu do czasu...</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -25682,6 +26514,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T155918Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Вільно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Odnaleźć Rolfa</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105827Z" creationid="Glіban" creationdate="20240408T105827Z">
+        <seg>У пошуках Рольфа</seg>
       </tuv>
     </tu>
     <tu>
@@ -26406,6 +27246,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Opatrzność z góry</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104819Z" creationid="Glіban" creationdate="20240408T104819Z">
+        <seg>Провидіння згори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Opiekun slumsów</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T162348Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -26450,6 +27298,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>В ньому описано, як стати громадянином.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Oporny uczeń</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110713Z" creationid="Glіban" creationdate="20240408T110713Z">
+        <seg>Неохочий учень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Opowieść plagi</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110630Z" creationid="Glіban" creationdate="20240408T104745Z">
+        <seg>Історія про чуму</seg>
       </tuv>
     </tu>
     <tu>
@@ -26562,6 +27426,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Орк-розвідник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Orkowa Zaraza</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113519Z" creationid="Glіban" creationdate="20240408T113519Z">
+        <seg>Нашестя орків</seg>
       </tuv>
     </tu>
     <tu>
@@ -26742,6 +27614,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ostatnia partia towaru</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110815Z" creationid="Glіban" creationdate="20240408T110815Z">
+        <seg>Остання партія товару</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ostatnia wiadomość</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -26754,6 +27634,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Останнє Зіткнення – Майстерня коваля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ostre jak brzytwa</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110240Z" creationid="Glіban" creationdate="20240408T110240Z">
+        <seg>Гострі як бритва</seg>
       </tuv>
     </tu>
     <tu>
@@ -26930,6 +27818,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Отмар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Oto Herman! Ciężko pracujący człowiek, którego wojna zmusiła do czynów, których nigdy w innych okolicznościach by nie popełnił!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102837Z" creationid="Glіban" creationdate="20240411T102801Z">
+        <seg>Це Герман! Працьовитий чоловік, якого війна змусила робити те, чого б він ніколи не зробив за інших обставин!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Otoczeni przez niebezpieczeństwo</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110949Z" creationid="Glіban" creationdate="20240408T110949Z">
+        <seg>В оточенні небезпеки</seg>
       </tuv>
     </tu>
     <tu>
@@ -28454,6 +29358,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Perły wody</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111207Z" creationid="Glіban" creationdate="20240408T111207Z">
+        <seg>Перлини води</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Perły, które zebrałem dla Kobusa.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -29134,6 +30046,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Pijany przewodnik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111430Z" creationid="Glіban" creationdate="20240408T111430Z">
+        <seg>П'яний провідник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Pijany rybak</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -29686,6 +30606,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Pod zastaw</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111006Z" creationid="Glіban" creationdate="20240408T111006Z">
+        <seg>Під заставу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Pod łaźnię.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
@@ -30030,6 +30958,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Podziemia Vardhal</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104329Z" creationid="Glіban" creationdate="20240408T104329Z">
+        <seg>Підземелля Вардхалу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Podła włócznia</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -30214,6 +31150,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Polowanie z Allanem</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111857Z" creationid="Glіban" creationdate="20240408T111857Z">
+        <seg>Полювання з Аланом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Pomaga na wiele dolegliwości.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -30266,6 +31210,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Малий скелет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Pomoc dla powodzian</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111429Z" creationid="Glіban" creationdate="20240408T111429Z">
+        <seg>Допомога постраждалим від повені</seg>
       </tuv>
     </tu>
     <tu>
@@ -30394,6 +31346,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Покинутий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Porządki</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105515Z" creationid="Glіban" creationdate="20240408T105450Z">
+        <seg>Прибирання</seg>
       </tuv>
     </tu>
     <tu>
@@ -30822,6 +31782,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Powiedzcie mi! Czy Herman zasłużył sobie na taki los? Czy kara jest adekwatna do jego czynu?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103300Z" creationid="Glіban" creationdate="20240411T103248Z">
+        <seg>Скажіть мені! Чи заслужив Герман на таку долю? Чи таке покарання відповідає його вчинку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Powiedziałem coś! Czego nie zrozumiałeś?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T160534Z" creationid="Glіban" creationdate="20240215T160500Z">
@@ -30834,6 +31802,14 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T120029Z" creationid="Gleban" creationdate="20230122T120029Z">
         <seg>Я ж сказав: БІЛЬШЕ НІЯКОЇ магії! Ти глухий чи як?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Powiew Północy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111346Z" creationid="Glіban" creationdate="20240408T111341Z">
+        <seg>Північний Вітер</seg>
       </tuv>
     </tu>
     <tu>
@@ -31474,6 +32450,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Закон і традиція</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Prawowity dziedzic</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104347Z" creationid="Glіban" creationdate="20240408T104347Z">
+        <seg>Законний спадкоємець</seg>
       </tuv>
     </tu>
     <tu>
@@ -33078,6 +34062,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Przełomowe Odkrycie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112702Z" creationid="Glіban" creationdate="20240408T112702Z">
+        <seg>Проривне відкриття</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Przełącza sterowanie kamerą za pomocą myszy.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
@@ -33118,6 +34110,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Przyczółek potrzebny od zaraz</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105149Z" creationid="Glіban" creationdate="20240408T105149Z">
+        <seg>Негайно потрібен міст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Przyda się do produkcji strzał i łuków.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -33138,6 +34138,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240308T103401Z" creationid="Glіban" creationdate="20240308T103401Z">
         <seg>Корисна інформація про світ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Przygotowania do wyprawy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104117Z" creationid="Glіban" creationdate="20240408T104117Z">
+        <seg>Підготовка до експедиції</seg>
       </tuv>
     </tu>
     <tu>
@@ -33782,6 +34790,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Pójdziecie sami, czy może moi ludzie mają wam pomóc?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T104245Z" creationid="Glіban" creationdate="20240411T104245Z">
+        <seg>Підете самі, чи мої люди вам допоможуть?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Pójdę gdzie indziej po eliksiry i już nigdy nie wrócę!</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240308T094820Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -34122,6 +35138,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Раско</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Raz na wozie...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110919Z" creationid="Glіban" creationdate="20240408T110759Z">
+        <seg>Розкрутись, щоб рухатися</seg>
       </tuv>
     </tu>
     <tu>
@@ -34678,6 +35702,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Robota dla twardzieli</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104315Z" creationid="Glіban" creationdate="20240408T104202Z">
+        <seg>Робота для крутих хлопців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Robotnik</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
@@ -35194,6 +36226,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Руді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ruiny zamku</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104107Z" creationid="Glіban" creationdate="20240408T104107Z">
+        <seg>Руїни замку</seg>
       </tuv>
     </tu>
     <tu>
@@ -36942,6 +37982,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Siła robocza</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104120Z" creationid="Glіban" creationdate="20240408T104120Z">
+        <seg>Робоча сила</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Skalny korzeń</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -36970,6 +38018,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Масштабування видимості у локаціях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Skarby Archolos</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110722Z" creationid="Glіban" creationdate="20240408T110722Z">
+        <seg>Скарби Архолосу</seg>
       </tuv>
     </tu>
     <tu>
@@ -37034,6 +38090,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Крастись увімк/вимк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Skrzydełko czy nóżka?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T114317Z" creationid="Glіban" creationdate="20240408T113948Z">
+        <seg>Крильце чи ніжку?</seg>
       </tuv>
     </tu>
     <tu>
@@ -38030,6 +39094,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Sokoli wzrok</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113933Z" creationid="Glіban" creationdate="20240408T113933Z">
+        <seg>Соколиний зір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Sole trzeźwiące</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -38294,6 +39366,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Sprawa życia lub śmierci</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110220Z" creationid="Glіban" creationdate="20240408T110220Z">
+        <seg>Питання життя та смерті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Sprawdzę ją w środku grobowca.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -38354,6 +39434,22 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Обман</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Spóźniony pracownik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110552Z" creationid="Glіban" creationdate="20240408T110552Z">
+        <seg>Запізнілий працівник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Spłata długu</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105445Z" creationid="Glіban" creationdate="20240408T105445Z">
+        <seg>Сплата боргу</seg>
       </tuv>
     </tu>
     <tu>
@@ -38534,6 +39630,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Srebro i stal</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113247Z" creationid="Glіban" creationdate="20240408T113247Z">
+        <seg>Срібло і сталь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Srebrzysty posążek Pana Ognia.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -38650,6 +39754,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Стара сільська притча.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Stare porachunki</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104448Z" creationid="Glіban" creationdate="20240408T104448Z">
+        <seg>Старі рахунки</seg>
       </tuv>
     </tu>
     <tu>
@@ -38878,6 +39990,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Statek w porcie jest bezpieczny</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113448Z" creationid="Glіban" creationdate="20240408T113418Z">
+        <seg>Кораблю безпечно у гавані</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Statut wsi</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -38890,6 +40010,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Характеристики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Stać! Jesteście aresztowani!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103648Z" creationid="Glіban" creationdate="20240411T103545Z">
+        <seg>Стояти! Ви всі заарештовані!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39038,6 +40166,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Straż nocna</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105226Z" creationid="Glіban" creationdate="20240408T105226Z">
+        <seg>Нічна варта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Straż złapała już podejrzanych i aktualnie zbiera potrzebne dowody by ostatecznie potwierdzić ich udział w zamachu.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -39066,6 +40202,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Вартовий Марвін?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Strażnik Równowagi</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113927Z" creationid="Glіban" creationdate="20240408T113927Z">
+        <seg>Хранитель Рівноваги</seg>
       </tuv>
     </tu>
     <tu>
@@ -39790,6 +40934,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Szanowny gwardzisto! Nic nie zrobiliśmy!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103605Z" creationid="Glіban" creationdate="20240411T103605Z">
+        <seg>Шановний гвардійцю! Ми нічого не зробили!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Szansa na dodatkowe obrażenia</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
@@ -40158,6 +41310,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Szkoda mi czasu na niepotrzebne sprzątanie. Trzeba wiedzieć, kiedy można być po prostu wygodnym.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100429Z" creationid="Glіban" creationdate="20240411T100425Z">
+        <seg>Я витрачаю свій час на непотрібне прибирання. Дай мені знати, коли можна буде просто розслабитися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Szkodzenie złu</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
@@ -40386,6 +41546,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Бойове мистецтво: Лучник з Хелена. Том III</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Sztuka pisania</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110555Z" creationid="Glіban" creationdate="20240408T110555Z">
+        <seg>Мистецтво письма</seg>
       </tuv>
     </tu>
     <tu>
@@ -40854,6 +42022,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Tak jest!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101942Z" creationid="Glіban" creationdate="20240411T101942Z">
+        <seg>Слухаюсь!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Tak lepiej zrób.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240308T094039Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -40926,6 +42102,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Talerz ciepłej strawy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112842Z" creationid="Glіban" creationdate="20240408T112842Z">
+        <seg>Тарілка гарячої юшки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Talerz z prawdziwego srebra.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -40946,6 +42130,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Там, де орчі гончаки, там є й орки...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Tani strażnicy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112256Z" creationid="Glіban" creationdate="20240408T112256Z">
+        <seg>Дешеві охоронці</seg>
       </tuv>
     </tu>
     <tu>
@@ -41134,6 +42326,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Teatr obitej twarzy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112350Z" creationid="Glіban" creationdate="20240408T112350Z">
+        <seg>Театр синців на обличчі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Tego chłopaka, co tu ciągle stał przy wyjściu.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T161504Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -41294,6 +42494,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ten się nada</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104714Z" creationid="Glіban" creationdate="20240408T104714Z">
+        <seg>Те, що треба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Tengral</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -41430,6 +42638,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>To bez znaczenia. Mamy teraz dużo większy problem i to sam wiesz jaki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100915Z" creationid="Glіban" creationdate="20240411T100851Z">
+        <seg>Це неважливо. Зараз у нас є набагато більша проблема, і ти сам знаєш, яка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To bierz łopatę i szoruj do roboty! Poza tym ścierwojady muszą coś żreć.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T095432Z" creationid="Glіban" creationdate="20240411T095336Z">
+        <seg>Тож бери лопату і мерщій до роботи! Крім того, падальникам треба щось їсти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>To cholernie dużo...</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -41562,6 +42786,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Мені все ще потрібна твоя допомога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>To nie twoje</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105235Z" creationid="Glіban" creationdate="20240408T105235Z">
+        <seg>Це не твоє</seg>
       </tuv>
     </tu>
     <tu>
@@ -41906,6 +43138,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240208T171515Z" creationid="Glіban" creationdate="20240208T171515Z">
         <seg>Torsin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Transakcja ze zwiadem</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105221Z" creationid="Glіban" creationdate="20240408T105221Z">
+        <seg>Угода з розвідником</seg>
       </tuv>
     </tu>
     <tu>
@@ -42294,6 +43534,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Trzeba się ich jakoś pozbyć. Masz jakiś pomysł?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100931Z" creationid="Glіban" creationdate="20240411T100931Z">
+        <seg>Треба якось їх позбутися. Ти маєш якісь ідеї?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Trzeba tak było od razu!</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T163930Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -42394,6 +43642,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Третій том з трьох.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Trzy prace alchemika</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105637Z" creationid="Glіban" creationdate="20240408T105637Z">
+        <seg>Три доручення алхіміка</seg>
       </tuv>
     </tu>
     <tu>
@@ -43006,6 +44262,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ucieczka</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112358Z" creationid="Glіban" creationdate="20240408T112358Z">
+        <seg>Втеча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ucieka! Ruchy Marvin, musimy go złapać!</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T114939Z" creationid="Gleban" creationdate="20230122T114939Z">
@@ -43022,6 +44286,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Uciszyć Krzykacza</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T114019Z" creationid="Glіban" creationdate="20240408T114019Z">
+        <seg>Заткнути крикунів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Udało ci się przynieść wszystko czego nam było trzeba. Dzięki wielkie.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240308T095507Z" creationid="Glіban" creationdate="20240308T095507Z">
@@ -43034,6 +44306,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Загасити вогонь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Ukochana córka</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T114521Z" creationid="Glіban" creationdate="20240408T110258Z">
+        <seg>Улюблена донька</seg>
       </tuv>
     </tu>
     <tu>
@@ -43438,6 +44718,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Uprowadzona</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112355Z" creationid="Glіban" creationdate="20240408T112355Z">
+        <seg>Викрадення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Upór Grubasa</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -43570,6 +44858,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Вимазана записка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Uspokój się kobieto, można to jakoś logicznie wytłumaczyć.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T102156Z" creationid="Glіban" creationdate="20240411T102156Z">
+        <seg>Заспокойся, жінко, це можна якось логічно пояснити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43798,6 +45094,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Vengardzkie sukienki</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113320Z" creationid="Glіban" creationdate="20240408T113320Z">
+        <seg>Венгардські сукні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Venzel</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -43902,10 +45206,42 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>W biały dzień (Trop więźnia)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112214Z" creationid="Glіban" creationdate="20240408T112208Z">
+        <seg>Серед білого дня (по сліду в'язня)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W cichej mgle</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111311Z" creationid="Glіban" creationdate="20240408T111153Z">
+        <seg>Серцеїд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>W ciągu długich lat swojego panowania Rhobar zdołał pokonać wszystkich wrogów królestwa oprócz jednego.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240210T110515Z" creationid="OmegaT Aligner" creationdate="20240210T110439Z">
         <seg>За довгі роки свого правління Робар зумів подолати всіх ворогів королівства. Всіх, окрім одного.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W ekstremalnych warunkach</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113357Z" creationid="Glіban" creationdate="20240408T113357Z">
+        <seg>В екстремальних умовах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W geście dobrej woli oddaję wam całe pozostałe złoto, które byłem winien!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094638Z" creationid="Glіban" creationdate="20240411T094638Z">
+        <seg>В якості жесту доброї волі я віддаю тобі все золото, яке я тобі був винен!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43930,6 +45266,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T172624Z" creationid="Glіban" creationdate="20240311T172624Z">
         <seg>У місті бракувало всього: від їжі до бинтів і лікарських засобів. Контрабандисти охоче користувалися цією можливістю для легкої наживи, розоряючи чимало мешканців міста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W młynie jak w młynie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T114507Z" creationid="Glіban" creationdate="20240408T105854Z">
+        <seg>У млині як у млині</seg>
       </tuv>
     </tu>
     <tu>
@@ -43974,6 +45318,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>W przeciwieństwie do reszty podjąłem jakieś działania.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101840Z" creationid="Glіban" creationdate="20240411T101840Z">
+        <seg>На відміну від інших, я хоча б щось зробив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>W przeciwieństwie do wina nie powoduje</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -44010,6 +45362,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>У кутку можна побачити невеликий символ Араксос.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>W służbie jego królewskiej mości</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113306Z" creationid="Glіban" creationdate="20240408T113306Z">
+        <seg>На службі його королівської величності</seg>
       </tuv>
     </tu>
     <tu>
@@ -44510,6 +45870,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wieczne odpoczywanie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110014Z" creationid="Glіban" creationdate="20240408T110014Z">
+        <seg>Вічний спокій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wiedza Magiczna - Krąg Czwarty Tom I</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -44686,6 +46054,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wielki kwatermistrz w babskiej sukience! W mieście nie jeden poleci na twoje wdzięki.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101257Z" creationid="Glіban" creationdate="20240411T101257Z">
+        <seg>Великий інтендант у жіночій сукні! У місті не один чоловік піддасться твоїм чарам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wielki miecz strażnika</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -44782,6 +46158,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wieśniacy, czy nie wieśniacy, zrobił się bałagan, a teraz trzeba to wszystko posprzątać.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T095244Z" creationid="Glіban" creationdate="20240411T095217Z">
+        <seg>Селяни чи не селяни, але вони наробили гармидеру, і тепер це все потрібно прибрати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wilcza Łapa</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -44834,6 +46218,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Вовче ікло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wilczych skór wiele</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112418Z" creationid="Glіban" creationdate="20240408T112418Z">
+        <seg>Забагато вовчих шкур</seg>
       </tuv>
     </tu>
     <tu>
@@ -44970,6 +46362,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Виноград</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Winowajca</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110718Z" creationid="Glіban" creationdate="20240408T110718Z">
+        <seg>Винуватець</seg>
       </tuv>
     </tu>
     <tu>
@@ -45262,10 +46662,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wojownik Innosa</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113943Z" creationid="Glіban" creationdate="20240408T113943Z">
+        <seg>Воїн Інноса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wojska Myrtany przygotowują się aktualnie na zadanie ostatecznego ciosu przeciwnikowi, a dowódcy jasno informują, że wszystko idzie zgodnie z planem.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240219T133351Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Наразі війська Міртани готуються завдати вирішального удару по ворогу, і командири чітко дали зрозуміти, що все йде згідно з планом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wola nieba</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111918Z" creationid="Glіban" creationdate="20240408T111918Z">
+        <seg>Воля небес</seg>
       </tuv>
     </tu>
     <tu>
@@ -45406,6 +46822,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wracamy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T100458Z" creationid="Glіban" creationdate="20240411T100458Z">
+        <seg>Рушаймо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wraz z Riordianem postawiliśmy w pobliżu mostu do twierdzy symboliczną mogiłę, upamiętniającą wszystkich, którzy polegli w środku.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240312T104953Z" creationid="Glіban" creationdate="20240312T104948Z">
@@ -45526,6 +46950,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Współpraca z Ramhą</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104920Z" creationid="Glіban" creationdate="20240408T104920Z">
+        <seg>Співпраця з Рамхою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wstecz</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
@@ -45598,6 +47030,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wszystko jest w porządku</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113359Z" creationid="Glіban" creationdate="20240408T113359Z">
+        <seg>Все гаразд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wszystko pochodzi z magazynu w Silbach.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240309T194304Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -45618,6 +47058,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Зрештою, ви, біженці, не такі вже й безкорисні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wybacz, że... przychodzę tak późno, ale... chciałbym spłacić swój dług!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094205Z" creationid="Glіban" creationdate="20240411T094205Z">
+        <seg>Вибачте, що я... прийшов так пізно, але... я хотів би повернути свій борг!</seg>
       </tuv>
     </tu>
     <tu>
@@ -46006,6 +47454,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wyjaśnimy sobie wszystko szczegółowo przed obliczem jego ekscelencji Wysłannika Królewskiego!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T104017Z" creationid="Glіban" creationdate="20240411T104017Z">
+        <seg>Ми все докладно пояснимо перед його високоповажністю Королівським послом!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wyjątkowe trofeum.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -46186,6 +47642,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Використовується для рубання дерев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wykończcie go.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094857Z" creationid="Glіban" creationdate="20240411T094857Z">
+        <seg>Прикінчи його.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46528,8 +47992,8 @@
       <tuv lang="pl">
         <seg>Wyruszamy do miasta</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240407T153455Z" creationid="Glіban" creationdate="20240407T153455Z">
-        <seg>Вирушаємо до міста</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T114450Z" creationid="Glіban" creationdate="20240407T153455Z">
+        <seg>Шлях до міста</seg>
       </tuv>
     </tu>
     <tu>
@@ -46698,6 +48162,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Зробити весло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wyszkoleni ludzie</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104300Z" creationid="Glіban" creationdate="20240408T104300Z">
+        <seg>Спеціально навчені люди</seg>
       </tuv>
     </tu>
     <tu>
@@ -47678,6 +49150,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Z deszczu pod rynnę...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T104058Z" creationid="Glіban" creationdate="20240408T104058Z">
+        <seg>З-під дощу та в канаву...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Z dumą informujemy, że do miasta Archolos, przybył Królewski Wysłannik Grayson wraz z oddziałem Gwardii Królewskiej.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -47982,6 +49462,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Za zamkniętymi drzwiami</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110645Z" creationid="Glіban" creationdate="20240408T110645Z">
+        <seg>За зачиненими дверима</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zaawansowane</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
@@ -48278,6 +49766,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Zajmę się tym.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101027Z" creationid="Glіban" creationdate="20240411T101027Z">
+        <seg>Я подбаю про це.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zajęty jestem, nie widać? Zostaw mnie...</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T120916Z" creationid="Gleban" creationdate="20230122T120916Z">
@@ -48346,6 +49842,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Закопати могилу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zakopane skarby</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112049Z" creationid="Glіban" creationdate="20240408T112049Z">
+        <seg>Закопані скарби</seg>
       </tuv>
     </tu>
     <tu>
@@ -48438,6 +49942,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Zamknij się! Nie mogę się doczekać, aż sam będziesz paradował w tej sukni!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101231Z" creationid="Glіban" creationdate="20240411T101151Z">
+        <seg>Замовкни! Не можу дочекатися, коли ти сам будеш красуватися в цій сукні!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zamknięcie w przeklętej twierdzy odmieniło życie wszystkich członków ekspedycji. Ci, którzy wyszli z Vardhal, nie byli już sobą.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240312T104621Z" creationid="Glіban" creationdate="20240312T104621Z">
@@ -48458,6 +49970,22 @@
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T121138Z" creationid="Gleban" creationdate="20230122T121138Z">
         <seg>Зачинені двері – ось що відділяє мене від нового життя! Цю можливість не можна упустити, я не піду звідси!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zamykamy interes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T105343Z" creationid="Glіban" creationdate="20240408T105343Z">
+        <seg>Завершення угоди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zamykamy ten interes.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094833Z" creationid="Glіban" creationdate="20240411T094833Z">
+        <seg>Ми закриваємо цю справу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48842,6 +50370,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Зараз ти дізнаєшся, як це бути без захисту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zaraz... ZARAZ, tu jest...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T094944Z" creationid="Glіban" creationdate="20240411T094944Z">
+        <seg>Зачекай... ЗАРАЗ, ось воно...</seg>
       </tuv>
     </tu>
     <tu>
@@ -49382,6 +50918,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Zdajesz sobie sprawę, że naraziłeś nas wszystkich?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T101812Z" creationid="Glіban" creationdate="20240411T101812Z">
+        <seg>Ти розумієш, що наражаєш нас усіх на небезпеку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Zdarzenie Na Morzu - Stocznia</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -49874,6 +51418,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Цілюща трава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zielona latarnia</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111715Z" creationid="Glіban" creationdate="20240408T111659Z">
+        <seg>Зелений ліхтар</seg>
       </tuv>
     </tu>
     <tu>
@@ -50594,6 +52146,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Пошкоджена рибальська сітка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zniszczone plony</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T111643Z" creationid="Glіban" creationdate="20240408T111643Z">
+        <seg>Знищені врожаї</seg>
       </tuv>
     </tu>
     <tu>
@@ -51622,6 +53182,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Złote Innosy</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112220Z" creationid="Glіban" creationdate="20240408T112220Z">
+        <seg>Золоті Інноси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Złote Wrota - Sklep z różnościami</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -51690,6 +53258,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Золотий Шперлац</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Złoty interes</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T110420Z" creationid="Glіban" creationdate="20240408T110300Z">
+        <seg>Золота угода</seg>
       </tuv>
     </tu>
     <tu>
@@ -52640,8 +54216,8 @@
       <tuv lang="pl">
         <seg>kolekcjonerów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>коллекционерам.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T113604Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>колекціонерам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55286,6 +56862,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ładny strzał.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T095027Z" creationid="Glіban" creationdate="20240411T095027Z">
+        <seg>Гарний постріл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Łap za broń, nadchodzą!</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240406T171656Z" creationid="Glіban" creationdate="20240406T171644Z">
@@ -55998,6 +57582,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Że nie wspomnę nawet o fakcie, w jaki sposób weszliście w ich posiadanie!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240411T103932Z" creationid="Glіban" creationdate="20240411T103932Z">
+        <seg>Не кажучи вже про те, у який спосіб ви ними заволоділи!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Żebrak</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -56114,6 +57706,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Жовта волинка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Żądełko</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240408T112352Z" creationid="Glіban" creationdate="20240408T112352Z">
+        <seg>Жало</seg>
       </tuv>
     </tu>
     <tu>
