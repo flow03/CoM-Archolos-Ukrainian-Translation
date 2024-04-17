@@ -2254,10 +2254,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>...gościnności wobec przybyszów...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T131253Z" creationid="Glіban" creationdate="20240417T131253Z">
+        <seg>...гостинності до новоприбулих...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>...i dla ciebie.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>І тобі також.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...i lojalności wobec niepodzielnej władzy Myrtany!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T131309Z" creationid="Glіban" creationdate="20240417T131309Z">
+        <seg>...та вірності неподільній владі Міртани!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,6 +2402,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>...деякі проблеми вирішуються самі по собі...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...niewinny zarzucanego mu czynu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T142023Z" creationid="Glіban" creationdate="20240417T142015Z">
+        <seg>...невинним у пред'явленому йому звинуваченні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2546,6 +2570,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T162603Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>...винограднику Валеріо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>...winny popełnionej zbrodni.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T140907Z" creationid="Glіban" creationdate="20240417T140907Z">
+        <seg>...винним у скоєнні злочину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3162,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240208T171425Z" creationid="Glіban" creationdate="20240208T171425Z">
         <seg>Abu-Dub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Aby chronić nasz dom, każdy z nas musi wziąć za niego odpowiedzialność.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132837Z" creationid="Glіban" creationdate="20240417T132837Z">
+        <seg>Щоб захистити наш дім, кожен з нас повинен взяти на себе відповідальність за його захист.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3974,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ani ja, ani lud nie zlituje się nad twoją duszą, skazańcze.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132739Z" creationid="Glіban" creationdate="20240417T132739Z">
+        <seg>Ні я, ні народ не помилуємо твою душу, засуджений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ani kroku dalej. Mamy tutaj miejsce zbrodni. Proszę nie naruszać spokoju ciała.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240215T160623Z" creationid="Glіban" creationdate="20240215T160623Z">
@@ -4346,6 +4394,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Помічник Фулько</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Atak na znanego i powszechnie szanowanego obywatela Volkera nie był jedynie atakiem na jego życie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132616Z" creationid="Glіban" creationdate="20240417T132616Z">
+        <seg>Напад на відомого і всіма шанованого громадянина Волкера був не просто замахом на його життя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7334,10 +7390,26 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Co takiego?! Mam PŁACIĆ tej gnidzie?!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T142439Z" creationid="Glіban" creationdate="20240417T142435Z">
+        <seg>Якого біса?! Я ще маю ПЛАТИТИ цьому виродку?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Co tu się stało?</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Що тут сталося?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Co więcej, za przykrości, których doświadczył z rąk funkcjonariuszy, zostanie mu wypłacone odszkodowanie w postaci dziesiątej części kwartalnego dochodu jednostki straży miejskiej.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T142115Z" creationid="Glіban" creationdate="20240417T142115Z">
+        <seg>Крім того, він отримає компенсацію за побої, яких зазнав від офіцерів, у розмірі десятої частини квартального доходу підрозділу міської варти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8312,8 +8384,8 @@
       <tuv lang="pl">
         <seg>DRODZY OBYWATELE ARCHOLOS!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240416T184223Z" creationid="Glіban" creationdate="20240416T184223Z">
-        <seg>ШАНОВНІ ГРОМАДЯНИ АРХОЛОСУ!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T130106Z" creationid="Glіban" creationdate="20240416T184223Z">
+        <seg>ШАНОВНІ ЖИТЕЛІ АРХОЛОСУ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9574,6 +9646,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dokładnie tyle, aby mógł spłacić dług swojego ojca i zaczął wieść życie zgodne z obowiązującym prawem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T142231Z" creationid="Glіban" creationdate="20240417T142224Z">
+        <seg>Рівно стільки, щоб він зміг виплатити борг батька і почати жити згідно з законом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dokładnie. Ja tymczasem wracam do pracy.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240412T172019Z" creationid="Glіban" creationdate="20240412T172019Z">
@@ -9882,6 +9962,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
         <seg>Досвід +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dość już padło słów na dzisiaj. Muszę się przygotować do przemówienia.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T144906Z" creationid="Glіban" creationdate="20240417T144821Z">
+        <seg>На сьогодні сказано достатньо слів. Мені треба готуватися до промови.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10678,6 +10766,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Dzisiejszego dnia Archolos stało się bezpieczniejsze!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132813Z" creationid="Glіban" creationdate="20240417T132813Z">
+        <seg>Сьогодні Архолос став ще безпечнішим!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Dziwaczne wojaże pięciu wojowników w</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -10954,6 +11050,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240411T102645Z" creationid="Glіban" creationdate="20240411T102645Z">
         <seg>Сьогодні ми влаштуємо вечір, який ви не забудете надовго!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Dziś stajemy naprzeciw kolejnemu z nich i nie wątpię, że też je przezwyciężymy!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132235Z" creationid="Glіban" creationdate="20240417T131514Z">
+        <seg>Сьогодні ми зіткнулися зі ще одним випробуванням. І я не сумніваюся, що ми і його подолаємо!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14870,6 +14974,22 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jeśli chcesz o tym podyskutować od strony prawnej, zapraszam do siebie, kapitanie. Zgaduję, że znasz drogę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T142545Z" creationid="Glіban" creationdate="20240417T142545Z">
+        <seg>Якщо ви хочете обговорити це з юридичного боку, я запрошую вас до себе, капітане. Гадаю, ви знаєте дорогу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Jeśli chcesz o tym podyskutować od strony prawnej, zapraszam do siebie, zarządco. Zgaduję, że znasz drogę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T144751Z" creationid="Glіban" creationdate="20240417T141925Z">
+        <seg>Якщо ви хочете обговорити це з юридичного боку, я запрошую вас до себе, управляючий. Гадаю, ви знаєте дорогу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jeśli dalej będzie to szło w takim wolnym tempie, trzeba będzie pomyśleć o rozbiciu obozu...</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
@@ -15418,6 +15538,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240312T101501Z" creationid="Glіban" creationdate="20240312T101501Z">
         <seg>Казіму пощастило, адже йому вдалося втекти з острова ще перед битвою за місто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Każde zachowanie mogące zagrozić integralności wyspy i królestwa będzie skutkowało najwyższym wymiarem kary - śmiercią, lub w wypadku łaski - zesłaniem do Górniczej Doliny!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T133910Z" creationid="Glіban" creationdate="20240417T133910Z">
+        <seg>Будь-яка поведінка, що може поставити під загрозу цілісність острова та королівства, призведе до найвищої міри покарання – до смерті. Або, у випадку помилування – до заслання у Гірничу Долину!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21462,6 +21590,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Miasto oparte na fundamentach honoru...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T131225Z" creationid="Glіban" creationdate="20240417T131225Z">
+        <seg>Місто, засноване на фундаменті честі...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Miasto w końcu było bezpieczne, a jego mieszkańcy mogli się skupić na leczeniu ran i odbudowywaniu wszystkiego, co zostało zniszczone.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240311T164909Z" creationid="Glіban" creationdate="20240311T164909Z">
@@ -22622,6 +22758,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Możecie się rozejść!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T133925Z" creationid="Glіban" creationdate="20240417T133925Z">
+        <seg>Можете розходитися!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Możemy wszyscy spać spokojnie, Archolos pod rządami Myrtańczyków pozostanie niezdobytą twierdzą, tak jak ma to miejsce już od setek lat!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
@@ -22986,6 +23130,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240411T100001Z" creationid="Glіban" creationdate="20240411T100001Z">
         <seg>Я думаю, що ми залишаємо за собою забагато лишніх слідів. Це на нас не схоже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Módl się do Innosa, aby zrobił to za nas.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132750Z" creationid="Glіban" creationdate="20240417T132750Z">
+        <seg>Моли Інноса, щоб він зробив це замість нас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23712,8 +23864,8 @@
       <tuv lang="pl">
         <seg>Najwięksi będą najmniejszymi</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240408T114014Z" creationid="Glіban" creationdate="20240408T114014Z">
-        <seg>Найбільший буде найменшим</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T130535Z" creationid="Glіban" creationdate="20240408T114014Z">
+        <seg>Z deszczu pod rynnę...Найбільший стане найменшим</seg>
       </tuv>
     </tu>
     <tu>
@@ -31574,6 +31726,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Podsumowując wszystko to, czego udało ci się dowiedzieć i biorąc pod uwagę wszystkie wątki, które poruszyłeś w swoim raporcie, oświadczam, iż podejrzany i osadzony obywatel Ars jest...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T140859Z" creationid="Glіban" creationdate="20240417T140859Z">
+        <seg>Підсумовуючи все, що нам вдалося з'ясувати, і беручи до уваги всі докази, які ви виклали у своєму звіті, я оголошую, що підозрюваний і затриманий громадянин Арс є...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Poduszka</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -34714,6 +34874,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Перекинути книгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Przez długie lata nasz naród stawiał czoła wielu wyzwaniom, ale zawsze wychodził z nich zwycięsko!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T131353Z" creationid="Glіban" creationdate="20240417T131353Z">
+        <seg>За довгі роки наш народ стикався з багатьма випробуваннями, але завжди виходив переможцем!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38750,6 +38918,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Skoro mamy to już za sobą, możemy przejść do...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T144813Z" creationid="Glіban" creationdate="20240417T144813Z">
+        <seg>Тепер, коли ми розібралися з цим, ми можемо перейти до...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Skoro żądza rozlewu krwi została zaspokojona, zapraszam wszystkich, by przenieść się do karczmy. Zaspokójmy nasze pozostałe pragnienia wybornym winem na koszt Corteza!</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240416T182137Z" creationid="Glіban" creationdate="20240416T182137Z">
@@ -40862,6 +41038,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Stracony? Czyś ty oszalał, baranie? Wiesz, do czego to doprowadzi?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T141615Z" creationid="Glіban" creationdate="20240417T141329Z">
+        <seg>Страчено? Чи ти збожеволів, йолопе? Ти хоч знаєш, до чого це призведе?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Strapiony mężczyzna</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -42630,6 +42814,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Ta obrzydliwa zbrodnia miała na celu zniszczyć obraz naszego bezpiecznego miasta i zasiać niepokój w sercach jego mieszkańców.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132649Z" creationid="Glіban" creationdate="20240417T132649Z">
+        <seg>Цей огидний злочин мав на меті зруйнувати репутацію нашого захищеного міста і посіяти неспокій у серцях його мешканців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Ta przeklęta bestia pożera nasze owce!</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
@@ -42834,6 +43026,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20230122T114642Z" creationid="OmegaT Aligner" creationdate="20230122T114642Z">
         <seg>Так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Taka jest decyzja sądu i jak mniemam wola samej Ekscelencji.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T141734Z" creationid="Glіban" creationdate="20240417T141734Z">
+        <seg>Таким є рішення суду і, як я вважаю, воля Його Ясновельможності.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46534,6 +46734,30 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wasza Ekscelencjo... to jest wysoce nieodpowiedzialne...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T141635Z" creationid="Glіban" creationdate="20240417T141635Z">
+        <seg>Ваша Ясновельможносте... це вкрай безвідповідально.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wasza Ekscelencjo... to się nie godzi...</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T142532Z" creationid="Glіban" creationdate="20240417T142532Z">
+        <seg>Ваша Ясновельможносте... це негідно...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wasza obecność tu na tym placu jest dowodem na to, że czujecie odpowiedzialność za nasze wspaniałe, wielowiekowe miasto!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T131203Z" creationid="Glіban" creationdate="20240417T131203Z">
+        <seg>Ваша присутність тут, на цій площі, є доказом того, що ви відчуваєте відповідальність за наше чудове старовинне місто!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Wbrew wszelkim oczekiwaniom, Marvin wygrywa finałowe starcie!</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240416T181902Z" creationid="Glіban" creationdate="20240416T181902Z">
@@ -47878,6 +48102,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Wspólnym wysiłkiem straży, Gildii Kupieckiej, jak i wielu zwykłych obywateli Archolos, udało nam się odnaleźć winowajcę!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132534Z" creationid="Glіban" creationdate="20240417T132534Z">
+        <seg>Спільними зусиллями варти, Торгової Гільдії, а також багатьох простих громадян Архолосу нам вдалося знайти винуватця!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Współpraca z Ramhą</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240408T104920Z" creationid="Glіban" creationdate="20240408T104920Z">
@@ -47914,6 +48146,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240217T182008Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Ми всі повинні слідувати знакам Інноса і йти вказаним ним шляхом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wszyscy obywatele mają obowiązek zgłaszać wszelkie podejrzane zachowania, których będą świadkami, bezpośrednio do kapitana straży miejskiej.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132927Z" creationid="Glіban" creationdate="20240417T132927Z">
+        <seg>Всі громадяни зобов'язані повідомляти про будь-яку підозрілу поведінку, свідками якої вони стали, безпосередньо капітану міської варти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48394,6 +48634,14 @@
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240411T104017Z" creationid="Glіban" creationdate="20240411T104017Z">
         <seg>Ми все докладно пояснимо перед його високоповажністю Королівським послом!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Wyjdźcie stąd. Wszyscy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T144935Z" creationid="Glіban" creationdate="20240417T144925Z">
+        <seg>Забирайтеся звідси. Всі ви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50088,8 +50336,8 @@
       <tuv lang="pl">
         <seg>Z deszczu pod rynnę...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240408T104058Z" creationid="Glіban" creationdate="20240408T104058Z">
-        <seg>З-під дощу та в канаву...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T131104Z" creationid="Glіban" creationdate="20240408T104058Z">
+        <seg>З вогню та в полум'я...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50978,6 +51226,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165438Z" creationid="OmegaT Aligner" creationdate="20240208T165438Z">
         <seg>Видимість об'єкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zanim to jednak nastąpi, winni ponieść muszą zasłużoną karę!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T132507Z" creationid="Glіban" creationdate="20240417T132441Z">
+        <seg>Але перш ніж це відбудеться, винні мають зазнати покарання, на яке заслуговують!</seg>
       </tuv>
     </tu>
     <tu>
@@ -52378,6 +52634,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
         <seg>Відповідно до законів, поширення інформації, яка може поставити під загрозу королівство, прирівнюється до державної зради і суворо каратиметься!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Zgodnie z wolą obywateli i jak sądzę większości z nas w tym pokoju, po przemowie Jego Ekscelencji, przestępca zostanie stracony na placu przed ratuszem.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T142656Z" creationid="Glіban" creationdate="20240417T140920Z">
+        <seg>Згідно з волею громадян і, гадаю, більшості з нас у цій залі, після промови Його Ясновельможності, злочинця буде страчено на площі перед ратушею.</seg>
       </tuv>
     </tu>
     <tu>
