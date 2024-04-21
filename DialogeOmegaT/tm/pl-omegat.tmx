@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tmx SYSTEM "tmx11.dtd"><tmx version="1.1"><header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="pl"/><body>
+<tu><tuv lang="pl"><seg>Dzień dobry.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Добрий день.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Witam.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Вітання (привітання).</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Cześć.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Привіт (для друзів).</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Co słychać/Jak leci?</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Як справи?</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Jak się masz?</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Як у тебе справи?</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Dziękuję, dobrze.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Добре, дякую.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Jak masz na imię?</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Як Ваше ім'я?</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Mam na imię ______ .</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Моє ім'я _____</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Bardzo przyjemnie mi Pana/Panią poznać.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Дуже приємно познайомитися.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Proszę.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Будь ласка (прохання)</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Dziękuję</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Дякую.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Proszę.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Будь ласка (відповідь на подяку)</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Tak.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Так.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Nie</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Ні.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Przepraszam.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Вибачте (звернути увагу)</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Proszę mi wybaczyć.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Вибачте (просити вибачення)</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Do widzenia.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>До побачення.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Na razie</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Бувай (прощання)</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Nie mówię po polsku dobrze</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я не розмовляю польською [добре]</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Czy mówi Pan/Pani po ukraińsku/rosyjsku?</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Ви володієте українською/російською?</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Czy ktoś tu mówi po ukraińsku/angielsku?</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Чи тут хтось розмовляє українською/англійською?</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Pomocy!</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Допоможіть!</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Uwaga! або Ostrożnie!</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Обережно!</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Dzień dobry.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Доброго ранку.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Dzień dobry.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Доброго дня.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Dobry wieczór.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Добрий вечір.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Dobranoc.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Добраніч.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Nie rozumiem.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я не розумію.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Gdzie znajduje się toaleta?</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Де знаходиться туалет?</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Nie wiem</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я не знаю.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Odczep się!</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Відчепись!</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Nie dotykaj mnie</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Не чіпай мене!</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Zawołam policję!</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я викличу поліцію!</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Policja!</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Поліція!</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Zatrzymaj złodzieja</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Тримайте злодія!</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Potrzebuję Pana/Pani/Państwa pomocy.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Мені потрібна ваша допомога.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Jest pilnie</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Це терміново!</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Zgubiłem się.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я заблукав.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Zgubiłem swoją torbę.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я загубив свою сумку.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Zgubiłem swój portfel.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я загубив свій гаманець.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Jestem chory.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я хворий.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Jestem ranny.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я поранений.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Potrzebuję lekarza.</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Мені потрібен лікар.</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Nie zrobiłem nic złego</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Я нічого поганого не робив</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Pan nie rozumie mnie</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Ми один одного не зрозуміли</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Dokąd pan idzie?</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Куди ви їдете?</seg></tuv></tu>
+<tu><tuv lang="pl"><seg>Jestem aresztowany?</seg></tuv><tuv lang="uk" changeid="Aedan" changedate="20240404T120504Z" creationid="Aedan" creationdate="20240404T120504Z"><seg>Мене заарештовано?</seg></tuv></tu>
+</body></tmx>
