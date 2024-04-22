@@ -520,8 +520,8 @@
       <tuv lang="pl">
         <seg>(Kup strój obywatela - 200 SZ)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>(Придбати вбрання горожанина - 200 золота)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134421Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>(Придбати вбрання містянина - 200 золота)</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,8 +536,8 @@
       <tuv lang="pl">
         <seg>(Kup zużyty strój obywatela - 100 SZ)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>(Придбати поношене вбрання горожанина - 100 золота)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134421Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>(Придбати поношене вбрання містянина - 100 золота)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2304,8 +2304,8 @@
       <tuv lang="pl">
         <seg>...lasu w Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240215T162720Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>...лісу коло Зільбаха.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134946Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>...лісу коло Сільбаху.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,8 +2408,8 @@
       <tuv lang="pl">
         <seg>...niewinny zarzucanego mu czynu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240417T142023Z" creationid="Glіban" creationdate="20240417T142015Z">
-        <seg>...невинним у пред'явленому йому звинуваченні.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T160941Z" creationid="Glіban" creationdate="20240417T142015Z">
+        <seg>...не винним у пред'явленому йому звинуваченні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,8 +2584,8 @@
       <tuv lang="pl">
         <seg>...wioski Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240215T162607Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>...села Зільбах.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>...села Сільбах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5888,8 +5888,8 @@
       <tuv lang="pl">
         <seg>Buntowniczy obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Бунтар</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134319Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Бунтівний містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -7408,8 +7408,8 @@
       <tuv lang="pl">
         <seg>Co więcej, za przykrości, których doświadczył z rąk funkcjonariuszy, zostanie mu wypłacone odszkodowanie w postaci dziesiątej części kwartalnego dochodu jednostki straży miejskiej.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240417T142115Z" creationid="Glіban" creationdate="20240417T142115Z">
-        <seg>Крім того, він отримає компенсацію за побої, яких зазнав від офіцерів, у розмірі десятої частини квартального доходу підрозділу міської варти.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T161801Z" creationid="Glіban" creationdate="20240417T142115Z">
+        <seg>Крім того, він отримає компенсацію за побої, яких зазнав від рук правоохоронців, у розмірі десятої частини квартального доходу підрозділу міської варти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9024,8 +9024,8 @@
       <tuv lang="pl">
         <seg>Do kaplicy w wiosce Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Від каплиці в селі Зільбах.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Від каплиці в селі Сільбах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9080,8 +9080,8 @@
       <tuv lang="pl">
         <seg>Do lasu w Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>До лісу коло Зільбаха.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134946Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>До лісу коло Сільбаху.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9584,8 +9584,8 @@
       <tuv lang="pl">
         <seg>Dokument poświadczający obywatelstwo</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Свідоцтво про громадянство</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T151520Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Посвідчення про громадянство</seg>
       </tuv>
     </tu>
     <tu>
@@ -10968,8 +10968,8 @@
       <tuv lang="pl">
         <seg>Dzięki jego umiejętnemu zarządzaniu, pozwalającemu na wykorzystanie farm i zapasów należących do wioski, w okresie ogromnego zapotrzebowania na jedzenie w odbudowującym się mieście, Silbach wkroczyło w erę wielkiego dobrobytu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T173438Z" creationid="Glіban" creationdate="20240311T173336Z">
-        <seg>Завдяки його вмілому управлінню, що дозволило використовувати ферми і худобу, які належали селу, у період великого попиту на продовольство в місті, Зільбах вступив в епоху великого процвітання.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240311T173336Z">
+        <seg>Завдяки його вмілому управлінню, що дозволило використовувати ферми і худобу, які належали селу, у період великого попиту на продовольство в місті, Сільбах вступив в епоху великого процвітання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11784,8 +11784,8 @@
       <tuv lang="pl">
         <seg>Ezekiel stał się najważniejszym handlarzem w całym Silbach i okolicy. Jego stragan każdego dnia odwiedzają tłumy ludzi, kupujących najróżniejsze towary.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T175749Z" creationid="Glіban" creationdate="20240311T175605Z">
-        <seg>Єзекіїль став найвідомішим торговцем у всьому Зільбаху та околицях. Його прилавок щодня відвідують натовпи людей, купуючи найрізноманітніші товари.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240311T175605Z">
+        <seg>Єзекіїль став найвідомішим торговцем у всьому Сільбаху та околицях. Його прилавок щодня відвідують натовпи людей, купуючи найрізноманітніші товари.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12984,8 +12984,8 @@
       <tuv lang="pl">
         <seg>Gruba księga o technikach kowalskich</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Товста книга про техніку ковальського ремесла</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T135615Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Товста книга про техніки ковальського ремесла</seg>
       </tuv>
     </tu>
     <tu>
@@ -13416,8 +13416,8 @@
       <tuv lang="pl">
         <seg>Handel - Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240308T095859Z" creationid="Glіban" creationdate="20240210T111037Z">
-        <seg>Торгівля – Зільбах</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240210T111037Z">
+        <seg>Торгівля – Сільбах</seg>
       </tuv>
     </tu>
     <tu>
@@ -14976,16 +14976,16 @@
       <tuv lang="pl">
         <seg>Jeśli chcesz o tym podyskutować od strony prawnej, zapraszam do siebie, kapitanie. Zgaduję, że znasz drogę.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240417T142545Z" creationid="Glіban" creationdate="20240417T142545Z">
-        <seg>Якщо ви хочете обговорити це з юридичного боку, я запрошую вас до себе, капітане. Гадаю, ви знаєте дорогу.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T162112Z" creationid="Glіban" creationdate="20240417T142545Z">
+        <seg>Якщо ви хочете обговорити це з боку закону, я запрошую вас до себе, капітане. Гадаю, ви знаєте дорогу.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Jeśli chcesz o tym podyskutować od strony prawnej, zapraszam do siebie, zarządco. Zgaduję, że znasz drogę.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240417T144751Z" creationid="Glіban" creationdate="20240417T141925Z">
-        <seg>Якщо ви хочете обговорити це з юридичного боку, я запрошую вас до себе, управляючий. Гадаю, ви знаєте дорогу.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240417T162104Z" creationid="Glіban" creationdate="20240417T141925Z">
+        <seg>Якщо ви хочете обговорити це з боку закону, я запрошую вас до себе, голово. Гадаю, ви знаєте дорогу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16112,8 +16112,8 @@
       <tuv lang="pl">
         <seg>Klucz do sypialni w Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Ключ від спальні в Зільбаху.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Ключ від спальні в Сільбаху.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16544,8 +16544,8 @@
       <tuv lang="pl">
         <seg>Kopia grubej księgi o technikach kowalskich</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Копія товстої книги про техніку ковальського ремесла</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T135628Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Копія товстої книги про техніки ковальського ремесла</seg>
       </tuv>
     </tu>
     <tu>
@@ -17952,8 +17952,8 @@
       <tuv lang="pl">
         <seg>Księga o początkach wioski Silbach,</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Книга про походження села Зільбах,</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Книга про походження села Сільбах,</seg>
       </tuv>
     </tu>
     <tu>
@@ -18824,8 +18824,8 @@
       <tuv lang="pl">
         <seg>Lady Aldona, Pani Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240208T165805Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Леді Альдона, леді Зільбаху</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Леді Альдона, леді Сільбаху</seg>
       </tuv>
     </tu>
     <tu>
@@ -19832,8 +19832,8 @@
       <tuv lang="pl">
         <seg>List, który mieli przy sobie bandyci obok Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Лист, який мали при собі бандити поруч із Зільбахом.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Лист, який мали при собі бандити поруч із Сільбахом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20840,8 +20840,8 @@
       <tuv lang="pl">
         <seg>Mam ją rozwiesić w Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Я маю повісити його в Зільбаху.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Я маю повісити його в Сільбаху.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21056,8 +21056,8 @@
       <tuv lang="pl">
         <seg>Mapa wioski Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Мапа селища Зільбах з позначками</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Мапа селища Сільбах з позначками</seg>
       </tuv>
     </tu>
     <tu>
@@ -22024,8 +22024,8 @@
       <tuv lang="pl">
         <seg>Mieszkańcy Silbach w końcu mogą spać spokojnie, a historia o Bestii bardzo szybko stała się jedynie lokalną legendą.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T173741Z" creationid="Glіban" creationdate="20240311T173714Z">
-        <seg>Мешканці Зільбаху нарешті можуть спати спокійно, а історія про Звіра дуже швидко стала звичайною місцевою легендою.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240311T173714Z">
+        <seg>Мешканці Сільбаху нарешті можуть спати спокійно, а історія про Звіра дуже швидко стала звичайною місцевою легендою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22176,8 +22176,8 @@
       <tuv lang="pl">
         <seg>Mimo iż Kurt po części przyczynił się do zaginięcia Jorna, to zawsze miał dobre intencje i starał się mi pomóc jak tylko mógł. Lichwiarz go zmanipulował, tak samo jak mnie. Urządziłem więc wujowi pogrzeb w Silbach, tam, gdzie przeżył większość swojego życia.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240312T102114Z" creationid="Glіban" creationdate="20240312T102114Z">
-        <seg>Хоча Курт був частково причетним до зникнення Йорна, він завжди мав добрі наміри і намагався допомагати мені, як тільки міг. Лихвар маніпулював ним так само, як і мною. Тому я домовився, щоб дядька поховали в Зільбаху, де він прожив більшу частину свого життя.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240312T102114Z">
+        <seg>Хоча Курт був частково причетним до зникнення Йорна, він завжди мав добрі наміри і намагався допомагати мені, як тільки міг. Лихвар маніпулював ним так само, як і мною. Тому я домовився, щоб дядька поховали в Сільбаху, де він прожив більшу частину свого життя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22352,8 +22352,8 @@
       <tuv lang="pl">
         <seg>Mięso uwielbiane przez mieszczan z Archolos.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Улюблене м'ясо горожан Архолосу.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134747Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Улюблене м'ясо містян Архолосу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24264,8 +24264,8 @@
       <tuv lang="pl">
         <seg>Nauka - Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240308T100343Z" creationid="Glіban" creationdate="20240308T100343Z">
-        <seg>Навчання – Зільбах</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240308T100343Z">
+        <seg>Навчання – Сільбах</seg>
       </tuv>
     </tu>
     <tu>
@@ -25248,8 +25248,8 @@
       <tuv lang="pl">
         <seg>Nie wiedziałem, że potrzebuję do tego glejtu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Я не знав, що для цього треба пропуск.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T143949Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Я не знав, що для цього потрібна перепустка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25680,8 +25680,8 @@
       <tuv lang="pl">
         <seg>Nierozgarnięty obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Похмурий горожанин</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134326Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Похмурий містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -26208,8 +26208,8 @@
       <tuv lang="pl">
         <seg>Nordmarczyków, spisana przez Araxos.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>нордмарців. Написана Гільдією Араксос.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T135643Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>нордмарців. Переписана Гільдією Араксос.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27040,8 +27040,8 @@
       <tuv lang="pl">
         <seg>Obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
-        <seg>Горожанин</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134624Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
+        <seg>Містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -27072,8 +27072,8 @@
       <tuv lang="pl">
         <seg>Obywatelka</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
-        <seg>Горожанка</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134307Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
+        <seg>Містянка</seg>
       </tuv>
     </tu>
     <tu>
@@ -28320,8 +28320,8 @@
       <tuv lang="pl">
         <seg>Osobliwy obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Незвичайний горожанин</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134349Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Незвичайний містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -31200,8 +31200,8 @@
       <tuv lang="pl">
         <seg>Po wyprawie do Vardhal Arwid miał już dość walki. Za zdobyte złoto kupił kawałek ziemi w Silbach i postawił własną chatę, zamierzając spokojnie doczekać tam starości.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T172054Z" creationid="Glіban" creationdate="20240311T172054Z">
-        <seg>Після експедиції до Вардхалу Арвіду набридло воювати. На здобуте золото він купив шматок землі в Зільбаху і збудував власну хатину, маючи намір зустріти там свою старість у спокої.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240311T172054Z">
+        <seg>Після експедиції до Вардхалу Арвіду набридло воювати. На здобуте золото він купив шматок землі в Сільбаху і збудував власну хатину, маючи намір зустріти там свою старість у спокої.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31448,8 +31448,8 @@
       <tuv lang="pl">
         <seg>Podejrzana obywatelka</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Підозріла горожанка</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134346Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Підозріла містянка</seg>
       </tuv>
     </tu>
     <tu>
@@ -31488,8 +31488,8 @@
       <tuv lang="pl">
         <seg>Podejrzany obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Підозрілий горожанин</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134333Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Підозрілий містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -31536,8 +31536,8 @@
       <tuv lang="pl">
         <seg>Podjąłem dobrą decyzję, by oddać psa Viktorowi. Bardzo się zaprzyjaźnili i nie miałem serca, by zabierać zwierzę z Silbach. Teraz pomaga doglądać tamtejszych owiec.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240312T104130Z" creationid="Glіban" creationdate="20240312T104130Z">
-        <seg>Я прийняв правильне рішення віддати свого пса Віктору. Вони дуже подружилися, і мені не вистачило духу забрати тварину з Зільбаху. Зараз він допомагає доглядати за тамтешніми вівцями.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240312T104130Z">
+        <seg>Я прийняв правильне рішення віддати свого пса Віктору. Вони дуже подружилися, і мені не вистачило духу забрати тварину з Сільбаху. Зараз він допомагає доглядати за тамтешніми вівцями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34816,8 +34816,8 @@
       <tuv lang="pl">
         <seg>Przewodnik obcokrajowca po Archolos: Tom III - Wieś Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Путівник по Архолосу. Том III - Село Зільбах.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Путівник по Архолосу. Том III - Село Сільбах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35880,8 +35880,8 @@
       <tuv lang="pl">
         <seg>Ramsey uciekł z miasta i szukał schronienia w Silbach. Został jednak przegnany przez mieszkańców wioski, którzy dowiedzieli się o jego zdradzie. Po dziś dzień można spotkać go podkradającego ze stodoły resztki paszy dla owiec.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T173121Z" creationid="Glіban" creationdate="20240311T172910Z">
-        <seg>Рамзі втік з міста і знайшов притулок у Зільбаху. Однак, його прогнали жителі села, які дізналися про його зраду. Досі можна побачити, як він потайки краде залишки корму для овець з сараю.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240311T172910Z">
+        <seg>Рамзі втік з міста і знайшов притулок у Сільбаху. Однак, його прогнали жителі села, які дізналися про його зраду. Досі можна побачити, як він потайки краде залишки корму для овець з сараю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36888,8 +36888,8 @@
       <tuv lang="pl">
         <seg>Rozgniewana obywatelka</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Сердита горожанка</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134339Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Сердита містянка</seg>
       </tuv>
     </tu>
     <tu>
@@ -38752,16 +38752,16 @@
       <tuv lang="pl">
         <seg>Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Зільбах</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Сільбах</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>Зільбах.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>Сільбах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38800,8 +38800,8 @@
       <tuv lang="pl">
         <seg>Sir William, Pan Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240208T165801Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Сер Вільям, лорд Зільбаху</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Сер Вільям, лорд Сільбаху</seg>
       </tuv>
     </tu>
     <tu>
@@ -40192,8 +40192,8 @@
       <tuv lang="pl">
         <seg>Spokój w Silbach nie trwał długo. Kilka miesięcy po upolowaniu Bestii, w tajemniczych okolicznościach zaczęły ginąć kolejne osoby...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T173655Z" creationid="Glіban" creationdate="20240311T173655Z">
-        <seg>Спокій у Зільбаху тривав недовго. Через кілька місяців після того, як вполювали Звіра, ще більше людей почали гинути за загадкових обставин...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240311T173655Z">
+        <seg>Спокій у Сільбаху тривав недовго. Через кілька місяців після того, як вполювали Звіра, ще більше людей почали гинути за загадкових обставин...</seg>
       </tuv>
     </tu>
     <tu>
@@ -41424,8 +41424,8 @@
       <tuv lang="pl">
         <seg>Strój obywatela</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Вбрання горожанина</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134421Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Вбрання містянина</seg>
       </tuv>
     </tu>
     <tu>
@@ -41840,8 +41840,8 @@
       <tuv lang="pl">
         <seg>Szanowany obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Шанований горожанин</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134343Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Шанований містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -43032,8 +43032,8 @@
       <tuv lang="pl">
         <seg>Taka jest decyzja sądu i jak mniemam wola samej Ekscelencji.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240417T141734Z" creationid="Glіban" creationdate="20240417T141734Z">
-        <seg>Таким є рішення суду і, як я вважаю, воля Його Ясновельможності.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T151303Z" creationid="Glіban" creationdate="20240417T141734Z">
+        <seg>Таким є рішення суду і, як я вважаю, воля Його Світлості.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46376,8 +46376,8 @@
       <tuv lang="pl">
         <seg>W pobliżu Silbach wciąż znikają kolejne osoby. Mimo iż władze zaprzeczają istnieniu jakiejkolwiek Bestii, mieszkańcy wioski wiedzą swoje...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T173724Z" creationid="Glіban" creationdate="20240311T173626Z">
-        <seg>Поблизу Зільбаху продовжують зникати люди. Хоча влада заперечує існування Звіра, жителі села знають своє...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240311T173626Z">
+        <seg>Поблизу Сільбаху продовжують зникати люди. Хоча влада заперечує існування Звіра, жителі села знають своє...</seg>
       </tuv>
     </tu>
     <tu>
@@ -46424,8 +46424,8 @@
       <tuv lang="pl">
         <seg>W ramach nagrody za wieloletnią służbę, Silbach zostało przekazane Albynowi.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T173147Z" creationid="Glіban" creationdate="20240311T173147Z">
-        <seg>У нагороду за багаторічну службу Зільбах передали Альбіну.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240311T173147Z">
+        <seg>У нагороду за багаторічну службу Сільбах передали Альбіну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46736,16 +46736,16 @@
       <tuv lang="pl">
         <seg>Wasza Ekscelencjo... to jest wysoce nieodpowiedzialne...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240417T141635Z" creationid="Glіban" creationdate="20240417T141635Z">
-        <seg>Ваша Ясновельможносте... це вкрай безвідповідально.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T151227Z" creationid="Glіban" creationdate="20240417T141635Z">
+        <seg>Ваша Світлосте... це вкрай безвідповідально.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Wasza Ekscelencjo... to się nie godzi...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240417T142532Z" creationid="Glіban" creationdate="20240417T142532Z">
-        <seg>Ваша Ясновельможносте... це негідно...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T151300Z" creationid="Glіban" creationdate="20240417T142532Z">
+        <seg>Ваша Світлосте... це негідно...</seg>
       </tuv>
     </tu>
     <tu>
@@ -47528,8 +47528,8 @@
       <tuv lang="pl">
         <seg>Wioska Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>В село Зільбах.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>В село Сільбах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48208,8 +48208,8 @@
       <tuv lang="pl">
         <seg>Wszystko pochodzi z magazynu w Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240309T194304Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Все це зі складу в Зільбаху.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Все це зі складу в Сільбаху.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48632,8 +48632,8 @@
       <tuv lang="pl">
         <seg>Wyjaśnimy sobie wszystko szczegółowo przed obliczem jego ekscelencji Wysłannika Królewskiego!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240411T104017Z" creationid="Glіban" creationdate="20240411T104017Z">
-        <seg>Ми все докладно пояснимо перед його високоповажністю Королівським послом!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T151123Z" creationid="Glіban" creationdate="20240411T104017Z">
+        <seg>Ми все докладно пояснимо перед Його Світлістю Королівським послом!</seg>
       </tuv>
     </tu>
     <tu>
@@ -50112,8 +50112,8 @@
       <tuv lang="pl">
         <seg>Wściekła obywatelka</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Сердита горожанка</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134331Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Сердита містянка</seg>
       </tuv>
     </tu>
     <tu>
@@ -50136,8 +50136,8 @@
       <tuv lang="pl">
         <seg>Wściekły obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Сердитий горожанин</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Сердитий містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -51216,8 +51216,8 @@
       <tuv lang="pl">
         <seg>Zaniepokojony obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Занепокоєний горожанин</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134352Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Занепокоєний містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -51688,8 +51688,8 @@
       <tuv lang="pl">
         <seg>Zarejestrowani handlarze - Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Зареєстровані торговці – Зільбах</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Зареєстровані торговці – Сільбах</seg>
       </tuv>
     </tu>
     <tu>
@@ -52640,8 +52640,8 @@
       <tuv lang="pl">
         <seg>Zgodnie z wolą obywateli i jak sądzę większości z nas w tym pokoju, po przemowie Jego Ekscelencji, przestępca zostanie stracony na placu przed ratuszem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240417T142656Z" creationid="Glіban" creationdate="20240417T140920Z">
-        <seg>Згідно з волею громадян і, гадаю, більшості з нас у цій залі, після промови Його Ясновельможності, злочинця буде страчено на площі перед ратушею.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T151147Z" creationid="Glіban" creationdate="20240417T140920Z">
+        <seg>Згідно з волею громадян і, гадаю, більшості з нас у цій залі, після промови Його Світлості, злочинця буде страчено на площі перед ратушею.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52920,16 +52920,16 @@
       <tuv lang="pl">
         <seg>Zmartwiona obywatelka</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Стурбована горожанка</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134336Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Стурбована містянка</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Zmartwiony obywatel</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Стурбований горожанин</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134350Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Стурбований містянин</seg>
       </tuv>
     </tu>
     <tu>
@@ -53608,8 +53608,8 @@
       <tuv lang="pl">
         <seg>Zużyty strój obywatela</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Поношене вбрання горожанина</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134421Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Поношене вбрання містянина</seg>
       </tuv>
     </tu>
     <tu>
@@ -54992,8 +54992,8 @@
       <tuv lang="pl">
         <seg>do handlu na terenie Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>торгувати на території Зільбаху.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>торгувати на території Сільбаху.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55784,8 +55784,8 @@
       <tuv lang="pl">
         <seg>mieszkańców wioski Silbach i przybyszów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>мешканців села Зільбах та новоприбулих.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>мешканців села Сільбах та новоприбулих.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57568,8 +57568,8 @@
       <tuv lang="pl">
         <seg>w wiosce Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>в селі Зільбах.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>в селі Сільбах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57936,8 +57936,8 @@
       <tuv lang="pl">
         <seg>zajadany w okolicy Wilczego Leża i wioski Silbach.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>який їдять в околицях Вовчого Лігва та в селі Зільбах.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>який їдять в околицях Вовчого Лігва та в селі Сільбах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59021,8 +59021,18 @@
       <tuv lang="pl">
         <seg>Mapa wioski Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240407T162015Z" creationid="Glіban" creationdate="20240407T162015Z">
-        <seg>Мапа селища Зільбах</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134931Z" creationid="Glіban" creationdate="20240407T162015Z">
+        <seg>Мапа селища Сільбах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">tu29_0</prop>
+      <tuv lang="pl">
+        <seg>Obywatel</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240422T134637Z" creationid="Glіban" creationdate="20240422T134637Z">
+        <seg>Громадянин</seg>
       </tuv>
     </tu>
   </body>
