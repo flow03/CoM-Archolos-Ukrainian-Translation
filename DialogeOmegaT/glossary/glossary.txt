@@ -5736,7 +5736,6 @@ Górniczą Dolinę	Гірнича Долина
 Górniczej Doliny	Гірничої Долини
 Kolonii Górniczej	Гірничої Колонії
 Myrtana	Міртана
-gońcem	посланцем
 SZ	золотих
 tropiciele z Araxos	слідопити з Араксос
 rekrut	новобранець
@@ -5748,14 +5747,27 @@ Wygodne podróżowanie	Швидка поїздка
 Czeladnik	учень
 Rady Miasta	міської ради
 stragan	прилавок
-do slumsów	в нетрі
 w porcie	в гавані
+do slumsów	в нетрі, до нетрів
 w Pękniętej Strunie	в Обірваній струні
 w Syrenim Lamencie	у Плачі сирени
 rekruta	новобранця
-Gońca	підручний
 Zbroja	броня
 pomiotów	породжень
 Varrant	Варант
 czas nagli	час підганяє
 Przystan	Притулок
+Gerwin	Гервін
+Wrób	підставити
+Ezekiela	Єзекіїля
+z falochronu	з хвилерізу
+Czeladnik Ślusarza	Учень слюсаря
+Gońca	підручний
+Goniec	посланець
+gońcem	посланцем
+przy ciele	біля тіла
+Mroczny Paladyn	Темний Паладин
+Poborca podatkowy	податківець
+dziennik	щоденник
+Żuwaczki	нижні щелепи
+Księga rachunkowa	бухгалтерська книга
