@@ -57,8 +57,43 @@ Wygodne podróżowanie	Швидка поїздка
 Czeladnik	учень
 Rady Miasta	міської ради
 stragan	прилавок
-do slumsów	в нетрі
+w porcie	в гавані
+do slumsów	в нетрі, до нетрів
 w Pękniętej Strunie	в Обірваній струні
 w Syrenim Lamencie	у Плачі сирени
 rekruta	новобранця
+rekruci	новобранці
+Zbroja	броня
+pomiotów	породжень
+Varrant	Варант
+czas nagli	час підганяє
+Przystan	Притулок
+węże błotne	боротожери
+błotnych węży	болотожерів
+karczmy	корчми
+straży miejskiej	міської варти
+Gerwin	Гервін
+Wrób	підставити
+Ezekiela	Єзекіїля
+z falochronu	з хвилерізу
+Czeladnik Ślusarza	Учень слюсаря
 Gońca	підручний
+Goniec	посланець
+gońcem	посланцем
+przy ciele	біля тіла
+Mroczny Paladyn	Темний Паладин
+Poborca podatkowy	податківець
+dziennik	щоденник
+Żuwaczki	нижні щелепи
+Księga rachunkowa	бухгалтерська книга
+obywatel	громадянин	залежно від контексту
+obywatel	містянин	залежно від контексту
+obywatelstwo	громадянство
+niedaleko Silbach	поблизу Сільбаху
+glejt	посвідчення	залежно від контексту
+glejt	перепустка	залежно від контексту
+Jego Ekscelencji	Його Світлості	Щодо Королівського Посла
+Wasza ekscelencja	Ваша світлість
+Araxos	Араксос
+Araxos	Араксосу
+Araxos	Гільдії Араксос

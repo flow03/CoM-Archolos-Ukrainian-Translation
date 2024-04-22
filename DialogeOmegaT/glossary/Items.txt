@@ -7,6 +7,7 @@ Nie możesz teraz trzymać pochodni!	Ви не можете зараз трим�
 Nie masz pochodni!	У вас немає смолоскипа!
 Nie możesz trzymać pochodni w trakcie rozmowy!	Ви не можете тримати смолоскип під час розмови!
 Archolos	Архолос
+Archolos	Архолос
 Kopalnia	Копальня
 Grobowiec	Гробниця
 Kanały	Каналізація
@@ -97,11 +98,11 @@ Tablica ogłoszeń	Дошка оголошень
 Szczurza nora	Щюряча нора
 Beczka	Бочка
 Warsztat	Верстак
-Skrzynia	Дерев'яна скриня
+Skrzynia	Ящик
 Kufer Salviego	Скриня Сальві
 Hamak	Гамак
 Skrzynia z rybami	Ящик з рибою
-Obraz	Картина
+Obraz	Відео
 Skrzynia ludzi Volkera	Скриня людей Волкера
 Beczka z wodą	Бочка з водою
 Obmyj się	Вмитися
@@ -205,7 +206,7 @@ Alchemia	Алхімія
 Astronomia	Астрономія
 Historia	Історія
 Literatura piękna	Фікція
-Magia	Магія
+Magia	від магії
 Flora	Флора
 Fauna	Фауна
 Religia	Релігія
@@ -346,7 +347,7 @@ Do tawerny 'Syreni Lament'	До корчми 'Плач Сирени'
 Do Mrocznych Tajemnic	До Темних Секретів
 Tawerna 'Syreni Lament', Mroczne Tajemnice	Корчма 'Плач сирени', Темні Секрети
 Do Targowiska	До ринкової площі
-Do ratusza miejskiego	До Ратуші
+Do ratusza miejskiego	До міської ратуші
 Do biura skryby miejskiego	До міської писарської контори
 Do 'Pękniętej Struny'	До 'Обірваної струни'
 Zejście do kanałów	Вхід в каналізацію
@@ -359,9 +360,9 @@ Wschodnia brama	Східні ворота
 Zachodnia brama	Західні ворота
 Południowa brama	Південні ворота
 Uwaga!	Увага!
-Niebezpieczeństwo!	НЕБЕЗПЕКА!
-Sir William, Pan Silbach	Сер Вільям, лорд Зільбаха
-Lady Aldona, Pani Silbach	Леді Альдона, леді Зільбаха
+Niebezpieczeństwo!	Небезпека!
+Sir William, Pan Silbach	Сер Вільям, лорд Зільбаху
+Lady Aldona, Pani Silbach	Леді Альдона, леді Зільбаху
 Hendrik	Хендрік
 Flora	Флора
 Nieznany	Невідомий
@@ -381,9 +382,6 @@ Nieznany	Невідомий
 Łowca Teodoria	Lowca Teodoria
 Banda Kija zm. 210	Banda Kija zm. 210
 Bartosz zm. 546	Bartosz zm. 546
-Zabójca	Zabojca
-Congrad Szperling - Ślusarz	Congrad Szperling - Slusarz
-Generał Subli	General Subli
 Biedak	Бідняк
 Żebrak	Жебрак
 Biedaczka	Біднячка
@@ -444,9 +442,9 @@ Przewoźnik	Перевізник
 Przewodnik	Провідник
 Strażnik Starego Miasta	Вартовий Старого Міста
 Muzykant	Музикант
-Rekrut	Рекрут
+Rekrut	Новобранець
 Złodziej	Злодій
-Złodziej-partacz	Злодій-новачок
+Złodziej-partacz	Починаючий злодій
 Uchodźca	Біженець
 Uchodźczyni	Біженка
 Pijany marynarz	П'яний моряк
@@ -751,12 +749,12 @@ Revo - 'jeśli nic nie osiągnę w życiu to ten nagrobek to najlepsze co po sob
 Ogon - Ogon, może przesuń te nagrobki o kilka cm w prawo?	Ogon – 'Ogon, чому б тобі не пересунути ці надгробки на кілька сантиметрів праворуч?'
 H4rbing3r - Nocą dręczyły go sny, zginął w biały dzień	H4rbing3r – 'Вночі його мучили сни, він помер серед білого дня'
 Erak - 'co rąk nie masz, że czekasz na gotowe?'	Erak –  'Чи ти рук не маєш, що чекаєш, коли буде готове?'
-SJN - '„Corridors” to dobre miejsce na spacer.	SJN – ''Коридори' — гарне місце для прогулянок.
+SJN - '„Corridors” to dobre miejsce na spacer.	SJN – 'Коридори — гарне місце для прогулянки.
 Popatrz na muzykę, ona Cię poprowadzi'	Прислухайся до музики, вона скерує тебе'
 Kamil - CoSv1	Kamil – CoSv1
 Gibbson - 'Ahh potrawka z chrząszcza, mógłbym ją jeść bez końca'	Gibbson – 'Ах, рагу з м'ясних жуків, я міг би їсти його вічно'
 Corios - Top 10 napisów na nagrobek	Corios – 'Топ-10 написів на надгробках'
-Xavi - Nani the fuck omae reading?	Xavi – 'Nani, в біса omae ти це читаєш?
+Xavi - Nani the fuck omae reading?	Xavi – 'Nani в біса omae ти це читаєш?
 B-Baka!	B-Baka!'
 Ola - Creme de la creme	Ola – 'Creme de la creme'
 AnonimowyLektor - xD	AnonimowyLektor – 'xD'
@@ -844,7 +842,7 @@ Znalazłem go u rzekomego gońca, który mnie napadł.	Я знайшов йог�
 Mały, mosiężny klucz należący do jednego z renegatów.	Маленький латунний ключ, що належить одному з відступників.
 Mały, mosiężny klucz należący do jednego z renegatów.	Маленький латунний ключ, що належить одному з відступників.
 Klucz, który znalazłem w sakiewce Salviego.	Ключ, який я знайшов в гаманці Сальві.
-Musi otwierać jakiś kufer albo schowek.	Мабуть, він открывает якусь скриню або сховок.
+Musi otwierać jakiś kufer albo schowek.	Мабуть, він відкриває якусь скриню або сховок.
 Klucz, który otrzymałem od Jona.	Ключ, який я отримав від Йона.
 Miał go jeden z bandytów.	Він був у одного з бандитів.
 Z jaskini kretoszczurów.	З печери кротощурів.
@@ -983,7 +981,7 @@ Skóra smoka	Шкіра дракона
 Można je otworzyć w celu	Їх можна відкрити для того, щоб
 wypicia zawartej w nich wydzieliny,	випити рідину, яка в них міститься,
 która pozwala zregenerować manę.	яка може регенерувати ману.
-Efekt z czasem przemija.	Эфект з часом зникає.
+Efekt z czasem przemija.	Ефект з часом зникає.
 Zawiera	Містить
 trującą wydzielinę.	отруйну речовину.
 bardzo trującą wydzielinę.	дуже отруйну речовину.
@@ -1068,7 +1066,7 @@ Wino	Вино
 Mleko	Молоко
 Butelka czystego spirytusu	Пляшка чистого спирту
 Lokalny bimber	Місцевий самогон
-Ognik	Вогник
+Ognik	Примарний вогник
 Dola Marynarza	Доля моряка
 Piwo butelkowe	Пляшка пива
 Mocne piwo	Міцне пиво
@@ -1285,8 +1283,8 @@ Siekacz	Сікач
 Rozcinacz	Розтинач
 Zdobione ostrze	Оздоблений клинок
 Ozdobiony miecz	Оздоблений меч
-Miecz pojedynkowy	Дуельный меч
-Miecz nieuczciwego pojedynku	Нечесний дуельный меч
+Miecz pojedynkowy	Дуельний меч
+Miecz nieuczciwego pojedynku	Нечесний дуельний меч
 Rozbijca	Руйнівник
 Rozgniatacz	Дробитель
 Srebrny miecz	Срібний меч
@@ -1887,7 +1885,7 @@ Jeden z podstawowych składników diety	Один з основних проду�
 mieszkańców Wschodniego Archipelagu.	мешканців Східного Архіпелагу.
 Marchewka	Морквина
 Popularne warzywo, składnik wielu potraw.	Популярний овоч, інгредієнт для багатьох страв.
-Jasne, mętne piwo, które	Свытле нефільтроване пиво, яке
+Jasne, mętne piwo, które	Світле нефільтроване пиво, яке
 świetnie gasi pragnienie.	чудово втамовує спрагу.
 Torebka pieprzu	Мішечок перцю
 Torba przyprawy o mocnym zapachu.	Мішечок спецій з сильним ароматом.
@@ -2198,7 +2196,7 @@ Schemat: Rębiczerep	Креслення: Розколювач черепів
 Schemat: Siekacz	Креслення: Сікач
 Schemat: Zdobione ostrze	Креслення: Оздоблений клинок
 Schemat: Dobry długi miecz	Креслення: Хороший довгий меч
-Schemat: Miecz pojedynkowy	Креслення: Дуельный меч
+Schemat: Miecz pojedynkowy	Креслення: Дуельний меч
 Schemat: Rozbijca	Креслення: Руйнівник
 Schemat: Wielki topór	Креслення: Величезна сокира
 Schemat: Srebrny miecz	Креслення: Срібний меч
@@ -2244,7 +2242,7 @@ Schemat: Nordmarska włócznia	Креслення: Нордмарський сп
 Schemat: Królobójca	Креслення: Вбивця королів
 Schemat: Wilcza Łapa	Креслення: Вовча лапа
 Schemat: Sprawiedliwość Innosa	Креслення: Правосуддя Інноса
-Schemat: Dłoń Paladyna	Чертёж: Правиця паладина
+Schemat: Dłoń Paladyna	Креслення: Правиця паладина
 Schemat: Włócznia Południowca	Креслення: Спис південця
 Schemat: Grom	Креслення: Громовиця
 Schemat: Antyczna włócznia	Креслення: Стародавній спис
@@ -2515,10 +2513,10 @@ Narzędzie używane do przybijania desek.	Інструмент, що викор�
 Proste narzędzie,	Простий інструмент
 pomocne przy mieszaniu zupy w garnku.	корисний для розмішування супу в каструлі.
 Idealna by coś na niej usmażyć.	Ідеально підходить, щоб щось на ній посмажити.
-Narzędzie pracy stolarzy, drwali i cieśli.	Інструмент для столярів, лісорубів та теслярів.
+Narzędzie pracy stolarzy, drwali i cieśli.	Інструмент для столярів, лісорубів та слюсарів.
 Podłużny metalowy pręt.	Видовжений металевий стрижень.
 Rozgrzany do czerwoności pręt.	Розпечений до червоного стрижень.
-Uwaga!	Обережно!
+Uwaga!	Увага!
 Bardzo gorące!	Дуже гарячий!
 Rozgrzany do czerwoności kawał metalu.	Розпечений до червоного шматок металу.
 Zaczyna przypominać ostrze.	Починає нагадувати клинок.
@@ -2546,9 +2544,9 @@ Dość prosty pierścień wykonany ze srebra.	Досить простий пер
 Puchar wykonany z prawdziwego srebra.	Келих, зроблений з чистого срібла.
 Powinien być trochę warty.	Він повинен чимало коштувати.
 Talerz z prawdziwego srebra.	Тарілка зі справжнього срібла.
-Powinien być trochę warty.	Вона повинна чимало коштувати.
+Powinien być trochę warty.	Він повинен чимало коштувати.
 Talerz z prawdziwego złota.	Тарілка з чистого золота.
-Powinien być trochę warty.	Вона повинна чимало коштувати.
+Powinien być trochę warty.	Він повинен чимало коштувати.
 Puchar z prawdziwego złota.	Келих з чистого золота.
 Powinien być trochę warty.	Він повинен чимало коштувати.
 Lekko zdobiony pierścień wykonany ze złota.	Злегка оздоблений перстень, виготовлений із золота.
@@ -2816,7 +2814,7 @@ Niebieski strój podróżnika	Синє вбрання мандрівника
 Jasny strój podróżnika	Світле вбрання мандрівника
 Ciemny strój podróżnika	Темне вбрання мандрівника
 Jasny strój myśliwego	Світле вбрання мисливця
-Zniszczony strój myśliwego	Зношений вбрання мисливця
+Zniszczony strój myśliwego	Зношений обладунок мисливця
 Szary strój myśliwego	Сіре вбрання мисливця
 Ciemny strój myśliwego	Темне вбрання мисливця
 Zużyty strój obywatela	Поношене вбрання горожанина
@@ -2855,7 +2853,7 @@ Groźba	Загроза
 Zniecierpliwiony	Нетерплячий
 Nie powinienem publicznie pokazywać się w pancerzu Wodnego Kręgu...	Я не повинен з'являтися на людях в обладунках Кільця Води...
 Stara zniszczona zbroja	Старий зношений обладунок
-Zbroja z Vardhal	Обладунок з Вардхалу
+Zbroja z Vardhal	Обладунки з Вардхалу
 Wyśmienita zbroja z Vardhal	Найкращий обладунок з Вардхалу
 Nie wygląda jakby do czegokolwiek się nadawała.	Не схоже, що він для чогось згодиться.
 Srebrna skrzynka	Срібна скринька
@@ -3272,7 +3270,7 @@ Potwierdzenie Einara	Підтвердження Ейнара
 Gorące półkole	Розпечене півколо
 Półkole	Півколо
 Forma	Форма
-Referencje od Patracjana	Рекомендація від Патриціана
+Referencje od Patracjana	Рекомендація від Патриціан
 Referencje od Mateya	Рекомендація від Матея
 Referencje od Albyna	Рекомендація від Альбіна
 Słodkie wino	Солодке вино
@@ -3394,9 +3392,9 @@ Mapa wyspy Archolos ze znacznikami	Мапа острова Архолос з п�
 Mapa wyspy Archolos	Мапа острова Архолос
 Mapa wyspy Archolos ze znacznikami	Мапа острова Архолос з позначками
 Mapa miasta Archolos	Мапа міста Архолос з позначками
-Mapa miasta Archolos	Мапа міста Архолос
+Mapa miasta Archolos	Мапа міста Архолос з позначками
 Mapa wioski Silbach	Мапа селища Зільбах з позначками
-Mapa wioski Silbach	Мапа селища Зільбах
+Mapa wioski Silbach	Мапа селища Зільбах з позначками
 Mapa do skarbu	Мапа скарбів
 Lista materiałów na miecz strażnika	Перелік матеріалів для меча вартового
 List adresowany do przyjaciela	Лист, адресований другові
@@ -3419,7 +3417,7 @@ Potwierdzenie ukończenia szkolenia alchemika	Свідоцтво про закі
 Potwierdzenie ukończenia szkolenia rzeźnika	Свідоцтво про закінчення навчання на різника
 Potwierdzenie ukończenia szkolenia łuczarza	Свідоцтво про закінчення навчання на лучника
 Liścik	Лист
-Liścik	Листівка
+Liścik	Лист
 Materiały na pancerz od Grifa	Матеріали для обладунку від Грифа
 Notatka od Kurta	Записка Курта
 List od Kurta	Лист Курта
@@ -3605,7 +3603,7 @@ Bardzo rzadkie trofeum.	Дуже рідкісний трофей.
 Na pewno ktoś chętnie to kupi.	Впевнений, що хтось із задоволенням її придбає.
 Dziwna skóra.	Дивна шкура.
 Wygląda, jakby	Виглядає так, ніби
-niedźwiedź pobrudził ją miodem.	ведмідь забруднив її медом.
+niedźwiedź pobrudził ją miodem.	ведмідь заляпав її медом.
 Delikatna skóra.	М'яка на дотик шкура.
 Na pewno ktoś chętnie ją kupi.	Напевно, хтось буде радий її придбати.
 Bardzo delikatna skóra.	Дуже м'яка на дотик шкура.
@@ -3862,7 +3860,7 @@ pochodzenia z kuchni biedoty cieszy się sławą	Хоч він і походит
 także wśród zamożniejszych smakoszy.	є досить відомим і серед більш заможних гурманів.
 Prosta zupa z roślin zebranych nad rzeką.	Суп річкових рослин.
 Ceniony na Archolos przysmak morski,	Цінний морський делікатес на Архолосі,
-przyprawiony zębatym zielem.	приправленный снеппер-травою.
+przyprawiony zębatym zielem.	приправлений снеппер-травою.
 Smakowita potrawka z dzika	Смачна тушкована кабанятина
 z warzywami i dodatkiem wina.	з овочами та вином.
 Danie przyrządzane w dużych kotłach,	Страва, приготована у великому казані.
@@ -4052,7 +4050,7 @@ Dzięki temu dokumentowi	З цим документом
 można swobodnie wchodzić do miasta Archolos.	ви можете вільно потрапити до міста Архолос.
 Jest wypisany na kupca Veita.	Виписаний на ім'я купця Вейта.
 Nie wykorzystam go w żaden sposób.	Я жодним чином не збираюся ним скористатись.
-Zwykła skrzynia pełna ryb.	Звичайний ящик, наповнений рибою.
+Zwykła skrzynia pełna ryb.	Звичайний ящик, повен риби.
 Pytanie brzmi, co się stało z rybakiem?	Питання в тому, що сталося з рибалкою?
 Zwykłe, śmierdzące, owcze łajno.	Звичайний, смердючий, овечий гній.
 Śmierdzący prezent od Otho i jego owieczek.	Смердючий подарунок від Отто та його овець.
@@ -4144,7 +4142,7 @@ Znalazłem go w chacie Kurta.	Я знайшов його в хатині Кур�
 Dziwny pierścień z wyrytymi geometrycznymi symbolami	Дивний перстень з викарбуваними геометричними символами
 i błękitnym kamieniem umieszczonym pośrodku.	і синім каменем посередині.
 Zwykła, drewniana skrzynia	Звичайний дерев'яний ящик
-z butelkami wina w środku.	наповнений пляшками вина.
+z butelkami wina w środku.	заповнений пляшками вина.
 Dziwnie lekka ryba, jakby	Підозріло легка рибина, виглядає так,
 ktoś ją wydrążył.	ніби її хтось випатрав.
 Klucz, który znalazłem w dziwnej rybie.	Ключ, який я знайшов в дивній рибині.
@@ -4203,13 +4201,13 @@ Muszę uważać, komu ją pokazuję.	Я маю бути обережним з т
 Znalazłem ją w wieży w kopalni Araxos.	Я знайшов його у вежі в копальні Араксос.
 Zawiera informacje o jakimś starym górniku.	Містить інформацію про якогось старого гірника.
 Skręt z zagubionej paczki Heisnera.	Самокрутка із загубленого пакунка Гейснера.
-Ma bardzo charakterystyczny zapach.	Він має дуже характерний запах.
+Ma bardzo charakterystyczny zapach.	Має дуже виражений запах.
 Szczelnie zamknięta paczka o osobliwym	Щільно запечатаний пакунок з незвичайним
 i charakterystycznym zapachu.	і характерним запахом.
 Musi należeć do Heisnera.	Має належати Гейснеру.
 Wygląda, jakby miała się rozlecieć po kilku strzałach.	Виглядає так, ніби він розвалиться після кількох пострілів.
 Paczka ziół od Bodowina dla Detlowa.	Пакунок трав від Бодовіна для Детлоу.
-Wypełniona po brzegi paczka z żywnością.	Пакунок, вщерть заповнений продуктами.
+Wypełniona po brzegi paczka z żywnością.	Вщерть заповнений пакунок з продуктами.
 To ją musieli przewozić rekruci.	Саме його повинні були принести новобранці.
 Karteczka, którą znalazłem	Записка, яку я знайшов
 u uchodźców z falochronu.	у біженців з хвилерізу.
@@ -4299,7 +4297,7 @@ Mimo opłakanego stanu,	Незважаючи на свій жалюгідний 
 można z niego odczytać kilka słów.	з нього ще можна прочитати декілька слів.
 Stos patyków i liści.	Купа гілок і листя.
 Posłużą za kamuflaż.	Будуть корисними в якості маскування.
-Beczka wypełniona po brzegi czarnym prochem.	Бочка, доверху заповнена чорним порохом.
+Beczka wypełniona po brzegi czarnym prochem.	Бочка, доверху наповнена чорним порохом.
 Lepiej trzymać ją z dala od ognia.	Краще тримати подалі від вогню.
 Ustandaryzowany pancerz strażnika	Стандартний обладунок вартового
 Królestwa Myrtany.	Королівства Міртана.
@@ -4480,12 +4478,12 @@ Otworzę go dopiero w środku grobowca.	Я не відкриватиму йог�
 Pakunek pełen surowców niezbędnych	Повний пакунок сировини, необхіодної
 porządnemu kowalowi.	кожному порядному ковалю.
 Brzęcząca paczuszka od Davisa	Дзвінкий пакунок від Девіса,
-wypełniona wytrychami.	наповнений відмичками.
-Kuferek wypełniony eliksirami.	Скриня, наповнена зіллями.
+wypełniona wytrychami.	повен відмичок.
+Kuferek wypełniony eliksirami.	Скриня, заповнена зіллями.
 Najwyższy czas otworzyć kuferek.	Настав час відкрити скриню.
-Pakunek wypełniony trofeami.	Пакунок, наповнений трофеями.
+Pakunek wypełniony trofeami.	Пакунок, заповнений трофеями.
 Pakunek od maga Tengrala	Пакунок від мага Тенграла,
-wypełniony magicznymi zwojami.	наповнений магічними сувоями.
+wypełniony magicznymi zwojami.	заповнений магічними сувоями.
 Paczka wypchana po brzegi magicznymi zwojami.	Пакунок, вщерть заповнений магічними сувоями.
 Wyjątkowo szczelny pakunek od Pablo.	Щільно наповнений пакунок від Пабло.
 Bardzo ciężki, niemalże jak porządna broń.	Дуже важкий. Мабуть, там серйозна зброя.
@@ -4494,7 +4492,7 @@ Sterta drewna od Knuta.	Оберемок дров від Кнута.
 Przyda się do produkcji strzał i łuków.	Знадобиться для виготовлення стріл та луків.
 Sprawdzę ją w środku grobowca.	Відкрию його тільки в гробниці.
 Wypełniona po brzegi paczka od Viktora.	Вщерть заповнений пакунок від Віктора.
-Wszystko pochodzi z magazynu w Silbach.	Все це зі складу Зільбаху.
+Wszystko pochodzi z magazynu w Silbach.	Все це зі складу в Зільбаху.
 Zawinięty w papier z symbolami Straży Miejskiej.	Загорнутий у папір з символікою Міської варти.
 Do boku przypięta jest mała karteczka.	Збоку прикріплена невеличка записка.
 Ktoś musiał to tu dostarczyć zamiast mnie.	Хтось мав доставити це сюди замість мене.
@@ -4503,7 +4501,7 @@ Liścik załączony do paczki,	Записка, вкладена в пакуно�
 którą ktoś dostarczył do naszych	який хтось доставив до нашого
 zapasów w grobowcu.	складу у гробниці.
 Średniej wielkości beczka	Бочка середнього розміру,
-wypełniona prochem.	напхана порохом.
+wypełniona prochem.	наповнена порохом.
 Wydaje się stara, ale nie posiada żadnych	Виглядають старими, але при цьому
 widocznych uszkodzeń.	не мають жодних видимих пошкоджень.
 Księga, którą Ingolf	Книга, яку Інгольф
@@ -4541,7 +4539,7 @@ na Mglistych Moczarach.	на Туманних болотах.
 Runa teleportująca do jaskini	Руна телепортації до печери
 na Wybrzeżu Topielców.	на Узбережжя луркерів.
 Runa teleportująca do jaskini	Руна телепортації до печери
-w okolicy winnicy Rity.	быля виноградника Рити.
+w okolicy winnicy Rity.	біля виноградника Рити.
 Runa teleportująca do Wilczego Leża,	Руна телепортації до Вовчого Лігва,
 twierdzy Wilczych Synów.	фортеці Вовчих Синів.
 Runa teleportująca do Przystani Łotrów.	Руна телепортації в Притулок негідників.
@@ -4599,7 +4597,7 @@ i włamywaczy.	і грабіжників.
 Użyj aby je wyciągnąć.	Його потрібно розпакувати.
 Woreczek zawiera tuzin małych kawałków	У мішечку лежить з десяток маленьких шматочків
 magicznej rudy.	магічної руди.
-Użyj aby je wyciągnąć.	Їх потрібно дістати.
+Użyj aby je wyciągnąć.	Його потрібно розпакувати.
 Książka opisująca walkę z goblinami.	Книга описує, як боротись з гоблінами.
 Książka opisująca walkę z wilkami.	Книга описує, як боротись з вовками.
 Książka opisująca walkę z ścierwojadami.	Книга описує, як боротись з падальниками.
@@ -4995,9 +4993,9 @@ Czas przywołańca się skończył!	Час виклику минув!
 Nie oddalaj się od strażnika!	Не відходьте від вартового!
 Otwórz worek w ekwipunku, by odzyskać przedmioty	Відкрийте мішок в інвентарі, щоб дістати предмети
 Nie oddalaj się od Kessela!	Не відходьте від Кесселя!
-Ożywiony szkielet-kusznik	Оживлений скелет-арбалетник
-Ożywiony szkielet-łucznik	Оживлений скелет-лучник
-Ożywiony szkielet	Оживлений скелет
+Ożywiony szkielet-kusznik	Ожилий скелет-арбалетник
+Ożywiony szkielet-łucznik	Ожилий скелет-лучник
+Ożywiony szkielet	Ожилий скелет
 Agresywny biedak	Агресивний волоцюга
 Agresywny uchodźca	Агресивний біженець
 Niechaj zgasną twoje gwiazdy!	Нехай твої зорі згаснуть!

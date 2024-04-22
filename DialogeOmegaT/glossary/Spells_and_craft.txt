@@ -26,7 +26,7 @@ Samorodek złota	Золотий самородок
 Posąg Beliara	Статуя Беліара
 Brak przyn.	Без гільдії
 Strażnik	Вартовий
-Obywatel	Горожанин
+Obywatel	Містянин
 Najemnik	Найманець
 Święty płomień	Святе світло
 Pomniejsze uleczenie	Мале зцілення
@@ -130,8 +130,8 @@ Pozostałe	Різне
 Strażnik miejski	Міський вартовий
 Robotnik	Робітник
 Strażnik	Вартовий
-Obywatel	Горожанин
-Obywatelka	Горожанка
+Obywatel	Містянин
+Obywatelka	Містянка
 Nowicjusz	Послушник
 Najemnik	Найманець
 Farmer	Фермер

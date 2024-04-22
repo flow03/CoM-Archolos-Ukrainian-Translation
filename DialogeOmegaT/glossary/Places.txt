@@ -8,7 +8,7 @@ Dom na Starym Mieście.	Будинок у Старому місті.
 Opuszczona jaskinia przy mieście.	Занедбана печера біля міста.
 Bursztynowe Wybrzeże.	Бурштинове узбережжя.
 Twierdza Vardhal.	Фортеця Вардхал.
-Silbach.	Зільбах.
+Silbach.	Сільбах.
 Przeklęte Bagna.	Кляте болото.
 Przystań Łotrów.	Притулок негідників.
 Wybrzeże Topielców.	Узбережжя Луркерів.
