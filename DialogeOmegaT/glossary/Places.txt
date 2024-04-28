@@ -8,7 +8,7 @@ Dom na Starym Mieście.	Будинок у Старому місті.
 Opuszczona jaskinia przy mieście.	Занедбана печера біля міста.
 Bursztynowe Wybrzeże.	Бурштинове узбережжя.
 Twierdza Vardhal.	Фортеця Вардхал.
-Silbach.	Зільбах.
+Silbach.	Сільбах.
 Przeklęte Bagna.	Кляте болото.
 Przystań Łotrów.	Притулок негідників.
 Wybrzeże Topielców.	Узбережжя Луркерів.
@@ -24,7 +24,7 @@ Do klasztoru.	До монастиря.
 Do Kopalni Królewskiej.	До Королівських копалень.
 Do latarni morskiej.	До маяка.
 Do Bursztynowego Wybrzeża.	До Бурштинового узбережжя.
-Do lasu w Silbach.	До лісу коло Зільбаха.
+Do lasu w Silbach.	До лісу коло Сільбаху.
 Na Ustronie Żeglarza.	До Притулку моряка.
 Do farmy Bermara.	До ферми Бермара.
 Brama wschodnia.	Східні ворота.
@@ -47,7 +47,7 @@ Farma Bermara.	Ферма Бермара.
 Winnica Rity.	Виноградник Рити.
 Winnica Valerio.	Виноградник Валеріо.
 Miasto Archolos.	Місто Архолос.
-Wioska Silbach.	Село Зільбах.
+Wioska Silbach.	Село Сільбах.
 Kopalnia królewska.	Королівська копальня.
 Pod Gildię Kupiecką.	До Торгової Гільдії.
 Pod łaźnię.	До бані.
