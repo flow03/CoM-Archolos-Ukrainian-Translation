@@ -1920,8 +1920,8 @@
       <tuv lang="pl">
         <seg>(Zawieś głowę cieniostwora)</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>(Повісити голову мракориса)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>(Повісити голову тінезвіра)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,8 +2176,8 @@
       <tuv lang="pl">
         <seg>...do Dzielnicy Rzemieślników.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>...до кварталу ремісників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T124201Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>...до Ремісничого кварталу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2440,8 +2440,8 @@
       <tuv lang="pl">
         <seg>...pod Syreni Lament.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>...до Плачу сирени.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T123320Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>...до Плачу Сирени.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4904,8 +4904,8 @@
       <tuv lang="pl">
         <seg>Bestiariusz: Cieniostwory</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Бестіарій: Мракориси</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120424Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Бестіарій: Тінезвірі</seg>
       </tuv>
     </tu>
     <tu>
@@ -7040,8 +7040,8 @@
       <tuv lang="pl">
         <seg>Cieniostwór</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Мракорис</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120431Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Тінезвір</seg>
       </tuv>
     </tu>
     <tu>
@@ -8864,8 +8864,8 @@
       <tuv lang="pl">
         <seg>Do Dzielnicy Rzemieślników</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>До Кварталу ремісників</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T124210Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>До Ремісничого кварталу</seg>
       </tuv>
     </tu>
     <tu>
@@ -9160,24 +9160,24 @@
       <tuv lang="pl">
         <seg>Do portu wschodniego</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>До східної частини гавані</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120743Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>До східної частини порту</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Do portu zachodniego</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>До західної частини гавані</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120744Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>До західної частини порту</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Do portu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>До гавані.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120828Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>До порту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9432,8 +9432,8 @@
       <tuv lang="pl">
         <seg>Dobry miecz strażnika</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Вишуканий меч вартового</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T174438Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Хороший меч вартового</seg>
       </tuv>
     </tu>
     <tu>
@@ -9736,8 +9736,8 @@
       <tuv lang="pl">
         <seg>Domokrążca</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Бродячий торговець</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120233Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Мандрівний торговець</seg>
       </tuv>
     </tu>
     <tu>
@@ -10576,8 +10576,8 @@
       <tuv lang="pl">
         <seg>Dzielnica Rzemieślników.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>Квартал ремісників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T124150Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>Ремісничий квартал.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12392,8 +12392,8 @@
       <tuv lang="pl">
         <seg>Gdy tylko mieszkańcy Przystani Łotrów dowiedzieli się o ataku na miasto, opuścili wyspę, niczym szczury uciekające z tonącego okrętu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T174652Z" creationid="Glіban" creationdate="20240311T174652Z">
-        <seg>Як тільки мешканці Притулку негідників дізналися про напад на місто, вони покинули острів, як щури тікають з потопаючого корабля.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121743Z" creationid="Glіban" creationdate="20240311T174652Z">
+        <seg>Як тільки мешканці Гавані негідників дізналися про напад на місто, вони покинули острів, як щури тікають з потопаючого корабля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12712,7 +12712,7 @@
       <tuv lang="pl">
         <seg>Goniec Araxos</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T115954Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Перевізник Араксос</seg>
       </tuv>
     </tu>
@@ -13056,8 +13056,8 @@
       <tuv lang="pl">
         <seg>Gubernator Morris wraz z Wysłannikiem Królewskim Graysonem oficjalnie zaprzeczają wszelkim pogłoskom o pojawieniu się orków na wyspie Archolos.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240219T140437Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Губернатор Морріс разом із королівським посланцем Грейсоном офіційно спростовують усі чутки про появу орків на острові Архолос.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T170414Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Губернатор Морріс разом із Королівським послом Грейсоном офіційно спростовують усі чутки про появу орків на острові Архолос.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13240,8 +13240,8 @@
       <tuv lang="pl">
         <seg>Głowa cieniostwora</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Голова мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Голова тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -13408,8 +13408,8 @@
       <tuv lang="pl">
         <seg>Handel - Przystań Łotrów</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240308T095918Z" creationid="Glіban" creationdate="20240308T095918Z">
-        <seg>Торгівля – Притулок негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121226Z" creationid="Glіban" creationdate="20240308T095918Z">
+        <seg>Торгівля – Гавань негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14704,8 +14704,8 @@
       <tuv lang="pl">
         <seg>Jedna z części dźwigu portowego.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Одна з деталей крана у гавані.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120818Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Одна з деталей портового крана.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15768,8 +15768,8 @@
       <tuv lang="pl">
         <seg>Kilka dni po bitwie udało mi się zorganizować symboliczny pochówek. Ceremonia odbyła się w kościele Magów Ognia, a sam nagrobek umieściłem w dodatkowej, zewnętrznej części cmentarza, przeznaczonej dla wszystkich poległych podczas walki o miasto.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T170215Z" creationid="Glіban" creationdate="20240311T170215Z">
-        <seg>Через кілька днів після битви мені вдалося організувати символічне поховання. Церемонія відбулася в храмі магів Вогню, а сам надгробок я розмістив у додатковій, зовнішній частині кладовища, призначеній для всіх полеглих під час битви за місто.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T170949Z" creationid="Glіban" creationdate="20240311T170215Z">
+        <seg>Через кілька днів після битви мені вдалося організувати символічне поховання. Церемонія відбулася в храмі Магів Вогню, а сам надгробок я розмістив у додатковій, зовнішній частині кладовища, призначеній для всіх полеглих під час битви за місто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,8 +17256,8 @@
       <tuv lang="pl">
         <seg>Królewski Wysłannik?</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Королівський посланець?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T170649Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Королівський посол?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17320,8 +17320,8 @@
       <tuv lang="pl">
         <seg>Krótki miecz wartownika</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Короткий меч вартового</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T125237Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Короткий меч охоронця</seg>
       </tuv>
     </tu>
     <tu>
@@ -17720,8 +17720,8 @@
       <tuv lang="pl">
         <seg>Książka opisująca walkę z cieniostworami.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Книга описує, як боротись з мракорисами.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Книга описує, як боротись з тінезвірами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23280,8 +23280,8 @@
       <tuv lang="pl">
         <seg>Młody cieniostwór</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Молодий мракорис</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120356Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Молодий тінезвір</seg>
       </tuv>
     </tu>
     <tu>
@@ -23504,7 +23504,7 @@
       <tuv lang="pl">
         <seg>Na Ustronie Żeglarza.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121625Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
         <seg>До Притулку моряка.</seg>
       </tuv>
     </tu>
@@ -24256,8 +24256,8 @@
       <tuv lang="pl">
         <seg>Nauka - Przystań Łotrów</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240308T100353Z" creationid="Glіban" creationdate="20240308T100353Z">
-        <seg>Навчання – Притулок негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121226Z" creationid="Glіban" creationdate="20240308T100353Z">
+        <seg>Навчання – Гавань негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24440,8 +24440,8 @@
       <tuv lang="pl">
         <seg>Nauka: rogi cieniostworów</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
-        <seg>Вивчено: вилучення рогів мракорисів</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120356Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
+        <seg>Вивчено: вилучення рогів тінезвірів</seg>
       </tuv>
     </tu>
     <tu>
@@ -25000,8 +25000,8 @@
       <tuv lang="pl">
         <seg>Nie podoba mi się ta sytuacja, może zanim pójdę do Corteza powinienem przyjrzeć się tym ochroniarzom?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240406T161340Z" creationid="Glіban" creationdate="20240406T161304Z">
-        <seg>Не подобається мені ця ситуація. Можливо, перш ніж їхати до Кортеза, мені варто перевірити цих охоронців?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T122034Z" creationid="Glіban" creationdate="20240406T161304Z">
+        <seg>Не подобається мені ця ситуація. Можливо, перш ніж йти до Кортеза, мені варто перевірити цих охоронців?</seg>
       </tuv>
     </tu>
     <tu>
@@ -26000,8 +26000,8 @@
       <tuv lang="pl">
         <seg>Nigdy nie odnalazłem Kurta. Nikt w porcie nie widział, żeby opuszczał wyspę, ale jestem pewien, że ten oszust po prostu wyczuł kłopoty i postanowił się ulotnić.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240312T102235Z" creationid="Glіban" creationdate="20240312T102235Z">
-        <seg>Курта я так і не знайшов. Ніхто в гавані не бачив, як він покидав острів, але я впевнений, що шахрай просто відчув неприємності і вирішив втекти.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120857Z" creationid="Glіban" creationdate="20240312T102235Z">
+        <seg>Курта я так і не знайшов. Ніхто в порту не бачив, як він покидав острів, але я впевнений, що шахрай просто відчув неприємності і вирішив втекти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26176,8 +26176,8 @@
       <tuv lang="pl">
         <seg>Nocny Wartownik</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240408T113151Z" creationid="Glіban" creationdate="20240408T113033Z">
-        <seg>Нічна варта</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T125227Z" creationid="Glіban" creationdate="20240408T113033Z">
+        <seg>Нічний охоронець</seg>
       </tuv>
     </tu>
     <tu>
@@ -30040,8 +30040,8 @@
       <tuv lang="pl">
         <seg>Pałka wartownika</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Палиця вартового</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T125241Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Палиця охоронця</seg>
       </tuv>
     </tu>
     <tu>
@@ -30328,8 +30328,8 @@
       <tuv lang="pl">
         <seg>Pieprzny stek</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Стейк з прянощами</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121933Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Відбивна з прянощами</seg>
       </tuv>
     </tu>
     <tu>
@@ -31216,8 +31216,8 @@
       <tuv lang="pl">
         <seg>Po śmierci Oktava w bitwie o miasto Arwid przejął jego stanowisko i odpowiada teraz za młodych strażników. Zapatrzony w Rodericha i zainspirowany jego bohaterską obroną Archolos, robi wszystko, by straży nie brakowało nowych rekrutów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T171900Z" creationid="Glіban" creationdate="20240311T171900Z">
-        <seg>Після загибелі Октава в битві за місто, Арвід зайняв його місце і тепер керує молодими гвардійцями. Захоплений Родеріхом і натхненний його героїчним захистом Архолосу, він робить все можливе, щоб варта не відчувала нестачі в новобранцях.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T174336Z" creationid="Glіban" creationdate="20240311T171900Z">
+        <seg>Після загибелі Октава в битві за місто, Арвід зайняв його місце і тепер керує молодими вартовими. Захоплений Родеріхом і натхненний його героїчним захистом Архолосу, він робить все можливе, щоб варта не відчувала нестачі в новобранцях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31848,8 +31848,8 @@
       <tuv lang="pl">
         <seg>Pogromca cieniostworów</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Вбивця мракорисів</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120356Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Вбивця тінезвірів</seg>
       </tuv>
     </tu>
     <tu>
@@ -32544,8 +32544,8 @@
       <tuv lang="pl">
         <seg>Potwierdzenie zapłaty za dostawę dla Przystani</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Підтвердження оплати доставки у Притулок</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121226Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Підтвердження оплати доставки у Гавань</seg>
       </tuv>
     </tu>
     <tu>
@@ -33936,8 +33936,8 @@
       <tuv lang="pl">
         <seg>Przemiana w cieniostwora</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
-        <seg>Перетворення в Мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
+        <seg>Перетворення в тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -34960,8 +34960,8 @@
       <tuv lang="pl">
         <seg>Przybycie Królewskiego Wysłannika</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Прибуття Королівського посланця</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T170703Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Прибуття Королівського посла</seg>
       </tuv>
     </tu>
     <tu>
@@ -35208,24 +35208,24 @@
       <tuv lang="pl">
         <seg>Przystań Łotrów nie została ponownie zasiedlona i powoli zarasta, wchłaniana przez otaczające ją bagno.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T174609Z" creationid="Glіban" creationdate="20240311T174119Z">
-        <seg>Притулок негідників не було заселено заново, і він повільно заростає, поглинаючись болотом, що його оточує.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121226Z" creationid="Glіban" creationdate="20240311T174119Z">
+        <seg>Гавань негідників не було заселено заново, і він повільно заростає, поглинаючись болотом, що його оточує.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Przystań Łotrów została pochłonięta przez bagno, podczas gdy jej dawni mieszkańcy trafili do Górniczej Doliny.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T174125Z" creationid="Glіban" creationdate="20240311T174052Z">
-        <seg>Притулок негідників поглинуло болото, а її колишні мешканці опинилися в Гірничій Долині.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121226Z" creationid="Glіban" creationdate="20240311T174052Z">
+        <seg>Гавань негідників поглинуло болото, а її колишні мешканці опинилися в Гірничій Долині.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Przystań Łotrów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>Притулок негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121226Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>Гавань негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36720,8 +36720,8 @@
       <tuv lang="pl">
         <seg>Rogi cieniostworów</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165145Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
-        <seg>Вилучення рогів мракорисів</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120356Z" creationid="OmegaT Aligner" creationdate="20240208T165145Z">
+        <seg>Вилучення рогів тінезвірів</seg>
       </tuv>
     </tu>
     <tu>
@@ -37144,8 +37144,8 @@
       <tuv lang="pl">
         <seg>Runa teleportująca do Przystani Łotrów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Руна телепортації в Притулок негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121226Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Руна телепортації в Гавань негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37416,8 +37416,8 @@
       <tuv lang="pl">
         <seg>Róg cieniostwora</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Ріг мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Ріг тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -37920,8 +37920,8 @@
       <tuv lang="pl">
         <seg>Schemat: Krótki miecz wartownika</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Креслення: Короткий меч чатового</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T125244Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Креслення: Короткий меч охоронця</seg>
       </tuv>
     </tu>
     <tu>
@@ -38640,8 +38640,8 @@
       <tuv lang="pl">
         <seg>Sezon łowiecki na cieniostwory!</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Сезон полювання на мракорисів!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120356Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Сезон полювання на тінезвірів!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39304,8 +39304,8 @@
       <tuv lang="pl">
         <seg>Skóra cieniostwora</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Шкура мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Шкура тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -39576,8 +39576,8 @@
       <tuv lang="pl">
         <seg>Skóra śpiącego cieniostwora</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Шкура сплячого мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Шкура сплячого тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -39768,8 +39768,8 @@
       <tuv lang="pl">
         <seg>Smażone mięso cieniostwora</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Смажене м'ясо мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Смажене м'ясо тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -40600,8 +40600,8 @@
       <tuv lang="pl">
         <seg>Stara pałka wartownika</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Стара палиця вартового</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T125246Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Стара палиця охоронця</seg>
       </tuv>
     </tu>
     <tu>
@@ -40800,8 +40800,8 @@
       <tuv lang="pl">
         <seg>Stary list truposza z portu</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Стара записка померлого з гавані</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120805Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Стара записка померлого з порту</seg>
       </tuv>
     </tu>
     <tu>
@@ -40824,8 +40824,8 @@
       <tuv lang="pl">
         <seg>Stary róg cieniostwora</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Старий ріг мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Старий ріг тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -41672,8 +41672,8 @@
       <tuv lang="pl">
         <seg>Surowe mięso cieniostwora</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Сире м'ясо мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Сире м'ясо тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -41784,8 +41784,8 @@
       <tuv lang="pl">
         <seg>Syreni Lament (Karczma Helgi).</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
-        <seg>Плач сирени (корчма Хельги).</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T123320Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+        <seg>Плач Сирени (корчма Хельги).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42152,8 +42152,8 @@
       <tuv lang="pl">
         <seg>Szkielet-cieniostwór</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Скелет мракориса</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Скелет тінезвіра</seg>
       </tuv>
     </tu>
     <tu>
@@ -43232,8 +43232,8 @@
       <tuv lang="pl">
         <seg>Tawerna 'Syreni Lament', Mroczne Tajemnice</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Корчма 'Плач сирени', Темні Секрети</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T123320Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Корчма 'Плач Сирени', Темні Секрети</seg>
       </tuv>
     </tu>
     <tu>
@@ -43648,8 +43648,8 @@
       <tuv lang="pl">
         <seg>To chyba Antonio, ale dlaczego ucieka? Muszę go dogonić!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240406T161400Z" creationid="Glіban" creationdate="20240406T161400Z">
-        <seg>Здається, це Антоніо, але чому він тікає? Я повинен його наздогнати!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T122119Z" creationid="Glіban" creationdate="20240406T161400Z">
+        <seg>Здається, це Антоніо, але чому він втікає? Я повинен його наздогнати!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45968,7 +45968,7 @@
       <tuv lang="pl">
         <seg>Ustronie Żeglarza.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165400Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121628Z" creationid="OmegaT Aligner" creationdate="20240208T165400Z">
         <seg>Притулок моряка.</seg>
       </tuv>
     </tu>
@@ -46696,8 +46696,8 @@
       <tuv lang="pl">
         <seg>Wartownik</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Чатовий</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T125232Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Охоронець</seg>
       </tuv>
     </tu>
     <tu>
@@ -47584,8 +47584,8 @@
       <tuv lang="pl">
         <seg>Wizytacja Królewskiego Wysłannika?</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Візит королівського посланця?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T170734Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Візит королівського посла?</seg>
       </tuv>
     </tu>
     <tu>
@@ -48632,8 +48632,8 @@
       <tuv lang="pl">
         <seg>Wyjaśnimy sobie wszystko szczegółowo przed obliczem jego ekscelencji Wysłannika Królewskiego!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240422T151123Z" creationid="Glіban" creationdate="20240411T104017Z">
-        <seg>Ми все докладно пояснимо перед Його Світлістю Королівським послом!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T170757Z" creationid="Glіban" creationdate="20240411T104017Z">
+        <seg>Ми все докладно пояснимо перед його світлістю Королівським послом!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48680,8 +48680,8 @@
       <tuv lang="pl">
         <seg>Wyjście do miasta - Dzielnica Rzemieślników</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Вихід до міста – Квартал ремісників</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T124225Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Вихід до міста – Ремісничий квартал</seg>
       </tuv>
     </tu>
     <tu>
@@ -48696,8 +48696,8 @@
       <tuv lang="pl">
         <seg>Wyjście do miasta - Port</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Вихід до міста - Гавань</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120721Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Вихід до міста - Порт</seg>
       </tuv>
     </tu>
     <tu>
@@ -48768,8 +48768,8 @@
       <tuv lang="pl">
         <seg>Wykorzystując kontakty w Przystani Łotrów, udało mi się dostać na okręt, którym Cortez wraz z resztą piratów zamierzali opuścić Archolos. Gdy statek odbijał od brzegów wyspy, w końcu poczułem, że jestem wolny i zostawiam za sobą tę niekończącą się walkę...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240311T165346Z" creationid="Glіban" creationdate="20240311T165346Z">
-        <seg>Скориставшись зв'язками у Притулку негідників, мені вдалося потрапити на корабель, на якому Кортес і решта піратів мали намір залишити Архолос. Коли корабель відчалив від берегів острова, я нарешті відчув себе вільним, нарешті я залишив цю нескінченну боротьбу позаду...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121743Z" creationid="Glіban" creationdate="20240311T165346Z">
+        <seg>Скориставшись зв'язками у Гавані негідників, мені вдалося потрапити на корабель, на якому Кортес і решта піратів мали намір залишити Архолос. Коли корабель відчалив від берегів острова, я нарешті відчув себе вільним, нарешті я залишив цю нескінченну боротьбу позаду...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50344,8 +50344,8 @@
       <tuv lang="pl">
         <seg>Z dumą informujemy, że do miasta Archolos, przybył Królewski Wysłannik Grayson wraz z oddziałem Gwardii Królewskiej.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>Ми раді повідомити, що королівський посланець Грейсон прибув до міста Архолос разом із загоном королівської гвардії.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T171231Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>Ми раді повідомити, що Королівський посол Грейсон прибув до міста Архолос разом із загоном Королівської Гвардії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51680,8 +51680,8 @@
       <tuv lang="pl">
         <seg>Zarejestrowani handlarze - Port</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Зареєстровані торговці – Гавань</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120724Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Зареєстровані торговці – Порт</seg>
       </tuv>
     </tu>
     <tu>
@@ -52904,8 +52904,8 @@
       <tuv lang="pl">
         <seg>Zlecenie polowania na śpiącego cieniostwora.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Мисливське замовлення на сплячого мракориса.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Мисливське замовлення на сплячого тінезвіра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53096,8 +53096,8 @@
       <tuv lang="pl">
         <seg>Znalazłem go w porcie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Я знайшов його в гавані.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120821Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Я знайшов його в порту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55080,8 +55080,8 @@
       <tuv lang="pl">
         <seg>domu przy Targu Rybnym w porcie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>будинком біля Рибного ринку в гавані.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120810Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>будинком біля Рибного ринку в порту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55104,8 +55104,8 @@
       <tuv lang="pl">
         <seg>dostaw dla Przystani Łotrów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>постачання для Притулку негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121743Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>постачання для Гавані негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55208,8 +55208,8 @@
       <tuv lang="pl">
         <seg>i całej Przystani Łotrów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>і усього Притулку негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121801Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>і усієї Гавані негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55656,8 +55656,8 @@
       <tuv lang="pl">
         <seg>leżących pośrodku portu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>що лежав посеред гавані.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120824Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>що лежав посеред порту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56632,8 +56632,8 @@
       <tuv lang="pl">
         <seg>powieszonego w Przystani.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>повішеного у Притулку негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121743Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>повішеного у Гавані негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56816,8 +56816,8 @@
       <tuv lang="pl">
         <seg>przy arenie w Przystani Łotrów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>біля арени Притулку Негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121822Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>біля арени Гавані Негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57064,8 +57064,8 @@
       <tuv lang="pl">
         <seg>smażonego mięsa cieniostwora.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>смаженого м'яса мракориса.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120327Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>смаженого м'яса тінезвіра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57416,8 +57416,8 @@
       <tuv lang="pl">
         <seg>w karczmie w Przystani Łotrów.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>в корчмі, у Притулку негідників.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T121743Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>в корчмі, у Гавані негідників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57472,8 +57472,8 @@
       <tuv lang="pl">
         <seg>w magazynie portowym.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>на складі в гавані.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120758Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>на складі в порту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58200,8 +58200,8 @@
       <tuv lang="pl">
         <seg>Łowca cieniostworów</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Мисливець на мракорисів</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120356Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Мисливець на тінезвірів</seg>
       </tuv>
     </tu>
     <tu>
@@ -58576,8 +58576,8 @@
       <tuv lang="pl">
         <seg>Śpiący cieniostwór</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Сплячий мракорис</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240502T120356Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Сплячий тінезвір</seg>
       </tuv>
     </tu>
     <tu>
