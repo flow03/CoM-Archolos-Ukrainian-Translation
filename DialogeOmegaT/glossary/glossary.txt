@@ -57,7 +57,7 @@ Wygodne podróżowanie	Швидка поїздка
 Czeladnik	учень
 Rady Miasta	міської ради
 stragan	прилавок
-w porcie	в гавані
+w porcie	в порту
 do slumsów	в нетрі, до нетрів
 w Pękniętej Strunie	в Обірваній струні
 w Syrenim Lamencie	у Плачі сирени
@@ -89,11 +89,32 @@ Księga rachunkowa	бухгалтерська книга
 obywatel	громадянин	залежно від контексту
 obywatel	містянин	залежно від контексту
 obywatelstwo	громадянство
+Silbach	Сільбах
 niedaleko Silbach	поблизу Сільбаху
 glejt	посвідчення	залежно від контексту
 glejt	перепустка	залежно від контексту
-Jego Ekscelencji	Його Світлості	Щодо Королівського Посла
+Jego Ekscelencji	Його Світлості	щодо Королівського Посла
 Wasza ekscelencja	Ваша світлість
 Araxos	Араксос
 Araxos	Араксосу
 Araxos	Гільдії Араксос
+żarliwego słońca	палаючого сонця
+Starszy Wioski	сільський староста
+Myrtańczyków	міртанці
+pracowni	майстерні
+zarządcą	голова, керуючий
+wartownik	охоронець
+kwatermistrz	інтендант
+powstrzymać	зупинити
+ciągle	досі
+kłamstwo	брехня
+kłamstw	брехні
+A tak w ogóle	До речі
+wartownicy	охоронці
+wartownicy	охорона
+wartownicy	сторожа
+wyruszył	вирушив
+wyruszył	відправився
+przybył	прибув
+dotarliśmy	прибули
+w Ustroniu Żeglarza	в Притулку моряка
