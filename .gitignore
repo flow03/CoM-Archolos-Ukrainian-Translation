@@ -15,6 +15,7 @@ ArcholosOmegaT/
 # don't work with omegat.project
 DialogeOmegaT/omegat.project
 last_entry.properties
+last_entry*
 project_stats.txt
 desktop.ini
 
