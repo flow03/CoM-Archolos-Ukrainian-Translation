@@ -8,7 +8,10 @@ DialogeOmegaT/source/
 DialogeOmegaT/target/
 # DialogeOmegaT/tm/
 DialogeOmegaT/tm/auto/
-DialogeOmegaT/glossary/Dict.txt
+DialogeOmegaT/glossary/*.txt
+!glossary.txt
+!Items.txt
+!names.txt
 
 ArcholosOmegaT/
 
@@ -19,7 +22,7 @@ project_stats.txt
 desktop.ini
 
 !DialogeOmegaT/glossary/
-!glossary.txt
+
 !project_save.tmx
 !filters.xml
 !segmentation.conf
