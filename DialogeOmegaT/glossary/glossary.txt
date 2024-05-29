@@ -57,9 +57,67 @@ Wygodne podróżowanie	Швидка поїздка
 Czeladnik	учень
 Rady Miasta	міської ради
 stragan	прилавок
-w porcie	в гавані
-Duma wyspiarza	Гордість острів'янина
+w porcie	в порту
+do slumsów	в нетрі, до нетрів
+w Pękniętej Strunie	в Обірваній струні
+w Syrenim Lamencie	у Плачі сирени
+rekruta	новобранця
+rekruci	новобранці
+Zbroja	броня
 pomiotów	породжень
 Varrant	Варант
 czas nagli	час підганяє
 Przystan	Притулок
+węże błotne	боротожери
+błotnych węży	болотожерів
+karczmy	корчми
+straży miejskiej	міської варти
+Gerwin	Гервін
+Wrób	підставити
+Ezekiela	Єзекіїля
+z falochronu	з хвилерізу
+Czeladnik Ślusarza	Учень слюсаря
+Gońca	підручний
+Goniec	посланець
+gońcem	посланцем
+przy ciele	біля тіла
+Mroczny Paladyn	Темний Паладин
+Poborca podatkowy	податківець
+dziennik	щоденник
+Żuwaczki	нижні щелепи
+Księga rachunkowa	бухгалтерська книга
+obywatel	громадянин	залежно від контексту
+obywatel	містянин	залежно від контексту
+obywatelstwo	громадянство
+Silbach	Сільбах
+niedaleko Silbach	поблизу Сільбаху
+glejt	посвідчення	залежно від контексту
+glejt	перепустка	залежно від контексту
+Jego Ekscelencji	Його Світлості	щодо Королівського Посла
+Wasza ekscelencja	Ваша світлість
+Araxos	Араксос
+Araxos	Араксосу
+Araxos	Гільдії Араксос
+żarliwego słońca	палаючого сонця
+Starszy Wioski	сільський староста
+Myrtańczyków	міртанці
+pracowni	майстерні
+zarządcą	голова, керуючий
+wartownik	охоронець
+kwatermistrz	інтендант
+powstrzymać	зупинити
+ciągle	досі
+kłamstwo	брехня
+kłamstw	брехні
+A tak w ogóle	До речі
+wartownicy	охоронці
+wartownicy	охорона
+wartownicy	сторожа
+wyruszył	вирушив
+wyruszył	відправився
+przybył	прибув
+dotarliśmy	прибули
+Duma wyspiarza	Гордість острів'янина
+w Ustroniu Żeglarza	в Притулку моряка
+Mroczne Tajemnice	Темні Таємниці
+na Archolos	до Архолосу
