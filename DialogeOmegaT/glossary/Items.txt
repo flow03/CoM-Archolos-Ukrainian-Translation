@@ -498,7 +498,7 @@ Pasterz	Пастух
 Łowca	Мисливець
 Myśliwy	Загонич
 Łotr	Лиходій
-Wartownik	Чатовий
+Wartownik	Охоронець
 Nerwowy mężczyzna	Нервовий чоловік
 Wyjątkowo podejrzany mężczyzna	Вкрай підозрілий чоловік
 Duży Ben	Великий Бен
@@ -2177,7 +2177,7 @@ Receptura: Mikstura Odnowy Many	Рецепт: Зілля відновлення 
 Receptura: Długotrwała mikstura Odnowy Życia	Рецепт: Довготривале зілля відновлення здоров'я
 Receptura: Długotrwała mikstura Odnowy Many	Рецепт: Довготривале зілля відновлення мани
 Schemat: Nóż do mięsa	Креслення: Ніж різника
-Schemat: Krótki miecz wartownika	Креслення: Короткий меч чатового
+Schemat: Krótki miecz wartownika	Креслення: Короткий меч охоронця
 Schemat: Wilczy kieł	Креслення: Вовче ікло
 Schemat: Duży nóż	Креслення: Великий ніж
 Schemat: Dobry krótki miecz	Креслення: Хороший короткий меч
