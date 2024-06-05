@@ -1,0 +1,21 @@
+﻿{
+  "DIA_MIL_FMQ002_15_01": "Родеріх сказав, щоб я дістав собі меч. Маєш якісь ідеї?",
+  "DIA_MIL_FMQ002_CanUShow_15_01": "Можна поглянути на твій меч?",
+  "DIA_MIL_FMQ002_CanUShow_Rude_15_03": "Ну ж бо, помовч.",
+  "DIA_MIL_FMQ002_NeedSword_15_01": "Мені потрібен такий, щоб стати вартовим.",
+  "DIA_MIL_FMQ002_SwordScheme_15_01": "Я хочу вивчити його будову, щоб потім викувати.",
+  "DIA_MIL_FMQ002_WantToJoin_15_01": "Ти можеш мені довіряти, я хочу приєднатися до вас.",
+  "DIA_MIL_FMQ002_HaveGold_15_01": "Як щодо кількох золотих в якості застави?",
+  "DIA_MIL_FMQ002_SwordScheme_No_15_01": "Так не піде.",
+  "DIA_MIL_FMQ002_SwordScheme_Yes_15_02": "Я дізнався все, що хотів. Ось твій меч.",
+  "DIA_MIL_FMQ002_SwordScheme_Thanks_15_01": "Дякую за допомогу.",
+  "DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01": "Гей! Віддай мені решту!",
+  "DIA_MIL_Roderich_15_02": "Я слухаю.",
+  "DIA_MIL_Roderich_What_15_01": "Візит королівського посла?",
+  "DIA_MIL_Roderich_What_15_03": "Корабель? Де він зараз?",
+  "DIA_MIL_Roderich_Go_15_01": "Дякую, що повідомив.",
+  "DIA_MIL_Roderich_Go_15_02": "Вільно.",
+  "DIA_MIL_Late_15_04": "Добре, я прийду. Вільно.",
+  "DIA_MIL_GiveArmorBack_15_02": "Серйозно?",
+  "DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice": "(Віддати меч)"
+}

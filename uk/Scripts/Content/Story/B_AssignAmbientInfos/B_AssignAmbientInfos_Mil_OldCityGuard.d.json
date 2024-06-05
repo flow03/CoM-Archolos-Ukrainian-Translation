@@ -1,0 +1,21 @@
+﻿{
+  "DIA_OldCityGuard_FirstWarn_03_01": "Ей, ей! Куди ти зібрався?",
+  "DIA_OldCityGuard_FirstWarn_15_02": "Уперед.",
+  "DIA_OldCityGuard_FirstWarn_03_03": "Твоя репутація випереджає тебе! Іди до Родеріха і владнай це.",
+  "DIA_OldCityGuard_FirstWarn_03_04": "До того часу вхід заборонено.",
+  "DIA_OldCityGuard_FirstWarn_03_07": "Вибач, згідно з правилами, вхід до Старого міста дозволений лиш тим вартовим, які його охороняють.",
+  "DIA_OldCityGuard_FirstWarn_03_11": "Прохід заборонено!",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_01": "Я не знав, що для цього потрібна перепустка.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_02": "Ти гадаєш, що я пропускаю кого завгодно? Зовсім ні, мій друже.",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_03": "Де можна отримати такий документ?",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_04": "Ти повинен мати будинок у Старому місті або отримати дозвіл на вхід від когось із міської ради.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_05": "Наважуся припустити, що нічого з цього в тебе немає.",
+  "DIA_OldCityGuard_FirstWarn_Why_15_01": "Чому заборонено?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_02": "Зрештою, я громадянин цього міста.",
+  "DIA_OldCityGuard_FirstWarn_Why_03_03": "А перепустка у тебе є?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_04": "А яку перепустку ти маєш на увазі?",
+  "DIA_OldCityGuard_FirstWarn_Why_03_05": "Ту перепустку, яка дає тобі право на вхід до Старого міста.",
+  "DIA_OldCityGuard_SecondWarn_03_01": "Я тобі вже казав! Що тобі не зрозуміло?",
+  "DIA_OldCityGuard_LastWarn_03_01": "Ти сам напросився!",
+  "DIA_OldCityGuard_FirstWarn_15_06": "Ти ж не заперечуєш? Я міський вартовий."
+}

@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"ukrainian"
+	"Tokens"
+	{
+		"#Status_InMenu"	"В головному меню"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - Рівень %level% - Розділ %chapter%"
+		"#Status_Guild_None"	"Одинак"
+		"#Status_Guild_Citizen"	"Громадянин"
+		"#Status_Guild_WaterCircle"	"Кільце Води"
+		"#Status_Guild_Runner"	"Посланець"
+		"#Status_Guild_VeteranRunner"	"Старший посланець"
+		"#Status_Guild_Mercenary"	"Найманець"
+		"#Status_Guild_Hunter"	"Мисливець"
+		"#Status_Guild_VeteranMercenary"	"Старший найманець"
+		"#Status_Guild_VeteranHunter"	"Старший мисливець"
+		"#Status_Guild_Militia"	"Вартовий"
+		"#Status_Guild_MilitiaVeteran"	"Старший вартовий"
+		"#Status_Guild_Swordsman"	"Мечник"
+		"#Status_Guild_Crossbowman"	"Арбалетник"
+		"#Status_Guild_VeteranSwordsman"	"Старший мечник"
+		"#Status_Guild_VeteranCrossbowman"	"Старший арбалетник"
+	}
+}
