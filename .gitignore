@@ -4,7 +4,7 @@ ArcholosOmegaT/dictionary/
 ArcholosOmegaT/omegat/*.tmx
 ArcholosOmegaT/omegat/*.bak
 ArcholosOmegaT/omegat/*.txt
-# ArcholosOmegaT/source/
+ArcholosOmegaT/source/
 ArcholosOmegaT/target/
 ArcholosOmegaT/tm/
 ArcholosOmegaT/tm/auto/
