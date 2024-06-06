@@ -117,6 +117,7 @@ wyruszył	вирушив
 wyruszył	відправився
 przybył	прибув
 dotarliśmy	прибули
+Duma wyspiarza	Гордість острів'янина
 w Ustroniu Żeglarza	в Притулку моряка
 Mroczne Tajemnice	Темні Таємниці
 na Archolos	до Архолосу
