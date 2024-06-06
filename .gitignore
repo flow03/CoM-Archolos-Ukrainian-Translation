@@ -1,9 +1,9 @@
 ArcholosOmegaT/*.*
 ArcholosOmegaT/dictionary/
-# ArcholosOmegaT/omegat/
-ArcholosOmegaT/omegat/*.tmx
-ArcholosOmegaT/omegat/*.bak
-ArcholosOmegaT/omegat/*.txt
+ArcholosOmegaT/omegat/
+# ArcholosOmegaT/omegat/*.tmx
+# ArcholosOmegaT/omegat/*.bak
+# ArcholosOmegaT/omegat/*.txt
 ArcholosOmegaT/source/
 ArcholosOmegaT/target/
 ArcholosOmegaT/tm/
