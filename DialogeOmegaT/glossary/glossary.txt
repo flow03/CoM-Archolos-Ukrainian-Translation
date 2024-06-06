@@ -118,3 +118,5 @@ wyruszył	відправився
 przybył	прибув
 dotarliśmy	прибули
 w Ustroniu Żeglarza	в Притулку моряка
+Mroczne Tajemnice	Темні Таємниці
+na Archolos	до Архолосу
