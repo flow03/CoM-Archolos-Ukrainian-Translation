@@ -121,3 +121,6 @@ Duma wyspiarza	Гордість острів'янина
 w Ustroniu Żeglarza	в Притулку моряка
 Mroczne Tajemnice	Темні Таємниці
 na Archolos	до Архолосу
+sprzęt	спорядження
+szermierz	мечник
+tropiciel	слідопит
