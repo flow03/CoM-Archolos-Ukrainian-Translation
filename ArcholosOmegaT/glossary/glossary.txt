@@ -97,3 +97,6 @@ Wasza ekscelencja	Ваша світлість
 Araxos	Араксос
 Araxos	Араксосу
 Araxos	Гільдії Араксос
+Holdwiga	Гольдвіга
+Myrtańczycy	міртанці
+Mistrzu	магістре, майстре

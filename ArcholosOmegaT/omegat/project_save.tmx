@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>A miłościwy Adanos niech obdarzy opieką twego strudzonego ojca, dopóki nie dołączy do ciebie w wiecznej szczęśliwości.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105739Z" creationid="Glіban" creationdate="20240609T105709Z">
+        <seg>І нехай милосердний Аданос дарує свій захист твоєму втомленому батькові, допоки він не приєднається до тебе у житті вічному.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>A nie czasem po to, by wyeliminować Volkera z gry? Poprzednio wam nie wyszło, co?</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240530T191512Z" creationid="Glіban" creationdate="20240530T191406Z">
@@ -3080,8 +3088,8 @@
       <tuv lang="pl">
         <seg>A ty...</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]А ти...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105029Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>А ти...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3504,8 +3512,8 @@
       <tuv lang="pl">
         <seg>Ale... on...</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Але... він...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105342Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Але... він...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8256,8 +8264,8 @@
       <tuv lang="pl">
         <seg>Czyli to on otruł Holdwiga?</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]То це він отруїв Холдвіга?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104730Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>То це він отруїв Гольдвіга?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8848,8 +8856,8 @@
       <tuv lang="pl">
         <seg>Dlaczego nie powiedziałeś mi o tym wcześniej? Muszę szybko do niego pójść.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Чому ти не сказав мені про це раніше? Мені потрібно швидко піти до нього.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105312Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Чому ти не сказав мені про це раніше? Мені потрібно негайно до нього навідатись.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8872,8 +8880,8 @@
       <tuv lang="pl">
         <seg>Dlatego oczyszczam cię z wszelkich zarzutów w tej sprawie. Możesz odejść wolny!</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Таким чином, я знімаю з вас усі звинувачення у цій справі. Ви можете бути вільні!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111110Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Таким чином, я знімаю з тебе усі звинувачення у цій справі. Ти можеш бути вільним!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11096,8 +11104,8 @@
       <tuv lang="pl">
         <seg>Dziękuję, Mistrzu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240531T091755Z" creationid="Glіban" creationdate="20240531T091755Z">
-        <seg>Дякую, Майстре.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111132Z" creationid="Glіban" creationdate="20240531T091755Z">
+        <seg>Дякую, магістре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12102,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Floro, twoja wędrówka dobiegła końca.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105609Z" creationid="Glіban" creationdate="20240609T105609Z">
+        <seg>Флоро, твоя подорож добігла кінця.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Flota Myrtany w ciągu kilku godzin wylądowała na dnie oceanu,</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240210T110557Z" creationid="OmegaT Aligner" creationdate="20240210T110439Z">
@@ -12304,8 +12320,8 @@
       <tuv lang="pl">
         <seg>Gadaj!</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Говори!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104558Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Говори!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13888,16 +13904,16 @@
       <tuv lang="pl">
         <seg>Holdwig będzie ci wdzięczny, gdy wyzdrowieje.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Холдвіг буде вдячний вам, коли одужає.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105158Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Гольдвіг буде вдячний тобі, коли одужає.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Holdwig ma się już lepiej.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Холдвігу вже краще.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105209Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Гольдвігу вже краще.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13928,8 +13944,8 @@
       <tuv lang="pl">
         <seg>Huug! Stoisz przed nami oskarżony o bluźnierstwo, oszustwa oraz próbę morderstwa królewskiego paladyna. Powiedz czy przyznajesz się do winy?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240603T200252Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Хууг! Ти стоїш перед нами за звинуваченням у богохульстві, шахрайстві та замаху на вбивство королівського паладина. Скажи нам, чи визнаєш ти себе винним?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105920Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Хууг! Ти стоїш перед нами за звинуваченням у богохульстві, шахрайстві та замаху на вбивство королівського паладина. Скажи нам, чи визнаєш ти себе винним?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14518,6 +14534,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Jak jeszcze raz cię zobaczę, jak wlepiasz gały w Marthę, to cię zabiję. Rozumiemy się?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T112018Z" creationid="Glіban" creationdate="20240609T112018Z">
+        <seg>Якщо я ще раз побачу, що ти витріщаєшся на Марту, я тебе вб'ю. Ти зрозумів мене?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Jak kulą w płot</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240408T112729Z" creationid="Glіban" creationdate="20240408T112729Z">
@@ -15024,8 +15048,8 @@
       <tuv lang="pl">
         <seg>Jestem tak samo zaskoczony sytuacją jak ty! Dalej, nie wygłupiaj się, przecież mnie znasz! Chodźmy razem do szefa, on ci wszystko wyjaśni!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240530T192740Z" creationid="Glіban" creationdate="20240530T192740Z">
-        <seg>Я так само здивований цією ситуацією, як і ти! Давай, не будь дурнем, ти ж мене знаєш! Ходімо разом до шефа, він тобі все пояснить!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T103833Z" creationid="Glіban" creationdate="20240530T192740Z">
+        <seg>Я так само дивуюся цьому всьому, як і ти! Давай, не будь дурнем, ти ж мене знаєш! Ходімо разом до шефа, він тобі все пояснить!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20950,6 +20974,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Mam ciebie dość! Pożałujesz tego, gnido!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111652Z" creationid="Glіban" creationdate="20240609T111652Z">
+        <seg>Як ти мене дістав! Ти пошкодуєш про це, виродку!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Mam dziwne przeczucie,</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -21360,8 +21392,8 @@
       <tuv lang="pl">
         <seg>Marvin.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Марвін.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105033Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Марвін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22376,8 +22408,8 @@
       <tuv lang="pl">
         <seg>Miodowe Lata</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240408T111534Z" creationid="Glіban" creationdate="20240408T111534Z">
-        <seg>Медові роки</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104035Z" creationid="Glіban" creationdate="20240408T111534Z">
+        <seg>Медові літа</seg>
       </tuv>
     </tu>
     <tu>
@@ -22904,8 +22936,8 @@
       <tuv lang="pl">
         <seg>Może to i lepiej.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Можливо, це на краще.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105555Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Можливо, це на краще.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23392,8 +23424,8 @@
       <tuv lang="pl">
         <seg>Mówisz o Holdwigu czy o...</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]You're talking about Holdwig or...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105432Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Ти говориш про Гольдвіга чи...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23440,8 +23472,8 @@
       <tuv lang="pl">
         <seg>Mówiłem, że kręcił się przy kuchni, nie mówiłem, że kogoś otruł.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Я сказав, що він вештався по кухні, я не казав, що він когось отруїв.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104751Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Я сказав, що він вештався по кухні, я не казав, що він когось отруїв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23680,8 +23712,8 @@
       <tuv lang="pl">
         <seg>Na Adanosa, co wyście mu zrobili?!</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Клянуся Аданосом, що ти з ним зробив!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104554Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Заради Аданоса, що ти з ним зробив?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23864,8 +23896,8 @@
       <tuv lang="pl">
         <seg>Na własne oczy widziałem, jakie przedmioty znajdowały się w twojej chacie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Я на власні очі бачив, які речі були у вашій хатині.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110021Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Я на власні очі бачив, що за речі були у твоїй хатині.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25048,8 +25080,8 @@
       <tuv lang="pl">
         <seg>Nie ma co dzielić włosa na czworo. Pomożesz mi zająć się ciałem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Не треба розкисати. Ти можеш допомогти мені подбати про тіло.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105025Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Не варто чіплятися до слів. Ти можеш допомогти мені подбати про тіло.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25584,16 +25616,16 @@
       <tuv lang="pl">
         <seg>Nie...</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]No...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105546Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Ні...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Nie... oprócz strażników, to nie...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240530T193441Z" creationid="Glіban" creationdate="20240530T191111Z">
-        <seg>Ні... окрім вартових, нікого...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T103643Z" creationid="Glіban" creationdate="20240530T191111Z">
+        <seg>Ні... окрім охорони, нікого...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25736,8 +25768,16 @@
       <tuv lang="pl">
         <seg>Niech Innos ma twoją duszę w swojej opiece.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Нехай Іннос візьме твою душу під свій захист.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111008Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Нехай Іннос візьме твою душу під свій захист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Niech bogowie otworzą przed tobą bramy swego królestwa!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105628Z" creationid="Glіban" creationdate="20240609T105628Z">
+        <seg>Нехай боги відкриють перед тобою браму свого царства!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26376,8 +26416,8 @@
       <tuv lang="pl">
         <seg>Nim zaczniemy. Chciałbym podziękować obecnemu tu Marvinowi, za pomoc w sprawie i uchwycenie oskarżonego.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Перш ніж ми почнемо. Я хотів би подякувати Марвіну, який присутній тут, за його допомогу у справі та затримання обвинуваченого.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105911Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Перш ніж ми почнемо. Я хотів би подякувати Марвіну, який присутній тут, за його допомогу у справі та за затримання обвинуваченого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26414,6 +26454,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>No Viktor, piękna walka. Wytrzymałeś więcej niż 5 sekund. Gratuluję!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T112011Z" creationid="Glіban" creationdate="20240609T112011Z">
+        <seg>Що ж, Вікторе, гарний бій. Ти протримався більше 5 секунд. Вітаю!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>No i po co to robiłeś? Oberwiesz za to od Albyna!</seg>
       </tuv>
       <tuv lang="uk" changeid="Gleban" changedate="20230122T120558Z" creationid="Gleban" creationdate="20230122T120558Z">
@@ -26424,8 +26472,8 @@
       <tuv lang="pl">
         <seg>No i po kłopocie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Ну, ось і проблема.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105423Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Ну, в цьому і проблема.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26976,8 +27024,8 @@
       <tuv lang="pl">
         <seg>Obecny tu Marvin twierdzi, że to ty wskazałeś mu miejsce, w którym, jak to określiłeś, miał się odbyć 'rytuał oczyszczenia'.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Марвін, який присутній тут, стверджує, що саме ви вказали йому місце, де, як ви висловилися, мав відбутися 'ритуал очищення'.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110152Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Марвін, який присутній тут, стверджує, що саме ти вказав йому на місце, де, як ти висловився, мав відбутися 'ритуал очищення'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28784,8 +28832,8 @@
       <tuv lang="pl">
         <seg>Ostrze Sprawiedliwości</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Клинок правосуддя</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104418Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Клинок Правосуддя</seg>
       </tuv>
     </tu>
     <tu>
@@ -31502,6 +31550,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Po twoich jękach słyszę, że się rozumiemy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T113727Z" creationid="Glіban" creationdate="20240609T112137Z">
+        <seg>Чую по твоїх стогонах, що ти все зрозумів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Po upieczeniu, wygląda zjadliwie.</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -31768,8 +31824,8 @@
       <tuv lang="pl">
         <seg>Podczas gdy wy 'załatwialiście swoje sprawy', przybył medyk z miasta...</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Поки ти 'займався своїми справами', з міста прибув медик...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105223Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Поки ти 'займався своїми справами', з міста прибув медик...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33120,8 +33176,8 @@
       <tuv lang="pl">
         <seg>Pozostaje jeszcze kwestia Marvina.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Залишається питання про Марвіна.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111301Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Залишилось вирішити питання стосовно Марвіна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33504,16 +33560,16 @@
       <tuv lang="pl">
         <seg>Pośrednio. Znam ludzi, którzy dobrze zapłacą za wystawienie im kolejnego królewskiego psa.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Опосередковано. Я знаю людей, які добре заплатять, щоб виставити перед ними ще одного королівського пса.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111457Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Опосередковано. Я знаю людей, які добре заплатять, якщо видати їм ще одного королівського пса.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Pośrednio...</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Непрямо...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110232Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Не напряму...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35688,16 +35744,16 @@
       <tuv lang="pl">
         <seg>Przyznaje się, że handlowałem 'specyficznymi' przedmiotami. Nie uważam, jednak bym popełnił tu jakieś przestępstwo. Jeśli chodzi o próbę morderstwa, to jestem niewinny!</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Я визнаю, що торгував 'специфічними' предметами. Однак я не вважаю, що вчинив тут якийсь злочин. Що стосується замаху на вбивство, то я невинний!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110008Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Я визнаю, що торгував 'специфічними' предметами. Однак я не вважаю, що вчинив якийсь злочин. Що стосується замаху на вбивство, то я не винен!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Przyznaję się. Wystawiłem ich. Miałem nadzieję, że nie wyjdą z tego żywi.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Я визнаю це. Я виставив їх. Я сподівався, що вони не виживуть.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111459Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Я визнаю це. Я видав їх. Я сподівався, що вони не виживуть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37376,8 +37432,8 @@
       <tuv lang="pl">
         <seg>Rozumiem. Czy masz zatem coś na swoje usprawiedliwienie?</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Зрозуміло. Чи маєте ви щось на своє виправдання?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110456Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Зрозуміло. Чи можеш ти щось сказати на своє виправдання?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42918,6 +42974,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Szukasz problemów, Lutz? Chcesz, to ci je załatwię!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111615Z" creationid="Glіban" creationdate="20240609T111615Z">
+        <seg>Ти шукаєш проблем, Люц? Я тобі їх влаштую!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Szybka podróż pod dom</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
@@ -43056,8 +43120,8 @@
       <tuv lang="pl">
         <seg>Słowo paladyna ma wielką wagę. Spytam zatem ponownie? Czy jesteś winny zorganizowania próby zabójstwa?</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Слово паладина має велику вагу. Дозвольте запитати вас ще раз? Ви винні в організації замаху?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110222Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Слово паладина має велику вагу. Дозволь запитати тебе ще раз? Ти винен в організації замаху?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43088,8 +43152,8 @@
       <tuv lang="pl">
         <seg>Słucham!?</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Pardon!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110251Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Даруй, що!?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43440,8 +43504,8 @@
       <tuv lang="pl">
         <seg>Tak, to on.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Так, це він.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104604Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Так, це він.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44248,8 +44312,8 @@
       <tuv lang="pl">
         <seg>To ten człowiek, który kręcił się przy kuchni?</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Це той чоловік, що вештався по кухні?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104536Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Це той чоловік, що вештався по кухні?</seg>
       </tuv>
     </tu>
     <tu>
@@ -45512,8 +45576,8 @@
       <tuv lang="pl">
         <seg>Tylko tyle, że Myrtańczycy rujnują tą wyspę. Mam nadzieję, że prędko dopadną was wszystkich orkowie!</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Тільки те, що Міртани руйнують цей острів. Сподіваюся, орки скоро вас усіх дістануть!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111415Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Тільки те, що міртанці руйнують цей острів. Сподіваюся, орки скоро до вас усіх дістануться!</seg>
       </tuv>
     </tu>
     <tu>
@@ -46654,6 +46718,14 @@
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Viktor! Słyszałem, że masz ze mną problem! To słucham! Mów co ci leży na sercu.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111528Z" creationid="Glіban" creationdate="20240609T111528Z">
+        <seg>Вікторе! Я чув, що ти маєш до мене претензії! Я слухаю! Кажи, що в тебе на думці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Vlada</seg>
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
@@ -47240,8 +47312,8 @@
       <tuv lang="pl">
         <seg>We wskazanym miejscu zarówno on, jak i paladyn Runar zostali zaatakowani. Tę wersję wydarzeń potwierdza również Runar!</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]У зазначеному місці на нього та паладина Рунара напали. Цю версію подій підтверджує і Рунар!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110205Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>У зазначеному місці на нього та паладина Рунара напали. Цю версію подій підтверджує і Рунар!</seg>
       </tuv>
     </tu>
     <tu>
@@ -47464,8 +47536,8 @@
       <tuv lang="pl">
         <seg>Wiedz, że gdybyśmy nie przestrzegali praw panujących na Archolos, czekałaby cię śmierć przez powieszenie. Mając na uwadze to, gdzie się znajdujemy, przekazuję cię pod sąd świecki.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Знайте, що якби ви не підкорилися законам Архолоса, вам би загрожувала смерть через повішення. Враховуючи, де ми знаходимося, я передаю тебе до світського суду.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110957Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Знай, що якби ми не корилися законам Архолосу, тобі б загрожувала смерть через повішення. Враховуючи, де ми зараз знаходимося, я передаю тебе до міського суду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47752,8 +47824,8 @@
       <tuv lang="pl">
         <seg>Wiesz chociaż, jak on miał na imię?</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Ви хоч знаєте, як його звали?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105442Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Ти хоч знаєш, як його звали?</seg>
       </tuv>
     </tu>
     <tu>
@@ -48136,16 +48208,16 @@
       <tuv lang="pl">
         <seg>Wobec czego uznaję cię winnym tych czynów!</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Зважаючи на це, я вважаю вас винним у цих діях!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110053Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Зважаючи на це, я визнаю тебе винним у цих діяннях!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Wobec tego wyznania: uznaję cię za winnego zarzucanego ci czynu.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Зважаючи на це зізнання: я визнаю вас винним у вчинку, в якому вас звинувачують</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111355Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Зважаючи на це зізнання: я визнаю тебе винним у звинуваченому вчинку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48472,8 +48544,8 @@
       <tuv lang="pl">
         <seg>Wracając do sprawy znacznie poważniejszej...</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Повертаючись до набагато серйознішої справи...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T110112Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Повертаючись до набагато серйознішої справи...</seg>
       </tuv>
     </tu>
     <tu>
@@ -48528,8 +48600,8 @@
       <tuv lang="pl">
         <seg>Wrzuć ciało do jeziora.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Киньте тіло в озеро.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105536Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Викинь тіло в озеро.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50080,8 +50152,8 @@
       <tuv lang="pl">
         <seg>Wyśmienity dwuręczny miecz strażnika</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Хороший дворучний меч вартового</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104329Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Вишуканий дворучний меч вартового</seg>
       </tuv>
     </tu>
     <tu>
@@ -50104,8 +50176,8 @@
       <tuv lang="pl">
         <seg>Wyśmienity lekki strój kolczy</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Чудова легка кольчуга</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104222Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Найкраща легка кольчуга</seg>
       </tuv>
     </tu>
     <tu>
@@ -50216,8 +50288,8 @@
       <tuv lang="pl">
         <seg>Wyśmienity strój kolczy</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Чудова кольчуга</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T104305Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Найкраща кольчуга</seg>
       </tuv>
     </tu>
     <tu>
@@ -50472,8 +50544,8 @@
       <tuv lang="pl">
         <seg>Właśnie, dziękuję za twoją pomoc w całym tym zajściu. Bez ciebie nie udałoby się nam znaleźć zamachowca.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Саме так, дякуємо вам за вашу допомогу під час цього інциденту. Без вас ми б не змогли знайти терориста.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T105149Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Саме так, дякую тобі за твою допомогу під час цього інциденту. Без тебе ми б не змогли знайти зловмисника.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53120,8 +53192,8 @@
       <tuv lang="pl">
         <seg>Zeznania Mistrza Tengrala i paladyna Runara, wyraźnie wykluczają jego udział w spisku.</seg>
       </tuv>
-      <tuv lang="uk" changeid="TMX_Merger" changedate="20240603T213629Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
-        <seg>[DEEPL]Свідчення магістра Тенграла та паладина Рунара однозначно виключають його причетність до змови.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T111032Z" creationid="TMX_Merger" creationdate="20240603T213629Z">
+        <seg>Свідчення магістра Тенграла та паладина Рунара однозначно виключають його причетність до змови.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59074,6 +59146,14 @@
       </tuv>
       <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Слизькорукий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
+        <seg>Śmiało! Dawno nie biłem pachołka stajennego. Może jeszcze pamiętam, jak się to robi.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240609T113701Z" creationid="Glіban" creationdate="20240609T111642Z">
+        <seg>Давай! Давненько я не бив тупих конюхів. Але я ще пам'ятаю, як це робиться.</seg>
       </tuv>
     </tu>
     <tu>
