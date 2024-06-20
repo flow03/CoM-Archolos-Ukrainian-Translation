@@ -294,7 +294,7 @@ Gwiazda Polarna - Pracownia astrologa	Полярна Зоря – Астроло
 Austeria Ernesto - Karczma	Гостинний двір Ернесто – Корчма
 Dolina Świtu - Sklep meblowy	Долина Світанку – Меблевий магазин
 Odyseja - Kartograf	Одіссея – Картограф
-Mroczne Tajemnice - Zamtuz	Темні Секрети – Будинок розпусти
+Mroczne Tajemnice - Zamtuz	Темні Таємниці – Будинок розпусти
 Zdarzenie Na Morzu - Stocznia	Випадок у Морі – Корабельня
 Ostatnie Starcie - Pracownia kowalska	Останнє Зіткнення – Майстерня коваля
 Podróżnik - Sklep z różnościami	Мандрівник – 1000 Дрібниць
@@ -337,15 +337,15 @@ Do Dzielnicy Rzemieślników	До Кварталу ремісників
 Do koszar miejskich	До міських казарм
 Do Starego Miasta	До Старого міста
 Koszary miejskie, Stare Miasto	Міські казарми, Старе місто
-Do portu wschodniego	До східної частини гавані
-Do portu zachodniego	До західної частини гавані
+Do portu wschodniego	До східної частини порту
+Do portu zachodniego	До західної частини порту
 Do kaplicy Adanosa	До святилища Аданоса
 Do stoczni	До корабельні
 Do Targu Rybnego	До рибного ринку
 Stocznia, Targ Rybny	Корабельня, рибний ринок
 Do tawerny 'Syreni Lament'	До корчми 'Плач Сирени'
-Do Mrocznych Tajemnic	До Темних Секретів
-Tawerna 'Syreni Lament', Mroczne Tajemnice	Корчма 'Плач сирени', Темні Секрети
+Do Mrocznych Tajemnic	До Темних Таємниць
+Tawerna 'Syreni Lament', Mroczne Tajemnice	Корчма 'Плач сирени', Темні Таємниці
 Do Targowiska	До ринкової площі
 Do ratusza miejskiego	До міської ратуші
 Do biura skryby miejskiego	До міської писарської контори
@@ -353,8 +353,8 @@ Do 'Pękniętej Struny'	До 'Обірваної струни'
 Zejście do kanałów	Вхід в каналізацію
 Wyjście do miasta - Gildia Kupiecka	Вихід до міста – Торгова Гільдія
 Wyjście do miasta - Targowisko	Вихід до міста – Ринкова площа
-Wyjście do miasta - Dzielnica Rzemieślników	Вихід до міста – Квартал ремісників
-Wyjście do miasta - Port	Вихід до міста - Гавань
+Wyjście do miasta - Dzielnica Rzemieślników	Вихід до міста – Ремісничий квартал
+Wyjście do miasta - Port	Вихід до міста - Порт
 Północna brama	Північні ворота
 Wschodnia brama	Східні ворота
 Zachodnia brama	Західні ворота
@@ -396,10 +396,10 @@ Przemytnik	Контрабандист
 Starzec	Старець
 Agitator	Агітатор
 Astrolog	Астролог
-Buntowniczy obywatel	Бунтар
-Nierozgarnięty obywatel	Похмурий горожанин
-Wściekły obywatel	Сердитий горожанин
-Wściekła obywatelka	Сердита горожанка
+Buntowniczy obywatel	Бунтівний містянин
+Nierozgarnięty obywatel	Похмурий містянин
+Wściekły obywatel	Сердитий містянин
+Wściekła obywatelka	Сердита містянка
 Ogrodnik	Садівник
 Wściekły rybak	Сердитий рибалка
 Wściekły farmer	Сердитий фермер
@@ -412,7 +412,7 @@ Włóczęga	Волоцюга
 Bezdomny	Безхатько
 Oślepiony	Сліпий
 Podejrzany typ	Підозрілий чоловік
-Podejrzany obywatel	Підозрілий горожанин
+Podejrzany obywatel	Підозрілий містянин
 Tajemniczy osobnik	Загадковий чоловік
 Nieznajomy	Незнайомець
 Handlarz	Торговець
@@ -434,8 +434,8 @@ Człowiek Ramseya	Людина Рамзі
 Wilczy Syn	Вовчий Син
 Pijany Wilczy Syn	П'яний Вовчий Син
 Szalony Wilczy Syn	Скажений Вовчий Син
-Zmartwiona obywatelka	Стурбована горожанка
-Rozgniewana obywatelka	Сердита горожанка
+Zmartwiona obywatelka	Стурбована містянка
+Rozgniewana obywatelka	Сердита містянка
 Adorator	Шанувальник
 Goniec Araxos	Перевізник Араксос
 Przewoźnik	Перевізник
@@ -461,7 +461,7 @@ Nordmarczyk	Нордмарець
 Recepcjonista	Адміністратор
 Mag Ognia	Маг Вогню
 Mag Wody	Маг Води
-Szanowany obywatel	Шанований горожанин
+Szanowany obywatel	Шанований містянин
 Ambitny nowicjusz	Амбітний послушник
 Aktywny nowicjusz	Активний послушник
 Dziwny nowicjusz	Дивний послушник
@@ -498,7 +498,7 @@ Pasterz	Пастух
 Łowca	Мисливець
 Myśliwy	Загонич
 Łotr	Лиходій
-Wartownik	Чатовий
+Wartownik	Охоронець
 Nerwowy mężczyzna	Нервовий чоловік
 Wyjątkowo podejrzany mężczyzna	Вкрай підозрілий чоловік
 Duży Ben	Великий Бен
@@ -541,9 +541,9 @@ Dziwny facet	Дивний чоловік
 Miłośnik gier	Любитель ігор
 Stary farmer	Старий фермер
 Uciekinier	Втікач
-Podejrzana obywatelka	Підозріла горожанка
+Podejrzana obywatelka	Підозріла містянка
 Człowiek z blizną	Людина зі шрамом
-Osobliwy obywatel	Незвичайний горожанин
+Osobliwy obywatel	Незвичайний містянин
 Dziwny kucharz	Дивний кухар
 Pijany bezdomny	П'яний безхатько
 Biedna wdowa	Бідна вдова
@@ -556,8 +556,8 @@ Herold	Вісник
 Człowiek Holdwiga	Людина Гольдвіга
 Człowiek Andreasa	Людина Андреаса
 Widz	Глядач
-Zmartwiony obywatel	Стурбований горожанин
-Zaniepokojony obywatel	Занепокоєний горожанин
+Zmartwiony obywatel	Стурбований містянин
+Zaniepokojony obywatel	Занепокоєний містянин
 Śliskoręki	Слизькорукий
 Mokry	Мокриня
 Siekiernik	Люторуб
@@ -579,7 +579,7 @@ Krwiożerca	Кровосос
 Lodowy wilk	Крижаний вовк
 Lodowe wilki	Крижані вовки
 Niedźwiedź albinos	Білий ведмідь
-Śpiący cieniostwór	Сплячий мракорис
+Śpiący cieniostwór	Сплячий тінезвір
 Chore szczury	Заражені щурі
 Chory szczur	Заражений щур
 Kryształowy golem	Кришталевий голем
@@ -620,8 +620,8 @@ Mały krwiopijca	Молодий шершень
 Bagienny krwiopijca	Болотний шершень
 Rzeczny krwiopijca	Річковий шершень
 Błotniak	Мулиста черепаха
-Cieniostwór	Мракорис
-Młody cieniostwór	Молодий мракорис
+Cieniostwór	Тінезвір
+Młody cieniostwór	Молодий тінезвір
 Olbrzymi szczur	Гігантський щур
 Młody olbrzymi szczur	Молодий гігантський щур
 Czarny szczur	Чорний щур
@@ -729,7 +729,7 @@ Bagienny golem	Болотний голем
 Bagienny szczur	Болотний щур
 Smoczy zębacz	Драконячий снеппер
 Ognisty jaszczur	Вогняний ящір
-Szkielet-cieniostwór	Скелет мракориса
+Szkielet-cieniostwór	Скелет тінезвіра
 Królowa pełzaczy	Королева повзунів
 Larwa pełzacza	Личинка повзуна
 Młody pełzacz	Молодий повзун
@@ -833,7 +833,7 @@ Klucz z winnicy Valerio	Ключ від виноградника Валеріо
 Klucz Lokvara	Ключ Локвара
 Do kufra we wraku okrętu.	Від скрині на затопленому кораблі.
 Do skrzyni pasterza.	Від скрині пастуха.
-Do kaplicy w wiosce Silbach.	Від каплиці в селі Зільбах.
+Do kaplicy w wiosce Silbach.	Від каплиці в селі Cільбах.
 Do pokoju w tawernie.	Від кімнати в корчмі.
 Do starej skrzyni.	Від старої скрині
 Do pokoju kultystów.	Від кімнати окультистів.
@@ -927,7 +927,7 @@ Pazur morskiego topielca	Кігті морського луркера
 Sadło bagiennego szczura	Жир болотного щура
 Niedźwiedzie sadło	Жир ведмедя
 Żuwaczki leśnej bestii	Нижні щелепи лісового хижака
-Stary róg cieniostwora	Старий ріг мракориса
+Stary róg cieniostwora	Старий ріг тінезвіра
 Jajo ścierwojada	Яйце падальника
 Jajo pełzacza	Яйце повзуна
 Skorupa błotniaka	Панцир мулистої черепахи
@@ -961,12 +961,12 @@ Skóra warga	Шкура варга
 Skóra dzika	Шкура кабана
 Róg smoczego zębacza	Ріг драконячого снеппера
 Płyty pancerza pełzacza	Пластини панциря повзуна
-Skóra cieniostwora	Шкура мракориса
+Skóra cieniostwora	Шкура тінезвіра
 Skóra błotnego węża	Шкіра болотожера
 Skóra trolla	Шкура троля
 Skóra czarnego trolla	Шкура чорного троля
 Język ognistego jaszczura	Язик вогняного ящера
-Róg cieniostwora	Ріг мракориса
+Róg cieniostwora	Ріг тінезвіра
 Kieł trolla	Ікло троля
 Kieł błotnego węża	Зуби болотожера
 Kość goblina	Кістка гобліна
@@ -974,7 +974,7 @@ Kość szkieletu	Кістка скелета
 Serce demona	Серце демона
 Skóra wściekłego dzika	Шкура скаженого кабана
 Skóra Tłuściocha	Шкіра Товстуна
-Skóra śpiącego cieniostwora	Шкура сплячого мракориса
+Skóra śpiącego cieniostwora	Шкура сплячого тінезвіра
 Skóra chorego szczura	Шкура хворого щура
 Skóra górskiego trolla	Шкура гірського троля
 Skóra smoka	Шкіра дракона
@@ -1401,7 +1401,7 @@ Trzaskający kościany łuk	Тріскучий кістяний лук
 Łuk dębowy	Дубовий лук
 Lekki łuk dębowy	Легкий дубовий лук
 Jastrząb	Яструб
-Pogromca cieniostworów	Вбивця мракорисів
+Pogromca cieniostworów	Вбивця тінезвірів
 Błękitny Orzeł	Синій орел
 Wyrwana umarłemu.	Вирвана з мерця.
 Strój Ivy	Вбрання Айві
@@ -1496,7 +1496,7 @@ Ciężki pancerz Wilczego Syna	Важкий обладунок Вовчого С
 Zniszczony pancerz Wilczego Syna	Зламаний обладунок Вовчого Сина
 Bogaty strój z czapką	Заможне вбрання з капелюхом
 Bogaty strój	Заможне вбрання
-Strój obywatela	Вбрання горожанина
+Strój obywatela	Вбрання містянина
 Strój roboczy	Робоче вбрання
 Suknia farmerki	Сукня фермерки
 Lekka zbroja Straży Królewskiej	Легкий обладунок королівської гвардії
@@ -1649,8 +1649,8 @@ Surowe mięso kretoszczura	Сире м'ясо кротощура
 Smażone mięso kretoszczura	Смажене м'ясо кротощура
 Surowe mięso wilka	Сире м'ясо вовка
 Smażone mięso wilka	Смажене м'ясо вовка
-Surowe mięso cieniostwora	Сире м'ясо мракориса
-Smażone mięso cieniostwora	Смажене м'ясо мракориса
+Surowe mięso cieniostwora	Сире м'ясо тінезвіра
+Smażone mięso cieniostwora	Смажене м'ясо тінезвіра
 Surowe mięso ścierwojada	Сире м'ясо падальщика
 Smażone mięso ścierwojada	Смажене м'ясо падальщика
 Surowe mięso trolla	Сире м'ясо троля
@@ -1712,7 +1712,7 @@ Tłusty gulasz	Жирне м'ясне рагу
 Specjalność łowcy	Фірмова страва мисливця
 Potrawka szybkości	Ліниве рагу
 Wędzona ryba ziołowa	Копчена риба з травами
-Pieprzny stek	Стейк з прянощами
+Pieprzny stek	Відбивна з прянощами
 Mięsne paczuszki	Голубці
 Wywar z grzybów i ziół	Бульйон з грибами та травами
 Konfitura z jagód	Ягідне варення
@@ -1794,8 +1794,8 @@ Lekki skórzany pancerz (300 SZ)	Легкий шкіряний обладуно�
 Strój kolczy (800 SZ)	Кольчуга (800 золота)
 Lekki strój kolczy (500 SZ)	Легка кольчуга (500 золота)
 (Kup strój bogatego kupca - 400 SZ)	(Придбати вбрання багатого торговця - 400 золота)
-(Kup strój obywatela - 200 SZ)	(Придбати вбрання горожанина - 200 золота)
-(Kup zużyty strój obywatela - 100 SZ)	(Придбати поношене вбрання горожанина - 100 золота)
+(Kup strój obywatela - 200 SZ)	(Придбати вбрання містянина - 200 золота)
+(Kup zużyty strój obywatela - 100 SZ)	(Придбати поношене вбрання містянина - 100 золота)
 (Kup czerwony strój)	(Придбати червоне вбрання)
 (Kup zielony strój)	(Придбати зелене вбрання)
 (Kup niebieski strój)	(Придбати синє вбрання)
@@ -1842,7 +1842,7 @@ Trener - Folkard	Вчитель – Фолкард
 Trener - Markus	Вчитель – Маркус
 Trener - Kipper	Вчитель – Кіпер
 Trener - Stone	Вчитель – Стоун
-Zarejestrowani handlarze - Silbach	Зареєстровані торговці – Зільбах
+Zarejestrowani handlarze - Silbach	Зареєстровані торговці – Cільбах
 Trener - Straż miejska	Вчителі – Міська варта
 Trener - Gildia Kupiecka	Вчителі – Торгова Гільдія
 Trener - Norman	Вчитель – Норман
@@ -1852,7 +1852,7 @@ Trener - Nirka	Вчитель – Нірка
 Trener - Dack	Вчитель – Дак
 Trener - Patracjan	Вчитель – Патриціан
 Zarejestrowani handlarze - Miasto	Зареєстровані торговці – Місто
-Zarejestrowani handlarze - Port	Зареєстровані торговці – Гавань
+Zarejestrowani handlarze - Port	Зареєстровані торговці – Порт
 Zarejestrowani handlarze - Stare Miasto	Зареєстровані торговці – Старе місто
 Licytacja w Starym Mieście	Аукціон у Старому місті
 Ochrona do Kopalni Soli poszukiwana	Потрібна охорона в Соляну шахту
@@ -1953,7 +1953,7 @@ Zaczekaj do następnej północy.	Зачекати до наступної оп�
 Zaczekaj do końca mszy.	Зачекати до закінчення служби.
 Zaczekaj do trzeciej w nocy.	Зачекати до третьої години ночі.
 Miasto	Місто
-Silbach	Зільбах
+Silbach	Cільбах
 Wilcze Leże	Вовче Лігво
 Klasztor	Монастир
 Przystań	Гавань
@@ -2048,7 +2048,7 @@ Ukradłem go Rodrigo.	Я вкрав його у Родріго.
 Oby się nie zorientował.	Сподіваюся, що він не здогадається.
 Klucz, który zabrałem	Ключ, який я взяв
 jednemu z ludzi Lichwiarza	у одного з людей Лихваря
-w magazynie portowym.	на складі в гавані.
+w magazynie portowym.	на складі в порту.
 Klucz, którym otworzę pewnie	Ключ, яким я, можливо, відчиню
 jakieś drzwi w podziemiach Vardhal.	якісь двері у підземеллях Вардхала.
 Otwiera boczne drzwi kościoła.	Відчиняє бічні двері церкви.
@@ -2133,7 +2133,7 @@ Bestiariusz: Ścierwojady	Бестіарій: Падальники
 Bestiariusz: Trolle	Бестіарій: Тролі
 Bestiariusz: Pełzacze	Бестіарій: Повзуни
 Bestiariusz: Harpie	Бестіарій: Гарпії
-Bestiariusz: Cieniostwory	Бестіарій: Мракориси
+Bestiariusz: Cieniostwory	Бестіарій: Тінезвірі
 Bestiariusz: Niedźwiedzie	Бестіарій: Ведмеді
 Bestiariusz: Węże	Навчання: Болотожери і хвилежери
 Bestiariusz: Szczury	Бестіарій: Щурі
@@ -2177,7 +2177,7 @@ Receptura: Mikstura Odnowy Many	Рецепт: Зілля відновлення 
 Receptura: Długotrwała mikstura Odnowy Życia	Рецепт: Довготривале зілля відновлення здоров'я
 Receptura: Długotrwała mikstura Odnowy Many	Рецепт: Довготривале зілля відновлення мани
 Schemat: Nóż do mięsa	Креслення: Ніж різника
-Schemat: Krótki miecz wartownika	Креслення: Короткий меч чатового
+Schemat: Krótki miecz wartownika	Креслення: Короткий меч охоронця
 Schemat: Wilczy kieł	Креслення: Вовче ікло
 Schemat: Duży nóż	Креслення: Великий ніж
 Schemat: Dobry krótki miecz	Креслення: Хороший короткий меч
@@ -2472,7 +2472,7 @@ Amulet magii	Амулет магії
 Amulet mocy	Амулет могутності
 Amulet oświecenia	Амулет просвітлення
 Trofeum interesujące jedynie	Трофей, цікавий лише
-kolekcjonerów.	колекціонерам.
+kolekcjonerów.	коллекционерам.
 Żuwaczki bez szczególnych	Нижні щелепи без особливих
 właściwości alchemicznych.	алхімічних властивостей.
 Zawierają silną wydzielinę.	Вони містять сильну секрецію.
@@ -2712,7 +2712,7 @@ Sproszkowana magiczna ruda.	Порошок з магічної руди.
 Zmień wygląd ścian w swoim domu!	Змініть вигляд стін у вашому помешканні!
 Dobra alternatywa dla dywanu!	Хороша альтернатива килиму!
 Głowa wilka	Голова вовка
-Głowa cieniostwora	Голова мракориса
+Głowa cieniostwora	Голова тінезвіра
 Głowa niedźwiedzia	Голова ведмедя
 Głowa trolla	Голова троля
 Obraz 1	Картина 1
@@ -2817,8 +2817,8 @@ Jasny strój myśliwego	Світле вбрання мисливця
 Zniszczony strój myśliwego	Зношений обладунок мисливця
 Szary strój myśliwego	Сіре вбрання мисливця
 Ciemny strój myśliwego	Темне вбрання мисливця
-Zużyty strój obywatela	Поношене вбрання горожанина
-Strój obywatela	Вбрання горожанина
+Zużyty strój obywatela	Поношене вбрання містянина
+Strój obywatela	Вбрання містянина
 Strój bogatego kupca	Вбрання багатого торговця
 Czarno-biały strój	Чорно-біле вбрання
 Oliwkowo-czerwony strój	Оливково-червоне вбрання
@@ -3018,7 +3018,7 @@ Zardzewiały lekki oszczep	Іржавий легкий кортик
 Negocjator	Перемовник
 Zardzewiały Negocjator	Іржавий Перемовник
 Przebijacz	Пронизувач
-Łowca cieniostworów	Мисливець на мракорисів
+Łowca cieniostworów	Мисливець на тінезвірів
 Poskramiacz Trolli	Приборкувач тролів
 Wyważona glewia	Збалансована глефа
 Glewia	Глефа
@@ -3151,7 +3151,7 @@ Moje rzeczy	Мої речі
 Pieczęć Rodericha	Печатка Родеріха
 Plan ataku	План атаки
 Niewysłany list	Невідправлений лист
-Stary list truposza z portu	Стара записка померлого з гавані
+Stary list truposza z portu	Стара записка померлого з порту
 Ostrzeżenie o Siepaczu	Попередження про Сироту
 Potrawka z dorsza	Тушкована тріска
 Wiadomość Petry	Повідомлення Петри
@@ -3317,7 +3317,7 @@ Wybrzuszona księga	Випукла книга
 Receptura Dagoberta	Рецепт Дагоберта
 Lista przedmiotów Riordiana	Перелік предметів Ріордіана
 Mądrość Bogów	Мудрість Богів
-Bestiariusz: Cieniostwory	Бестіарій: Мракориси
+Bestiariusz: Cieniostwory	Бестіарій: Тінезвірі
 Astronomia	Астрономія
 Vengardu Świt	Світанок Венгарду
 Dar od Bogów	Дар Богів
@@ -3393,8 +3393,8 @@ Mapa wyspy Archolos	Мапа острова Архолос
 Mapa wyspy Archolos ze znacznikami	Мапа острова Архолос з позначками
 Mapa miasta Archolos	Мапа міста Архолос з позначками
 Mapa miasta Archolos	Мапа міста Архолос з позначками
-Mapa wioski Silbach	Мапа селища Зільбах з позначками
-Mapa wioski Silbach	Мапа селища Зільбах з позначками
+Mapa wioski Silbach	Мапа селища Cільбах з позначками
+Mapa wioski Silbach	Мапа селища Cільбах з позначками
 Mapa do skarbu	Мапа скарбів
 Lista materiałów na miecz strażnika	Перелік матеріалів для меча вартового
 List adresowany do przyjaciela	Лист, адресований другові
@@ -3462,7 +3462,7 @@ Srebrny Dwór: Tom IV	Срібний двір. Том IV
 Srebrny Dwór: Tom V	Срібний двір. Том V
 Przewodnik obcokrajowca po Archolos: Tom I - Wprowadzenie	Путівник по Архолосу. Том I - Вступ
 Przewodnik obcokrajowca po Archolos: Tom II - Miasto	Путівник по Архолосу. Том II - Місто
-Przewodnik obcokrajowca po Archolos: Tom III - Wieś Silbach	Путівник по Архолосу. Том III - Село Зільбах.
+Przewodnik obcokrajowca po Archolos: Tom III - Wieś Silbach	Путівник по Архолосу. Том III - Село Cільбах.
 Przewodnik obcokrajowca po Archolos: Tom IV - Osady rybackie	Путівник по Архолосу. Том IV - Рибальські поселення
 Przewodnik obcokrajowca po Archolos: Tom V - Farma Bermara	Путівник по Архолосу. Том V - Ферма Бермара
 Przewodnik obcokrajowca po Archolos: Tom VI - Winnice	Путівник по Архолосу. Том VI - Виноградники
@@ -3553,7 +3553,7 @@ Wiadomość	Послання
 Głowy Pełzaczy poszukiwane!	Потрібні голови богомолів!
 Plan Vicente	План Вісенте
 Zlecenie na płytki pancerza pełzaczy	Замовлення для панцирі повзунів
-Sezon łowiecki na cieniostwory!	Сезон полювання на мракорисів!
+Sezon łowiecki na cieniostwory!	Сезон полювання на тінезвірів!
 Potęga Boskiego Światła	Сила Божественного Світла
 Podmokłe pismo	Промоклий лист
 Nieuprzejmy list	Грубий лист
@@ -3832,7 +3832,7 @@ Chrupiący rarytas, rozpowszechniony wśród	Хрусткий делікатес
 biedniejszych mieszkańców Archolos,	найбідніших мешканців Архолосу,
 który przyrządzany jest z rybnych odpadków.	приготований з рибних решток.
 Lokalny mięsny przysmak opiekany nad ogniskiem,	Місцевий м'ясний делікатес, підсмажений на багатті,
-zajadany w okolicy Wilczego Leża i wioski Silbach.	який їдять в околицях Вовчого Лігва та в селі Зільбах.
+zajadany w okolicy Wilczego Leża i wioski Silbach.	який їдять в околицях Вовчого Лігва та в селі Cільбах.
 Chrupkie źródło białka, często ratuje przed	Хрустке джерело білка, часто рятує від
 głodem tych, którym nie poszczęściło się	голоду тих, кому не пощастило
 podczas łowów.	на полюванні.
@@ -3969,7 +3969,7 @@ Może zaspokoić głód na cały dzień!	Може втамувати голод 
 Wystarczy łyk,	Лише один ковток
 by od razu postawił na nogi.	здатен миттєво поставити вас на ноги.
 Świetny dodatek do	Чудове доповнення до
-smażonego mięsa cieniostwora.	смаженого м'яса мракориса.
+smażonego mięsa cieniostwora.	смаженого м'яса тінезвіра.
 Uwielbiane przez Magów Wody,	Його обожнюють маги Води
 z klasztoru na Archolos.	з монастирю на Архолосі.
 Wspaniała mieszanka wszystkich smaków!	Дивовижне поєднання всіх смаків!
@@ -4134,7 +4134,7 @@ Hershlika.	Гершліка.
 Muszę je zasadzić.	Мені потрібно його посадити.
 Akt własności, który dostałem od żeglarza.	Акт власності, який я отримав від моряка.
 Zgodnie z jego treścią, jestem teraz właścicielem	Згідно з ним, я тепер володію
-domu przy Targu Rybnym w porcie.	будинком біля Рибного ринку в гавані.
+domu przy Targu Rybnym w porcie.	будинком біля Рибного ринку в порту.
 Klucz, który dostałem od żeglarza.	Ключ, який я отримав від моряка.
 Pokryty grubą warstwą kurzu mieszek.	Гаманець, вкритий товстим шаром пилу.
 W środku pobrzękują monety.	Всередині дзвенять монети.
@@ -4154,7 +4154,7 @@ na temat zasad gry w szachy.	про правила гри в шахи.
 Matey wymaga takich referencji	Матей вимагає такі рекомендації
 do nadania obywatelstwa.	для надання громадянства.
 Oprócz pochwał nie ma tu nic ciekawego.	Окрім похвали, тут немає нічого цікавого.
-Jedna z części dźwigu portowego.	Одна з деталей крана у гавані.
+Jedna z części dźwigu portowego.	Одна з деталей портового крана.
 Pismo od Ruuda do Beinarda.	Лист від Рууда до Бейнарда.
 Wyraża w nim zgodę na zabieg.	У ньому він дає свою згоду на проведення операції.
 Zapachem bardziej przypomina ocet niż wino.	Запах більше нагадує оцет, ніж вино.
@@ -4176,10 +4176,10 @@ Uszkodzona woskowa pieczęć z emblematem	Пошкоджена воскова п
 straży miejskiej i wyrytym imieniem 'RODERICH'.	міської варти та викарбуваним іменем 'РОДЕРІХ'.
 Notatki Salviego, które znalazłem w jego skrzyni.	Записка Сальві з його скрині.
 Przygotowuje się do czegoś większego.	Він готується до чогось більшого.
-Znalazłem go w porcie.	Я знайшов його в гавані.
+Znalazłem go w porcie.	Я знайшов його в порту.
 Wygląda, jakby nie zdążył zostać wysłany.	Схоже, його не встигли відправити.
 Znalazłem go przy zwłokach	Я знайшов його біля трупа,
-leżących pośrodku portu.	що лежав посеред гавані.
+leżących pośrodku portu.	що лежав посеред порту.
 List, który znalazłem przy ciele na bagnie.	Лист, який я знайшов біля тіла на болоті.
 Jest w nim ostrzeżenie o jakimś Cortezie i Siepaczu.	У ньому попередження про якихось Кортеса і Сироту.
 Pożywny wywar przygotowany	Поживний бульйон приготовано
@@ -4235,7 +4235,7 @@ Lepiej tego nie ruszać.	Краще це не чіпати.
 Specjalny znak dla Antonio,	Спеціальний знак для Антоніо,
 który otrzymałem od Corteza.	який я отримав від Кортеса.
 Dokument potwierdza opłacenie	Документ підтверджує оплату
-dostaw dla Przystani Łotrów.	постачання для Притулку негідників.
+dostaw dla Przystani Łotrów.	постачання для Гавані негідників.
 Otrzymałem je od Szmuglera.	Я отримав його від Койота.
 Znalazłem go przy ciele Antonio.	Я знайшов його на тілі Антоніо.
 Lista Corteza, którą mam przekazać Antonio.	Список Кортеса, який мав бути переданий Антоніо.
@@ -4430,7 +4430,7 @@ Wygląda, jakby miała przynajmniej kilka lat.	Виглядає так, ніби
 Znalazłem ją przy ciele w piwnicy Bodowina.	Я знайшов її біля тіла в підвалі Бодовіна.
 Znalazłem to ogłoszenie w piwnicy Bodowina.	Я знайшов це оголошення в підвалі Бодовіна.
 Warunki kapitulacji dla Corteza	Умови капітуляції для Кортеса
-i całej Przystani Łotrów.	і усього Притулку негідників.
+i całej Przystani Łotrów.	і усієї Гавані негідників.
 Księga wygląda, jakby coś ukryto pomiędzy stronami.	Книга виглядає так, ніби між сторінками щось заховано.
 Oryginalna receptura mistrza Dagoberta.	Оригінальний рецепт майстра Дагоберта.
 Ledwo można coś z tego odczytać.	Майже нічого не можна розібрати.
@@ -4439,7 +4439,7 @@ potrzebuje do przygotowania stanowiska	Ріордіану для підгото�
 alchemicznego w klasztorze.	алхімічного столу в монастирі.
 Księga z biblioteki klasztornej.	Книга з бібліотеки монастиря.
 Muszę odłożyć ją na odpowiednią półkę.	Мені потрібно покласти її назад на правильну полицю.
-Książka opisująca walkę z cieniostworami.	Книга описує, як боротись з мракорисами.
+Książka opisująca walkę z cieniostworami.	Книга описує, як боротись з тінезвірами.
 Jeden z przedmiotów, które	Один з предметів, необхідних
 Riordian potrzebuje do przygotowania	Ріордіану для підготовки
 stołu alchemicznego.	алхімічного столу.
@@ -4533,7 +4533,7 @@ Runa teleportująca do opuszczonej jaskini	Руна телепортації д�
 przy mieście Archolos.	біля міста Архолос.
 Runa teleportująca do twierdzy Vardhal.	Руна телепортації до фортеці Вардхал.
 Runa teleportująca do kapliczki	Руна телепортації до каплиці
-w wiosce Silbach.	в селі Зільбах.
+w wiosce Silbach.	в селі Cільбах.
 Runa teleportująca do jaskini	Руна телепортації до печери
 na Mglistych Moczarach.	на Туманних болотах.
 Runa teleportująca do jaskini	Руна телепортації до печери
@@ -4542,7 +4542,7 @@ Runa teleportująca do jaskini	Руна телепортації до печер
 w okolicy winnicy Rity.	біля виноградника Рити.
 Runa teleportująca do Wilczego Leża,	Руна телепортації до Вовчого Лігва,
 twierdzy Wilczych Synów.	фортеці Вовчих Синів.
-Runa teleportująca do Przystani Łotrów.	Руна телепортації в Притулок негідників.
+Runa teleportująca do Przystani Łotrów.	Руна телепортації в Гавань негідників.
 Runa teleportująca do klasztoru Magów Wody.	Руна телепортації до монастиря магів Води.
 Runa teleportująca do starej krypty	Руна телепортації до старої гробниці
 przy twierdzy Vardhal.	біля фортеці Вардхал.
@@ -4604,7 +4604,7 @@ Książka opisująca walkę z ścierwojadami.	Книга описує, як бо
 Książka opisująca walkę z trollami.	Книга описує, як боротись з тролями.
 Książka opisująca walkę z pełzaczami.	Книга описує, як боротись з повзунами.
 Książka opisująca walkę z harpiami.	Книга описує, як боротись з гарпіями.
-Książka opisująca walkę z cieniostworami.	Книга описує, як боротись з мракорисами.
+Książka opisująca walkę z cieniostworami.	Книга описує, як боротись з тінезвірами.
 Książka opisująca walkę z niedźwiedziami.	Книга описує, як боротись з ведмедями.
 Książka opisująca walkę	Книга описує, як боротись
 z wężami błotnymi i morskimi.	з болотожерами і хвилежерами.
@@ -4643,7 +4643,7 @@ Zlecenie polowania na Twardziela.	Мисливське замовлення на
 Zlecenie polowania na Krwiożercę.	Мисливське замовлення на Кровососа.
 Zlecenie polowania na lodowe wilki.	Мисливське замовлення на крижаних вовків.
 Zlecenie polowania na białego niedźwiedzia.	Мисливське замовлення на білого ведмедя.
-Zlecenie polowania na śpiącego cieniostwora.	Мисливське замовлення на сплячого мракориса.
+Zlecenie polowania na śpiącego cieniostwora.	Мисливське замовлення на сплячого тінезвіра.
 Zlecenie polowania na chore szczury.	Мисливське замовлення на заражених щурів.
 Zlecenie polowania na kryształowego golema.	Мисливське замовлення на кришталевого голема.
 Zlecenie polowania na trolle górskie.	Мисливське замовлення на гірських тролів.
@@ -4705,7 +4705,7 @@ Znalazłem ją przy bandycie	Я знашов її у бандита
 w pobliżu pracowni Bodowina.	біля майстерні Бодовіна.
 Znalazłem ten dziennik przy ciele Detlowa.	Я знайшов цей щоденник біля тіла Детлоу.
 Zerwałem ją z ciała Oscara,	Я вирвав її з тіла Оскара,
-powieszonego w Przystani.	повішеного у Притулку негідників.
+powieszonego w Przystani.	повішеного у Гавані негідників.
 Dziwaczne wojaże pięciu wojowników w	Химерні пригоди п'ятьох сміливців
 poszukiwaniu ukrytego skarbu.	у пошуках захованих скарбів.
 Niestety, brakuje zakończenia.	На жаль, кінцівка відсутня.
@@ -4772,7 +4772,7 @@ Czuję, że nie powinienem tego czytać...	Мені здається, що я н
 Ten dziennik musiał przeleżeć tu bardzo długo.	Цей щоденник, мабуть, пролежав тут дуже довго.
 Wygląda na niedawno napisany.	Схоже, що він був написаний нещодавно.
 Stara, wiejska przypowieść.	Стара сільська притча.
-Księga o początkach wioski Silbach,	Книга про походження села Зільбах,
+Księga o początkach wioski Silbach,	Книга про походження села Cільбах,
 nieznanego autora.	невідомого автора.
 Opis wyspy Archolos z perspektywy przybysza.	Опис острова Архолос з точки зору новоприбулого.
 Ktoś, kto ją pisał, nie pała miłością do obcych.	Той, хто це написав, не дуже полюбляє чужинців.
@@ -4811,7 +4811,7 @@ Książka opisująca rodzaje obrażeń.	Книга з описом різних 
 Księga o historii, produkcji	Книга про історію, виробництво
 i charakterystyce wina, pióra Montresora.	та характеристики вина, автор Монтрезор.
 Karta praw i obowiązków	Статут прав та обов'язків
-mieszkańców wioski Silbach i przybyszów.	мешканців села Зільбах та новоприбулих.
+mieszkańców wioski Silbach i przybyszów.	мешканців села Cільбах та новоприбулих.
 To cud, że większość słów	Це диво, що більшість слів
 jest nadal czytelna.	все ще можна прочитати.
 Na liście znajduje się złamana królewska pieczęć.	На листі зламана королівська печатка.
@@ -4831,8 +4831,8 @@ Karteczka, którą znalazłem w kuchni,	Записка, я знайшов на �
 w karczmie Bastiana.	в корчмі Бастіана.
 Karteczka, którą znalazłem w domu Venzela.	Записка, яку я знайшов у будинку Венцеля.
 Karteczka, którą znalazłem	Записка, яку я знайшов
-przy arenie w Przystani Łotrów.	біля арени Притулку Негідників.
-w karczmie w Przystani Łotrów.	в корчмі, у Притулку негідників.
+przy arenie w Przystani Łotrów.	біля арени Гавані негідників.
+w karczmie w Przystani Łotrów.	в корчмі, у Гавані негідників.
 w kuźni w Wilczym Leżu.	у кузні, у Вовчому Лігві.
 w karczmie w Wilczym Leżu.	в корчмі, у Вовчому Лігві.
 Księga zawiera informacje o magii Innosa.	Книга містить інформацію про магію Інноса.
@@ -4999,3 +4999,304 @@ Ożywiony szkielet	Ожилий скелет
 Agresywny biedak	Агресивний волоцюга
 Agresywny uchodźca	Агресивний біженець
 Niechaj zgasną twoje gwiazdy!	Нехай твої зорі згаснуть!
+Zgoda!	Домовилися!
+Dawna bitwa.	Давня битва.
+Myrtany Brzask.	Світанок Міртани.
+Przez mgły widzę wyspę.	Я бачу острів крізь туман.
+Kapliczka Innosa w mieście.	Вівтар Інноса у місті.
+Kapliczka Adanosa w mieście.	Храм Аданоса в місті.
+Dom na Starym Mieście.	Будинок у Старому місті.
+Opuszczona jaskinia przy mieście.	Занедбана печера біля міста.
+Bursztynowe Wybrzeże.	Бурштинове узбережжя.
+Twierdza Vardhal.	Фортеця Вардхал.
+Silbach.	Сільбах.
+Przeklęte Bagna.	Кляте болото.
+Przystań Łotrów.	Гавань негідників.
+Wybrzeże Topielców.	Узбережжя Луркерів.
+Opuszczona jaskinia przy winnicy Rity.	Занедбана печера біля виноградника Рити.
+Wilcze Leże.	Вовче Лігво.
+Klasztor Magów Wody.	Монастир магів Води.
+Krypta przy twierdzy Vardhal.	Склеп біля фортеці Вардхал.
+Ustronie Żeglarza.	Притулок моряка.
+Na bagna.	До болота.
+Do portu.	До порту.
+Do stoczni.	До корабельні.
+Do klasztoru.	До монастиря.
+Do Kopalni Królewskiej.	До Королівських копалень.
+Do latarni morskiej.	До маяка.
+Do Bursztynowego Wybrzeża.	До Бурштинового узбережжя.
+Do lasu w Silbach.	До лісу коло Сільбаху.
+Na Ustronie Żeglarza.	До Притулку моряка.
+Do farmy Bermara.	До ферми Бермара.
+Brama wschodnia.	Східні ворота.
+Brama zachodnia.	Західні ворота.
+Świątynia Innosa.	Храм Інноса.
+Kaplica Adanosa.	Храм Аданоса.
+Willa Volkera.	Маєток Волкера.
+Stocznia.	Корабельня.
+Slumsy.	Нетрі.
+Plac rybny.	Рибний ринок.
+Plac Targowy.	Ринкова площа.
+Dzielnica Rzemieślników.	Ремісничий квартал.
+Koszary.	Казарми.
+Gildia Kupiecka.	Торгова Гільдія.
+Pęknięta Struna (Karczma Gerstanda).	Обірвана струна (корчма Герстанда).
+Syreni Lament (Karczma Helgi).	Плач сирени (корчма Хельги).
+Kopalnia Gildii Kupieckiej.	Копальня Торгової Гільдії.
+Obóz węglarzy.	Табір вуглярів.
+Farma Bermara.	Ферма Бермара.
+Winnica Rity.	Виноградник Рити.
+Winnica Valerio.	Виноградник Валеріо.
+Miasto Archolos.	Місто Архолос.
+Wioska Silbach.	Село Сільбах.
+Kopalnia królewska.	Королівська копальня.
+Pod Gildię Kupiecką.	До Торгової Гільдії.
+Pod łaźnię.	До бані.
+Do portu.	До порту.
+Pod dom.	До мого будинку.
+Skrzynia	Ящик
+Kufer	Скриня
+Łóżko	Ліжко
+Drzwi	Двері
+Kowadło	Ковадло
+Wiadro wody	Відро води
+Ogień w kuźni	Ковальський горн
+Osełka	Точильний камінь
+Kołowrót	Лебідка
+Stół alchemiczny	Алхімічний стіл
+Pulpit na książki	Книжковий стенд
+Regał na książki	Книжковий стенд
+Kocioł	Котел
+Patelnia	Сковорідка
+Fajka wodna	Кальян
+Przełącznik	Перемикач
+Bryłka rudy	Шматок руди
+Kuchnia	Плита
+Posąg Innosa	Статуя Інноса
+Stół runiczny	Рунний стіл
+Drewno do piłowania	Пиляти деревину
+Fotel	Крісло
+Lampa	Лампа
+Biblioteka	Бібліотека
+Samorodek złota	Золотий самородок
+Posąg Beliara	Статуя Беліара
+Brak przyn.	Без гільдії
+Strażnik	Вартовий
+Obywatel	Громадянин
+Najemnik	Найманець
+Święty płomień	Святе світло
+Pomniejsze uleczenie	Мале зцілення
+Święta strzała	Свята стріла
+Średnie uleczenie	Середнє зцілення
+Szkodzenie złu	Вигнання зла
+Większe uleczenie	Сильне зцілення
+Zniszczenie zła	Знищення зла
+Teleportacja	Телепорт
+Światło	Світло
+Ognista strzała	Вогняна стріла
+Lodowa strzała	Крижана стріла
+Leczenie lekkich ran	Лікування легких поранень
+Tworzenie szkieletu-goblina	Створення скелета-гобліна
+Kula ognia	Вогняна куля
+Porażenie	Мала блискавка
+Przyzwanie wilka	Виклик вовка
+Pięść wichru	Кулак вітру
+Sen	Сон
+Leczenie średnich ran	Лікування середніх поранень
+Mała burza ognista	Мала вогняна буря
+Tworzenie szkieletu	Створення скелета
+Strach	Страх
+Bryła lodu	Крижана брила
+Piorun kulisty	Кульова блискавка
+Błyskawica	Блискавка
+Obudzenie golema	Пробудження голема
+Zniszczenie ożywieńca	Знищення Нечисті
+Duża kula ognia	Велика Вогняна Куля
+Duża burza ognista	Велика Вогняна Буря
+Lodowa fala	Крижана Хвиля
+Przyzwanie demona	Виклик Демона
+Leczenie ciężkich ran	Лікування Важких Поранень
+Deszcz ognia	Вогняний Дощ
+Tchnienie śmierci	Подих Смерті
+Śmiertelna fala	Хвиля Смерті
+Armia ciemności	Армія Темряви
+Zmniejszenie potwora	Зменшення Монстра
+Przemiana w owcę	Перетворення у Вівцю
+Przemiana w ścierwojada	Перетворення в Падальника
+Przemiana w olbrzymiego szczura	Перетворення в Гігантського щура
+Przemiana w polną bestię	Перетворення в Польового хижака
+Przemiana w wilka	Перетворення у Вовка
+Przemiana w jaszczura	Перетворення в Ящера
+Przemiana w zębacza	Перетворення в Снеппера
+Przemiana w warga	Перетворення у Варга
+Przemiana w ognistego jaszczura	Перетворення у Вогняного ящера
+Przemiana w topielca	Перетворення в Луркера
+Przemiana w cieniostwora	Перетворення в Тінезвіра
+Przemiana w smoczego zębacza	Перетворення в Драконячого снеппера
+Przemiana w chrząszcza	Перетворення в М'ясного жука
+Święty pocisk	Святий Удар
+Powiększenie potwora	Збільшення Монстра
+Fala ognia	Вогняна Хвиля
+Grom	Буря
+Wir	Смерч
+Wodna pięść	Кулак Води
+Lodowa lanca	Крижаний Спис
+Spuchnięcie	Обман
+Gejzer	Гейзер
+Wodna różdżka	Стіна Води
+Plaga owadów	Комашина Чума
+Rój owadów	Комашиний Рій
+Korzeń	Коріння
+Trzęsienie ziemi	Землетрус
+Stworzenie Strażnika	Створення Стража
+Szał Beliara	Гнів Беліара
+Kradzież energii	Викрадення Енергії
+Święty wstrząs	Свята Хвиля
+Stworzenie zombie	Створення Зомбі
+Przyzwanie błotniaka	Виклик Болотної Черепахи
+Spowolnienie	Уповільнення
+Telekineza	Телекінез
+Otwieranie zamków	Зламування замків
+Kwas	Кислота
+Przyzwanie zębacza	Виклик Снеппера
+Przyzwanie niedźwiedzia	Виклик Ведмедя
+Br. 1-ręczna	Одноручне
+Br. 2-ręczna	Дворучне
+Łuki	Луки
+Kusze	Арбалети
+Włamywanie się	Зламування замків
+Pozyskiwanie zasobów	Видобуток ресурсів
+Skradanie się	Підкрадання
+Akrobatyka	Акробатика
+Kradzież kiesz.	Обкрадання
+Kowalstwo	Ковальство
+Tworzenie run	Створення рун
+Alchemia	Алхімія
+Zbieranie trofeów	Збір трофеїв
+Łuczarstwo	Виготовлення луків
+Pisanie zwojów	Переписування сувоїв
+Broń	Зброя
+Pancerz	Обладунок
+Magia	Магія
+Artefakty	Артефакти
+Żywność	Їжа
+Napoje	Зілля
+Pisma	Документи
+Pozostałe	Різне
+Strażnik miejski	Міський вартовий
+Robotnik	Робітник
+Strażnik	Вартовий
+Obywatel	Містянин
+Obywatelka	Містянка
+Nowicjusz	Послушник
+Najemnik	Найманець
+Farmer	Фермер
+Farmerka	Фермерка
+Bandyta	Бандит
+Herszt orków	Воєначальник орків
+Pirat	Пірат
+Leśny ścierwojad	Лісовий падальник
+Przywołany zombie	Викликаний зомбі
+Pierścień	Перстень
+Amulet	Амулет
+Mikstura	Зілля
+Runa	Руна
+Zwój	Сувій
+Klucz	Ключ
+Pas	Пояс
+Szarfa	Кушак
+Złoto	Золото
+Wartość	Ціна
+Krąg	Коло
+Wydatek many	Затрати мани
+Min. wydatek many:	Мін. затрати мани:
+Maks. wydatek many:	Макс. затрати мани:
+Mana/sek.	Мани в секунду
+Czas trwania	Тривалість
+Zaklęcie odnawialne	Посилююче закляття
+Zaklęcie stałe	Довготривале закляття
+Obr. broń	Шкода від зброї
+Obr. pociski	Шкода від стріл
+Obr. ogień	Шкода від вогню
+Obr. magia	Шкода від магії
+Obr. wiatr	Шкода від вітру
+Obrażenia	Шкода
+Maksymalne obrażenia	Максимальна шкода
+Sztylet	Кинджал
+Miecz jednoręczny	Одноручний меч
+Topór jednoręczny	Одноручна сокира
+Miecz dwuręczny	Дворучний меч
+Topór dwuręczny	Дворучна сокира
+Tarcza	Щит
+Łuk	Лук
+Kusza	Арбалет
+Własnoręcznie wytworzona broń.	Саморобна зброя.
+Posiada widoczne ślady użytkowania.	Має видимі сліди використання.
+Obrażenia sieczne	Ріжуча шкода
+Obrażenia obuchowe	Тупа шкода
+Obrażenia pocisków	Шкода від стріл
+Obrażenia ogniste	Шкода від вогню
+Obrażenia magiczne	Шкода від магії
+Obrażenia nieznane	Невідома шкода
+Penetracja pancerza:	Бронебійність:
+Premia do walki kuszą:	Бонус до володіння арбалетом:
+Premia do walki łukiem:	Бонус до володіння луком:
+Kara do walki kuszą:	Штраф до володіння арбалетом:
+Kara do walki łukiem:	Штраф до володіння луком:
+Obrona przed ostrzami:	Захист від ріжучого:
+Obrona przed obuchami:	Захист від тупого:
+Obrona przed strzałami:	Захист від стріл:
+Obrona przed ogniem:	Захист від вогню:
+Obrona przed magią:	Захист від магії:
+Obrona przed wszystkim:	ЗАХИСТ
+Obrona przed obuchem i strzałami:	Захист від тупого і стріл:
+Obrona przed wszystkimi broniami:	Захист від зброї:
+Ochrona przed magią i ogniem:	Захист від магії і вогню:
+Odnowa punktów trafień:	Відновлення здоров'я:
+Odnowa many:	Відновлення мани:
+Broń jednoręczna	Одноручна зброя
+Broń dwuręczna	Дворучна зброя
+Uleczenie:	Зцілення:
+Premia za nostalgię:	Бонус ностальгії:
+Potrzebuje całej many.	Витрачає всю ману:
+Słowa nie zabijają	Закляття не може вбити
+Minimalne obrażenia:	Мінімальна шкода:
+Módl się.	Помолитись.
+Miecz	Меч
+Długi miecz magiczny	Довгий магічний меч
+Magiczny miecz dwuręczny	Дворучний магічний меч
+Magiczne ostrze z czystej rudy	Магічний меч з чистої руди
+Ciężki magiczny miecz dwuręczny	Важкий магічний дворучний меч
+Miecz półtoraręczny pokryty rudą	Вкритий рудою полуторний меч
+Ciężkie magiczne ostrze bojowe	Важкий магічний бойовий клинок
+Magiczne ostrze na smoki	Магічний клинок 'Вбивця драконів'
+Antyczne Ostrze na Prastare Bestie	Стародавній клинок 'Вбивця древніх чудовиськ'
+Dobry miecz	Хороший меч
+Dobry długi miecz	Хороший довгий меч
+Rubinowe Ostrze	Рубіновий клинок
+El Bastardo	Ель Бастардо
+Koszt	Вартість
+PN	Оч. навчання
+Pozyskiwanie skorup oraz płytek pełzaczy	Вилучення панцирів і пластин повзунів
+Pozyskiwanie żuwaczek	Вилучення мандибул
+Wyrywanie kłów	Видалення зубів
+Wyrywanie pazurów	Видалення кігтів
+Języki jaszczurów	Вилучення язиків ящерів
+Skóry gadów	Зняття шкіри рептилій
+Rogi cieniostworów	Вилучення рогів тінезвірів
+Wyrywanie gruczołów jadowych	Вилучення отруйних залоз
+Pozyskiwanie sadła	Збір жиру
+Wyrywanie skrzydeł krwiopijców	Видалення крил шершнів
+Serca magicznych istot	Вилучення сердець магічних істот
+Za mało Punktów Nauki!	Недостатньо очків навчання!
+Zwój	Сувій
+Doświadczenie	Досвід
+Kolejny poziom!	Подвищення рівня!
+Za daleko	Задалеко
+Przyjmij	Прийняти
+Odrzuć	Відхилити
+(Poznany)	(Вивчено)
+Bryłka złota	Золотий самородок
+Bryłki złota	Золотих самородків
+Wytworzono	Виготовлено
+Nauka: nasiona roślin z zwierząt	Вивчено: вилучення насіння у тварин
