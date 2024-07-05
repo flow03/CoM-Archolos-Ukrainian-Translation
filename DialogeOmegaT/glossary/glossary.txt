@@ -1,126 +1,124 @@
-topielec	луркер
-topielce	луркери
-Potęga Równowagi	Сила балансу
+A tak w ogóle	До речі
 Almanach miar alchemicznych	Альманах алхімічних вимірювань
-Przeor	Настоятель
-Nowicjusz	Послушник
-Wodny Krąg	Кільце Води
-Wodnego Kręgu	Кільця Води
-Krąg Ognia	Коло Вогню
-Wysłannik Królewski	Королівський посол
-kaplicy	храму
-kapliczka	святилище
-Wprowadź mnie do kręgu magii	Введи мене до кола магії
-krąg magii	коло магії
-kręgu magii	кола магії
-kręgów magicznych	колам магії
-nieumarł	нечисть
-górnik	гірник
-kopacz	рудокоп
-tyton	тютюн
-krwiopijce	шершні
-Volfzacke	Вольфзак
-Gildia Kupiecka	Торгова Гільдія
-Gildii Kupieckiej	Торгової Гільдії
-Dzielnicy Biedoty	Бідний квартал
-Biedną Dzielnicę	Бідний квартал
-Bogatej Dzielnicy	Багатий квартал
-zębacz	снеппер
-zębacze	снеппери
-ścierwojady	падальники
-ścierwojada	падальника
-tyton	тютюн
-Wysłannik	посол
-Kopalni Soli	Соляна шахта
-Londram	Лондрам
-Wschodniego Archipelagu	Східного Архіпелагу
-Wschodni Archipelag	Східний Архіпелаг
-Południowiec	південець
-Południowców	південців
-Nordmarczyk	нордмарець
-Wilczy Syn	Вовчий Син
-Wilczych Synów	Вовчих Синів
-Wilcze Leże	Вовче Лігво
-Górniczą Dolinę	Гірнича Долина
-Górniczej Doliny	Гірничої Долини
-Kolonii Górniczej	Гірничої Колонії
-Myrtana	Міртана
-gońcem	посланцем
-SZ	золотих
-tropiciele z Araxos	слідопити з Араксос
-rekrut	новобранець
-Khorinis	Хорініс
-Z Khorinis	З Хорінісу
-Z Londram	З Лондраму
-straż	вартовий
-Wygodne podróżowanie	Швидка поїздка
-Czeladnik	учень
-Rady Miasta	міської ради
-stragan	прилавок
-w porcie	в порту
-do slumsów	в нетрі, до нетрів
-w Pękniętej Strunie	в Обірваній струні
-w Syrenim Lamencie	у Плачі сирени
-rekruta	новобранця
-rekruci	новобранці
-Zbroja	броня
-pomiotów	породжень
-Varrant	Варант
-czas nagli	час підганяє
-Przystan	Притулок
-węże błotne	боротожери
-błotnych węży	болотожерів
-karczmy	корчми
-straży miejskiej	міської варти
-Gerwin	Гервін
-Wrób	підставити
-Ezekiela	Єзекіїля
-z falochronu	з хвилерізу
-Czeladnik Ślusarza	Учень слюсаря
-Gońca	підручний
-Goniec	посланець
-gońcem	посланцем
-przy ciele	біля тіла
-Mroczny Paladyn	Темний Паладин
-Poborca podatkowy	податківець
-dziennik	щоденник
-Żuwaczki	нижні щелепи
-Księga rachunkowa	бухгалтерська книга
-obywatel	громадянин	залежно від контексту
-obywatel	містянин	залежно від контексту
-obywatelstwo	громадянство
-Silbach	Сільбах
-niedaleko Silbach	поблизу Сільбаху
-glejt	посвідчення	залежно від контексту
-glejt	перепустка	залежно від контексту
-Jego Ekscelencji	Його Світлості	щодо Королівського Посла
-Wasza ekscelencja	Ваша світлість
 Araxos	Араксос
 Araxos	Араксосу
 Araxos	Гільдії Араксос
-żarliwego słońca	палаючого сонця
-Starszy Wioski	сільський староста
+Biedną Dzielnicę	Бідний квартал
+Bogatej Dzielnicy	Багатий квартал
+Czeladnik	учень
+Czeladnik Ślusarza	Учень слюсаря
+Duma wyspiarza	Гордість острів'янина
+Dzielnicy Biedoty	Бідний квартал
+Ezekiela	Єзекіїля
+Gerwin	Гервін
+Gildia Kupiecka	Торгова Гільдія
+Gildii Kupieckiej	Торгової Гільдії
+Goniec	посланець
+Gońca	підручний
+Górniczej Doliny	Гірничої Долини
+Górniczą Dolinę	Гірнича Долина
+Jego Ekscelencji	Його Світлості	щодо Королівського Посла
+Khorinis	Хорініс
+Kolonii Górniczej	Гірничої Колонії
+Kopalni Soli	Соляна шахта
+Krąg Ognia	Коло Вогню
+Księga rachunkowa	бухгалтерська книга
+Londram	Лондрам
+Mroczne Tajemnice	Темні Таємниці
+Mroczny Paladyn	Темний Паладин
+Myrtana	Міртана
 Myrtańczyków	міртанці
-pracowni	майстерні
-zarządcą	голова, керуючий
-wartownik	охоронець
-kwatermistrz	інтендант
-powstrzymać	зупинити
+Nordmarczyk	нордмарець
+Nowicjusz	Послушник
+Poborca podatkowy	податківець
+Potęga Równowagi	Сила балансу
+Południowców	південців
+Południowiec	південець
+Przeor	Настоятель
+Przystan	Притулок
+Rady Miasta	міської ради
+SZ	золотих
+Silbach	Сільбах
+Starszy Wioski	сільський староста
+Varrant	Варант
+Volfzacke	Вольфзак
+Wasza ekscelencja	Ваша світлість
+Wilcze Leże	Вовче Лігво
+Wilczy Syn	Вовчий Син
+Wilczych Synów	Вовчих Синів
+Wodnego Kręgu	Кільця Води
+Wodny Krąg	Кільце Води
+Wprowadź mnie do kręgu magii	Введи мене до кола магії
+Wrób	підставити
+Wschodni Archipelag	Східний Архіпелаг
+Wschodniego Archipelagu	Східного Архіпелагу
+Wygodne podróżowanie	Швидка поїздка
+Wysłannik	посол
+Wysłannik Królewski	Королівський посол
+Z Khorinis	З Хорінісу
+Z Londram	З Лондраму
+Zbroja	броня
+błotnych węży	болотожерів
 ciągle	досі
-kłamstwo	брехня
+czas nagli	час підганяє
+do slumsów	в нетрі, до нетрів
+dotarliśmy	прибули
+dziennik	щоденник
+glejt	перепустка	залежно від контексту
+glejt	посвідчення	залежно від контексту
+gońcem	посланцем
+górnik	гірник
+kaplicy	храму
+kapliczka	святилище
+karczmy	корчми
+kopacz	рудокоп
+krwiopijce	шершні
+krąg magii	коло магії
+kręgu magii	кола магії
+kręgów magicznych	колам магії
+kwatermistrz	інтендант
 kłamstw	брехні
-A tak w ogóle	До речі
-wartownicy	охоронці
+kłamstwo	брехня
+na Archolos	до Архолосу
+niedaleko Silbach	поблизу Сільбаху
+nieumarł	нечисть
+obywatel	громадянин	залежно від контексту
+obywatel	містянин	залежно від контексту
+obywatelstwo	громадянство
+pomiotów	породжень
+powstrzymać	зупинити
+pracowni	майстерні
+przy ciele	біля тіла
+przybył	прибув
+rekruci	новобранці
+rekrut	новобранець
+rekruta	новобранця
+sprzęt	спорядження
+stragan	прилавок
+straż	вартовий
+straży miejskiej	міської варти
+szermierz	мечник
+topielce	луркери
+topielec	луркер
+tropiciel	слідопит
+tropiciele z Araxos	слідопити з Араксос
+tyton	тютюн
+w Pękniętej Strunie	в Обірваній струні
+w Syrenim Lamencie	у Плачі сирени
+w Ustroniu Żeglarza	в Притулку моряка
+w porcie	в порту
 wartownicy	охорона
+wartownicy	охоронці
 wartownicy	сторожа
+wartownik	охоронець
 wyruszył	вирушив
 wyruszył	відправився
-przybył	прибув
-dotarliśmy	прибули
-Duma wyspiarza	Гордість острів'янина
-w Ustroniu Żeglarza	в Притулку моряка
-Mroczne Tajemnice	Темні Таємниці
-na Archolos	до Архолосу
-sprzęt	спорядження
-szermierz	мечник
-tropiciel	слідопит
+węże błotne	боротожери
+z falochronu	з хвилерізу
+zarządcą	голова, керуючий
+zębacz	снеппер
+zębacze	снеппери
+ścierwojada	падальника
+ścierwojady	падальники
+Żuwaczki	нижні щелепи
+żarliwego słońca	палаючого сонця
