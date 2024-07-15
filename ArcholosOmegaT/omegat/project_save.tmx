@@ -36048,8 +36048,8 @@
       <tuv lang="pl">
         <seg>Przydatna do gotowania, wystarczy na wiele potraw.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Використовується в кулінарії, вистачить на багато страв.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240705T204355Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Потрібен в кулінарії, вистачить на багато страв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60549,6 +60549,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">tu1953_0</prop>
+      <tuv lang="pl">
+        <seg>Przydatna do gotowania, wystarczy na wiele potraw.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20240705T205833Z" creationid="Glіban" creationdate="20240705T205833Z">
+        <seg>Потрібна в кулінарії, вистачить на багато страв.</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
       <prop type="id">tu3442_0</prop>
