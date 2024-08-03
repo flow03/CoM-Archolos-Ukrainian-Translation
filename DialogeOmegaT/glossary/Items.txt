@@ -294,7 +294,7 @@ Gwiazda Polarna - Pracownia astrologa	Полярна Зоря – Астроло
 Austeria Ernesto - Karczma	Гостинний двір Ернесто – Корчма
 Dolina Świtu - Sklep meblowy	Долина Світанку – Меблевий магазин
 Odyseja - Kartograf	Одіссея – Картограф
-Mroczne Tajemnice - Zamtuz	Темні Секрети – Будинок розпусти
+Mroczne Tajemnice - Zamtuz	Темні Таємниці – Будинок розпусти
 Zdarzenie Na Morzu - Stocznia	Випадок у Морі – Корабельня
 Ostatnie Starcie - Pracownia kowalska	Останнє Зіткнення – Майстерня коваля
 Podróżnik - Sklep z różnościami	Мандрівник – 1000 Дрібниць
@@ -344,8 +344,8 @@ Do stoczni	До корабельні
 Do Targu Rybnego	До рибного ринку
 Stocznia, Targ Rybny	Корабельня, рибний ринок
 Do tawerny 'Syreni Lament'	До корчми 'Плач Сирени'
-Do Mrocznych Tajemnic	До Темних Секретів
-Tawerna 'Syreni Lament', Mroczne Tajemnice	Корчма 'Плач сирени', Темні Секрети
+Do Mrocznych Tajemnic	До Темних Таємниць
+Tawerna 'Syreni Lament', Mroczne Tajemnice	Корчма 'Плач сирени', Темні Таємниці
 Do Targowiska	До ринкової площі
 Do ratusza miejskiego	До міської ратуші
 Do biura skryby miejskiego	До міської писарської контори
