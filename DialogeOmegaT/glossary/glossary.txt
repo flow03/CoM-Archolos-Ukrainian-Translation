@@ -125,3 +125,5 @@ zębacze	снеппери
 ścierwojady	падальники
 Żuwaczki	нижні щелепи
 żarliwego słońca	палаючого сонця
+Skrzynia	Скриня
+
