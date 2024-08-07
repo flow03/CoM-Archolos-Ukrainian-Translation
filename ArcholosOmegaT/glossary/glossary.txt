@@ -28,6 +28,7 @@ Mroczne Tajemnice	Темні Таємниці
 Mroczny Paladyn	Темний Паладин
 Myrtana	Міртана
 Myrtańczyków	міртанці
+Nie to nie.	Не хочеш - як хочеш.
 Nordmarczyk	нордмарець
 Nowicjusz	Послушник
 Poborca podatkowy	податківець
@@ -40,11 +41,13 @@ Rady Miasta	міської ради
 SZ	золотих
 Silbach	Сільбах
 Starszy Wioski	сільський староста
+Vardhal	Вардхал
 Varrant	Варант
 Volfzacke	Вольфзак
 Wasza ekscelencja	Ваша світлість
 Wilcze Leże	Вовче Лігво
 Wilczy Syn	Вовчий Син
+Wilczy Synowie	Вовчі Сини
 Wilczych Synów	Вовчих Синів
 Wodnego Kręgu	Кільця Води
 Wodny Krąg	Кільце Води
@@ -122,5 +125,3 @@ zębacze	снеппери
 ścierwojady	падальники
 Żuwaczki	нижні щелепи
 żarliwego słońca	палаючого сонця
-Wilczy Synowie	Вовчі Сини
-Vardhal	Вардхал

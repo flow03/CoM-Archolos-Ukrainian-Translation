@@ -3680,8 +3680,8 @@
       <tuv lang="pl">
         <seg>Alena</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
-        <seg>Олена</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240804T105010Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
+        <seg>Аліна</seg>
       </tuv>
     </tu>
     <tu>
@@ -4184,8 +4184,8 @@
       <tuv lang="pl">
         <seg>Ana</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
-        <seg>Ана</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240804T102621Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
+        <seg>Анна</seg>
       </tuv>
     </tu>
     <tu>
@@ -9200,7 +9200,7 @@
       <tuv lang="pl">
         <seg>Dima</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20240805T123236Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
         <seg>Діма</seg>
       </tuv>
     </tu>
@@ -20168,8 +20168,8 @@
       <tuv lang="pl">
         <seg>Lena</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T165302Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
-        <seg>Єлена</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20240804T102523Z" creationid="OmegaT Aligner" creationdate="20240208T165302Z">
+        <seg>Олена</seg>
       </tuv>
     </tu>
     <tu>
