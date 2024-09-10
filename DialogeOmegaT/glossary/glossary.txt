@@ -1,3 +1,4 @@
+
 A tak w ogóle	До речі
 Almanach miar alchemicznych	Альманах алхімічних вимірювань
 Araxos	Араксос
@@ -5,6 +6,7 @@ Araxos	Араксосу
 Araxos	Гільдії Араксос
 Biedną Dzielnicę	Бідний квартал
 Bogatej Dzielnicy	Багатий квартал
+Burkhard	Бурхард
 Czeladnik	учень
 Czeladnik Ślusarza	Учень слюсаря
 Duma wyspiarza	Гордість острів'янина
@@ -40,6 +42,7 @@ Przystan	Притулок
 Rady Miasta	міської ради
 SZ	золотих
 Silbach	Сільбах
+Skrzynia	Скриня
 Starszy Wioski	сільський староста
 Vardhal	Вардхал
 Varrant	Варант
@@ -72,7 +75,8 @@ glejt	посвідчення	залежно від контексту
 gońcem	посланцем
 górnik	гірник
 kaplicy	храму
-kapliczka	святилище
+kapliczka	вівтар	залежно від контексту
+kapliczka	каплиця	залежно від контексту
 karczmy	корчми
 kopacz	рудокоп
 krwiopijce	шершні
@@ -88,6 +92,7 @@ nieumarł	нечисть
 obywatel	громадянин	залежно від контексту
 obywatel	містянин	залежно від контексту
 obywatelstwo	громадянство
+ogłady	освоїтися
 pomiotów	породжень
 powstrzymać	зупинити
 pracowni	майстерні
@@ -106,6 +111,7 @@ topielec	луркер
 tropiciel	слідопит
 tropiciele z Araxos	слідопити з Араксос
 tyton	тютюн
+usługi eskorty	послуги перевезень
 w Pękniętej Strunie	в Обірваній струні
 w Syrenim Lamencie	у Плачі сирени
 w Ustroniu Żeglarza	в Притулку моряка
@@ -125,4 +131,5 @@ zębacze	снеппери
 ścierwojady	падальники
 Żuwaczki	нижні щелепи
 żarliwego słońca	палаючого сонця
-ogłady	освоїтися
+rozwidlenie	роздоріжжя
+kapliczki	вівтаря

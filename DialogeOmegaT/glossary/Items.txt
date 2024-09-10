@@ -418,7 +418,7 @@ Deski	Дошки
 Desperat	Зневірений
 Destylator	Дистилятор
 Determinacja	Рішучість
-Dima oddała ci nadmiar sproszkowanej rudy.	Діма повернула вам надлишки рудного порошку.
+Dima oddała ci nadmiar sproszkowanej rudy.	Діна повернула вам надлишки рудного порошку.
 Dla astrologów i żeglarzy to przydatny przyrząd,	Корисний інструмент для астрономів і моряків,
 Dla jednych śmierdzące, a dla innych aromatyczne.	Смердюча для одних і ароматна для інших.
 Dla odpowiedniego kolekcjonera	Для правильного колекціонера
@@ -941,7 +941,7 @@ Klasztor	Монастир
 Klucz	Ключ
 Klucz Baesa	Ключ Байса
 Klucz Bodowina	Ключ Бодовіна
-Klucz Dimy	Ключ Діми
+Klucz Dimy	Ключ Діни
 Klucz Einara	Ключ Ейнара
 Klucz Fellera	Ключ Феллера
 Klucz Igora	Ключ Ігоря
@@ -2041,7 +2041,7 @@ Pakunek Jona	Пакунок Йона
 Pakunek jest bardzo lekki.	Пакунок дуже легкий.
 Pakunek jest wyjątkowo ciężki.	Пакунок дуже важкий.
 Pakunek mięsa od Slagera	Пакунок м'яса від Слагера
-Pakunek od Dimy	Пакунок від Діми
+Pakunek od Dimy	Пакунок від Діни
 Pakunek od Pablo	Пакунок від Пабло
 Pakunek od Tengrala	Пакунок від Тенграла
 Pakunek od maga Tengrala	Пакунок від мага Тенграла,
@@ -2877,7 +2877,7 @@ Skrzydła wyrwane jako trofeum.	Крила, вирвані в якості тр�
 Skrzydła wyrwane krwiopijcy.	Крила, вирвані у шершня.
 Skrzydło bagiennego krwiopijcy	Крила болотного шершня
 Skrzyneczka	Скринька
-Skrzynia	Скриня
+Skrzynia	Ящик
 Skrzynia Dacka	Скриня Дака
 Skrzynia ludzi Volkera	Скриня людей Волкера
 Skrzynia na winogrona	Ящик для винограду
@@ -3245,7 +3245,7 @@ Szybkie ostrygi	Ліниві устриці
 Szybko minęło...	Час пролетів швидко...
 Szynka	Шинка
 Sól	Сіль
-Sól wydobywana z Kopalni Królewskiej na Archolos.	Сіль, видобута з Королівської копальні на Архолосі.
+Sól wydobywana z Kopalni Królewskiej na Archolos.	Сіль, видобута в Королівській копальні на Архолосі.
 Sędzia poprosił mnie	Суддя попросив мене
 Słaby eliksir przemiany	Слабкий еліксир перетворення
 Słodka bułka z jagodami	Солодка чорнична булочка
@@ -3921,7 +3921,7 @@ Zapieczętowany list	Запечатаний лист
 Zapiekanka farmerska	Запіканка по-фермерськи
 Zapomniana skrzynia	Забута скриня
 Zapotrzebowanie - Carden	Замовлення – Карден
-Zapotrzebowanie - Dima	Замовлення – Діма
+Zapotrzebowanie - Dima	Замовлення – Діна
 Zapotrzebowanie - Jil	Замовлення – Джил
 Zapotrzebowanie - Lokvar	Замовлення – Локвар
 Zapotrzebowanie - Odgar	Замовлення – Одгар
@@ -4074,7 +4074,7 @@ Znajduje się na nim moja podobizna.	На ньому мій портрет.
 Znak od Lorenzo.	Знак від Лоренцо.
 Znalazłem go na dachu klasztoru.	Я знайшов його на даху монастиря.
 Znalazłem go przy ciele Antonio.	Я знайшов його на тілі Антоніо.
-Znalazłem go przy targowisku Dimy.	Я знайшов його біля прилавку Діми.
+Znalazłem go przy targowisku Dimy.	Я знайшов його біля прилавку Діни.
 Znalazłem go przy trupie	Я знайшов його біля мертвого тіла
 Znalazłem go przy zwłokach	Я знайшов його біля трупа,
 Znalazłem go u rzekomego gońca, który mnie napadł.	Я знайшов його у вдаваного посланця, який напав на мене.
@@ -4177,7 +4177,7 @@ Zwłoki Allana	Труп Аллана
 Zwłoki Arsa	Труп Арса
 Zwłoki Bevina	Труп Бевіна
 Zwłoki Bolesa	Труп Болеса
-Zwłoki Burkharda	Труп Буркхарда
+Zwłoki Burkharda	Труп Бурхарда
 Zwłoki Caramona	Труп Карамона
 Zwłoki Darryla	Труп Дерріла
 Zwłoki Davisa	Труп Девіса
