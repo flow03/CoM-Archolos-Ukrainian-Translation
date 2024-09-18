@@ -114,7 +114,7 @@ Figaro	Фігаро
 Finja	Фінья
 Flex	Флекс
 Flora	Флора
-Folkard	Фолкард
+Folkard	Фолькард
 Foral	Форал
 Fox	Фокс
 Fred	Фред
@@ -245,7 +245,7 @@ Mikkel	Міккель
 Millie	Міллі
 Miroh	Міро
 Miron	Мирон
-Moritz	Моріц
+Moritz	Моріс
 Morris	Морріс
 Morty	Морті
 Mures	Муреш
