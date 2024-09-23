@@ -72,11 +72,14 @@ dotarliśmy	прибули
 dziennik	щоденник
 glejt	перепустка	залежно від контексту
 glejt	посвідчення	залежно від контексту
+glejt	пропуск
 gońcem	посланцем
 górnik	гірник
 kaplicy	храму
 kapliczka	вівтар	залежно від контексту
 kapliczka	каплиця	залежно від контексту
+kapliczka	святилище
+kapliczki	вівтаря
 karczmy	корчми
 kopacz	рудокоп
 krwiopijce	шершні
@@ -93,6 +96,7 @@ obywatel	громадянин	залежно від контексту
 obywatel	містянин	залежно від контексту
 obywatelstwo	громадянство
 ogłady	освоїтися
+palenisko	піч
 pomiotów	породжень
 powstrzymać	зупинити
 pracowni	майстерні
@@ -101,7 +105,9 @@ przybył	прибув
 rekruci	новобранці
 rekrut	новобранець
 rekruta	новобранця
+rozwidlenie	роздоріжжя
 sprzęt	спорядження
+stoczni	корабельні
 stragan	прилавок
 straż	вартовий
 straży miejskiej	міської варти
@@ -115,6 +121,7 @@ usługi eskorty	послуги перевезень
 w Pękniętej Strunie	в Обірваній струні
 w Syrenim Lamencie	у Плачі сирени
 w Ustroniu Żeglarza	в Притулку моряка
+w karczmie	в корчмі
 w porcie	в порту
 wartownicy	охорона
 wartownicy	охоронці
@@ -131,5 +138,3 @@ zębacze	снеппери
 ścierwojady	падальники
 Żuwaczki	нижні щелепи
 żarliwego słońca	палаючого сонця
-rozwidlenie	роздоріжжя
-kapliczki	вівтаря
