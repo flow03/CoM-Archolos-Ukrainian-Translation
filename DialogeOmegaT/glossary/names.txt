@@ -114,7 +114,7 @@ Figaro	Фігаро
 Finja	Фінья
 Flex	Флекс
 Flora	Флора
-Folkard	Фолкард
+Folkard	Фолькард
 Foral	Форал
 Fox	Фокс
 Fred	Фред
