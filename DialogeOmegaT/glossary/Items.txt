@@ -3569,7 +3569,7 @@ Wielki Miecz Strażnika	Великий меч вартового
 Wielki miecz strażnika	Великий меч вартового
 Wielki nietoperz	Гігантський кажан
 Wielki pakunek mięsa od Slagera	Великий пакунок м'яса від Слагера
-Wielki skręt bagiennego ziela	Велика самокрутка з болотної трави
+Wielki skręt bagiennego ziela	Велика скрутка з болотної трави
 Wielki topór	Величезна сокира
 Wieloletnie wino	Багаторічне вино
 Wieloletnie wino Araxos	Багаторічне вино Араксос
