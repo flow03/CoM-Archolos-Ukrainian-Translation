@@ -1700,7 +1700,7 @@ Nasiona ognistego korzenia	Насіння вогняного кореня
 Nasiona ognistego ziela	Насіння вогняної трави
 Nasiona ognistej pokrzywy	Насіння вогняної кропиви
 Nasiona polnej jagody	Насіння лугової ягоди
-Nasiona rdestu polnego	Насіння спориша лугового
+Nasiona rdestu polnego	Насіння спориша польового
 Nasiona rośliny leczniczej	Насіння цілющої рослини
 Nasiona ziela leczniczego	Насіння цілющої трави
 Nasiona, które otrzymałem od	Насіння, яке я отримав від
