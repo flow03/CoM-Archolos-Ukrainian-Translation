@@ -143,3 +143,5 @@ zębacze	снеппери
 Jarund	Ярунд
 Przystan Łotrów	Гавань негідників
 Przystani Łotrów	Гавані негідників
+licytacj	аукціон
+Krzykacz	Оповісник
