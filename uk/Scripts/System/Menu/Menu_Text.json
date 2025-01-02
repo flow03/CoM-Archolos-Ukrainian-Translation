@@ -145,7 +145,7 @@
 	"MENU_TEXT_OPTIONS_EXT_WATERFADE_COMMENT": "Увімк\/вимк. прозорість води",
 	"MENU_TEXT_OPTIONS_EXT_OBJWIND": "Вітер",
 	"MENU_TEXT_OPTIONS_EXT_OBJWIND_COMMENT": "Увімк\/вимк. ефекти вітру на об'єктах",
-	"MENU_TEXT_OPTIONS_EXT_CLOUDSHADOW": "Тіни від хмар",
+	"MENU_TEXT_OPTIONS_EXT_CLOUDSHADOW": "Тіні від хмар",
 	"MENU_TEXT_OPTIONS_EXT_CLOUDSHADOW_COMMENT": "Увімк\/вимк. тіні від хмар",
 	"MENU_TEXT_OPTIONS_EXT_AMBIENTVOBS": "Об'єкти оточення",
 	"MENU_TEXT_OPTIONS_EXT_AMBIENTVOBS_COMMENT": "Увімк\/вимк. додаткові об'єкти оточення",
@@ -173,7 +173,7 @@
 	"MENU_TEXT_OPTIONS_GAME_MOUSE_SENSITIVITY": "Чутливість миші",
 	"MENU_TEXT_OPTIONS_GAME_BLOOD": "Кров",
 	"MENU_TEXT_OPTIONS_GAME_BLOOD_COMMENT": "Кількість крові.",
-	"MENU_TEXT_OPTIONS_GAME_BLOOD_CHOICE": "немає|мало|багато|дуже  багато",
+	"MENU_TEXT_OPTIONS_GAME_BLOOD_CHOICE": "немає|мало|багато|дуже багато",
 	"MENU_TEXT_OPTIONS_GAME_OLDCONTROLS": "Керування G1",
 	"MENU_TEXT_OPTIONS_GAME_OLDCONTROLS_COMMENT": "Використовувати керування боєм з Gothic I",
 	"MENU_TEXT_OPTIONS_GAME_INVENTORY": "Інвентар G1",
@@ -241,7 +241,7 @@
 	"MENU_TEXT_STATUS_ARMOR_EDGE": "від ріжучого",
 	"MENU_TEXT_STATUS_ARMOR_2": "від стріл",
 	"MENU_TEXT_STATUS_ARMOR_3": "від вогню",
-	"MENU_TEXT_STATUS_ARMOR_4": "Магія",
+	"MENU_TEXT_STATUS_ARMOR_4": "від магії",
 	"MENU_TEXT_STATUS_FIGHT_HEADING": "БОЙОВІ НАВИЧКИ",
 	"MENU_TEXT_STATUS_TALENTS_HEADING": "НАВИЧКИ"
 }
