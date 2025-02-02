@@ -376,7 +376,7 @@
   "PRINT_SmithSuccess": "Ви зробили зброю!",
   "PRINT_ProdItemsMissing": "Недостатньо складників!",
   "PRINT_JointSuccess": "Ви зробили скрутку з болотної трави!",
-  "PRINT_KeyMissing": "Мені потрібен правильний ключ.",
+  "PRINT_KeyMissing": "Мені потрібен відповідний ключ.",
   "PRINT_PicklockMissing": "Мені потрібна відмичка.",
   "PRINT_Picklock_or_KeyMissing": "Мені потрібен або ключ, або відмичка.",
   "PRINT_NeverOpen": "Неможливо відкрити.",
