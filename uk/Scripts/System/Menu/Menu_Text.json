@@ -193,7 +193,7 @@
 	"MENU_TEXT_OPTIONS_GRAPHICS_SKY_EFFECTS": "Ефекти неба",
 	"MENU_TEXT_OPTIONS_GRAPHICS_SKY_EFFECTS_COMMENT": "Увімк\/вимк. ефекти неба.",
 	"MENU_TEXT_OPTIONS_GRAPHICS_LOD": "LOD",
-	"MENU_TEXT_OPTIONS_GRAPHICS_LOD_COMMENT": "Зменшує деталізацію об'єктів зі збільшенням відстані.",
+	"MENU_TEXT_OPTIONS_GRAPHICS_LOD_COMMENT": "Зменшує деталізацію віддалених об'єктів.",
 
 	"MENU_TEXT_OPTIONS_VIDEO_HEADLINE": "НАЛАШТУВАННЯ ВІДЕО",
 	"MENU_TEXT_OPTIONS_VIDEO_DEVICE": "Відеокарта",
