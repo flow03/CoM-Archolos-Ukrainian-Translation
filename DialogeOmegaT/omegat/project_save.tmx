@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="paragraph" srclang="pl"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="paragraph" srclang="pl"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14336,8 +14336,8 @@
       <tuv lang="pl">
         <seg>A więc, o co chodzi?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20241018T095201Z" creationid="Glіban" creationdate="20241018T095115Z">
-        <seg>Так про що йде мова?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T170027Z" creationid="Glіban" creationdate="20241018T095115Z">
+        <seg>А про що ж йдеться?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18120,8 +18120,8 @@
       <tuv lang="pl">
         <seg>Ale pomogłeś mi w potrzebie więc nie będę gołosłowna!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240216T202254Z" creationid="Aedan" creationdate="20240216T202254Z">
-        <seg>Але ти допоміг мені в скрутну хвилину, тож я не збираюся бути голослівною!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T171236Z" creationid="Aedan" creationdate="20240216T202254Z">
+        <seg>Але ти допоміг мені в скрутну хвилину, тож я дотримаю свого слова!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23512,8 +23512,8 @@
       <tuv lang="pl">
         <seg>Bestie zamieszkujące ten teren zrobią sobie z ciebie przystawkę.</seg>
       </tuv>
-      <tuv lang="uk" changeid="fiercepretzel" changedate="20240609T094146Z" creationid="fiercepretzel" creationdate="20240609T094001Z">
-        <seg>Звірі, що населяють цю місцевість, з радістю перекусять тобою.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T164112Z" creationid="fiercepretzel" creationdate="20240609T094001Z">
+        <seg>Звірі, що населяють ту місцевість, з радістю перекусять тобою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27488,8 +27488,8 @@
       <tuv lang="pl">
         <seg>Bywało lepiej, ale hej, ja miałbym nie wyjść na prostą? Wolne żarty.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240122T151810Z" creationid="AlexTorn" creationdate="20240120T203442Z">
-        <seg>Бувало й краще, але, агов, хіба я не повинен ризикувати? Ви, мабуть, знущаєтеся з мене.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T095917Z" creationid="AlexTorn" creationdate="20240120T203442Z">
+        <seg>Бувало й краще, але агов, хіба я з цим не впораюсь? Не смішіть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40312,8 +40312,8 @@
       <tuv lang="pl">
         <seg>Ciemny i kleisty materiał.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Темний і липкий матеріал.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T165531Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Темна і липка субстанція.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40896,8 +40896,8 @@
       <tuv lang="pl">
         <seg>Cieszę się. Zrozumienie to podstawa udanej współpracy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20250106T153038Z" creationid="Bohdana" creationdate="20231213T141920Z">
-        <seg>Я задоволений. Розуміння – основа успішної співпраці.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T162733Z" creationid="Bohdana" creationdate="20231213T141920Z">
+        <seg>Це тішить. Розуміння – основа успішної співпраці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44848,8 +44848,8 @@
       <tuv lang="pl">
         <seg>Co trzy głowy, to nie dwie. Fakt, możesz nam pomóc.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20230928T181819Z" creationid="Perlyno" creationdate="20230927T125443Z">
-        <seg>Три голови краще ніж дві. Так, ти можеш нам допомогти.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T083748Z" creationid="Perlyno" creationdate="20230927T125443Z">
+        <seg>Три голови краще, ніж дві. Так, ти можеш нам допомогти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49456,8 +49456,8 @@
       <tuv lang="pl">
         <seg>Czego potrzebujesz tym razem?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240327T114037Z" creationid="Aedan" creationdate="20240327T114037Z">
-        <seg>Що потребуєш цього разу?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T092908Z" creationid="Aedan" creationdate="20240327T114037Z">
+        <seg>Чого тобі треба цього разу?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54120,8 +54120,8 @@
       <tuv lang="pl">
         <seg>Czyż to nie nasz nowy obywatel?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240327T114021Z" creationid="Aedan" creationdate="20240327T114021Z">
-        <seg>Хіба це не наш новий громадянин?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T093343Z" creationid="Aedan" creationdate="20240327T114021Z">
+        <seg>Це часом не наш новий громадянин?</seg>
       </tuv>
     </tu>
     <tu>
@@ -60009,8 +60009,8 @@
       <tuv lang="pl">
         <seg>Dlaczego pytacie o takie głupoty?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Falcon" changedate="20240616T135017Z" creationid="Falcon" creationdate="20240616T135017Z">
-        <seg>Навіщо ви питаєте такі дурниці?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T163710Z" creationid="Falcon" creationdate="20240616T135017Z">
+        <seg>Навіщо питати про такі дурниці?</seg>
       </tuv>
     </tu>
     <tu>
@@ -65121,8 +65121,8 @@
       <tuv lang="pl">
         <seg>Dobrze, idę.</seg>
       </tuv>
-      <tuv lang="uk" changeid="fiercepretzel" changedate="20240131T153610Z" creationid="fiercepretzel" creationdate="20240131T153610Z">
-        <seg>Гаразд, я пішов.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T154403Z" creationid="fiercepretzel" creationdate="20240131T153610Z">
+        <seg>Гаразд, я піду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76617,8 +76617,8 @@
       <tuv lang="pl">
         <seg>Ehm... Posłuchaj, tak się niefortunnie złożyło, że otrzymaliśmy zlecenie na twoją głowę.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20250918T092528Z" creationid="Perlyno" creationdate="20230918T103637Z">
-        <seg>Хмм... Послухай, це прикро, але ми отримали замовлення на твою голову.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T162415Z" creationid="Perlyno" creationdate="20230918T103637Z">
+        <seg>Ехм... Послухай, так вже сталося, що ми отримали замовлення на твою голову.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88833,8 +88833,8 @@
       <tuv lang="pl">
         <seg>Hej, ty! Chyba nie chcesz iść w tę stronę?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20250214T115404Z" creationid="fiercepretzel" creationdate="20240609T093744Z">
-        <seg>Гей, ти! Ти ж не плануєш іти в ту сторону?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T164026Z" creationid="fiercepretzel" creationdate="20240609T093744Z">
+        <seg>Гей, ти! Ти ж не плануєш йти в ту сторону?</seg>
       </tuv>
     </tu>
     <tu>
@@ -94500,8 +94500,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Idź zaczepiać kogoś innego ty bezduszna kreaturo!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240510T193712Z" creationid="Aedan" creationdate="20240510T193712Z">
-        <seg>Іди приставай до когось іншого, безсердечна тварюко!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T163407Z" creationid="Aedan" creationdate="20240510T193712Z">
+        <seg>Йди приставай до когось іншого, безсердечна тварюко!</seg>
       </tuv>
     </tu>
     <tu>
@@ -102653,8 +102653,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Jako człowiek Gildii z pewnością na co dzień obracasz się w szemranym towarzystwie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20231006T092716Z" creationid="Perlyno" creationdate="20230927T125543Z">
-        <seg>Як член Гільдії, ти, безумовно, щодня маєш справу з сумнівною компанією.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T083634Z" creationid="Perlyno" creationdate="20230927T125543Z">
+        <seg>Як член Гільдії, ти, безумовно, щодня маєш справу з сумнівними людьми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111005,8 +111005,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Jeszcze cię nie wrzucili do fosy za brak kultury osobistej?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240607T105328Z" creationid="Aedan" creationdate="20240607T105328Z">
-        <seg>Тебе ще не кинули в рів за твою невихованість?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T092932Z" creationid="Aedan" creationdate="20240607T105328Z">
+        <seg>Як тебе досі не кинули в рів за твою невихованість?</seg>
       </tuv>
     </tu>
     <tu>
@@ -138125,7 +138125,7 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Mapa wioski Silbach</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20250326T095845Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T171230Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
         <seg>Мапа села Сільбах</seg>
       </tuv>
     </tu>
@@ -155893,8 +155893,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Myślisz, że nie mam nic przyjemniejszego do roboty niż pogaduszki z pospólstwem?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240309T190159Z" creationid="Aedan" creationdate="20240309T190159Z">
-        <seg>Думаєш, я не маю нічого приємнішого, ніж спілкуватися з простолюдинами?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T092846Z" creationid="Aedan" creationdate="20240309T190159Z">
+        <seg>Думаєш, мені немає чим зайнятися, окрім як спілкуватися з простолюдинами?</seg>
       </tuv>
     </tu>
     <tu>
@@ -175293,8 +175293,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Nie mam tyle przy sobie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240215T125151Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
-        <seg>У мене стільки з собою немає.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T164152Z" creationid="OmegaT Aligner" creationdate="20240215T125151Z">
+        <seg>У мене немає стільки при собі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182253,8 +182253,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Nie widzisz tego? Wszędzie, gdzie się tylko pojawisz, podąża za tobą śmierć i zniszczenie!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20250302T124257Z" creationid="Bohdana" creationdate="20231009T045537Z">
-        <seg>Хіба ти цього не бачиш? Скрізь, куди ти приходиш, за тобою слідом йдуть смерть і розруха!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T161334Z" creationid="Bohdana" creationdate="20231009T045537Z">
+        <seg>Хіба ти цього не бачиш? Скрізь, куди ти приходиш, за тобою слідом йдуть смерть і руйнування!</seg>
       </tuv>
     </tu>
     <tu>
@@ -182557,8 +182557,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Nie wiem co o tym myśleć.</seg>
       </tuv>
-      <tuv lang="uk" changeid="fiercepretzel" changedate="20240201T102939Z" creationid="fiercepretzel" creationdate="20240201T102939Z">
-        <seg>Я не знаю, що про це думати.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T160638Z" creationid="fiercepretzel" creationdate="20240201T102939Z">
+        <seg>Не знаю, що і думати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182909,8 +182909,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Nie wiem, co o tym myśleć.</seg>
       </tuv>
-      <tuv lang="uk" changeid="fiercepretzel" changedate="20240131T225431Z" creationid="fiercepretzel" creationdate="20240131T225431Z">
-        <seg>Я не знаю, що про це думати.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T160612Z" creationid="fiercepretzel" creationdate="20240131T225431Z">
+        <seg>Не знаю, що і думати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -191637,8 +191637,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Nigdy nie sądziłem, że ktoś z Araxos będzie dla mnie pracował. Ale niech będzie, zawsze to jakieś nowe doświadczenie.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20250206T114622Z" creationid="Mykytka" creationdate="20240205T192620Z">
-        <seg>Я ніколи не думав, що хтось з Гільдії Араксос буде працювати на мене. Але нехай, це завжди новий досвід.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T085310Z" creationid="Mykytka" creationdate="20240205T192620Z">
+        <seg>Я ніколи не думав, що хтось з Гільдії Араксос працюватиме на мене. Але нехай, це завжди новий досвід.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194077,8 +194077,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>No proszę, czyli moje stosunki z Roderichem są tak dobre, że aż swoich wysyła do pomocy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20250206T114600Z" creationid="Mykytka" creationdate="20240205T192530Z">
-        <seg>Схоже, що мої стосунки з Родеріхом настільки хороші, що він посилає своїх людей мені в допомогу.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T085325Z" creationid="Mykytka" creationdate="20240205T192530Z">
+        <seg>Схоже, що мої стосунки з Родеріхом настільки хороші, що він посилає своїх людей мені на допомогу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200309,8 +200309,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Obywatele mają prawo do odrobiny relaksu po ciężkim dniu pracy, nie sądzisz?</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240305T204353Z" creationid="Aedan" creationdate="20240305T204353Z">
-        <seg>Громадяни мають право трохи відпочити після важкого робочого дня, чи не так?</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T155835Z" creationid="Aedan" creationdate="20240305T204353Z">
+        <seg>Містяни мають право трохи відпочити після важкого робочого дня, чи не так?</seg>
       </tuv>
     </tu>
     <tu>
@@ -205685,8 +205685,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Ognik</seg>
       </tuv>
-      <tuv lang="uk" changeid="OmegaT Aligner" changedate="20240208T164952Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>Примарний вогник</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T170736Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>Вогник</seg>
       </tuv>
     </tu>
     <tu>
@@ -223493,7 +223493,7 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Pohandlujmy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20260503T071107Z" creationid="Aedan" creationdate="20240621T182721Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T090822Z" creationid="Aedan" creationdate="20240621T182721Z">
         <seg>Поторгуймо.</seg>
       </tuv>
     </tu>
@@ -232757,8 +232757,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Pozostaje mi tylko wierzyć, że wylądujesz w sytuacji gorszej od mojej!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240510T193544Z" creationid="Aedan" creationdate="20240510T193544Z">
-        <seg>Я можу тільки вірити, що ти опинишся в гіршій ситуації, ніж я!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T163350Z" creationid="Aedan" creationdate="20240510T193544Z">
+        <seg>Можу лише сподіватись, що ти опинишся в гіршій ситуації, ніж я!</seg>
       </tuv>
     </tu>
     <tu>
@@ -232877,8 +232877,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Pozwolenie ma już dobrych kilka lat, ale wciąż nie wygasło. Nie widzę więc żadnego powodu, aby nie mógł kontynuować swojej pracy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240607T105452Z" creationid="Aedan" creationdate="20240607T105452Z">
-        <seg>Дозвіл видано кілька років тому, але він ще не закінчився. Тому я не бачу причин, чому він не може продовжувати свою роботу.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T092714Z" creationid="Aedan" creationdate="20240607T105452Z">
+        <seg>Дозвіл видано кілька років тому, але він ще дійсний. Не бачу для нього жодних перешкод продовжувати свою роботу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -235621,7 +235621,7 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Proszę bardzo.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Bohdana" changedate="20231213T133132Z" creationid="Bohdana" creationdate="20231213T133132Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T165015Z" creationid="Bohdana" creationdate="20231213T133132Z">
         <seg>Тримай.</seg>
       </tuv>
     </tu>
@@ -238837,7 +238837,7 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Przekaż szefowi, że niedługo zamkniemy jego interes!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20240407T150626Z" creationid="Glіban" creationdate="20240407T145857Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T085738Z" creationid="Glіban" creationdate="20240407T145857Z">
         <seg>Перекажи своєму хазяїну, що ми скоро закриємо його бізнес!</seg>
       </tuv>
     </tu>
@@ -239509,8 +239509,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Przemyślałem sprawę. Pomogę ci.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Mykytka" changedate="20240222T115233Z" creationid="Mykytka" creationdate="20240222T115233Z">
-        <seg>Я міркував про цю справу. Я допоможу тобі.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T165920Z" creationid="Mykytka" creationdate="20240222T115233Z">
+        <seg>Я все обміркував. Я тобі допоможу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -255939,6 +255939,14 @@ first floor - другий поверх</note>
     </tu>
     <tu>
       <tuv lang="pl">
+        <seg>Sam nie wiem, mam już całkiem przyjemną posadę w straży. Nie wiem, czy w tym momencie potrzebuję zmian.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260912T181316Z" creationid="Glіban" creationdate="20260912T181316Z">
+        <seg>Навіть не знаю, у мене вже непогана посада у Варті. Не впевнений, чи мені потрібно щось змінювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pl">
         <seg>Sam nie wiem, po co ci to? Nie wyglądasz na zbyt silnego, a do tego potrzeba mięśni ze stali.</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20250904T093547Z" creationid="Aedan" creationdate="20240125T205637Z">
@@ -256125,8 +256133,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Sam tego chciałeś!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240624T104111Z" creationid="Aedan" creationdate="20240624T104111Z">
-        <seg>Ти сам напросився.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T092016Z" creationid="Aedan" creationdate="20240624T104111Z">
+        <seg>Ти сам напросився!</seg>
       </tuv>
     </tu>
     <tu>
@@ -274821,8 +274829,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Ta, co mam nie rozumieć. Mówiąc krótko, nie lubią was, i boją się, że sami kiedyś zaginą jak Reez i Ogis, a wy nie kiwniecie w tej sprawie nawet palcem.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240126T112620Z" creationid="Aedan" creationdate="20240126T112620Z">
-        <seg>Цього я не розумію. Коротше кажучи, ти їм не подобаєшся, і вони бояться, що одного дня вони самі можуть зникнути, як Різ і Огіс, а ти навіть пальцем не поворухнеш.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170457Z" creationid="Aedan" creationdate="20240126T112620Z">
+        <seg>Що тут розуміти. Коротше кажучи, ти їм не подобаєшся, і вони бояться, що одного дня вони самі можуть зникнути, як Різ і Огіс, а ти навіть пальцем не поворухнеш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -274869,8 +274877,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Ta, i chyba na tym się skończy, bo za mało wypiłeś.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240125T071137Z" creationid="Aedan" creationdate="20240125T071137Z">
-        <seg>На цьому, гадаю, все й закінчиться, оскільки ти так мало випив.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170731Z" creationid="Aedan" creationdate="20240125T071137Z">
+        <seg>На цьому, гадаю, все й скінчиться, оскільки ти так мало випив.</seg>
       </tuv>
     </tu>
     <tu>
@@ -289829,8 +289837,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>To ty musisz być tym, który narobił ostatnio sporo zamieszania w okolicy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20250816T131531Z" creationid="Aedan" creationdate="20240204T140229Z">
-        <seg>Ти, мабуть, той самий, хто останнім часом наробив багато галасу в околиці.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T170057Z" creationid="Aedan" creationdate="20240204T140229Z">
+        <seg>Ти, мабуть, і є той, через кого останнім часом багато галасу в околиці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -290765,7 +290773,7 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>To zależy.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Bohdana" changedate="20231015T083206Z" creationid="Bohdana" creationdate="20231015T083206Z">
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T161056Z" creationid="Bohdana" creationdate="20231015T083206Z">
         <seg>Це залежить від...</seg>
       </tuv>
     </tu>
@@ -295909,8 +295917,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Twoje hasła nie każdemu mogą się podobać.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240307T185435Z" creationid="Aedan" creationdate="20240307T185435Z">
-        <seg>Твої гасла можуть бути не кожному до вподоби.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T154522Z" creationid="Aedan" creationdate="20240307T185435Z">
+        <seg>Твої гасла можуть бути не всім до вподоби.</seg>
       </tuv>
     </tu>
     <tu>
@@ -311277,8 +311285,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>W urzędzie miejskim jak to w urzędzie miejskim...</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240729T104834Z" creationid="Aedan" creationdate="20240729T104834Z">
-        <seg>У мерії, як у мерії...</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T093155Z" creationid="Aedan" creationdate="20240729T104834Z">
+        <seg>У міських установах все як завжди...</seg>
       </tuv>
     </tu>
     <tu>
@@ -317397,8 +317405,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Wiedziałem, że dając ci szansę, nie popełniam błędu!</seg>
       </tuv>
-      <tuv lang="uk" changeid="fiercepretzel" changedate="20240131T225255Z" creationid="fiercepretzel" creationdate="20240131T225255Z">
-        <seg>Я знав, що, даючи тобі шанс, я не помилився!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T160540Z" creationid="fiercepretzel" creationdate="20240131T225255Z">
+        <seg>Я знав, що я не помилився, даючи тобі шанс!</seg>
       </tuv>
     </tu>
     <tu>
@@ -319029,8 +319037,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Wiem, że słuchasz. Właśnie to wpędziło cię w kłopoty.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240126T123359Z" creationid="Aedan" creationdate="20240126T123301Z">
-        <seg>Я знаю, що слухаєш. Власне, через це в тебе неприємності.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170751Z" creationid="Aedan" creationdate="20240126T123301Z">
+        <seg>Я знаю, що перепрошуєш. Власне, через це в тебе неприємності.</seg>
       </tuv>
     </tu>
     <tu>
@@ -332093,16 +332101,16 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Wypijcie moje zdrowie!</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20230921T112047Z" creationid="Perlyno" creationdate="20230918T104252Z">
-        <seg>Випий за моє здоров'я!</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T162029Z" creationid="Perlyno" creationdate="20230918T104252Z">
+        <seg>Випийте за моє здоров'я!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pl">
         <seg>Wypijcie moje zdrowie! (Daj 100 SZ)</seg>
       </tuv>
-      <tuv lang="uk" changeid="Perlyno" changedate="20230918T110510Z" creationid="Perlyno" creationdate="20230918T110343Z">
-        <seg>Випий за моє здоров'я! (Дати 100 золотих)</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T162116Z" creationid="Perlyno" creationdate="20230918T110343Z">
+        <seg>Випийте за моє здоров'я! (Дати 100 золотих)</seg>
       </tuv>
     </tu>
     <tu>
@@ -337381,8 +337389,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Z pewnością nie chciałby zapomnieć o przedłużeniu swojego zezwolenia.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240607T105612Z" creationid="Aedan" creationdate="20240607T105612Z">
-        <seg>Він точно не хотів би забути продовжити свій дозвіл.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T092545Z" creationid="Aedan" creationdate="20240607T105612Z">
+        <seg>Йому не варто забувати продовжувати свій дозвіл.</seg>
       </tuv>
     </tu>
     <tu>
@@ -356773,8 +356781,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>Złóż im wizytę i sprawdź, ile teraz gotowi są zapłacić za moje wyśmienite drewno.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240124T201001Z" creationid="Aedan" creationdate="20240124T201001Z">
-        <seg>Відвідай їх і дізнайся, скільки вони тепер готові заплатити за мою вишукану деревину.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T090217Z" creationid="Aedan" creationdate="20240124T201001Z">
+        <seg>Відвідай їх і дізнайся, скільки вони тепер готові заплатити за мою кращу деревину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -357653,8 +357661,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>jako materiał przy produkcji broni.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20250523T135653Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>як матеріал у виробництві зброї.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T165424Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>як матеріал у виготовленні зброї.</seg>
       </tuv>
     </tu>
     <tu>
@@ -358229,8 +358237,8 @@ first floor - другий поверх</note>
       <tuv lang="pl">
         <seg>może być trochę warta.</seg>
       </tuv>
-      <tuv lang="uk" changeid="Glіban" changedate="20250406T162534Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
-        <seg>вона може чогось вартувати.</seg>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T165233Z" creationid="OmegaT Aligner" creationdate="20240208T164952Z">
+        <seg>вона може чимало коштувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -364843,48 +364851,8 @@ first floor - другий поверх</note>
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">City_SLD/DIA_SLD_5000_Lorenzo.d.json</prop>
-      <prop type="id">tu256_0</prop>
-      <tuv lang="pl">
-        <seg>Dobrze, idę.</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240323T160103Z" creationid="Aedan" creationdate="20240323T160103Z">
-        <seg>Добре, йду.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">City_SLD/DIA_SLD_5000_Lorenzo.d.json</prop>
-      <prop type="id">tu367_0</prop>
-      <tuv lang="pl">
-        <seg>To wszystko.</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20241012T174103Z" creationid="Aedan" creationdate="20241012T174103Z">
-        <seg>Це все.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">City_SLD/DIA_SLD_5004_Salzer.D.json</prop>
-      <prop type="id">tu57_0</prop>
-      <tuv lang="pl">
-        <seg>Dobrze, w takim razie ruszajmy.</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240322T102838Z" creationid="Aedan" creationdate="20240322T102838Z">
-        <seg>Добре, тоді поїхали.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">City_VLK/DIA_VLK_11310_Limak.d.json</prop>
-      <prop type="id">tu3_0</prop>
-      <tuv lang="pl">
-        <seg>Sam tego chciałeś!</seg>
-      </tuv>
-      <tuv lang="uk" changeid="Aedan" changedate="20240311T115314Z" creationid="Aedan" creationdate="20240311T115314Z">
-        <seg>Ти сам напросився!</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">City_VLK/DIA_VLK_13731_Barnaba.d.json</prop>
-      <prop type="id">tu28_0</prop>
+      <prop type="id">DIA_Barnaba_SQ418_WhatAboutYourWife_15_09_0</prop>
       <tuv lang="pl">
         <seg>Co takiego?</seg>
       </tuv>
@@ -365013,6 +364981,406 @@ first floor - другий поверх</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_MIL_4000_Roderich.d.json</prop>
+      <prop type="id">DIA_Roderich_KQ402_WhatAJoke_15_08_0</prop>
+      <tuv lang="pl">
+        <seg>Coś sugerujesz?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T160322Z" creationid="Glіban" creationdate="20260914T160322Z">
+        <seg>Ви на щось натякаєте?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_MIL_4000_Roderich.d.json</prop>
+      <prop type="id">DIA_Roderich_Q308FINISH_PosterV2_03_02_0</prop>
+      <tuv lang="pl">
+        <seg>Kto taki?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T160223Z" creationid="Glіban" creationdate="20260914T160223Z">
+        <seg>Хто ж це?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_SLD_13785_Grif.d.json</prop>
+      <prop type="id">DIA_Grif_WhyHelp_15_01_0</prop>
+      <tuv lang="pl">
+        <seg>Czemu chcesz mi pomóc?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T160924Z" creationid="Glіban" creationdate="20260914T160924Z">
+        <seg>Чому ти хочеш мені допомогти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_SLD_5000_Lorenzo.d.json</prop>
+      <prop type="id">DIA_Lorenzo_CQ003_Maybe_15_01_0</prop>
+      <tuv lang="pl">
+        <seg>To zależy.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T161036Z" creationid="Glіban" creationdate="20260914T161036Z">
+        <seg>Залежить, що саме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_VLK_11158_ElderlyWoman.d.json</prop>
+      <prop type="id">DIA_ElderlyWoman_What_15_01_0</prop>
+      <tuv lang="pl">
+        <seg>Co takiego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T160831Z" creationid="Glіban" creationdate="20260913T160831Z">
+        <seg>Яка?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_VLK_11302_Bodyguard.d.json</prop>
+      <prop type="id">DIA_11302_Bodyguard_WhatIsGoingOn_15_03_0</prop>
+      <tuv lang="pl">
+        <seg>Co takiego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T161513Z" creationid="Glіban" creationdate="20260913T161513Z">
+        <seg>За що?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_VLK_13731_Barnaba.d.json</prop>
+      <prop type="id">DIA_Barnaba_SQ418_WhatAboutYourWife_15_09_0</prop>
+      <tuv lang="pl">
+        <seg>Co takiego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T160106Z" creationid="Glіban" creationdate="20260913T160106Z">
+        <seg>Про що саме?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_VLK_13809_Peddler.d.json</prop>
+      <prop type="id">DIA_Peddler_FurnitureTrade_03_02_0</prop>
+      <tuv lang="pl">
+        <seg>Proszę bardzo.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T164952Z" creationid="Glіban" creationdate="20260913T164952Z">
+        <seg>Прошу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_VLK_3021_Mikkel.d.json</prop>
+      <prop type="id">DIA_Mikkel_Ambient_15_04_0</prop>
+      <tuv lang="pl">
+        <seg>Nie przesadzasz trochę?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T164332Z" creationid="Glіban" creationdate="20260913T164332Z">
+        <seg>Ти часом не перебільшуєш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_VLK_6282_Ruud.d.json</prop>
+      <prop type="id">DIA_Ruud_Scared_15_04_0</prop>
+      <tuv lang="pl">
+        <seg>O co chodzi?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T164818Z" creationid="Glіban" creationdate="20260913T164818Z">
+        <seg>Що таке?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/City/DIA_VLK_6429_Thamil.d.json</prop>
+      <prop type="id">DIA_Thamil_TRADE_03_02_0</prop>
+      <tuv lang="pl">
+        <seg>Proszę bardzo.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T165059Z" creationid="Glіban" creationdate="20260913T165059Z">
+        <seg>Звичайно, будь ласка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/DIA_NONE_100005_Fabio.d.json</prop>
+      <prop type="id">DIA_Fabio_Q102_Wood_05_02_0</prop>
+      <tuv lang="pl">
+        <seg>Pokaż, co tam masz.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T161537Z" creationid="Glіban" creationdate="20260914T161537Z">
+        <seg>Показуй, що в тебе там.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part11/DIA_BAU_2277_Lowell.d.json</prop>
+      <prop type="id">DIA_Lowell_Swamp_15_03_0</prop>
+      <tuv lang="pl">
+        <seg>Co takiego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T161948Z" creationid="Glіban" creationdate="20260913T161948Z">
+        <seg>Яка?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part16/DIA_DJG_10002_Yezegan.d.json</prop>
+      <prop type="id">DIA_Yezegan_Plan_15_04_0</prop>
+      <tuv lang="pl">
+        <seg>Czego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T161728Z" creationid="Glіban" creationdate="20260914T161728Z">
+        <seg>Чим?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part16/DIA_DJG_10017_Legrif.d.json</prop>
+      <prop type="id">DIA_Legrif_Ambient_15_01_0</prop>
+      <tuv lang="pl">
+        <seg>Co słychać?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T170312Z" creationid="Glіban" creationdate="20260913T170312Z">
+        <seg>Як поживаєш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part16/DIA_DJG_13790_Havard.d.json</prop>
+      <prop type="id">DIA_Havard_Q404_NeedHelp_Point_15_06_0</prop>
+      <tuv lang="pl">
+        <seg>Czyli?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T170511Z" creationid="Glіban" creationdate="20260913T170511Z">
+        <seg>Як саме?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part17/DIA_PIR_1303_Cortez.d.json</prop>
+      <prop type="id">DIA_Cortez_StanHierro_03_03_0</prop>
+      <tuv lang="pl">
+        <seg>Co takiego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T162852Z" creationid="Glіban" creationdate="20260913T162852Z">
+        <seg>Яка?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part17/DIA_PIR_13180_Smuggler_Archolos.d.json</prop>
+      <prop type="id">DIA_Smuggler02_Archolos_Q305_CaptainDead_15_05_0</prop>
+      <tuv lang="pl">
+        <seg>Co takiego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T163020Z" creationid="Glіban" creationdate="20260913T163020Z">
+        <seg>Що саме?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part2/DIA_NONE_11126_Ignis.d.json</prop>
+      <prop type="id">DIA_Ignis_HuntersTrialog_03_19_0</prop>
+      <tuv lang="pl">
+        <seg>Cisza!</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T161944Z" creationid="Glіban" creationdate="20260914T161944Z">
+        <seg>Тихо!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part6/DIA_NONE_7000_Ghost.d.json</prop>
+      <prop type="id">DIA_Ghost_SQ414_GoodEnding_Choice_0</prop>
+      <tuv lang="pl">
+        <seg>Cokolwiek uczyniłeś, zapłaciłeś za to z nawiązką. Jak możemy cię uwolnić?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T162609Z" creationid="Glіban" creationdate="20260914T162609Z">
+        <seg>Ти сповна заплатив за це. Як я можу тебе звільнити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part7/DIA_MIL_6267_Salvi.d.json</prop>
+      <prop type="id">DIA_Salvi_Q205_DanielResult_Stuff_15_07_0</prop>
+      <tuv lang="pl">
+        <seg>Jasne.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T162648Z" creationid="Glіban" creationdate="20260914T162648Z">
+        <seg>Зрозуміло.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part8/DIA_KDW_204_Rierol.d.json</prop>
+      <prop type="id">DIA_Rierol_SQ509_Finish_Stop_Choice_0</prop>
+      <tuv lang="pl">
+        <seg>Darowałem mu życie i kazałem zaprzestać tych niebezpiecznych badań.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T162856Z" creationid="Glіban" creationdate="20260914T162856Z">
+        <seg>Я лишив його живим і сказав припинити ці дослідження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part8/DIA_KDW_215_Notger.d.json</prop>
+      <prop type="id">DIA_Notger_Q601_WhatHappend_Fight_15_01_0</prop>
+      <tuv lang="pl">
+        <seg>'Zgasić ducha walki' może odnosić się do lodu wydobywającego się z ostrza.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T163041Z" creationid="Glіban" creationdate="20260914T163041Z">
+        <seg>Слова 'гасити бойовий запал' можуть стосуватися льоду, що виходить з клинка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Part9/DIA_NONE_1007_Liam.d.json</prop>
+      <prop type="id">DIA_Liam_SQ213Vine_15_07_0</prop>
+      <tuv lang="pl">
+        <seg>Ile za nie chcesz?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T163138Z" creationid="Glіban" creationdate="20260914T163138Z">
+        <seg>Скільки ти за нього хочеш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Ship/DIA_NONE_7_Rupert.d.json</prop>
+      <prop type="id">DIA_Rupert_Q101_WaitASec_No_15_01_0</prop>
+      <tuv lang="pl">
+        <seg>Niestety nie.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T163527Z" creationid="Glіban" creationdate="20260914T163527Z">
+        <seg>На жаль, немає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Village/DIA_BAU_13655_Farmer.d.json</prop>
+      <prop type="id">DIA_13655_Farmer_Pumpkin_Why_15_01_0</prop>
+      <tuv lang="pl">
+        <seg>Dlaczego pytacie o takie głupoty?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T163849Z" creationid="Glіban" creationdate="20260914T163743Z">
+        <seg>Навіщо ви питаєте такі дурниці?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Village/DIA_BAU_13656_Farmer.d.json</prop>
+      <prop type="id">DIA_13656_Farmer_Pumpkin_Why_03_02_0</prop>
+      <tuv lang="pl">
+        <seg>A dlaczego nie?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T164009Z" creationid="Glіban" creationdate="20260914T164009Z">
+        <seg>А чому б і ні?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Village/DIA_BAU_705_Gabrien.d.json</prop>
+      <prop type="id">DIA_Gabrien_lesson_03_03_0</prop>
+      <tuv lang="pl">
+        <seg>Jeszcze masz wątpliwości?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T164244Z" creationid="Glіban" creationdate="20260914T164244Z">
+        <seg>Ти справді не розумієш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Village/DIA_BAU_728_Otho.d.json</prop>
+      <prop type="id">DIA_Oth_MyJobIsDone_15_07_0</prop>
+      <tuv lang="pl">
+        <seg>Co takiego?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T163145Z" creationid="Glіban" creationdate="20260913T163145Z">
+        <seg>Що зробити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Volfzacke/DIA_BAU_6323_Stone_VZ.d.json</prop>
+      <prop type="id">DIA_Stone_VZ_Q514_Make_OldArmor_03_06_0</prop>
+      <tuv lang="pl">
+        <seg>To jak, zainteresowany?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T164516Z" creationid="Glіban" creationdate="20260914T164516Z">
+        <seg>То як, спробуємо?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Dialoge/Volfzacke/DIA_KDW_203_Riordian_VZ.d.json</prop>
+      <prop type="id">DIA_Riordian_Q514_Finally_Yes_Choice_0</prop>
+      <tuv lang="pl">
+        <seg>Nie tylko legendy o śmierci i cierpieniu były prawdziwe. Odnalazłem Rozjemcę.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T164902Z" creationid="Glіban" creationdate="20260914T164902Z">
+        <seg>Не тільки легенди про смерть були правдивими. Я знайшов Миротворця.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">ArmorName_ENDGAME_0</prop>
+      <tuv lang="pl">
+        <seg>Zbroja z Vardhal</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T165603Z" creationid="Glіban" creationdate="20260914T165603Z">
+        <seg>Обладунок з Вардхалу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">FoodName_Pfeffer_Desc2_0</prop>
+      <tuv lang="pl">
+        <seg>Przydatna do gotowania, wystarczy na wiele potraw.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T165449Z" creationid="Glіban" creationdate="20260913T165449Z">
+        <seg>Незамінний в кулінарії, вистачить на багато страв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">ItemName_ITWR_MarvinLetter_0</prop>
+      <tuv lang="pl">
+        <seg>Liścik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T165812Z" creationid="Glіban" creationdate="20260914T165812Z">
+        <seg>Листівка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">ItemName_ItWr_Map_City_Markers_0</prop>
+      <tuv lang="pl">
+        <seg>Mapa miasta Archolos</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T171041Z" creationid="Glіban" creationdate="20260913T171041Z">
+        <seg>Мапа міста Архолос з позначками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">ItemName_ItWr_Map_Silbach_Markers_0</prop>
+      <tuv lang="pl">
+        <seg>Mapa wioski Silbach</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T171242Z" creationid="Glіban" creationdate="20260913T171242Z">
+        <seg>Мапа села Сільбах з позначками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">MOBNAME_PAINT_0</prop>
+      <tuv lang="pl">
+        <seg>Obraz</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T164941Z" creationid="Glіban" creationdate="20260914T164941Z">
+        <seg>Картина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">MiscDesc_GoldPlate_2_0</prop>
+      <tuv lang="pl">
+        <seg>Powinien być trochę warty.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T091316Z" creationid="Glіban" creationdate="20260913T091316Z">
+        <seg>Вона повинна чимало коштувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">MiscDesc_SilverPlate_2_0</prop>
+      <tuv lang="pl">
+        <seg>Powinien być trochę warty.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T091335Z" creationid="Glіban" creationdate="20260913T091335Z">
+        <seg>Вона повинна чимало коштувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
+      <prop type="id">NAME_Wisp_0</prop>
+      <tuv lang="pl">
+        <seg>Ognik</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260913T170804Z" creationid="Glіban" creationdate="20260913T170804Z">
+        <seg>Примарний вогник</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Scripts/Content/Story/Mod_Text.d.json</prop>
       <prop type="id">tu1953_0</prop>
       <tuv lang="pl">
@@ -365044,12 +365412,122 @@ first floor - другий поверх</note>
     </tu>
     <tu>
       <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">Pickpocket_100_Female_0</prop>
+      <tuv lang="pl">
+        <seg>(Kradzież tego mieszka będzie diabelsko trudna.)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170045Z" creationid="Glіban" creationdate="20260914T170045Z">
+        <seg>(Поцупити її гаманець буде до біса важко)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">Pickpocket_120_Female_0</prop>
+      <tuv lang="pl">
+        <seg>(Kradzież tego mieszka będzie graniczyła z cudem.)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170049Z" creationid="Glіban" creationdate="20260914T170049Z">
+        <seg>(Поцупити її гаманець буде майже неможливо)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">Pickpocket_20_Female_0</prop>
+      <tuv lang="pl">
+        <seg>(Kradzież tego mieszka będzie dziecinnie łatwa.)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170022Z" creationid="Glіban" creationdate="20260914T170022Z">
+        <seg>(Поцупити її гаманець буде простіше простого)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">Pickpocket_40_Female_0</prop>
+      <tuv lang="pl">
+        <seg>(Kradzież tego mieszka będzie dość prosta.)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170030Z" creationid="Glіban" creationdate="20260914T170030Z">
+        <seg>(Поцупити її гаманець буде досить просто)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">Pickpocket_60_Female_0</prop>
+      <tuv lang="pl">
+        <seg>(Kradzież tego mieszka będzie dość ryzykowna.)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170036Z" creationid="Glіban" creationdate="20260914T170036Z">
+        <seg>(Поцупити її гаманець буде досить ризиковано)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">Pickpocket_80_Female_0</prop>
+      <tuv lang="pl">
+        <seg>(Kradzież tego mieszka będzie trudna.)</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170041Z" creationid="Glіban" creationdate="20260914T170041Z">
+        <seg>(Поцупити її гаманець буде досить важко)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">TXT_GUILDS_3_0</prop>
+      <tuv lang="pl">
+        <seg>Obywatel</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T155923Z" creationid="Glіban" creationdate="20260914T155923Z">
+        <seg>Громадянин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">TXT_TALENTS_19_0</prop>
+      <tuv lang="pl">
+        <seg>Łuczarstwo</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T165942Z" creationid="Glіban" creationdate="20260914T165942Z">
+        <seg>Виготов. луків</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
+      <prop type="id">TXT_TALENTS_8_0</prop>
+      <tuv lang="pl">
+        <seg>Skradanie się</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T165858Z" creationid="Glіban" creationdate="20260914T165858Z">
+        <seg>Скрадання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/Content/Story/Text.d.json</prop>
       <prop type="id">tu29_0</prop>
       <tuv lang="pl">
         <seg>Obywatel</seg>
       </tuv>
       <tuv lang="uk" changeid="Glіban" changedate="20240422T134637Z" creationid="Glіban" creationdate="20240422T134637Z">
         <seg>Громадянин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/System/Menu/Menu_Text.json</prop>
+      <prop type="id">MENU_TEXT_MAINMENU_NEWGAME_CONFIRM_0</prop>
+      <tuv lang="pl">
+        <seg>Jesteś pewien?</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170257Z" creationid="Glіban" creationdate="20260914T170257Z">
+        <seg>Ви впевнені?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Scripts/System/Menu/Menu_Text.json</prop>
+      <prop type="id">MENU_TEXT_STATUS_ARMOR_4_0</prop>
+      <tuv lang="pl">
+        <seg>Magia</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Glіban" changedate="20260914T170159Z" creationid="Glіban" creationdate="20260914T170159Z">
+        <seg>від магії</seg>
       </tuv>
     </tu>
     <tu>
